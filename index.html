@@ -1,62 +1,33 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="A living map of the companies, technologies, and forces shaping the AI frontier." />
-  <title>AI Frontier — Map the edge of intelligence</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css" />
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A browsable directory of companies, capital, research and signals across the AI frontier.">
+  <title>AI Frontier — Company tracker</title><link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div class="grain"></div>
-  <header class="topbar">
-    <a class="brand" href="#top"><span class="brand-mark">✦</span><span>AI <em>Frontier</em></span></a>
-    <nav><a href="#map">The map</a><a href="#signals">Signals</a><a href="#about">Method</a></nav>
-    <button class="ghost-button" id="subscribeBtn">Get frontier signals <span>↗</span></button>
-  </header>
-
-  <main id="top">
-    <section class="hero">
-      <div class="hero-copy">
-        <p class="eyebrow"><span class="pulse"></span> A field guide to the AI economy</p>
-        <h1>See where<br><span>intelligence</span><br>is going.</h1>
-        <p class="lede">A living map of the companies, technologies, capital and research pushing the frontier of AI — from silicon to software to agents.</p>
-        <div class="hero-actions"><a class="primary-button" href="#map">Explore the map <span>↓</span></a><a class="text-button" href="#method">How this works <span>→</span></a></div>
-      </div>
-      <div class="hero-orbit" aria-hidden="true">
-        <div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="orbit orbit-three"></div>
-        <div class="core"><span>AI</span><small>FRONTIER</small></div>
-        <span class="orbit-node node-a">models</span><span class="orbit-node node-b">compute</span><span class="orbit-node node-c">agents</span><span class="orbit-node node-d">science</span>
-      </div>
-    </section>
-
-    <section class="signal-strip" id="signals">
-      <div><small>TRACKED COMPANIES</small><strong>1,284</strong></div><div><small>FRONTIER CATEGORIES</small><strong>18</strong></div><div><small>CAPITAL TRACKED</small><strong>$186B</strong></div><div><small>LAST SIGNAL</small><strong>12 min ago</strong></div>
-    </section>
-
-    <section class="map-section" id="map">
-      <div class="section-heading"><div><p class="eyebrow">01 / The map</p><h2>Pick a layer.<br><i>Follow the edge.</i></h2></div><p class="section-note">Explore the AI stack by sector. Each card is a starting point — a curated signal, not a final verdict.</p></div>
-      <div class="toolbar"><div class="search-wrap"><span>⌕</span><input id="search" type="search" placeholder="Search companies, sectors, technologies…" /></div><div class="filter-buttons" id="filters"><button class="active" data-filter="all">All layers</button><button data-filter="foundation">Foundation</button><button data-filter="infrastructure">Infrastructure</button><button data-filter="applications">Applications</button><button data-filter="frontier">Frontier bets</button></div></div>
-      <div class="category-grid" id="categoryGrid"></div>
-      <p class="empty-state" id="emptyState">No signals match that search. Try a company, category, or technology.</p>
-    </section>
-
-    <section class="spotlight">
-      <div class="section-heading"><div><p class="eyebrow">02 / Today’s watchlist</p><h2>Signals worth<br><i>following now.</i></h2></div><p class="section-note">A few of the companies at the intersection of technical momentum, capital and open questions.</p></div>
-      <div class="company-grid" id="companyGrid"></div>
-    </section>
-
-    <section class="method" id="about">
-      <div><p class="eyebrow">03 / Our method</p><h2>Not a leaderboard.<br><i>A lens.</i></h2></div>
-      <div class="method-copy"><p>AI Frontier connects companies to the layer they operate in, the problems they attack, and the signals that show movement: funding, research, releases, talent, customers and policy.</p><p class="mono">Every entry should answer one question: <b>what is changing here, and why does it matter?</b></p><a class="text-button" id="contributeBtn" href="#">Suggest a company <span>→</span></a></div>
-    </section>
-  </main>
-
-  <footer><div class="brand"><span class="brand-mark">✦</span><span>AI <em>Frontier</em></span></div><p>Built for curious builders. Updated with intent.</p><span class="mono">v0.1 / static prototype</span></footer>
-  <dialog id="subscribeDialog"><button class="close" id="closeDialog">×</button><p class="eyebrow">FRONTIER SIGNALS</p><h3>Stay close to the edge.</h3><p>Weekly signals, new companies and shifts in the map. No noise.</p><form id="subscribeForm"><input type="email" placeholder="you@example.com" required><button class="primary-button" type="submit">Join the list <span>→</span></button></form><small id="formMessage"></small></dialog>
+  <header class="site-header"><a class="wordmark" href=".">AI <span>Frontier</span></a><span class="header-note">Company intelligence for the AI frontier</span><nav><a class="active" href="#companies">Companies</a><a href="#taxonomy">Taxonomy</a><a href="#method">Method</a></nav></header>
+  <div class="layout">
+    <aside class="sidebar" id="taxonomy">
+      <div class="side-heading"><span>Browse taxonomy</span><span class="count">18 sectors</span></div>
+      <button class="sector active" data-sector="all"><span>All companies</span><b>24</b></button>
+      <div class="side-label">Foundation &amp; research</div>
+      <button class="sector" data-sector="Frontier labs"><span>Frontier labs</span><b>5</b></button><button class="sector" data-sector="Foundation models"><span>Foundation models</span><b>4</b></button><button class="sector" data-sector="Open source"><span>Open source</span><b>3</b></button><button class="sector" data-sector="AI research"><span>AI research</span><b>2</b></button>
+      <div class="side-label">Infrastructure</div>
+      <button class="sector" data-sector="Compute &amp; silicon"><span>Compute &amp; silicon</span><b>3</b></button><button class="sector" data-sector="Data &amp; retrieval"><span>Data &amp; retrieval</span><b>2</b></button><button class="sector" data-sector="Observability &amp; evals"><span>Observability &amp; evals</span><b>2</b></button>
+      <div class="side-label">Applications</div>
+      <button class="sector" data-sector="Agents &amp; coding"><span>Agents &amp; coding</span><b>2</b></button><button class="sector" data-sector="Robotics &amp; embodied AI"><span>Robotics &amp; embodied AI</span><b>1</b></button><button class="sector" data-sector="AI for India"><span>AI for India</span><b>2</b></button>
+      <div class="sidebar-footer"><span class="status-dot"></span> Seed dataset · manually curated<br><small>Last reviewed 26 Sep 2026</small></div>
+    </aside>
+    <main id="companies">
+      <div class="page-intro"><div><p class="kicker">AI FRONTIER / DIRECTORY</p><h1>Companies shaping<br>the next layer of AI.</h1></div><p class="intro-copy">Browse the stack by sector. Open a company to see who founded it, who funded it, what it is building, and why it matters.</p></div>
+      <section class="controls" aria-label="Directory controls"><label class="search"><span>⌕</span><input id="search" type="search" placeholder="Search company, founder, investor…"></label><label class="select-label">Region <select id="region"><option value="all">All regions</option><option>USA</option><option>Europe</option><option>China</option><option>India</option></select></label><label class="select-label">Sort <select id="sort"><option value="signal">Signal strength</option><option value="funding">Funding</option><option value="founded">Founded</option><option value="name">Name</option></select></label><span class="result-count" id="resultCount"></span></section>
+      <div class="table-wrap"><table><thead><tr><th>Company</th><th>Sector</th><th>Founded</th><th>Reported funding</th><th>Latest round</th><th>Key backers</th><th>Signal</th></tr></thead><tbody id="companyRows"></tbody></table><p class="no-results" id="noResults">No companies match these filters.</p></div>
+      <section class="method" id="method"><div><p class="kicker">HOW TO READ THIS</p><h2>Evidence before<br>opinions.</h2></div><div><p>Every company record is designed to become a small research file: founding team, capital history, product, research output, hiring, customers, and primary sources.</p><p class="muted">This first version is a static seed dataset. The next version can replace these records with verified events and source timestamps without changing the browsing experience.</p></div></section>
+    </main>
+    <aside class="detail-panel" id="detailPanel" aria-live="polite"></aside>
+  </div>
+  <footer><span>AI Frontier</span><span>Static prototype · GitHub Pages ready</span><a href="https://github.com" target="_blank" rel="noreferrer">Suggest an update ↗</a></footer>
   <script src="script.js"></script>
 </body>
 </html>
