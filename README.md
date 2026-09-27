@@ -19,9 +19,9 @@ Push this repository to GitHub, then choose **Settings → Pages → Deploy from
 ## Pages
 
 - `index.html` — company directory with search, filters, and a persistent company detail pane.
-- `taxonomy.html` — the full taxonomy map: 10 domains and 80 subdomains.
-- `companies.json` — 61 seed records across 12 domains; this is the editable research dataset, separate from the UI.
+- `taxonomy.html` — the full taxonomy map: 10 broad domains and 80 subdomains.
+- `companies.json` — 61 seed records across 12 tracked directory domains; this is the editable research dataset, separate from the UI.
 
 ## Next step
 
-The company and category data currently lives in `script.js` so the prototype is easy to edit. A future version can move the data to JSON and add an ingestion service without changing the front-end.
+The seed company data lives in `companies.json`, while the taxonomy and rendering logic live in `script.js`. The next version can add source URLs, dated events, and an ingestion service without changing the browsing experience.
