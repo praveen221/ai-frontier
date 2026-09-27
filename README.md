@@ -20,6 +20,7 @@ Push this repository to GitHub, then choose **Settings → Pages → Deploy from
 
 - `index.html` — company directory with search, filters, and a persistent company detail pane.
 - `taxonomy.html` — the full taxonomy map: 10 domains and 80 subdomains.
+- `companies.json` — 61 seed records across 12 domains; this is the editable research dataset, separate from the UI.
 
 ## Next step
 
