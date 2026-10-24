@@ -394,7 +394,7 @@
       "updatedAt": "2026-10-24",
       "funding": {
         "total": null,
-        "stage": "Public company",
+        "stage": "Public (NYSE: LAW)",
         "investors": []
       },
       "tags": [
@@ -410,6 +410,13 @@
           "founded",
           "headquarters"
         ]
+      },
+      "revenue": {
+        "amount": "$156.8M",
+        "period": "FY2025 ended December 31, 2025",
+        "source": "https://www.sec.gov/Archives/edgar/data/1625641/000162564126000043/q4fy2025earningsrelease.htm",
+        "date": "2026-02-25",
+        "notes": "Company earnings exhibit: total revenue $156.8 million"
       }
     },
     {
@@ -812,20 +819,29 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$142M",
+        "stage": "Joined Biohub",
+        "investors": [
+          "Nat Friedman",
+          "Daniel Gross",
+          "Lux Capital",
+          "Amazon",
+          "NVentures"
+        ],
+        "source": "https://www.reuters.com/technology/evolutionaryscale-lands-142-mln-advance-ai-biology-2024-06-25/",
+        "date": "2024-06-25"
       },
       "tags": [
         "biology",
         "foundation model"
       ],
       "identitySource": {
-        "source": "https://www.evolutionaryscale.ai",
-        "date": "2026-10-24",
+        "source": "https://biohub.org/news/ai-biology-cure-disease/",
+        "date": "2025-11-06",
         "fields": [
           "founders",
-          "founded"
+          "founded",
+          "headquarters"
         ]
       }
     },
@@ -922,20 +938,29 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$243M",
+        "stage": "Series C",
+        "investors": [
+          "Oak HC/FT",
+          "Andreessen Horowitz",
+          "OpenAI Startup Fund",
+          "Kleiner Perkins",
+          "Optum Ventures"
+        ],
+        "source": "https://www.ambiencehealthcare.com/blog/ambience-healthcare-announces-243-million-series-c-to-scale-its-ai-platform-for-health-systems",
+        "date": "2025-07-29"
       },
       "tags": [
         "health",
         "scribe"
       ],
       "identitySource": {
-        "source": "https://www.ambiencehealthcare.com",
-        "date": "2026-10-24",
+        "source": "https://www.ambiencehealthcare.com/blog/ambience-healthcare-announces-243-million-series-c-to-scale-its-ai-platform-for-health-systems",
+        "date": "2025-07-29",
         "fields": [
           "founders",
-          "founded"
+          "founded",
+          "headquarters"
         ]
       }
     },
@@ -999,21 +1024,37 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$404M",
+        "stage": "Series C",
+        "investors": [
+          "Avenir Growth",
+          "CapitalG",
+          "General Catalyst",
+          "Andreessen Horowitz",
+          "Kleiner Perkins",
+          "Premji Invest"
+        ],
+        "source": "https://hippocraticai.com/hippocratic-ai-announces-series-c-funding-126-million/",
+        "date": "2025-11-03"
       },
       "tags": [
         "health",
         "LLM"
       ],
       "identitySource": {
-        "source": "https://www.hippocraticai.com",
-        "date": "2026-10-24",
+        "source": "https://hippocraticai.com/hippocratic-ai-announces-series-c-funding-126-million/",
+        "date": "2025-11-03",
         "fields": [
           "founders",
-          "founded"
+          "founded",
+          "headquarters"
         ]
+      },
+      "valuation": {
+        "amount": "$3.5B",
+        "date": "2025-11-03",
+        "source": "https://hippocraticai.com/hippocratic-ai-announces-series-c-funding-126-million/",
+        "notes": "Company-stated Series C valuation"
       }
     },
     {
@@ -1245,7 +1286,7 @@
       "updatedAt": "2026-10-24",
       "funding": {
         "total": null,
-        "stage": "Public company",
+        "stage": "Public (NASDAQ: ABSI)",
         "investors": []
       },
       "tags": [
@@ -1261,6 +1302,13 @@
           "founded",
           "headquarters"
         ]
+      },
+      "revenue": {
+        "amount": "$2.8M",
+        "period": "FY2025 ended December 31, 2025",
+        "source": "https://investors.absci.com/news-releases/news-release-details/absci-reports-business-updates-and-fourth-quarter-and-full-1",
+        "date": "2026-03-24",
+        "notes": "Company-stated full-year revenue"
       }
     },
     {
@@ -1709,22 +1757,31 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "~$600M",
+        "stage": "Series F",
+        "investors": [
+          "Wellington Management"
+        ],
+        "source": "https://www.globenewswire.com/news-release/2022/12/13/2572812/0/en/Dataiku-Announces-200-Million-Investment-Led-by-Wellington-Management.html",
+        "date": "2022-12-13"
       },
       "tags": [
         "enterprise",
         "Europe"
       ],
       "identitySource": {
-        "source": "https://www.dataiku.com",
-        "date": "2026-10-24",
+        "source": "https://www.dataiku.com/blog/the-dataiku-story",
+        "date": "2022-12-13",
         "fields": [
           "founders",
-          "founded",
-          "headquarters"
+          "founded"
         ]
+      },
+      "valuation": {
+        "amount": "$3.7B",
+        "date": "2022-12-13",
+        "source": "https://www.globenewswire.com/news-release/2022/12/13/2572812/0/en/Dataiku-Announces-200-Million-Investment-Led-by-Wellington-Management.html",
+        "notes": "Company-stated Series F valuation"
       }
     },
     {
@@ -1749,7 +1806,7 @@
       "updatedAt": "2026-10-24",
       "funding": {
         "total": null,
-        "stage": "Public company",
+        "stage": "Public (NYSE: AI)",
         "investors": []
       },
       "tags": [
@@ -1765,6 +1822,13 @@
           "founded",
           "headquarters"
         ]
+      },
+      "revenue": {
+        "amount": "$250.3M",
+        "period": "FY2026 ended April 30, 2026",
+        "source": "https://ir.c3.ai/news-releases/news-release-details/c3-ai-announces-fiscal-fourth-quarter-and-full-fiscal-year-2026",
+        "date": "2026-06-03",
+        "notes": "Company-stated total revenue"
       }
     },
     {
@@ -2140,7 +2204,7 @@
       "updatedAt": "2026-10-24",
       "funding": {
         "total": null,
-        "stage": "Public company",
+        "stage": "Public (NYSE: COUR)",
         "investors": []
       },
       "tags": [
@@ -2154,6 +2218,13 @@
           "founders",
           "founded"
         ]
+      },
+      "revenue": {
+        "amount": "$757.5M",
+        "period": "FY2025 ended December 31, 2025",
+        "source": "https://investor.coursera.com/news/news-details/2026/Coursera-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx",
+        "date": "2026-02-05",
+        "notes": "Company-stated full-year revenue"
       }
     },
     {

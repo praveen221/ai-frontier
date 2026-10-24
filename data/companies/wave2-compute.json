@@ -614,17 +614,36 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
+        "total": "$380M",
+        "stage": "Acquired by Qualcomm",
         "investors": [
+          "US Innovative Technology",
+          "DFJ Growth",
+          "GV",
           "General Catalyst",
-          "GV"
-        ]
+          "Greylock"
+        ],
+        "source": "https://www.modular.com/blog/modular-raises-250m-to-scale-ais-unified-compute-layer",
+        "date": "2025-09-24"
       },
       "tags": [
         "Mojo",
         "compiler"
-      ]
+      ],
+      "valuation": {
+        "amount": "$1.6B",
+        "date": "2025-09-24",
+        "source": "https://www.modular.com/blog/modular-raises-250m-to-scale-ais-unified-compute-layer",
+        "notes": "Company-stated valuation on $250M third financing; later acquired by Qualcomm"
+      },
+      "identitySource": {
+        "source": "https://www.modular.com/blog/modular-raises-250m-to-scale-ais-unified-compute-layer",
+        "date": "2025-09-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
     },
     {
       "id": "ggml",

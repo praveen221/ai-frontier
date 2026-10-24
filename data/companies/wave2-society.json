@@ -301,13 +301,32 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$110M",
+        "stage": "Series F",
+        "investors": [
+          "existing investors"
+        ],
+        "source": "https://www.skydio.com/blog/skydio-series-f",
+        "date": "2026-04-23"
       },
       "tags": [
         "drones"
-      ]
+      ],
+      "valuation": {
+        "amount": "$4.4B",
+        "date": "2026-04-23",
+        "source": "https://www.skydio.com/blog/skydio-series-f",
+        "notes": "Company-stated Series F valuation"
+      },
+      "identitySource": {
+        "source": "https://www.skydio.com/blog/skydio-series-f",
+        "date": "2026-04-23",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "mobileye",
@@ -332,14 +351,23 @@
       "updatedAt": "2026-10-24",
       "funding": {
         "total": null,
-        "stage": "Public company",
-        "investors": []
+        "stage": "Public (NASDAQ: MBLY)",
+        "investors": [
+          "Intel"
+        ]
       },
       "tags": [
         "AV",
         "Israel",
         "public"
-      ]
+      ],
+      "revenue": {
+        "amount": "$1.894B",
+        "period": "FY2025 ended December 27, 2025",
+        "source": "https://ir.mobileye.com/news-releases/news-release-details/mobileye-releases-fourth-quarter-and-full-year-2025-results-and",
+        "date": "2026-01-22",
+        "notes": "Standalone Mobileye revenue, not Intel parent"
+      }
     },
     {
       "id": "zoox",
@@ -394,14 +422,21 @@
       "updatedAt": "2026-10-24",
       "funding": {
         "total": null,
-        "stage": "Public company",
+        "stage": "Public (NASDAQ: PONY)",
         "investors": []
       },
       "tags": [
         "China",
         "robotaxi",
         "public"
-      ]
+      ],
+      "revenue": {
+        "amount": "$90.0M",
+        "period": "FY2025 ended December 31, 2025",
+        "source": "https://ir.pony.ai/news-releases/news-release-details/pony-ai-inc-scales-160-robotaxi-revenues-growth-yoy-and-500-fare",
+        "date": "2026-03-26",
+        "notes": "Company-stated US$90.0 million (RMB629.4 million)"
+      }
     },
     {
       "id": "nuro",
@@ -425,13 +460,42 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$2.3B+",
+        "stage": "Series E",
+        "investors": [
+          "Uber",
+          "Baillie Gifford",
+          "Icehouse Ventures",
+          "Kindred Ventures",
+          "NVIDIA",
+          "Pledge Ventures",
+          "T. Rowe Price Associates",
+          "Fidelity Management & Research",
+          "Tiger Global",
+          "Greylock Partners",
+          "XN"
+        ],
+        "source": "https://www.businesswire.com/news/home/20250821665495/en/Nuro-Closes-%24203-Million-Series-E-Financing-to-Advance-Its-AI-First-Self-Driving-Technology-and-Commercial-Partnerships",
+        "date": "2025-08-21"
       },
       "tags": [
         "delivery"
-      ]
+      ],
+      "valuation": {
+        "amount": "$6B",
+        "date": "2025-08-21",
+        "source": "https://www.businesswire.com/news/home/20250821665495/en/Nuro-Closes-%24203-Million-Series-E-Financing-to-Advance-Its-AI-First-Self-Driving-Technology-and-Commercial-Partnerships",
+        "notes": "Company-stated Series E valuation"
+      },
+      "identitySource": {
+        "source": "https://www.nuro.ai/company",
+        "date": "2025-08-21",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "covariant",
@@ -458,14 +522,30 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$222M",
+        "stage": "Series C",
+        "investors": [
+          "Radical Ventures",
+          "Index Ventures",
+          "CPP Investments",
+          "Amplify Partners"
+        ],
+        "source": "https://www.businesswire.com/news/home/20230404005494/en/Covariant-Adds-%2475M-in-Series-C-Funds-to-Meet-Customer-Demand-for-Scaled-AI-Robotics-Deployments",
+        "date": "2023-04-04"
       },
       "tags": [
         "warehouse",
         "manipulation"
-      ]
+      ],
+      "identitySource": {
+        "source": "https://www.businesswire.com/news/home/20230404005494/en/Covariant-Adds-%2475M-in-Series-C-Funds-to-Meet-Customer-Demand-for-Scaled-AI-Robotics-Deployments",
+        "date": "2023-04-04",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "agility",
@@ -490,16 +570,34 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
+        "total": "$150M",
+        "stage": "Series B",
         "investors": [
-          "Amazon"
-        ]
+          "DCVC",
+          "Playground Global",
+          "Amazon Industrial Innovation Fund"
+        ],
+        "source": "https://www.agilityrobotics.com/content/agility-robotics-raises-150m-series-b-led-by-dcvc-and-playground-global",
+        "date": "2022-04-22"
       },
       "tags": [
         "humanoid",
         "warehouse"
-      ]
+      ],
+      "valuation": {
+        "amount": "$2.5B",
+        "date": "2026-06-24",
+        "source": "https://www.agilityrobotics.com/content/agility-robotics-to-go-public-through-merger-with-churchill-capital-corp-xi",
+        "notes": "Proposed pre-money equity value for Churchill XI SPAC combination; not yet closed"
+      },
+      "identitySource": {
+        "source": "https://www.agilityrobotics.com/content/agility-robotics-raises-150m-series-b-led-by-dcvc-and-playground-global",
+        "date": "2022-04-22",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
     },
     {
       "id": "snorkel",
@@ -525,13 +623,50 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$350M",
+        "stage": "Series E",
+        "investors": [
+          "Insight",
+          "S32",
+          "Third Point",
+          "March",
+          "Blumberg",
+          "Allegis",
+          "Standard VC",
+          "Frontline",
+          "Addition",
+          "Lightspeed",
+          "Greylock",
+          "GV"
+        ],
+        "source": "https://snorkel.ai/blog/data-2-0-and-the-research-era-of-ai-data/",
+        "date": "2026-09-22"
       },
       "tags": [
         "labeling"
-      ]
+      ],
+      "valuation": {
+        "amount": "$3.5B",
+        "date": "2026-09-22",
+        "source": "https://snorkel.ai/blog/data-2-0-and-the-research-era-of-ai-data/",
+        "notes": "Company-stated Series E valuation"
+      },
+      "revenue": {
+        "amount": "$375M ARR",
+        "period": "week of 2026-09-22",
+        "source": "https://snorkel.ai/blog/data-2-0-and-the-research-era-of-ai-data/",
+        "date": "2026-09-22",
+        "notes": "Company-stated annualized revenue run rate"
+      },
+      "identitySource": {
+        "source": "https://snorkel.ai/blog/data-2-0-and-the-research-era-of-ai-data/",
+        "date": "2026-09-22",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "encord",

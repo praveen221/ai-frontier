@@ -137,10 +137,15 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$225M",
+        "stage": "Series E",
+        "investors": ["Khazanah Nasional Berhad", "WestBridge Capital", "Sozo Ventures"],
+        "source": "https://www.businesswire.com/news/home/20250306942806/en/Turing-Gears-Up-to-Power-Next-Wave-of-AGI-with-%24111-Million-in-Series-E",
+        "date": "2025-03-06"
       },
+      "valuation": { "amount": "$2.2B", "date": "2025-03-06", "source": "https://www.businesswire.com/news/home/20250306942806/en/Turing-Gears-Up-to-Power-Next-Wave-of-AGI-with-%24111-Million-in-Series-E", "notes": "Company-stated Series E valuation" },
+      "revenue": { "amount": "$167M ARR", "period": "at Series E pricing", "source": "https://www.businesswire.com/news/home/20250306942806/en/Turing-Gears-Up-to-Power-Next-Wave-of-AGI-with-%24111-Million-in-Series-E", "date": "2025-03-06", "notes": "Company-stated ARR when Series E was priced" },
+      "identitySource": { "source": "https://www.businesswire.com/news/home/20250306942806/en/Turing-Gears-Up-to-Power-Next-Wave-of-AGI-with-%24111-Million-in-Series-E", "date": "2025-03-06", "fields": ["founders", "founded", "headquarters"] },
       "tags": ["labeling", "engineering data"]
     },
     {
@@ -158,10 +163,14 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": ["Felicity Ventures"]
+        "total": "$350M",
+        "stage": "Series C",
+        "investors": ["Felicis", "Benchmark", "General Catalyst", "Robinhood Ventures"],
+        "source": "https://www.mercor.com/blog/series-c/",
+        "date": "2025-10-27"
       },
+      "valuation": { "amount": "$10B", "date": "2025-10-27", "source": "https://www.mercor.com/blog/series-c/", "notes": "Company-stated Series C valuation" },
+      "identitySource": { "source": "https://www.mercor.com/blog/series-c/", "date": "2025-10-27", "fields": ["founders", "founded", "headquarters"] },
       "tags": ["expert data", "evals"]
     }
   ]
