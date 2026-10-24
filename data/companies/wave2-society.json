@@ -181,14 +181,27 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$1.5B",
+        "stage": "Series G",
+        "investors": [
+          "Advent International",
+          "JPMorganChase",
+          "Snowpoint Ventures",
+          "Riot Ventures"
+        ],
+        "source": "https://shield.ai/shield-ai-to-acquire-software-simulation-company-aechelon-and-raise-2b-at-12-7b-valuation/",
+        "date": "2026-03-26"
       },
       "tags": [
         "defense",
         "drones"
-      ]
+      ],
+      "valuation": {
+        "amount": "$12.7B",
+        "date": "2026-03-26",
+        "source": "https://shield.ai/shield-ai-to-acquire-software-simulation-company-aechelon-and-raise-2b-at-12-7b-valuation/",
+        "notes": "Post-money at Series G"
+      }
     },
     {
       "id": "helsing",

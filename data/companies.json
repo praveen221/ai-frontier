@@ -1750,22 +1750,25 @@
       "headquarters": "Pittsburgh, PA, USA",
       "website": "https://www.skild.ai",
       "funding": {
-        "total": "$300M",
-        "stage": "Series A",
+        "total": "$1.4B",
+        "stage": "Series C",
         "investors": [
-          "Lightspeed Venture Partners",
           "SoftBank",
+          "NVentures",
+          "Macquarie Capital",
+          "Bezos Expeditions",
+          "Lightspeed Venture Partners",
           "Coatue",
-          "Amazon"
+          "Sequoia Capital"
         ],
-        "source": "https://techcrunch.com/2024/07/17/skild-ai-raises-300m/",
-        "date": "2024-07-17"
+        "source": "https://www.skild.ai/blogs/series-c",
+        "date": "2026-01-14"
       },
       "valuation": {
-        "amount": "$1.5B",
-        "date": "2024-07-17",
-        "source": "https://techcrunch.com/2024/07/17/skild-ai-raises-300m/",
-        "notes": "Post-money valuation"
+        "amount": ">$14B",
+        "date": "2026-01-14",
+        "source": "https://www.skild.ai/blogs/series-c",
+        "notes": "Valuation at Series C"
       },
       "tags": [
         "robotics",
@@ -1774,7 +1777,14 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "revenue": {
+        "amount": "$100M ARR",
+        "period": "September 2026",
+        "source": "https://www.skild.ai/blogs/skild-crosses-100m-arr",
+        "date": "2026-09-10",
+        "notes": "Company-stated ARR"
+      }
     },
     {
       "id": "langchain",
@@ -2096,13 +2106,18 @@
       "headquarters": "New York, NY, USA",
       "website": "https://modal.com",
       "funding": {
-        "total": "$16M",
-        "stage": "Series A",
+        "total": "$750M",
+        "stage": "Series D",
         "investors": [
-          "Redpoint Ventures"
+          "Accel",
+          "Kleiner Perkins",
+          "Menlo Ventures",
+          "General Catalyst",
+          "Redpoint",
+          "Lux Capital"
         ],
-        "source": "https://modal.com/blog/series-a",
-        "date": "2023-04-18"
+        "source": "https://modal.com/blog/1-billion-annualized-run-rate-series-d",
+        "date": "2026-10-14"
       },
       "tags": [
         "serverless",
@@ -2111,7 +2126,20 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "valuation": {
+        "amount": "$15.75B",
+        "date": "2026-10-14",
+        "source": "https://modal.com/blog/1-billion-annualized-run-rate-series-d",
+        "notes": "Post-money at Series D"
+      },
+      "revenue": {
+        "amount": "$1B run-rate",
+        "period": "October 2026",
+        "source": "https://modal.com/blog/1-billion-annualized-run-rate-series-d",
+        "date": "2026-10-14",
+        "notes": "Company-stated annualized run rate"
+      }
     },
     {
       "id": "weights-biases",
@@ -2646,15 +2674,14 @@
       "headquarters": "Sunnyvale, CA, USA / Norway",
       "website": "https://www.1x.tech",
       "funding": {
-        "total": "$125M",
+        "total": "$100M",
         "stage": "Series B",
         "investors": [
-          "OpenAI Startup Fund",
           "EQT Ventures",
-          "Tiger Global"
+          "Samsung NEXT"
         ],
-        "source": "https://techcrunch.com/2024/01/23/1x-raises-100m/",
-        "date": "2024-01-23"
+        "source": "https://www.1x.tech/discover/1x-secures-100m-in-series-b-funding",
+        "date": "2024-01-13"
       },
       "tags": [
         "humanoid",

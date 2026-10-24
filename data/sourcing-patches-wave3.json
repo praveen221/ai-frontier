@@ -1,0 +1,330 @@
+{
+  "companies": [
+    {
+      "id": "shield-ai",
+      "funding": {
+        "total": "$1.5B",
+        "stage": "Series G",
+        "investors": [
+          "Advent International",
+          "JPMorganChase",
+          "Snowpoint Ventures",
+          "Riot Ventures"
+        ],
+        "source": "https://shield.ai/shield-ai-to-acquire-software-simulation-company-aechelon-and-raise-2b-at-12-7b-valuation/",
+        "date": "2026-03-26"
+      },
+      "valuation": {
+        "amount": "$12.7B",
+        "date": "2026-03-26",
+        "source": "https://shield.ai/shield-ai-to-acquire-software-simulation-company-aechelon-and-raise-2b-at-12-7b-valuation/",
+        "notes": "Post-money at Series G"
+      }
+    },
+    {
+      "id": "wayve",
+      "funding": {
+        "total": "$1.2B",
+        "stage": "Series D",
+        "investors": [
+          "Eclipse",
+          "Balderton",
+          "SoftBank Vision Fund 2",
+          "Microsoft",
+          "NVIDIA",
+          "Uber"
+        ],
+        "source": "https://wayve.ai/press/series-d/",
+        "date": "2026-02-25"
+      },
+      "valuation": {
+        "amount": "$8.6B",
+        "date": "2026-02-25",
+        "source": "https://wayve.ai/press/series-d/",
+        "notes": "Post-money at Series D"
+      }
+    },
+    {
+      "id": "synthesia",
+      "funding": {
+        "total": "$200M",
+        "stage": "Series E",
+        "investors": [
+          "GV",
+          "Evantic",
+          "Hedosophia",
+          "NVentures",
+          "Accel",
+          "Kleiner Perkins",
+          "NEA"
+        ],
+        "source": "https://www.synthesia.io/post/series-e-200-million-4-billion-valuation-future-work",
+        "date": "2026-01-26"
+      },
+      "valuation": {
+        "amount": "$4B",
+        "date": "2026-01-26",
+        "source": "https://www.synthesia.io/post/series-e-200-million-4-billion-valuation-future-work",
+        "notes": "Valuation at Series E"
+      },
+      "revenue": {
+        "amount": ">$100M ARR",
+        "period": "April 2025",
+        "source": "https://www.synthesia.io/post/100-million-revenue-adobe-investment",
+        "date": "2025-04-15",
+        "notes": "Company-stated ARR milestone"
+      }
+    },
+    {
+      "id": "sierra",
+      "funding": {
+        "total": "$950M",
+        "stage": "Venture",
+        "investors": [
+          "Tiger Global",
+          "GV"
+        ],
+        "source": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+        "date": "2026-05-04"
+      },
+      "valuation": {
+        "amount": ">$15B",
+        "date": "2026-05-04",
+        "source": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+        "notes": "Valuation at May 2026 round"
+      },
+      "revenue": {
+        "amount": ">$150M ARR",
+        "period": "February 2026",
+        "source": "https://sierra.ai/blog/year-two-in-review",
+        "date": "2026-02-06",
+        "notes": "Company-stated ARR entering year three"
+      }
+    },
+    {
+      "id": "openevidence",
+      "funding": {
+        "total": "$210M",
+        "stage": "Series B",
+        "investors": [
+          "GV",
+          "Kleiner Perkins",
+          "Sequoia Capital",
+          "Coatue",
+          "Conviction",
+          "Thrive"
+        ],
+        "source": "https://www.openevidence.com/announcements/openevidence-the-fastest-growing-application-for-physicians-in-history-announces-dollar210-million-round-at-dollar35-billion-valuation",
+        "date": "2025-07-15"
+      },
+      "valuation": {
+        "amount": "$3.5B",
+        "date": "2025-07-15",
+        "source": "https://www.openevidence.com/announcements/openevidence-the-fastest-growing-application-for-physicians-in-history-announces-dollar210-million-round-at-dollar35-billion-valuation",
+        "notes": "Valuation at Series B"
+      }
+    },
+    {
+      "id": "skild-ai",
+      "funding": {
+        "total": "$1.4B",
+        "stage": "Series C",
+        "investors": [
+          "SoftBank",
+          "NVentures",
+          "Macquarie Capital",
+          "Bezos Expeditions",
+          "Lightspeed Venture Partners",
+          "Coatue",
+          "Sequoia Capital"
+        ],
+        "source": "https://www.skild.ai/blogs/series-c",
+        "date": "2026-01-14"
+      },
+      "valuation": {
+        "amount": ">$14B",
+        "date": "2026-01-14",
+        "source": "https://www.skild.ai/blogs/series-c",
+        "notes": "Valuation at Series C"
+      },
+      "revenue": {
+        "amount": "$100M ARR",
+        "period": "September 2026",
+        "source": "https://www.skild.ai/blogs/skild-crosses-100m-arr",
+        "date": "2026-09-10",
+        "notes": "Company-stated ARR"
+      }
+    },
+    {
+      "id": "applied-intuition",
+      "funding": {
+        "total": "$600M",
+        "stage": "Series F",
+        "investors": [
+          "BlackRock",
+          "Kleiner Perkins",
+          "Fidelity Management & Research Company",
+          "General Catalyst",
+          "Lux Capital"
+        ],
+        "source": "https://www.appliedintuition.com/press-releases/series-f",
+        "date": "2025-06-17"
+      },
+      "valuation": {
+        "amount": "$15B",
+        "date": "2025-06-17",
+        "source": "https://www.appliedintuition.com/press-releases/series-f",
+        "notes": "Valuation at Series F fundraise and tender"
+      }
+    },
+    {
+      "id": "luma-ai",
+      "funding": {
+        "total": "$900M",
+        "stage": "Series C",
+        "investors": [
+          "HUMAIN",
+          "AMD",
+          "Andreessen Horowitz",
+          "Omniva",
+          "Amplify Partners",
+          "Matrix Partners"
+        ],
+        "source": "https://lumalabs.ai/news/series-c",
+        "date": "2025-11-19"
+      }
+    },
+    {
+      "id": "abridge",
+      "funding": {
+        "total": "$300M",
+        "stage": "Series E",
+        "investors": [
+          "Andreessen Horowitz",
+          "Khosla Ventures"
+        ],
+        "source": "https://www.abridge.com/blog/series-e",
+        "date": "2025-06-23"
+      }
+    },
+    {
+      "id": "fal",
+      "funding": {
+        "total": "$140M",
+        "stage": "Series D",
+        "investors": [
+          "Sequoia Capital",
+          "Kleiner Perkins",
+          "NVIDIA"
+        ],
+        "source": "https://blog.fal.ai/our-series-d-scaling-fal/",
+        "date": "2025-12-09"
+      }
+    },
+    {
+      "id": "grammarly",
+      "funding": {
+        "total": "$1B",
+        "stage": "Growth",
+        "investors": [
+          "General Catalyst"
+        ],
+        "source": "https://www.grammarly.com/blog/company/grammarly-announces-growth-financing/",
+        "date": "2025-05-29"
+      },
+      "revenue": {
+        "amount": ">$700M",
+        "period": "2025",
+        "source": "https://www.grammarly.com/blog/company/grammarly-announces-growth-financing/",
+        "date": "2025-05-29",
+        "notes": "Company-stated annual revenue"
+      }
+    },
+    {
+      "id": "nebius",
+      "revenue": {
+        "amount": "$529.8M",
+        "period": "FY2025",
+        "source": "https://assets.nebius.com/assets/04f48f4e-48e9-468e-a428-ef16565c3fb5/Financial%20results_Q4%202025_11022026.pdf",
+        "date": "2026-02-12",
+        "notes": "GAAP group revenue $529.8 million"
+      }
+    },
+    {
+      "id": "modal",
+      "funding": {
+        "total": "$750M",
+        "stage": "Series D",
+        "investors": [
+          "Accel",
+          "Kleiner Perkins",
+          "Menlo Ventures",
+          "General Catalyst",
+          "Redpoint",
+          "Lux Capital"
+        ],
+        "source": "https://modal.com/blog/1-billion-annualized-run-rate-series-d",
+        "date": "2026-10-14"
+      },
+      "valuation": {
+        "amount": "$15.75B",
+        "date": "2026-10-14",
+        "source": "https://modal.com/blog/1-billion-annualized-run-rate-series-d",
+        "notes": "Post-money at Series D"
+      },
+      "revenue": {
+        "amount": "$1B run-rate",
+        "period": "October 2026",
+        "source": "https://modal.com/blog/1-billion-annualized-run-rate-series-d",
+        "date": "2026-10-14",
+        "notes": "Company-stated annualized run rate"
+      }
+    },
+    {
+      "id": "duolingo",
+      "revenue": {
+        "amount": "$1.038B",
+        "period": "FY2025",
+        "source": "https://investors.duolingo.com/static-files/4e5b1c62-7afd-4a48-b5bf-b91000fe12f2",
+        "date": "2026-02-26",
+        "notes": "GAAP revenue $1,037.6 million"
+      }
+    },
+    {
+      "id": "deepl",
+      "funding": {
+        "total": "$300M",
+        "stage": "Venture",
+        "investors": [
+          "Index Ventures",
+          "ICONIQ Growth",
+          "Teachers' Venture Growth",
+          "IVP",
+          "Atomico",
+          "WiL"
+        ],
+        "source": "https://www.deepl.com/en/press-release/deepl-announces-300-million-investment-at-2-billion-valuation-fueled-by-global-demand-for-ai-language-solutions",
+        "date": "2024-05-22"
+      },
+      "valuation": {
+        "amount": "$2B",
+        "date": "2024-05-22",
+        "source": "https://www.deepl.com/en/press-release/deepl-announces-300-million-investment-at-2-billion-valuation-fueled-by-global-demand-for-ai-language-solutions",
+        "notes": "Valuation at May 2024 round"
+      }
+    },
+    {
+      "id": "1x-technologies",
+      "funding": {
+        "total": "$100M",
+        "stage": "Series B",
+        "investors": [
+          "EQT Ventures",
+          "Samsung NEXT"
+        ],
+        "source": "https://www.1x.tech/discover/1x-secures-100m-in-series-b-funding",
+        "date": "2024-01-13"
+      }
+    }
+  ]
+}

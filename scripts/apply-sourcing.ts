@@ -6,7 +6,6 @@ import fs from 'node:fs';
 import path from 'node:path';
 import type { Company } from '../lib/schema';
 
-const PATCH_PATH = path.join(process.cwd(), 'data/sourcing-patches.json');
 const ROOT = path.join(process.cwd(), 'data');
 
 type Patch = Partial<Omit<Company, 'valuation' | 'revenue'>> & {
@@ -33,7 +32,19 @@ function companyFiles(): string[] {
   return files;
 }
 
-const patches = JSON.parse(fs.readFileSync(PATCH_PATH, 'utf8')) as { companies: Patch[] };
+function loadPatches(): Patch[] {
+  return fs
+    .readdirSync(ROOT)
+    .filter((name) => name.startsWith('sourcing-patches') && name.endsWith('.json'))
+    .sort()
+    .flatMap((name) => {
+      const raw = JSON.parse(fs.readFileSync(path.join(ROOT, name), 'utf8')) as { companies: Patch[] };
+      if (!Array.isArray(raw.companies)) throw new Error(`No companies array in ${name}`);
+      return raw.companies;
+    });
+}
+
+const patches = loadPatches();
 const files = companyFiles();
 const owners = new Map<string, { file: string; index: number }>();
 
@@ -47,7 +58,7 @@ for (const file of files) {
 const dirty = new Map<string, ReturnType<typeof readCompanies>>();
 let applied = 0;
 
-for (const patch of patches.companies) {
+for (const patch of patches) {
   const owner = owners.get(patch.id);
   if (!owner) throw new Error(`Unknown company id: ${patch.id}`);
   const loaded = dirty.get(owner.file) ?? readCompanies(owner.file);

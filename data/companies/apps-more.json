@@ -24,16 +24,18 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": "$70M",
-        "stage": "Series B",
+        "total": "$900M",
+        "stage": "Series C",
         "investors": [
+          "HUMAIN",
+          "AMD",
           "Andreessen Horowitz",
+          "Omniva",
           "Amplify Partners",
-          "Matrix Partners",
-          "NVIDIA"
+          "Matrix Partners"
         ],
-        "source": "https://lumalabs.ai/series-b",
-        "date": "2024-01-09"
+        "source": "https://lumalabs.ai/news/series-c",
+        "date": "2025-11-19"
       },
       "tags": [
         "video",
@@ -96,16 +98,14 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Series D",
+        "total": "$300M",
+        "stage": "Series E",
         "investors": [
-          "Elad Gil",
-          "IVP",
-          "Lightspeed Venture Partners",
-          "NVentures"
+          "Andreessen Horowitz",
+          "Khosla Ventures"
         ],
-        "source": "https://www.abridge.com/press-release/series-d",
-        "date": "2025-02-17"
+        "source": "https://www.abridge.com/blog/series-e",
+        "date": "2025-06-23"
       },
       "valuation": {
         "amount": "$2.75B",

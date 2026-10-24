@@ -1289,9 +1289,17 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$600M",
+        "stage": "Series F",
+        "investors": [
+          "BlackRock",
+          "Kleiner Perkins",
+          "Fidelity Management & Research Company",
+          "General Catalyst",
+          "Lux Capital"
+        ],
+        "source": "https://www.appliedintuition.com/press-releases/series-f",
+        "date": "2025-06-17"
       },
       "tags": [
         "AV",
@@ -1304,6 +1312,12 @@
           "founders",
           "founded"
         ]
+      },
+      "valuation": {
+        "amount": "$15B",
+        "date": "2025-06-17",
+        "source": "https://www.appliedintuition.com/press-releases/series-f",
+        "notes": "Valuation at Series F fundraise and tender"
       }
     },
     {
