@@ -5,10 +5,19 @@
       "name": "Luma AI",
       "fullName": "Luma Labs",
       "description": "Generative video and 3D company behind Dream Machine and Genie.",
-      "layers": ["models-video", "apps-creative"],
-      "subdomains": ["Text-to-video generation", "3D asset generation"],
+      "layers": [
+        "models-video",
+        "apps-creative"
+      ],
+      "subdomains": [
+        "Text-to-video generation",
+        "3D asset generation"
+      ],
       "founded": 2021,
-      "founders": ["Amit Jain", "Alex Yu"],
+      "founders": [
+        "Amit Jain",
+        "Alex Yu"
+      ],
       "headquarters": "Palo Alto, CA, USA",
       "website": "https://lumalabs.ai",
       "entityType": "company",
@@ -17,21 +26,38 @@
       "funding": {
         "total": "$70M",
         "stage": "Series B",
-        "investors": ["Andreessen Horowitz", "Amplify Partners", "Matrix Partners", "NVIDIA"],
+        "investors": [
+          "Andreessen Horowitz",
+          "Amplify Partners",
+          "Matrix Partners",
+          "NVIDIA"
+        ],
         "source": "https://lumalabs.ai/series-b",
         "date": "2024-01-09"
       },
-      "tags": ["video", "3D"]
+      "tags": [
+        "video",
+        "3D"
+      ]
     },
     {
       "id": "pika",
       "name": "Pika",
       "fullName": "Pika Labs",
       "description": "Consumer video-generation product for short-form clips from text and images.",
-      "layers": ["models-video", "apps-creative"],
-      "subdomains": ["Text-to-video generation", "Video editing & effects"],
+      "layers": [
+        "models-video",
+        "apps-creative"
+      ],
+      "subdomains": [
+        "Text-to-video generation",
+        "Video editing & effects"
+      ],
       "founded": 2023,
-      "founders": ["Demi Guo", "Chenlin Meng"],
+      "founders": [
+        "Demi Guo",
+        "Chenlin Meng"
+      ],
       "headquarters": "Palo Alto, CA, USA",
       "website": "https://pika.art",
       "entityType": "company",
@@ -40,19 +66,30 @@
       "funding": {
         "total": null,
         "stage": "Private",
-        "investors": ["Lightspeed Venture Partners"]
+        "investors": [
+          "Lightspeed Venture Partners"
+        ]
       },
-      "tags": ["video"]
+      "tags": [
+        "video"
+      ]
     },
     {
       "id": "abridge",
       "name": "Abridge",
       "fullName": "Abridge AI, Inc.",
       "description": "Clinical-conversation AI that drafts medical notes from doctor–patient visits.",
-      "layers": ["apps-vertical"],
-      "subdomains": ["Healthcare & diagnostics"],
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Healthcare & diagnostics"
+      ],
       "founded": 2018,
-      "founders": ["Shiv Rao", "Zachary Lipton"],
+      "founders": [
+        "Shiv Rao",
+        "Zachary Lipton"
+      ],
       "headquarters": "Pittsburgh, PA, USA",
       "website": "https://www.abridge.com",
       "entityType": "company",
@@ -61,7 +98,12 @@
       "funding": {
         "total": null,
         "stage": "Series D",
-        "investors": ["Elad Gil", "IVP", "Lightspeed Venture Partners", "NVentures"],
+        "investors": [
+          "Elad Gil",
+          "IVP",
+          "Lightspeed Venture Partners",
+          "NVentures"
+        ],
         "source": "https://www.abridge.com/press-release/series-d",
         "date": "2025-02-17"
       },
@@ -71,17 +113,27 @@
         "source": "https://fortune.com/2025/02/17/exclusive-abridge-raises-250-million-series-d-led-by-elad-gil-and-ivp/",
         "notes": "Post-money at Series D, as reported by Fortune after Abridge disclosure"
       },
-      "tags": ["healthcare", "clinical notes"]
+      "tags": [
+        "healthcare",
+        "clinical notes"
+      ]
     },
     {
       "id": "waymo",
       "name": "Waymo",
       "fullName": "Waymo LLC",
       "description": "Alphabet's robotaxi company operating driverless ride-hail in multiple US cities.",
-      "layers": ["autonomous-systems"],
-      "subdomains": ["Autonomous vehicles (L4/L5)"],
+      "layers": [
+        "autonomous-systems"
+      ],
+      "subdomains": [
+        "Autonomous vehicles (L4/L5)"
+      ],
       "founded": 2009,
-      "founders": ["Sebastian Thrun", "Google"],
+      "founders": [
+        "Sebastian Thrun",
+        "Google"
+      ],
       "headquarters": "Mountain View, CA, USA",
       "website": "https://waymo.com",
       "entityType": "company",
@@ -92,17 +144,37 @@
         "stage": "Alphabet subsidiary",
         "investors": []
       },
-      "tags": ["robotaxi", "L4"]
+      "tags": [
+        "robotaxi",
+        "L4"
+      ],
+      "identitySource": {
+        "source": "https://waymo.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "tesla",
       "name": "Tesla",
       "fullName": "Tesla, Inc.",
       "description": "Electric-vehicle company building Full Self-Driving software and the Optimus humanoid robot.",
-      "layers": ["autonomous-systems", "robotics-physical"],
-      "subdomains": ["Autonomous vehicles (L4/L5)", "Humanoid robots"],
+      "layers": [
+        "autonomous-systems",
+        "robotics-physical"
+      ],
+      "subdomains": [
+        "Autonomous vehicles (L4/L5)",
+        "Humanoid robots"
+      ],
       "founded": 2003,
-      "founders": ["Martin Eberhard", "Marc Tarpenning"],
+      "founders": [
+        "Martin Eberhard",
+        "Marc Tarpenning"
+      ],
       "headquarters": "Austin, TX, USA",
       "website": "https://www.tesla.com",
       "entityType": "company",
@@ -119,17 +191,37 @@
         "source": "https://www.google.com/finance/quote/TSLA:NASDAQ",
         "notes": "Market capitalization"
       },
-      "tags": ["FSD", "Optimus", "public"]
+      "tags": [
+        "FSD",
+        "Optimus",
+        "public"
+      ],
+      "identitySource": {
+        "source": "https://www.tesla.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "boston-dynamics",
       "name": "Boston Dynamics",
       "fullName": "Boston Dynamics, Inc.",
       "description": "Robotics company known for Atlas, Spot, and Stretch, now owned by Hyundai.",
-      "layers": ["robotics-physical"],
-      "subdomains": ["Humanoid robots", "Warehouse & logistics robots"],
+      "layers": [
+        "robotics-physical"
+      ],
+      "subdomains": [
+        "Humanoid robots",
+        "Warehouse & logistics robots"
+      ],
       "founded": 1992,
-      "founders": ["Marc Raibert"],
+      "founders": [
+        "Marc Raibert"
+      ],
       "headquarters": "Waltham, MA, USA",
       "website": "https://bostondynamics.com",
       "entityType": "company",
@@ -140,17 +232,26 @@
         "stage": "Hyundai subsidiary",
         "investors": []
       },
-      "tags": ["Atlas", "Spot"]
+      "tags": [
+        "Atlas",
+        "Spot"
+      ]
     },
     {
       "id": "unitree",
       "name": "Unitree",
       "fullName": "Unitree Robotics",
       "description": "Chinese robotics company selling quadrupeds and humanoids used widely in research and industry.",
-      "layers": ["robotics-physical"],
-      "subdomains": ["Humanoid robots"],
+      "layers": [
+        "robotics-physical"
+      ],
+      "subdomains": [
+        "Humanoid robots"
+      ],
       "founded": 2016,
-      "founders": ["Wang Xingxing"],
+      "founders": [
+        "Wang Xingxing"
+      ],
       "headquarters": "Hangzhou, China",
       "website": "https://www.unitree.com",
       "entityType": "company",
@@ -161,17 +262,31 @@
         "stage": "Private",
         "investors": []
       },
-      "tags": ["China", "humanoid", "quadruped"]
+      "tags": [
+        "China",
+        "humanoid",
+        "quadruped"
+      ]
     },
     {
       "id": "apple",
       "name": "Apple",
       "fullName": "Apple Inc.",
       "description": "Ships on-device Apple Intelligence and designs Neural Engine NPUs across iPhone, Mac, and Apple Silicon.",
-      "layers": ["models-small", "chips-silicon"],
-      "subdomains": ["On-device models", "Edge & mobile AI chips"],
+      "layers": [
+        "models-small",
+        "chips-silicon"
+      ],
+      "subdomains": [
+        "On-device models",
+        "Edge & mobile AI chips"
+      ],
       "founded": 1976,
-      "founders": ["Steve Jobs", "Steve Wozniak", "Ronald Wayne"],
+      "founders": [
+        "Steve Jobs",
+        "Steve Wozniak",
+        "Ronald Wayne"
+      ],
       "headquarters": "Cupertino, CA, USA",
       "website": "https://www.apple.com",
       "entityType": "company",
@@ -188,17 +303,28 @@
         "source": "https://www.google.com/finance/quote/AAPL:NASDAQ",
         "notes": "Market capitalization"
       },
-      "tags": ["on-device", "Apple Silicon", "public"]
+      "tags": [
+        "on-device",
+        "Apple Silicon",
+        "public"
+      ]
     },
     {
       "id": "qualcomm",
       "name": "Qualcomm",
       "fullName": "Qualcomm Incorporated",
       "description": "Mobile SoC company whose Hexagon NPUs power on-device AI on Snapdragon phones and PCs.",
-      "layers": ["chips-silicon"],
-      "subdomains": ["Edge & mobile AI chips"],
+      "layers": [
+        "chips-silicon"
+      ],
+      "subdomains": [
+        "Edge & mobile AI chips"
+      ],
       "founded": 1985,
-      "founders": ["Irwin Jacobs", "Andrew Viterbi"],
+      "founders": [
+        "Irwin Jacobs",
+        "Andrew Viterbi"
+      ],
       "headquarters": "San Diego, CA, USA",
       "website": "https://www.qualcomm.com",
       "entityType": "company",
@@ -209,17 +335,30 @@
         "stage": "Public company",
         "investors": []
       },
-      "tags": ["mobile", "NPU", "public"]
+      "tags": [
+        "mobile",
+        "NPU",
+        "public"
+      ]
     },
     {
       "id": "intel",
       "name": "Intel",
       "fullName": "Intel Corporation",
       "description": "Semiconductor company selling Gaudi AI accelerators and foundry services alongside CPUs.",
-      "layers": ["chips-silicon", "fabs-manufacturing"],
-      "subdomains": ["Custom AI accelerators (TPU, Trainium, etc.)", "Semiconductor foundries (TSMC, Samsung, etc.)"],
+      "layers": [
+        "chips-silicon",
+        "fabs-manufacturing"
+      ],
+      "subdomains": [
+        "Custom AI accelerators (TPU, Trainium, etc.)",
+        "Semiconductor foundries (TSMC, Samsung, etc.)"
+      ],
       "founded": 1968,
-      "founders": ["Gordon Moore", "Robert Noyce"],
+      "founders": [
+        "Gordon Moore",
+        "Robert Noyce"
+      ],
       "headquarters": "Santa Clara, CA, USA",
       "website": "https://www.intel.com",
       "entityType": "company",
@@ -230,17 +369,31 @@
         "stage": "Public company",
         "investors": []
       },
-      "tags": ["Gaudi", "foundry", "public"]
+      "tags": [
+        "Gaudi",
+        "foundry",
+        "public"
+      ]
     },
     {
       "id": "anyscale",
       "name": "Anyscale",
       "fullName": "Anyscale, Inc.",
       "description": "Company behind Ray, used to scale Python training, inference, and agent workloads.",
-      "layers": ["systems-software", "serving-inference"],
-      "subdomains": ["Distributed training frameworks", "Model serving platforms"],
+      "layers": [
+        "systems-software",
+        "serving-inference"
+      ],
+      "subdomains": [
+        "Distributed training frameworks",
+        "Model serving platforms"
+      ],
       "founded": 2019,
-      "founders": ["Robert Nishihara", "Philipp Moritz", "Ion Stoica"],
+      "founders": [
+        "Robert Nishihara",
+        "Philipp Moritz",
+        "Ion Stoica"
+      ],
       "headquarters": "San Francisco, CA, USA",
       "website": "https://www.anyscale.com",
       "entityType": "company",
@@ -249,19 +402,31 @@
       "funding": {
         "total": null,
         "stage": "Private",
-        "investors": ["Andreessen Horowitz", "NEA"]
+        "investors": [
+          "Andreessen Horowitz",
+          "NEA"
+        ]
       },
-      "tags": ["Ray", "distributed"]
+      "tags": [
+        "Ray",
+        "distributed"
+      ]
     },
     {
       "id": "openrouter",
       "name": "OpenRouter",
       "fullName": "OpenRouter",
       "description": "Unified API that routes prompts across many model providers with one key.",
-      "layers": ["serving-inference"],
-      "subdomains": ["Model gateways"],
+      "layers": [
+        "serving-inference"
+      ],
+      "subdomains": [
+        "Model gateways"
+      ],
       "founded": 2023,
-      "founders": ["Alex Atallah"],
+      "founders": [
+        "Alex Atallah"
+      ],
       "headquarters": "San Francisco, CA, USA",
       "website": "https://openrouter.ai",
       "entityType": "company",
@@ -272,17 +437,32 @@
         "stage": "Private",
         "investors": []
       },
-      "tags": ["gateway", "routing"]
+      "tags": [
+        "gateway",
+        "routing"
+      ]
     },
     {
       "id": "palantir",
       "name": "Palantir",
       "fullName": "Palantir Technologies Inc.",
       "description": "Data platform company whose AIP product embeds LLMs into government and enterprise workflows.",
-      "layers": ["apps-enterprise", "defense-national-security"],
-      "subdomains": ["Workflow automation", "Intelligence analysis"],
+      "layers": [
+        "apps-enterprise",
+        "defense-national-security"
+      ],
+      "subdomains": [
+        "Workflow automation",
+        "Intelligence analysis"
+      ],
       "founded": 2003,
-      "founders": ["Peter Thiel", "Alex Karp", "Joe Lonsdale", "Stephen Cohen", "Nathan Gettings"],
+      "founders": [
+        "Peter Thiel",
+        "Alex Karp",
+        "Joe Lonsdale",
+        "Stephen Cohen",
+        "Nathan Gettings"
+      ],
       "headquarters": "Denver, CO, USA",
       "website": "https://www.palantir.com",
       "entityType": "company",
@@ -299,17 +479,27 @@
         "source": "https://www.google.com/finance/quote/PLTR:NASDAQ",
         "notes": "Market capitalization"
       },
-      "tags": ["AIP", "enterprise", "public"]
+      "tags": [
+        "AIP",
+        "enterprise",
+        "public"
+      ]
     },
     {
       "id": "stanford-hai",
       "name": "Stanford HAI",
       "fullName": "Stanford Institute for Human-Centered Artificial Intelligence",
       "description": "University institute publishing the AI Index and funding human-centered AI research.",
-      "layers": ["research-institutions"],
-      "subdomains": ["University research labs"],
+      "layers": [
+        "research-institutions"
+      ],
+      "subdomains": [
+        "University research labs"
+      ],
       "founded": 2019,
-      "founders": ["Stanford University"],
+      "founders": [
+        "Stanford University"
+      ],
       "headquarters": "Stanford, CA, USA",
       "website": "https://hai.stanford.edu",
       "entityType": "research",
@@ -320,17 +510,34 @@
         "stage": "University institute",
         "investors": []
       },
-      "tags": ["academia", "AI Index"]
+      "tags": [
+        "academia",
+        "AI Index"
+      ],
+      "identitySource": {
+        "source": "https://hai.stanford.edu",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "shanghai-ai-lab",
       "name": "Shanghai AI Laboratory",
       "fullName": "Shanghai Artificial Intelligence Laboratory",
       "description": "Chinese research lab behind InternLM and other open scientific models.",
-      "layers": ["research-institutions"],
-      "subdomains": ["Nonprofit research institutes"],
+      "layers": [
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Nonprofit research institutes"
+      ],
       "founded": 2020,
-      "founders": ["Shanghai municipal government"],
+      "founders": [
+        "Shanghai municipal government"
+      ],
       "headquarters": "Shanghai, China",
       "website": "https://www.shlab.org.cn",
       "entityType": "research",
@@ -341,7 +548,11 @@
         "stage": "Public research lab",
         "investors": []
       },
-      "tags": ["China", "InternLM", "research"]
+      "tags": [
+        "China",
+        "InternLM",
+        "research"
+      ]
     }
   ]
 }

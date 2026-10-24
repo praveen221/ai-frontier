@@ -5,10 +5,17 @@
       "name": "Windsurf",
       "fullName": "Exafunction, Inc. (Windsurf / Codeium)",
       "description": "AI coding environment (formerly Codeium) with agents that edit, run, and ship software in a full IDE.",
-      "layers": ["apps-coding"],
-      "subdomains": ["AI code editors"],
+      "layers": [
+        "apps-coding"
+      ],
+      "subdomains": [
+        "AI code editors"
+      ],
       "founded": 2021,
-      "founders": ["Varun Mohan", "Douglas Chen"],
+      "founders": [
+        "Varun Mohan",
+        "Douglas Chen"
+      ],
       "headquarters": "Mountain View, CA, USA",
       "website": "https://windsurf.com",
       "entityType": "company",
@@ -17,19 +24,33 @@
       "funding": {
         "total": null,
         "stage": "Private",
-        "investors": ["Greenoaks", "Kleiner Perkins"]
+        "investors": [
+          "Greenoaks",
+          "Kleiner Perkins"
+        ]
       },
-      "tags": ["coding", "agents"]
+      "tags": [
+        "coding",
+        "agents"
+      ]
     },
     {
       "id": "cognition",
       "name": "Cognition",
       "fullName": "Cognition AI",
       "description": "Lab behind Devin, an autonomous software-engineering agent that plans, codes, and debugs end to end.",
-      "layers": ["apps-coding"],
-      "subdomains": ["AI code editors"],
+      "layers": [
+        "apps-coding"
+      ],
+      "subdomains": [
+        "AI code editors"
+      ],
       "founded": 2023,
-      "founders": ["Scott Wu", "Steven Hao", "Walden Yan"],
+      "founders": [
+        "Scott Wu",
+        "Steven Hao",
+        "Walden Yan"
+      ],
       "headquarters": "San Francisco, CA, USA",
       "website": "https://www.cognition.ai",
       "entityType": "company",
@@ -38,19 +59,32 @@
       "funding": {
         "total": null,
         "stage": "Private",
-        "investors": ["Founders Fund"]
+        "investors": [
+          "Founders Fund"
+        ]
       },
-      "tags": ["Devin", "coding agents"]
+      "tags": [
+        "Devin",
+        "coding agents"
+      ]
     },
     {
       "id": "replit",
       "name": "Replit",
       "fullName": "Replit, Inc.",
       "description": "Browser IDE and Agent that turns a prompt into a running app, aimed at both beginners and teams.",
-      "layers": ["apps-coding"],
-      "subdomains": ["AI code editors"],
+      "layers": [
+        "apps-coding"
+      ],
+      "subdomains": [
+        "AI code editors"
+      ],
       "founded": 2016,
-      "founders": ["Amjad Masad", "Haya Odeh", "Faris Masad"],
+      "founders": [
+        "Amjad Masad",
+        "Haya Odeh",
+        "Faris Masad"
+      ],
       "headquarters": "Foster City, CA, USA",
       "website": "https://replit.com",
       "entityType": "company",
@@ -59,19 +93,31 @@
       "funding": {
         "total": null,
         "stage": "Private",
-        "investors": ["Andreessen Horowitz"]
+        "investors": [
+          "Andreessen Horowitz"
+        ]
       },
-      "tags": ["IDE", "agents"]
+      "tags": [
+        "IDE",
+        "agents"
+      ]
     },
     {
       "id": "sierra",
       "name": "Sierra",
       "fullName": "Sierra",
       "description": "Enterprise customer-experience agents that resolve support conversations end to end.",
-      "layers": ["apps-vertical"],
-      "subdomains": ["Customer support automation"],
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Customer support automation"
+      ],
       "founded": 2023,
-      "founders": ["Bret Taylor", "Clay Bavor"],
+      "founders": [
+        "Bret Taylor",
+        "Clay Bavor"
+      ],
       "headquarters": "San Francisco, CA, USA",
       "website": "https://sierra.ai",
       "entityType": "company",
@@ -80,19 +126,31 @@
       "funding": {
         "total": null,
         "stage": "Private",
-        "investors": ["Greylock", "Sequoia Capital"]
+        "investors": [
+          "Greylock",
+          "Sequoia Capital"
+        ]
       },
-      "tags": ["customer support", "agents"]
+      "tags": [
+        "customer support",
+        "agents"
+      ]
     },
     {
       "id": "allen-ai",
       "name": "Allen Institute for AI",
       "fullName": "Allen Institute for AI (Ai2)",
       "description": "Nonprofit research institute releasing open models (OLMo), datasets, and scientific AI tools.",
-      "layers": ["research-institutions"],
-      "subdomains": ["Nonprofit research institutes"],
+      "layers": [
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Nonprofit research institutes"
+      ],
       "founded": 2014,
-      "founders": ["Paul G. Allen"],
+      "founders": [
+        "Paul G. Allen"
+      ],
       "headquarters": "Seattle, WA, USA",
       "website": "https://allenai.org",
       "entityType": "research",
@@ -103,17 +161,38 @@
         "stage": "Nonprofit",
         "investors": []
       },
-      "tags": ["nonprofit", "OLMo", "open science"]
+      "tags": [
+        "nonprofit",
+        "OLMo",
+        "open science"
+      ],
+      "identitySource": {
+        "source": "https://allenai.org",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "eleutherai",
       "name": "EleutherAI",
       "fullName": "EleutherAI",
       "description": "Open research collective known for GPT-J, GPT-NeoX, and the Pile dataset.",
-      "layers": ["research-institutions"],
-      "subdomains": ["Open-source communities"],
+      "layers": [
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Open-source communities"
+      ],
       "founded": 2020,
-      "founders": ["Connor Leahy", "Sid Black", "Stella Biderman"],
+      "founders": [
+        "Connor Leahy",
+        "Sid Black",
+        "Stella Biderman"
+      ],
       "headquarters": "Distributed",
       "website": "https://www.eleuther.ai",
       "entityType": "research",
@@ -124,17 +203,26 @@
         "stage": "Nonprofit / collective",
         "investors": []
       },
-      "tags": ["open-source", "research"]
+      "tags": [
+        "open-source",
+        "research"
+      ]
     },
     {
       "id": "mlcommons",
       "name": "MLCommons",
       "fullName": "MLCommons",
       "description": "Industry consortium that runs MLPerf benchmarks and shared best practices for ML systems.",
-      "layers": ["research-institutions"],
-      "subdomains": ["Benchmark & dataset creators"],
+      "layers": [
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Benchmark & dataset creators"
+      ],
       "founded": 2020,
-      "founders": ["Industry consortium"],
+      "founders": [
+        "Industry consortium"
+      ],
       "headquarters": "San Francisco, CA, USA",
       "website": "https://mlcommons.org",
       "entityType": "institution",
@@ -145,17 +233,26 @@
         "stage": "Industry consortium",
         "investors": []
       },
-      "tags": ["benchmarks", "MLPerf"]
+      "tags": [
+        "benchmarks",
+        "MLPerf"
+      ]
     },
     {
       "id": "eu-ai-office",
       "name": "EU AI Office",
       "fullName": "European Commission AI Office",
       "description": "European Commission body implementing the AI Act and supervising general-purpose AI rules.",
-      "layers": ["policy-standards"],
-      "subdomains": ["Regulatory bodies"],
+      "layers": [
+        "policy-standards"
+      ],
+      "subdomains": [
+        "Regulatory bodies"
+      ],
       "founded": 2024,
-      "founders": ["European Commission"],
+      "founders": [
+        "European Commission"
+      ],
       "headquarters": "Brussels, Belgium",
       "website": "https://digital-strategy.ec.europa.eu/en/policies/ai-office",
       "entityType": "institution",
@@ -166,7 +263,18 @@
         "stage": "Public institution",
         "investors": []
       },
-      "tags": ["regulation", "EU AI Act"]
+      "tags": [
+        "regulation",
+        "EU AI Act"
+      ],
+      "identitySource": {
+        "source": "https://digital-strategy.ec.europa.eu/en/policies/ai-office",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
     }
   ]
 }

@@ -5,357 +5,698 @@
       "name": "HiddenLayer",
       "fullName": "HiddenLayer",
       "description": "Security company that monitors and protects models from theft, poisoning, and adversarial attacks.",
-      "layers": ["safety-security"],
-      "subdomains": ["Model security & red teaming"],
+      "layers": [
+        "safety-security"
+      ],
+      "subdomains": [
+        "Model security & red teaming"
+      ],
       "founded": 2022,
-      "founders": ["Chris Sestito", "Rich Harang"],
+      "founders": [
+        "Chris Sestito",
+        "Rich Harang"
+      ],
       "headquarters": "Austin, TX, USA",
       "website": "https://hiddenlayer.com",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": [] },
-      "tags": ["ML security"]
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "ML security"
+      ]
     },
     {
       "id": "metr",
       "name": "METR",
       "fullName": "METR (formerly ARC Evals)",
       "description": "Independent org that designs evaluations for autonomous and frontier-model capabilities.",
-      "layers": ["safety-security", "research-institutions"],
-      "subdomains": ["Alignment research", "Nonprofit research institutes"],
+      "layers": [
+        "safety-security",
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Alignment research",
+        "Nonprofit research institutes"
+      ],
       "founded": 2023,
-      "founders": ["Beth Barnes"],
+      "founders": [
+        "Beth Barnes"
+      ],
       "headquarters": "Berkeley, CA, USA",
       "website": "https://metr.org",
       "entityType": "research",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Nonprofit", "investors": [] },
-      "tags": ["evals", "safety"]
+      "funding": {
+        "total": null,
+        "stage": "Nonprofit",
+        "investors": []
+      },
+      "tags": [
+        "evals",
+        "safety"
+      ]
     },
     {
       "id": "apollo-research",
       "name": "Apollo Research",
       "fullName": "Apollo Research",
       "description": "UK research org studying scheming, deception, and evaluations for frontier models.",
-      "layers": ["safety-security", "research-institutions"],
-      "subdomains": ["Alignment research", "Nonprofit research institutes"],
+      "layers": [
+        "safety-security",
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Alignment research",
+        "Nonprofit research institutes"
+      ],
       "founded": 2023,
-      "founders": ["Marius Hobbhahn"],
+      "founders": [
+        "Marius Hobbhahn"
+      ],
       "headquarters": "London, UK",
       "website": "https://www.apolloresearch.ai",
       "entityType": "research",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Nonprofit", "investors": [] },
-      "tags": ["evals", "UK"]
+      "funding": {
+        "total": null,
+        "stage": "Nonprofit",
+        "investors": []
+      },
+      "tags": [
+        "evals",
+        "UK"
+      ]
     },
     {
       "id": "redwood-research",
       "name": "Redwood Research",
       "fullName": "Redwood Research",
       "description": "Nonprofit alignment lab working on control, interpretability, and adversarial evaluation.",
-      "layers": ["safety-security", "research-institutions"],
-      "subdomains": ["Interpretability & mechanistic analysis", "Nonprofit research institutes"],
+      "layers": [
+        "safety-security",
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Interpretability & mechanistic analysis",
+        "Nonprofit research institutes"
+      ],
       "founded": 2021,
-      "founders": ["Nate Thomas", "Buck Shlegeris"],
+      "founders": [
+        "Nate Thomas",
+        "Buck Shlegeris"
+      ],
       "headquarters": "Berkeley, CA, USA",
       "website": "https://www.redwoodresearch.org",
       "entityType": "research",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Nonprofit", "investors": [] },
-      "tags": ["alignment"]
+      "funding": {
+        "total": null,
+        "stage": "Nonprofit",
+        "investors": []
+      },
+      "tags": [
+        "alignment"
+      ]
     },
     {
       "id": "gray-swan",
       "name": "Gray Swan",
       "fullName": "Gray Swan AI",
       "description": "Adversarial-testing company that runs jailbreak and cyber-risk evaluations on frontier models.",
-      "layers": ["safety-security"],
-      "subdomains": ["Model security & red teaming"],
+      "layers": [
+        "safety-security"
+      ],
+      "subdomains": [
+        "Model security & red teaming"
+      ],
       "founded": 2023,
-      "founders": ["Daniel Kang", "Mantas Mazeika"],
+      "founders": [
+        "Daniel Kang",
+        "Mantas Mazeika"
+      ],
       "headquarters": "USA",
       "website": "https://www.grayswan.ai",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": [] },
-      "tags": ["red team"]
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "red team"
+      ]
     },
     {
       "id": "shield-ai",
       "name": "Shield AI",
       "fullName": "Shield AI",
       "description": "Defense company building Hivemind autonomy software for aircraft and drones that fly without GPS.",
-      "layers": ["defense-national-security", "autonomous-systems"],
-      "subdomains": ["Autonomous defense systems", "Delivery drones"],
+      "layers": [
+        "defense-national-security",
+        "autonomous-systems"
+      ],
+      "subdomains": [
+        "Autonomous defense systems",
+        "Delivery drones"
+      ],
       "founded": 2015,
-      "founders": ["Ryan Tseng", "Brandon Tseng", "Andrew Dudash"],
+      "founders": [
+        "Ryan Tseng",
+        "Brandon Tseng",
+        "Andrew Dudash"
+      ],
       "headquarters": "San Diego, CA, USA",
       "website": "https://shield.ai",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": [] },
-      "tags": ["defense", "drones"]
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "defense",
+        "drones"
+      ]
     },
     {
       "id": "helsing",
       "name": "Helsing",
       "fullName": "Helsing",
       "description": "European defense-AI company building software for sensing, electronic warfare, and autonomous systems.",
-      "layers": ["defense-national-security"],
-      "subdomains": ["Autonomous defense systems"],
+      "layers": [
+        "defense-national-security"
+      ],
+      "subdomains": [
+        "Autonomous defense systems"
+      ],
       "founded": 2021,
-      "founders": ["Gundbert Scherf", "Torsten Reil", "Niklas Köhler"],
+      "founders": [
+        "Gundbert Scherf",
+        "Torsten Reil",
+        "Niklas Köhler"
+      ],
       "headquarters": "Munich, Germany",
       "website": "https://helsing.ai",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": ["Prima Materia", "General Catalyst"] },
-      "tags": ["Europe", "defense"]
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": [
+          "Prima Materia",
+          "General Catalyst"
+        ]
+      },
+      "tags": [
+        "Europe",
+        "defense"
+      ]
     },
     {
       "id": "skydio",
       "name": "Skydio",
       "fullName": "Skydio",
       "description": "US drone company whose autonomy stack is used by public safety, enterprise, and defense.",
-      "layers": ["autonomous-systems", "defense-national-security"],
-      "subdomains": ["Delivery drones", "Surveillance & reconnaissance"],
+      "layers": [
+        "autonomous-systems",
+        "defense-national-security"
+      ],
+      "subdomains": [
+        "Delivery drones",
+        "Surveillance & reconnaissance"
+      ],
       "founded": 2014,
-      "founders": ["Adam Bry", "Abraham Bachrach", "Matt Donahoe"],
+      "founders": [
+        "Adam Bry",
+        "Abraham Bachrach",
+        "Matt Donahoe"
+      ],
       "headquarters": "San Mateo, CA, USA",
       "website": "https://www.skydio.com",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": [] },
-      "tags": ["drones"]
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "drones"
+      ]
     },
     {
       "id": "mobileye",
       "name": "Mobileye",
       "fullName": "Mobileye Global Inc.",
       "description": "Intel-spun public company selling EyeQ chips and SuperVision driver-assist / robotaxi stacks.",
-      "layers": ["autonomous-systems"],
-      "subdomains": ["Autonomous vehicles (L4/L5)"],
+      "layers": [
+        "autonomous-systems"
+      ],
+      "subdomains": [
+        "Autonomous vehicles (L4/L5)"
+      ],
       "founded": 1999,
-      "founders": ["Amnon Shashua", "Ziv Aviram"],
+      "founders": [
+        "Amnon Shashua",
+        "Ziv Aviram"
+      ],
       "headquarters": "Jerusalem, Israel",
       "website": "https://www.mobileye.com",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Public company", "investors": [] },
-      "tags": ["AV", "Israel", "public"]
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "AV",
+        "Israel",
+        "public"
+      ]
     },
     {
       "id": "zoox",
       "name": "Zoox",
       "fullName": "Zoox",
       "description": "Amazon's purpose-built robotaxi, running driverless service in Las Vegas and expanding.",
-      "layers": ["autonomous-systems"],
-      "subdomains": ["Autonomous vehicles (L4/L5)"],
+      "layers": [
+        "autonomous-systems"
+      ],
+      "subdomains": [
+        "Autonomous vehicles (L4/L5)"
+      ],
       "founded": 2014,
-      "founders": ["Jesse Levinson", "Tim Kentley-Klay"],
+      "founders": [
+        "Jesse Levinson",
+        "Tim Kentley-Klay"
+      ],
       "headquarters": "Foster City, CA, USA",
       "website": "https://zoox.com",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Amazon subsidiary", "investors": [] },
-      "tags": ["robotaxi"]
+      "funding": {
+        "total": null,
+        "stage": "Amazon subsidiary",
+        "investors": []
+      },
+      "tags": [
+        "robotaxi"
+      ]
     },
     {
       "id": "pony-ai",
       "name": "Pony.ai",
       "fullName": "Pony.ai",
       "description": "US–China autonomous-driving company operating robotaxis and listed in the US.",
-      "layers": ["autonomous-systems"],
-      "subdomains": ["Autonomous vehicles (L4/L5)"],
+      "layers": [
+        "autonomous-systems"
+      ],
+      "subdomains": [
+        "Autonomous vehicles (L4/L5)"
+      ],
       "founded": 2016,
-      "founders": ["James Peng", "Tiancheng Lou"],
+      "founders": [
+        "James Peng",
+        "Tiancheng Lou"
+      ],
       "headquarters": "Fremont, CA, USA",
       "website": "https://www.pony.ai",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Public company", "investors": [] },
-      "tags": ["China", "robotaxi", "public"]
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "China",
+        "robotaxi",
+        "public"
+      ]
     },
     {
       "id": "nuro",
       "name": "Nuro",
       "fullName": "Nuro",
       "description": "Autonomous delivery company building sidewalk-freeing, purpose-built electric vehicles.",
-      "layers": ["autonomous-systems"],
-      "subdomains": ["Autonomous vehicles (L4/L5)"],
+      "layers": [
+        "autonomous-systems"
+      ],
+      "subdomains": [
+        "Autonomous vehicles (L4/L5)"
+      ],
       "founded": 2016,
-      "founders": ["Dave Ferguson", "Jiajun Zhu"],
+      "founders": [
+        "Dave Ferguson",
+        "Jiajun Zhu"
+      ],
       "headquarters": "Mountain View, CA, USA",
       "website": "https://www.nuro.ai",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": [] },
-      "tags": ["delivery"]
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "delivery"
+      ]
     },
     {
       "id": "covariant",
       "name": "Covariant",
       "fullName": "Covariant",
       "description": "Warehouse-robotics company training RFM foundation models for picking across many SKUs.",
-      "layers": ["models-robotics", "robotics-physical"],
-      "subdomains": ["Robotics foundation models", "Warehouse & logistics robots"],
+      "layers": [
+        "models-robotics",
+        "robotics-physical"
+      ],
+      "subdomains": [
+        "Robotics foundation models",
+        "Warehouse & logistics robots"
+      ],
       "founded": 2017,
-      "founders": ["Peter Chen", "Pieter Abbeel", "Rocky Duan"],
+      "founders": [
+        "Peter Chen",
+        "Pieter Abbeel",
+        "Rocky Duan"
+      ],
       "headquarters": "Emeryville, CA, USA",
       "website": "https://covariant.ai",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": [] },
-      "tags": ["warehouse", "manipulation"]
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "warehouse",
+        "manipulation"
+      ]
     },
     {
       "id": "agility",
       "name": "Agility Robotics",
       "fullName": "Agility Robotics",
       "description": "Builder of Digit, a bipedal robot deployed in warehouses with Amazon and others.",
-      "layers": ["robotics-physical"],
-      "subdomains": ["Humanoid robots", "Warehouse & logistics robots"],
+      "layers": [
+        "robotics-physical"
+      ],
+      "subdomains": [
+        "Humanoid robots",
+        "Warehouse & logistics robots"
+      ],
       "founded": 2015,
-      "founders": ["Jonathan Hurst", "Damion Shelton"],
+      "founders": [
+        "Jonathan Hurst",
+        "Damion Shelton"
+      ],
       "headquarters": "Tualatin, OR, USA",
       "website": "https://agilityrobotics.com",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": ["Amazon"] },
-      "tags": ["humanoid", "warehouse"]
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": [
+          "Amazon"
+        ]
+      },
+      "tags": [
+        "humanoid",
+        "warehouse"
+      ]
     },
     {
       "id": "snorkel",
       "name": "Snorkel AI",
       "fullName": "Snorkel AI",
       "description": "Data-centric AI platform for programmatic labeling and expert-in-the-loop fine-tuning.",
-      "layers": ["data-platforms"],
-      "subdomains": ["Data labeling & annotation", "Synthetic data generation"],
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Data labeling & annotation",
+        "Synthetic data generation"
+      ],
       "founded": 2019,
-      "founders": ["Alex Ratner", "Chris Ré", "Braden Hancock"],
+      "founders": [
+        "Alex Ratner",
+        "Chris Ré",
+        "Braden Hancock"
+      ],
       "headquarters": "Redwood City, CA, USA",
       "website": "https://snorkel.ai",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": [] },
-      "tags": ["labeling"]
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "labeling"
+      ]
     },
     {
       "id": "encord",
       "name": "Encord",
       "fullName": "Encord",
       "description": "London platform for annotating, curating, and evaluating multimodal training data.",
-      "layers": ["data-platforms"],
-      "subdomains": ["Data labeling & annotation"],
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Data labeling & annotation"
+      ],
       "founded": 2020,
-      "founders": ["Eric Landau", "Ulrik Stig Hansen"],
+      "founders": [
+        "Eric Landau",
+        "Ulrik Stig Hansen"
+      ],
       "headquarters": "London, UK",
       "website": "https://encord.com",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": [] },
-      "tags": ["labeling", "UK"]
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "labeling",
+        "UK"
+      ]
     },
     {
       "id": "khosla",
       "name": "Khosla Ventures",
       "fullName": "Khosla Ventures",
       "description": "Early backer of OpenAI and a long list of AI labs, from frontier models to climate compute.",
-      "layers": ["capital-investors"],
-      "subdomains": ["Venture capital firms"],
+      "layers": [
+        "capital-investors"
+      ],
+      "subdomains": [
+        "Venture capital firms"
+      ],
       "founded": 2004,
-      "founders": ["Vinod Khosla"],
+      "founders": [
+        "Vinod Khosla"
+      ],
       "headquarters": "Menlo Park, CA, USA",
       "website": "https://www.khoslaventures.com",
       "entityType": "investor",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Venture capital firm", "investors": [] },
-      "tags": ["venture capital"]
+      "funding": {
+        "total": null,
+        "stage": "Venture capital firm",
+        "investors": []
+      },
+      "tags": [
+        "venture capital"
+      ],
+      "identitySource": {
+        "source": "https://www.khoslaventures.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
     },
     {
       "id": "y-combinator",
       "name": "Y Combinator",
       "fullName": "Y Combinator",
       "description": "Accelerator that funded a large share of AI application startups, from Scale to Perplexity alumni.",
-      "layers": ["capital-investors"],
-      "subdomains": ["Accelerators & incubators"],
+      "layers": [
+        "capital-investors"
+      ],
+      "subdomains": [
+        "Accelerators & incubators"
+      ],
       "founded": 2005,
-      "founders": ["Paul Graham", "Jessica Livingston", "Trevor Blackwell", "Robert Morris"],
+      "founders": [
+        "Paul Graham",
+        "Jessica Livingston",
+        "Trevor Blackwell",
+        "Robert Morris"
+      ],
       "headquarters": "San Francisco, CA, USA",
       "website": "https://www.ycombinator.com",
       "entityType": "investor",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Accelerator", "investors": [] },
-      "tags": ["accelerator"]
+      "funding": {
+        "total": null,
+        "stage": "Accelerator",
+        "investors": []
+      },
+      "tags": [
+        "accelerator"
+      ],
+      "identitySource": {
+        "source": "https://www.ycombinator.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "mila",
       "name": "Mila",
       "fullName": "Mila - Quebec AI Institute",
       "description": "Montreal research institute founded around Yoshua Bengio, a hub for academic deep-learning research.",
-      "layers": ["research-institutions"],
-      "subdomains": ["University research labs"],
+      "layers": [
+        "research-institutions"
+      ],
+      "subdomains": [
+        "University research labs"
+      ],
       "founded": 1993,
-      "founders": ["Yoshua Bengio"],
+      "founders": [
+        "Yoshua Bengio"
+      ],
       "headquarters": "Montreal, Canada",
       "website": "https://mila.quebec",
       "entityType": "research",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Nonprofit research institute", "investors": [] },
-      "tags": ["academia", "Canada"]
+      "funding": {
+        "total": null,
+        "stage": "Nonprofit research institute",
+        "investors": []
+      },
+      "tags": [
+        "academia",
+        "Canada"
+      ],
+      "identitySource": {
+        "source": "https://mila.quebec",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "baai",
       "name": "BAAI",
       "fullName": "Beijing Academy of Artificial Intelligence",
       "description": "Beijing research institute behind WuDao / Aquila models and large open Chinese datasets.",
-      "layers": ["research-institutions"],
-      "subdomains": ["Nonprofit research institutes"],
+      "layers": [
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Nonprofit research institutes"
+      ],
       "founded": 2018,
-      "founders": ["Beijing municipal government"],
+      "founders": [
+        "Beijing municipal government"
+      ],
       "headquarters": "Beijing, China",
       "website": "https://www.baai.ac.cn",
       "entityType": "research",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Public research institute", "investors": [] },
-      "tags": ["China", "research"]
+      "funding": {
+        "total": null,
+        "stage": "Public research institute",
+        "investors": []
+      },
+      "tags": [
+        "China",
+        "research"
+      ]
     },
     {
       "id": "mbzuai",
       "name": "MBZUAI",
       "fullName": "Mohamed bin Zayed University of Artificial Intelligence",
       "description": "Abu Dhabi graduate university dedicated to AI research, models, and talent.",
-      "layers": ["research-institutions"],
-      "subdomains": ["University research labs"],
+      "layers": [
+        "research-institutions"
+      ],
+      "subdomains": [
+        "University research labs"
+      ],
       "founded": 2019,
-      "founders": ["Government of Abu Dhabi"],
+      "founders": [
+        "Government of Abu Dhabi"
+      ],
       "headquarters": "Abu Dhabi, United Arab Emirates",
       "website": "https://mbzuai.ac.ae",
       "entityType": "research",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "University", "investors": [] },
-      "tags": ["UAE", "academia"]
+      "funding": {
+        "total": null,
+        "stage": "University",
+        "investors": []
+      },
+      "tags": [
+        "UAE",
+        "academia"
+      ],
+      "identitySource": {
+        "source": "https://mbzuai.ac.ae",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
     }
   ]
 }
