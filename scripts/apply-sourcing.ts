@@ -11,8 +11,10 @@ const ROOT = path.join(process.cwd(), 'data');
 
 type Patch = Partial<Company> & { id: string };
 
-function readCompanies(filePath: string): { raw: unknown; list: Company[] } {
-  const raw = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+type CompanyFile = Company[] | { companies: Company[] };
+
+function readCompanies(filePath: string): { raw: CompanyFile; list: Company[] } {
+  const raw = JSON.parse(fs.readFileSync(filePath, 'utf8')) as CompanyFile;
   if (Array.isArray(raw)) return { raw, list: raw };
   if (raw && Array.isArray(raw.companies)) return { raw, list: raw.companies };
   throw new Error(`No companies array in ${filePath}`);
@@ -62,7 +64,9 @@ for (const patch of patches.companies) {
 }
 
 for (const [file, loaded] of dirty) {
-  const payload = Array.isArray(loaded.raw) ? loaded.list : { ...loaded.raw, companies: loaded.list };
+  const payload: CompanyFile = Array.isArray(loaded.raw)
+    ? loaded.list
+    : { ...loaded.raw, companies: loaded.list };
   fs.writeFileSync(file, `${JSON.stringify(payload, null, 2)}\n`);
   console.log(`Updated ${file}`);
 }
