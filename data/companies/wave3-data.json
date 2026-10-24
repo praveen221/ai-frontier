@@ -987,6 +987,13 @@
           "founders",
           "founded"
         ]
+      },
+      "revenue": {
+        "amount": "$2.67B",
+        "period": "FY2024 ended Jan 31, 2024",
+        "source": "https://www.snowflake.com/en/news/press-releases/snowflake-reports-financial-results-for-the-fourth-quarter-and-full-year-of-fiscal-2024/",
+        "date": "2024-02-28",
+        "notes": "Product revenue $2,666.8 million"
       }
     },
     {
