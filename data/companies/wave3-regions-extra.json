@@ -1,0 +1,768 @@
+{
+  "companies": [
+    {
+      "id": "qure-ai",
+      "name": "Qure.ai",
+      "description": "Mumbai medical-imaging company whose models read chest X-rays, CTs, and TB screens.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Healthcare & diagnostics"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Prashant Warier",
+        "Pooja Rao"
+      ],
+      "headquarters": "Mumbai, India",
+      "website": "https://www.qure.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "health",
+        "India"
+      ],
+      "identitySource": {
+        "source": "https://www.qure.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "niramai",
+      "name": "Niramai",
+      "description": "Bengaluru health-AI company using thermal imaging and ML for breast-cancer screening.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Healthcare & diagnostics"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Geetha Manjunath",
+        "Nidhi Mathur"
+      ],
+      "headquarters": "Bengaluru, India",
+      "website": "https://www.niramai.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "health",
+        "India"
+      ],
+      "identitySource": {
+        "source": "https://www.niramai.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "sigtuple",
+      "name": "SigTuple",
+      "description": "Bengaluru diagnostics company that automates microscopy with computer vision.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Healthcare & diagnostics"
+      ],
+      "founded": 2015,
+      "founders": [
+        "Tathagato Rai Dastidar",
+        "Apurv Anand"
+      ],
+      "headquarters": "Bengaluru, India",
+      "website": "https://sigtuple.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "health",
+        "India"
+      ],
+      "identitySource": {
+        "source": "https://sigtuple.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "madstreetden",
+      "name": "Mad Street Den",
+      "description": "Chennai computer-vision company behind Vue.ai for retail merchandising.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Document intelligence"
+      ],
+      "founded": 2014,
+      "founders": [
+        "Ashwini Asokan",
+        "Anand Chandrasekaran"
+      ],
+      "headquarters": "Chennai, India",
+      "website": "https://www.madstreetden.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "vision",
+        "India"
+      ],
+      "identitySource": {
+        "source": "https://www.madstreetden.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "gupshup",
+      "name": "Gupshup",
+      "description": "Conversational-messaging platform used to deploy WhatsApp and voice AI agents.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Customer support automation"
+      ],
+      "founded": 2004,
+      "founders": [
+        "Beerud Sheth"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.gupshup.io",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "messaging",
+        "India"
+      ],
+      "identitySource": {
+        "source": "https://www.gupshup.io",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "verloop",
+      "name": "Verloop.io",
+      "description": "Bengaluru customer-support automation platform for chat and voice agents.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Customer support automation"
+      ],
+      "founded": 2015,
+      "founders": [
+        "Yogesh Agarwal",
+        "Kaushik Subramaniam"
+      ],
+      "headquarters": "Bengaluru, India",
+      "website": "https://verloop.io",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "support",
+        "India"
+      ],
+      "identitySource": {
+        "source": "https://verloop.io",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "yotta",
+      "name": "Yotta",
+      "description": "Indian data-center and sovereign-cloud operator building GPU capacity for domestic AI.",
+      "layers": [
+        "infrastructure-cloud"
+      ],
+      "subdomains": [
+        "GPU cloud providers"
+      ],
+      "founded": 2020,
+      "founders": [
+        "Sunil Gupta"
+      ],
+      "headquarters": "Navi Mumbai, India",
+      "website": "https://yotta.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "cloud",
+        "India"
+      ],
+      "identitySource": {
+        "source": "https://yotta.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "neysa",
+      "name": "Neysa",
+      "description": "Indian AI-cloud company packaging GPU clusters and a model platform for enterprises.",
+      "layers": [
+        "infrastructure-cloud"
+      ],
+      "subdomains": [
+        "GPU cloud providers"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Karan Girotra"
+      ],
+      "headquarters": "Mumbai, India",
+      "website": "https://www.neysa.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "neocloud",
+        "India"
+      ],
+      "identitySource": {
+        "source": "https://www.neysa.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "infosys",
+      "name": "Infosys",
+      "description": "Bengaluru IT-services firm whose Topaz and related tools deliver enterprise AI programs.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Workflow automation",
+        "Document intelligence"
+      ],
+      "founded": 1981,
+      "founders": [
+        "N. R. Narayana Murthy",
+        "Nandan Nilekani"
+      ],
+      "headquarters": "Bengaluru, India",
+      "website": "https://www.infosys.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "services",
+        "India",
+        "public"
+      ],
+      "identitySource": {
+        "source": "https://www.infosys.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "tcs",
+      "name": "TCS",
+      "description": "Tata Consultancy Services, India's largest IT firm, shipping enterprise AI and agent platforms.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Workflow automation"
+      ],
+      "founded": 1968,
+      "founders": [
+        "Tata Group"
+      ],
+      "headquarters": "Mumbai, India",
+      "website": "https://www.tcs.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "services",
+        "India",
+        "public"
+      ],
+      "fullName": "Tata Consultancy Services",
+      "identitySource": {
+        "source": "https://www.tcs.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "betterfly",
+      "name": "Betterfly",
+      "description": "Santiago benefits platform that uses data and AI to personalize insurance and wellness.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Insurance underwriting"
+      ],
+      "founded": 2018,
+      "founders": [
+        "Eduardo della Maggiora"
+      ],
+      "headquarters": "Santiago, Chile",
+      "website": "https://betterfly.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "LatAm",
+        "insurance"
+      ],
+      "identitySource": {
+        "source": "https://betterfly.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "xepelin",
+      "name": "Xepelin",
+      "description": "Santiago/Mexico City B2B finance company that underwrites invoices with machine learning.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Finance & trading"
+      ],
+      "founded": 2019,
+      "founders": [
+        "Sebastián Kreis",
+        "Nicolás Huidobro"
+      ],
+      "headquarters": "Santiago, Chile",
+      "website": "https://www.xepelin.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "LatAm",
+        "finance"
+      ],
+      "identitySource": {
+        "source": "https://www.xepelin.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "clip",
+      "name": "Clip",
+      "description": "Mexico City payments company that uses ML for underwriting, fraud, and merchant tools.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Finance & trading"
+      ],
+      "founded": 2012,
+      "founders": [
+        "Adolfo Babatz"
+      ],
+      "headquarters": "Mexico City, Mexico",
+      "website": "https://www.clip.mx",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "LatAm",
+        "payments"
+      ],
+      "identitySource": {
+        "source": "https://www.clip.mx",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "konfio",
+      "name": "Konfío",
+      "description": "Mexico City SME lender that scores credit with alternative data and machine learning.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Finance & trading"
+      ],
+      "founded": 2013,
+      "founders": [
+        "David Arana",
+        "Francisco Padilla"
+      ],
+      "headquarters": "Mexico City, Mexico",
+      "website": "https://konfio.mx",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "LatAm",
+        "credit"
+      ],
+      "identitySource": {
+        "source": "https://konfio.mx",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "uala",
+      "name": "Ualá",
+      "description": "Buenos Aires neobank that uses models for credit, fraud, and personal finance.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Finance & trading"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Pierpaolo Barbieri"
+      ],
+      "headquarters": "Buenos Aires, Argentina",
+      "website": "https://www.uala.com.ar",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "LatAm",
+        "finance"
+      ],
+      "identitySource": {
+        "source": "https://www.uala.com.ar",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "ifood",
+      "name": "iFood",
+      "description": "Brazilian food-delivery platform that runs large-scale recommendation, logistics, and support models.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Workflow automation"
+      ],
+      "founded": 2011,
+      "founders": [
+        "Patrick Sigrist"
+      ],
+      "headquarters": "Osasco, Brazil",
+      "website": "https://www.ifood.com.br",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "LatAm",
+        "logistics"
+      ],
+      "identitySource": {
+        "source": "https://www.ifood.com.br",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "nowports",
+      "name": "Nowports",
+      "description": "Monterrey digital freight forwarder that uses AI for quoting, tracking, and operations.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Workflow automation"
+      ],
+      "founded": 2018,
+      "founders": [
+        "Alfonso Avila"
+      ],
+      "headquarters": "Monterrey, Mexico",
+      "website": "https://nowports.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "LatAm",
+        "logistics"
+      ],
+      "identitySource": {
+        "source": "https://nowports.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "a3data",
+      "name": "A3Data",
+      "description": "Belo Horizonte data-and-AI consultancy that builds platforms for Brazilian industry.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Document intelligence"
+      ],
+      "founded": 2012,
+      "founders": [
+        "A3Data founding team"
+      ],
+      "headquarters": "Belo Horizonte, Brazil",
+      "website": "https://a3data.com.br",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "LatAm",
+        "services"
+      ],
+      "identitySource": {
+        "source": "https://a3data.com.br",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "smallest-ai",
+      "name": "Smallest.ai",
+      "description": "Indian voice-AI company building low-latency speech models for agents.",
+      "layers": [
+        "models-audio"
+      ],
+      "subdomains": [
+        "Text-to-speech & voice cloning"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Sudhanshu Gautam"
+      ],
+      "headquarters": "Bengaluru, India",
+      "website": "https://smallest.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "speech",
+        "India"
+      ],
+      "identitySource": {
+        "source": "https://smallest.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "gan-ai",
+      "name": "Gan.AI",
+      "description": "Indian personalization company that generates custom video and voice at scale.",
+      "layers": [
+        "apps-creative"
+      ],
+      "subdomains": [
+        "Video editing & effects",
+        "Voice & dubbing"
+      ],
+      "founded": 2021,
+      "founders": [
+        "Arnav Gupta"
+      ],
+      "headquarters": "Bengaluru, India",
+      "website": "https://gan.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "video",
+        "India"
+      ],
+      "identitySource": {
+        "source": "https://gan.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    }
+  ]
+}
