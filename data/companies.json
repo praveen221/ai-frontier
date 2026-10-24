@@ -45,6 +45,13 @@
           "founded",
           "headquarters"
         ]
+      },
+      "revenue": {
+        "amount": "$90.08B",
+        "period": "FY2024",
+        "source": "https://investor.tsmc.com/static/annualReports/2024/english/index.html",
+        "date": "2024-12-31",
+        "notes": "Consolidated revenue in US dollar terms"
       }
     },
     {
@@ -91,6 +98,13 @@
           "founded",
           "headquarters"
         ]
+      },
+      "revenue": {
+        "amount": "€28.3B",
+        "period": "FY2024",
+        "source": "https://www.asml.com/en/news/press-releases/2025/q4-2024-financial-results",
+        "date": "2025-01-29",
+        "notes": "Total net sales €28,263 million"
       }
     },
     {
@@ -142,6 +156,13 @@
           "founded",
           "headquarters"
         ]
+      },
+      "revenue": {
+        "amount": "$130.5B",
+        "period": "FY2025 ended Jan 26, 2025",
+        "source": "https://investor.nvidia.com/news/press-release-details/2025/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2025/default.aspx",
+        "date": "2025-02-26",
+        "notes": "GAAP revenue $130,497 million"
       }
     },
     {
@@ -189,6 +210,13 @@
           "founded",
           "headquarters"
         ]
+      },
+      "revenue": {
+        "amount": "$25.8B",
+        "period": "FY2024",
+        "source": "https://ir.amd.com/news-events/press-releases/detail/1236/amd-reports-fourth-quarter-and-full-year-2024-financial-results",
+        "date": "2025-02-04",
+        "notes": "GAAP revenue $25,785 million"
       }
     },
     {
@@ -287,15 +315,14 @@
       "headquarters": "Mountain View, CA, USA",
       "website": "https://groq.com",
       "funding": {
-        "total": "$1.1B",
-        "stage": "Series D",
+        "total": "$350M",
+        "stage": "Series A",
         "investors": [
-          "BlackRock",
-          "Cisco",
-          "Samsung"
+          "Disruptive",
+          "NVIDIA"
         ],
-        "source": "https://techcrunch.com/2024/08/05/groq-raises-640m-series-d/",
-        "date": "2024-08-05"
+        "source": "https://groq.com/newsroom/groq-closes-usd350-million-series-a-building-the-world-s-leading-ai-inference-cloud",
+        "date": "2026-08-17"
       },
       "tags": [
         "LPU",
@@ -312,6 +339,12 @@
           "founders",
           "founded"
         ]
+      },
+      "valuation": {
+        "amount": "$3.5B",
+        "date": "2026-08-17",
+        "source": "https://groq.com/newsroom/groq-closes-usd350-million-series-a-building-the-world-s-leading-ai-inference-cloud",
+        "notes": "Valuation at August 2026 Series A"
       }
     },
     {
@@ -563,15 +596,15 @@
       "headquarters": "Roseland, NJ, USA",
       "website": "https://www.coreweave.com",
       "funding": {
-        "total": "$12.7B",
-        "stage": "Debt + Equity",
+        "total": "$1.1B",
+        "stage": "Series C",
         "investors": [
           "Magnetar Capital",
           "Blackstone",
           "Coatue"
         ],
-        "source": "https://techcrunch.com/2024/05/28/coreweave-raises-1-1b/",
-        "date": "2024-05-28"
+        "source": "https://www.coreweave.com/blog/coreweave-secures-1-1-billion-in-series-c-funding-to-drive-the-next-generation-of-cloud-computing-for-the-future-of-ai",
+        "date": "2026-10-02"
       },
       "valuation": {
         "amount": "$19B",
@@ -669,10 +702,10 @@
         "date": "2024-05-01"
       },
       "valuation": {
-        "amount": "$14B",
-        "date": "2024-05-01",
-        "source": "https://techcrunch.com/2024/05/01/scale-ai-raises-1b/",
-        "notes": "Valuation at Series F"
+        "amount": ">$29B",
+        "date": "2025-06-12",
+        "source": "https://scale.com/blog/scale-ai-announces-next-phase-of-company-evolution",
+        "notes": "Valuation at Meta investment"
       },
       "tags": [
         "data labeling",
@@ -940,22 +973,23 @@
       "headquarters": "San Francisco, CA, USA",
       "website": "https://openai.com",
       "funding": {
-        "total": "$21.9B",
+        "total": "$122B",
         "stage": "Venture",
         "investors": [
-          "Microsoft",
-          "Thrive Capital",
+          "Amazon",
+          "NVIDIA",
           "SoftBank",
-          "NVIDIA"
+          "Microsoft",
+          "Andreessen Horowitz"
         ],
-        "source": "https://openai.com/index/openai-announces-new-funding/",
-        "date": "2024-10-02"
+        "source": "https://openai.com/index/accelerating-the-next-phase-ai/",
+        "date": "2026-03-31"
       },
       "valuation": {
-        "amount": "$157B",
-        "date": "2024-10-02",
-        "source": "https://openai.com/index/openai-announces-new-funding/",
-        "notes": "Post-money valuation"
+        "amount": "$852B",
+        "date": "2026-03-31",
+        "source": "https://openai.com/index/accelerating-the-next-phase-ai/",
+        "notes": "Post-money; $122B committed capital"
       },
       "tags": [
         "frontier lab",
@@ -998,16 +1032,17 @@
       "headquarters": "San Francisco, CA, USA",
       "website": "https://www.anthropic.com",
       "funding": {
-        "total": "$9.7B",
-        "stage": "Series D",
+        "total": "$65B",
+        "stage": "Series H",
         "investors": [
-          "Amazon",
-          "Google",
-          "Spark Capital",
-          "Salesforce Ventures"
+          "Altimeter Capital",
+          "Dragoneer",
+          "Greenoaks",
+          "Sequoia Capital",
+          "Amazon"
         ],
-        "source": "https://techcrunch.com/2024/11/22/anthropic-raises-4b/",
-        "date": "2024-11-22"
+        "source": "https://www.anthropic.com/news/series-h",
+        "date": "2026-05-28"
       },
       "tags": [
         "frontier lab",
@@ -1026,6 +1061,19 @@
           "founded",
           "headquarters"
         ]
+      },
+      "valuation": {
+        "amount": "$965B",
+        "date": "2026-05-28",
+        "source": "https://www.anthropic.com/news/series-h",
+        "notes": "Post-money at Series H"
+      },
+      "revenue": {
+        "amount": "$47B run-rate",
+        "period": "May 2026",
+        "source": "https://www.anthropic.com/news/series-h",
+        "date": "2026-05-28",
+        "notes": "Company-stated run-rate revenue"
       }
     },
     {
@@ -1091,17 +1139,19 @@
       "headquarters": "San Francisco, CA, USA",
       "website": "https://x.ai",
       "funding": {
-        "total": "$6B",
-        "stage": "Series C",
+        "total": "$20B",
+        "stage": "Series E",
         "investors": [
-          "Andreessen Horowitz",
-          "Sequoia Capital",
-          "Fidelity",
           "Valor Equity Partners",
-          "MGX"
+          "Stepstone Group",
+          "Fidelity Management & Research Company",
+          "Qatar Investment Authority",
+          "MGX",
+          "NVIDIA",
+          "Cisco Investments"
         ],
-        "source": "https://x.ai/news/series-c",
-        "date": "2024-12-23"
+        "source": "https://x.ai/news/series-e",
+        "date": "2026-01-06"
       },
       "tags": [
         "frontier lab",
@@ -1182,22 +1232,23 @@
       "headquarters": "Paris, France",
       "website": "https://mistral.ai",
       "funding": {
-        "total": "$1.15B",
-        "stage": "Series B",
+        "total": "€3B",
+        "stage": "Series D",
         "investors": [
-          "General Catalyst",
-          "Lightspeed Venture Partners",
-          "Andreessen Horowitz",
+          "Samsung Electronics",
+          "Scaleup Europe Fund",
+          "PSG Equity",
+          "ASML",
           "NVIDIA"
         ],
-        "source": "https://mistral.ai/news/mistral-series-b/",
-        "date": "2024-06-11"
+        "source": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+        "date": "2026-09-08"
       },
       "valuation": {
-        "amount": "$6.2B",
-        "date": "2024-06-11",
-        "source": "https://mistral.ai/news/mistral-series-b/",
-        "notes": "Post-money valuation at Series B"
+        "amount": ">€21B",
+        "date": "2026-09-08",
+        "source": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+        "notes": "Post-money at Series D"
       },
       "tags": [
         "open-source",
@@ -1282,22 +1333,22 @@
       "headquarters": "Toronto, Canada",
       "website": "https://cohere.com",
       "funding": {
-        "total": "$1B",
-        "stage": "Series D",
+        "total": "$500M",
+        "stage": "Venture",
         "investors": [
           "PSP Investments",
           "NVIDIA",
           "Salesforce Ventures",
           "Oracle"
         ],
-        "source": "https://cohere.com/blog/series-d",
-        "date": "2024-06-05"
+        "source": "https://cohere.com/blog/august-2025-funding-round",
+        "date": "2025-08-14"
       },
       "valuation": {
-        "amount": "$5.5B",
-        "date": "2024-06-05",
-        "source": "https://cohere.com/blog/series-d",
-        "notes": "Post-money valuation at Series D"
+        "amount": "$6.8B",
+        "date": "2025-08-14",
+        "source": "https://cohere.com/blog/august-2025-funding-round",
+        "notes": "Valuation at August 2025 round"
       },
       "tags": [
         "enterprise",
@@ -1898,15 +1949,17 @@
       "headquarters": "San Francisco, CA, USA",
       "website": "https://www.together.ai",
       "funding": {
-        "total": "$123.5M",
-        "stage": "Series A",
+        "total": "$800M",
+        "stage": "Series C",
         "investors": [
-          "Kleiner Perkins",
+          "Aramco Ventures",
           "NVIDIA",
-          "Salesforce Ventures"
+          "Vista Equity",
+          "General Catalyst",
+          "Emergence Capital"
         ],
-        "source": "https://www.together.ai/blog/series-a",
-        "date": "2023-11-29"
+        "source": "https://www.together.ai/blog/announcing-our-series-c",
+        "date": "2026-07-01"
       },
       "tags": [
         "inference",
@@ -1943,15 +1996,16 @@
       "headquarters": "San Francisco, CA, USA",
       "website": "https://fireworks.ai",
       "funding": {
-        "total": "$77M",
-        "stage": "Series A",
+        "total": "$1.505B",
+        "stage": "Series D",
         "investors": [
-          "Sequoia Capital",
-          "NVIDIA",
-          "AMD Ventures"
+          "Atreides Management",
+          "Index Ventures",
+          "TCV",
+          "NVIDIA"
         ],
-        "source": "https://fireworks.ai/blog/series-a",
-        "date": "2024-02-27"
+        "source": "https://fireworks.ai/blog/fireworks-series-d-funding",
+        "date": "2026-07-15"
       },
       "tags": [
         "inference",
@@ -1967,6 +2021,19 @@
           "founders",
           "founded"
         ]
+      },
+      "valuation": {
+        "amount": "$17.5B",
+        "date": "2026-07-15",
+        "source": "https://fireworks.ai/blog/fireworks-series-d-funding",
+        "notes": "Valuation at Series D"
+      },
+      "revenue": {
+        "amount": "$1B run-rate",
+        "period": "July 2026",
+        "source": "https://fireworks.ai/blog/fireworks-series-d-funding",
+        "date": "2026-07-15",
+        "notes": "Company-stated annualized revenue run rate"
       }
     },
     {
@@ -2217,15 +2284,18 @@
       "headquarters": "San Francisco, CA, USA",
       "website": "https://www.cursor.com",
       "funding": {
-        "total": "$60M",
-        "stage": "Series A",
+        "total": "$2.3B",
+        "stage": "Series D",
         "investors": [
+          "Accel",
+          "Thrive",
           "Andreessen Horowitz",
-          "Thrive Capital",
-          "OpenAI"
+          "Coatue",
+          "NVIDIA",
+          "Google"
         ],
-        "source": "https://cursor.com/blog/series-a",
-        "date": "2024-08-22"
+        "source": "https://cursor.com/blog/series-d",
+        "date": "2025-11-13"
       },
       "tags": [
         "code editor",
@@ -2242,6 +2312,19 @@
           "founders",
           "founded"
         ]
+      },
+      "valuation": {
+        "amount": "$29.3B",
+        "date": "2025-11-13",
+        "source": "https://cursor.com/blog/series-d",
+        "notes": "Post-money at Series D"
+      },
+      "revenue": {
+        "amount": "$1B run-rate",
+        "period": "November 2025",
+        "source": "https://cursor.com/blog/series-d",
+        "date": "2025-11-13",
+        "notes": "Company-stated annualized revenue"
       }
     },
     {
@@ -2734,7 +2817,6 @@
         "data-platforms"
       ],
       "subdomains": [
-        "Data pipelines & ETL",
         "Data pipelines & ETL"
       ],
       "founded": 2013,
@@ -2749,21 +2831,23 @@
       "headquarters": "San Francisco, CA, USA",
       "website": "https://www.databricks.com",
       "funding": {
-        "total": "$4B",
-        "stage": "Series I",
+        "total": ">$4B",
+        "stage": "Series L",
         "investors": [
           "Insight Partners",
+          "Fidelity Management & Research Company",
+          "J.P. Morgan Asset Management",
           "Andreessen Horowitz",
-          "Coatue"
+          "Thrive Capital"
         ],
-        "source": "https://databricks.com/company/newsroom/press-releases/databricks-raises-series-i",
-        "date": "2023-09-14"
+        "source": "https://www.databricks.com/company/newsroom/press-releases/databricks-surpasses-4-8b-revenue-run-rate-growing-55-year-over-year",
+        "date": "2025-12-16"
       },
       "valuation": {
-        "amount": "$43B",
-        "date": "2023-09-14",
-        "source": "https://databricks.com/company/newsroom/press-releases/databricks-raises-series-i",
-        "notes": "Valuation at Series I"
+        "amount": "$134B",
+        "date": "2025-12-16",
+        "source": "https://www.databricks.com/company/newsroom/press-releases/databricks-surpasses-4-8b-revenue-run-rate-growing-55-year-over-year",
+        "notes": "Valuation at Series L"
       },
       "tags": [
         "lakehouse",
@@ -2781,6 +2865,13 @@
           "founded",
           "headquarters"
         ]
+      },
+      "revenue": {
+        "amount": "$4.8B run-rate",
+        "period": "Q3 (announced Dec 16, 2025)",
+        "source": "https://www.databricks.com/company/newsroom/press-releases/databricks-surpasses-4-8b-revenue-run-rate-growing-55-year-over-year",
+        "date": "2025-12-16",
+        "notes": "Company-stated revenue run-rate"
       }
     },
     {

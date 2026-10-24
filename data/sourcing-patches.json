@@ -1,0 +1,352 @@
+{
+  "companies": [
+    {
+      "id": "openai",
+      "funding": {
+        "total": "$122B",
+        "stage": "Venture",
+        "investors": ["Amazon", "NVIDIA", "SoftBank", "Microsoft", "Andreessen Horowitz"],
+        "source": "https://openai.com/index/accelerating-the-next-phase-ai/",
+        "date": "2026-03-31"
+      },
+      "valuation": {
+        "amount": "$852B",
+        "date": "2026-03-31",
+        "source": "https://openai.com/index/accelerating-the-next-phase-ai/",
+        "notes": "Post-money; $122B committed capital"
+      }
+    },
+    {
+      "id": "anthropic",
+      "funding": {
+        "total": "$65B",
+        "stage": "Series H",
+        "investors": ["Altimeter Capital", "Dragoneer", "Greenoaks", "Sequoia Capital", "Amazon"],
+        "source": "https://www.anthropic.com/news/series-h",
+        "date": "2026-05-28"
+      },
+      "valuation": {
+        "amount": "$965B",
+        "date": "2026-05-28",
+        "source": "https://www.anthropic.com/news/series-h",
+        "notes": "Post-money at Series H"
+      },
+      "revenue": {
+        "amount": "$47B run-rate",
+        "period": "May 2026",
+        "source": "https://www.anthropic.com/news/series-h",
+        "date": "2026-05-28",
+        "notes": "Company-stated run-rate revenue"
+      }
+    },
+    {
+      "id": "xai",
+      "funding": {
+        "total": "$20B",
+        "stage": "Series E",
+        "investors": [
+          "Valor Equity Partners",
+          "Stepstone Group",
+          "Fidelity Management & Research Company",
+          "Qatar Investment Authority",
+          "MGX",
+          "NVIDIA",
+          "Cisco Investments"
+        ],
+        "source": "https://x.ai/news/series-e",
+        "date": "2026-01-06"
+      }
+    },
+    {
+      "id": "databricks",
+      "funding": {
+        "total": ">$4B",
+        "stage": "Series L",
+        "investors": [
+          "Insight Partners",
+          "Fidelity Management & Research Company",
+          "J.P. Morgan Asset Management",
+          "Andreessen Horowitz",
+          "Thrive Capital"
+        ],
+        "source": "https://www.databricks.com/company/newsroom/press-releases/databricks-surpasses-4-8b-revenue-run-rate-growing-55-year-over-year",
+        "date": "2025-12-16"
+      },
+      "valuation": {
+        "amount": "$134B",
+        "date": "2025-12-16",
+        "source": "https://www.databricks.com/company/newsroom/press-releases/databricks-surpasses-4-8b-revenue-run-rate-growing-55-year-over-year",
+        "notes": "Valuation at Series L"
+      },
+      "revenue": {
+        "amount": "$4.8B run-rate",
+        "period": "Q3 (announced Dec 16, 2025)",
+        "source": "https://www.databricks.com/company/newsroom/press-releases/databricks-surpasses-4-8b-revenue-run-rate-growing-55-year-over-year",
+        "date": "2025-12-16",
+        "notes": "Company-stated revenue run-rate"
+      }
+    },
+    {
+      "id": "nvidia",
+      "revenue": {
+        "amount": "$130.5B",
+        "period": "FY2025 ended Jan 26, 2025",
+        "source": "https://investor.nvidia.com/news/press-release-details/2025/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2025/default.aspx",
+        "date": "2025-02-26",
+        "notes": "GAAP revenue $130,497 million"
+      }
+    },
+    {
+      "id": "amd",
+      "revenue": {
+        "amount": "$25.8B",
+        "period": "FY2024",
+        "source": "https://ir.amd.com/news-events/press-releases/detail/1236/amd-reports-fourth-quarter-and-full-year-2024-financial-results",
+        "date": "2025-02-04",
+        "notes": "GAAP revenue $25,785 million"
+      }
+    },
+    {
+      "id": "intel",
+      "revenue": {
+        "amount": "$53.1B",
+        "period": "FY2024",
+        "source": "https://www.intc.com/news-events/press-releases/detail/1726/intel-reports-fourth-quarter-and-full-year-2024-financial",
+        "date": "2025-01-30"
+      }
+    },
+    {
+      "id": "broadcom",
+      "revenue": {
+        "amount": "$51.6B",
+        "period": "FY2024 ended Nov 3, 2024",
+        "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2024",
+        "date": "2024-12-12",
+        "notes": "GAAP net revenue $51,574 million"
+      }
+    },
+    {
+      "id": "tsmc",
+      "revenue": {
+        "amount": "$90.08B",
+        "period": "FY2024",
+        "source": "https://investor.tsmc.com/static/annualReports/2024/english/index.html",
+        "date": "2024-12-31",
+        "notes": "Consolidated revenue in US dollar terms"
+      }
+    },
+    {
+      "id": "asml",
+      "revenue": {
+        "amount": "€28.3B",
+        "period": "FY2024",
+        "source": "https://www.asml.com/en/news/press-releases/2025/q4-2024-financial-results",
+        "date": "2025-01-29",
+        "notes": "Total net sales €28,263 million"
+      }
+    },
+    {
+      "id": "apple",
+      "revenue": {
+        "amount": "$391.0B",
+        "period": "FY2024 ended Sep 28, 2024",
+        "source": "https://www.apple.com/newsroom/pdfs/fy2024-q4/FY24_Q4_Consolidated_Financial_Statements.pdf",
+        "date": "2024-10-31",
+        "notes": "GAAP net sales $391,035 million"
+      },
+      "identitySource": {
+        "source": "https://www.apple.com/newsroom/2024/10/apple-reports-fourth-quarter-results/",
+        "date": "2024-10-31",
+        "fields": ["headquarters"]
+      }
+    },
+    {
+      "id": "tesla",
+      "revenue": {
+        "amount": "$97.7B",
+        "period": "FY2024",
+        "source": "https://ir.tesla.com/_flysystem/s3/sec/000162828025002993/tsla-20250129-gen.pdf",
+        "date": "2025-01-29",
+        "notes": "Total revenues $97,690 million"
+      }
+    },
+    {
+      "id": "palantir",
+      "revenue": {
+        "amount": "$2.87B",
+        "period": "FY2024",
+        "source": "https://investors.palantir.com/news-details/2025/Palantir-Reports-Q4-2024-Revenue-Growth-of-36-YY",
+        "date": "2025-02-03",
+        "notes": "GAAP revenue $2,865.5 million"
+      }
+    },
+    {
+      "id": "snowflake",
+      "revenue": {
+        "amount": "$2.67B",
+        "period": "FY2024 ended Jan 31, 2024",
+        "source": "https://www.snowflake.com/en/news/press-releases/snowflake-reports-financial-results-for-the-fourth-quarter-and-full-year-of-fiscal-2024/",
+        "date": "2024-02-28",
+        "notes": "Product revenue $2,666.8 million"
+      }
+    },
+    {
+      "id": "qualcomm",
+      "revenue": {
+        "amount": "$39.0B",
+        "period": "FY2024 ended Sep 29, 2024",
+        "source": "https://s204.q4cdn.com/645488518/files/doc_financials/2024/q4/FY2024-4th-Quarter-Earnings-Release.pdf",
+        "date": "2024-11-06",
+        "notes": "GAAP revenues $38,962 million"
+      }
+    },
+    {
+      "id": "groq",
+      "funding": {
+        "total": "$350M",
+        "stage": "Series A",
+        "investors": ["Disruptive", "NVIDIA"],
+        "source": "https://groq.com/newsroom/groq-closes-usd350-million-series-a-building-the-world-s-leading-ai-inference-cloud",
+        "date": "2026-08-17"
+      },
+      "valuation": {
+        "amount": "$3.5B",
+        "date": "2026-08-17",
+        "source": "https://groq.com/newsroom/groq-closes-usd350-million-series-a-building-the-world-s-leading-ai-inference-cloud",
+        "notes": "Valuation at August 2026 Series A"
+      }
+    },
+    {
+      "id": "cohere",
+      "funding": {
+        "total": "$500M",
+        "stage": "Venture",
+        "investors": ["PSP Investments", "NVIDIA", "Salesforce Ventures", "Oracle"],
+        "source": "https://cohere.com/blog/august-2025-funding-round",
+        "date": "2025-08-14"
+      },
+      "valuation": {
+        "amount": "$6.8B",
+        "date": "2025-08-14",
+        "source": "https://cohere.com/blog/august-2025-funding-round",
+        "notes": "Valuation at August 2025 round"
+      }
+    },
+    {
+      "id": "mistral-ai",
+      "funding": {
+        "total": "€3B",
+        "stage": "Series D",
+        "investors": ["Samsung Electronics", "Scaleup Europe Fund", "PSG Equity", "ASML", "NVIDIA"],
+        "source": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+        "date": "2026-09-08"
+      },
+      "valuation": {
+        "amount": ">€21B",
+        "date": "2026-09-08",
+        "source": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+        "notes": "Post-money at Series D"
+      }
+    },
+    {
+      "id": "scale-ai",
+      "valuation": {
+        "amount": ">$29B",
+        "date": "2025-06-12",
+        "source": "https://scale.com/blog/scale-ai-announces-next-phase-of-company-evolution",
+        "notes": "Valuation at Meta investment"
+      }
+    },
+    {
+      "id": "together-ai",
+      "funding": {
+        "total": "$800M",
+        "stage": "Series C",
+        "investors": [
+          "Aramco Ventures",
+          "NVIDIA",
+          "Vista Equity",
+          "General Catalyst",
+          "Emergence Capital"
+        ],
+        "source": "https://www.together.ai/blog/announcing-our-series-c",
+        "date": "2026-07-01"
+      }
+    },
+    {
+      "id": "fireworks-ai",
+      "funding": {
+        "total": "$1.505B",
+        "stage": "Series D",
+        "investors": ["Atreides Management", "Index Ventures", "TCV", "NVIDIA"],
+        "source": "https://fireworks.ai/blog/fireworks-series-d-funding",
+        "date": "2026-07-15"
+      },
+      "valuation": {
+        "amount": "$17.5B",
+        "date": "2026-07-15",
+        "source": "https://fireworks.ai/blog/fireworks-series-d-funding",
+        "notes": "Valuation at Series D"
+      },
+      "revenue": {
+        "amount": "$1B run-rate",
+        "period": "July 2026",
+        "source": "https://fireworks.ai/blog/fireworks-series-d-funding",
+        "date": "2026-07-15",
+        "notes": "Company-stated annualized revenue run rate"
+      }
+    },
+    {
+      "id": "coreweave",
+      "funding": {
+        "total": "$1.1B",
+        "stage": "Series C",
+        "source": "https://www.coreweave.com/blog/coreweave-secures-1-1-billion-in-series-c-funding-to-drive-the-next-generation-of-cloud-computing-for-the-future-of-ai",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "id": "arm",
+      "revenue": {
+        "amount": "$4.01B",
+        "period": "FY2025 ended Mar 31, 2025",
+        "source": "https://investors.arm.com/static-files/219a3b28-f209-4d74-8bc6-f9e026d55a95",
+        "date": "2025-03-31",
+        "notes": "Group revenue $4,007 million"
+      }
+    },
+    {
+      "id": "applied-materials",
+      "revenue": {
+        "amount": "$28.37B",
+        "period": "FY2025",
+        "source": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-announces-fourth-quarter-and-fiscal-year-2025/",
+        "date": "2025-11-13",
+        "notes": "Net revenue $28,368 million"
+      }
+    },
+    {
+      "id": "cursor",
+      "funding": {
+        "total": "$2.3B",
+        "stage": "Series D",
+        "investors": ["Accel", "Thrive", "Andreessen Horowitz", "Coatue", "NVIDIA", "Google"],
+        "source": "https://cursor.com/blog/series-d",
+        "date": "2025-11-13"
+      },
+      "valuation": {
+        "amount": "$29.3B",
+        "date": "2025-11-13",
+        "source": "https://cursor.com/blog/series-d",
+        "notes": "Post-money at Series D"
+      },
+      "revenue": {
+        "amount": "$1B run-rate",
+        "period": "November 2025",
+        "source": "https://cursor.com/blog/series-d",
+        "date": "2025-11-13",
+        "notes": "Company-stated annualized revenue"
+      }
+    }
+  ]
+}

@@ -204,6 +204,13 @@
           "founded",
           "headquarters"
         ]
+      },
+      "revenue": {
+        "amount": "$97.7B",
+        "period": "FY2024",
+        "source": "https://ir.tesla.com/_flysystem/s3/sec/000162828025002993/tsla-20250129-gen.pdf",
+        "date": "2025-01-29",
+        "notes": "Total revenues $97,690 million"
       }
     },
     {
@@ -307,7 +314,21 @@
         "on-device",
         "Apple Silicon",
         "public"
-      ]
+      ],
+      "revenue": {
+        "amount": "$391.0B",
+        "period": "FY2024 ended Sep 28, 2024",
+        "source": "https://www.apple.com/newsroom/pdfs/fy2024-q4/FY24_Q4_Consolidated_Financial_Statements.pdf",
+        "date": "2024-10-31",
+        "notes": "GAAP net sales $391,035 million"
+      },
+      "identitySource": {
+        "source": "https://www.apple.com/newsroom/2024/10/apple-reports-fourth-quarter-results/",
+        "date": "2024-10-31",
+        "fields": [
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "qualcomm",
@@ -339,7 +360,14 @@
         "mobile",
         "NPU",
         "public"
-      ]
+      ],
+      "revenue": {
+        "amount": "$39.0B",
+        "period": "FY2024 ended Sep 29, 2024",
+        "source": "https://s204.q4cdn.com/645488518/files/doc_financials/2024/q4/FY2024-4th-Quarter-Earnings-Release.pdf",
+        "date": "2024-11-06",
+        "notes": "GAAP revenues $38,962 million"
+      }
     },
     {
       "id": "intel",
@@ -373,7 +401,13 @@
         "Gaudi",
         "foundry",
         "public"
-      ]
+      ],
+      "revenue": {
+        "amount": "$53.1B",
+        "period": "FY2024",
+        "source": "https://www.intc.com/news-events/press-releases/detail/1726/intel-reports-fourth-quarter-and-full-year-2024-financial",
+        "date": "2025-01-30"
+      }
     },
     {
       "id": "anyscale",
@@ -483,7 +517,14 @@
         "AIP",
         "enterprise",
         "public"
-      ]
+      ],
+      "revenue": {
+        "amount": "$2.87B",
+        "period": "FY2024",
+        "source": "https://investors.palantir.com/news-details/2025/Palantir-Reports-Q4-2024-Revenue-Growth-of-36-YY",
+        "date": "2025-02-03",
+        "notes": "GAAP revenue $2,865.5 million"
+      }
     },
     {
       "id": "stanford-hai",
