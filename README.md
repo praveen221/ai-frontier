@@ -20,7 +20,8 @@ Search is client-side (⌘K). Theme follows the system and can be toggled.
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for the record shape and accuracy rules.
 
 - `data/taxonomy.json` — non-overlapping layers, bottom-up
-- `data/companies.json` — current catalog (may later split into `data/companies/*.json`)
+- `data/companies.json` — seed catalog
+- `data/companies/*.json` — extra records, one file per batch/layer (merged at build time)
 
 ```bash
 npm run validate
