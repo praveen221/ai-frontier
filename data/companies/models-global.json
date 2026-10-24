@@ -317,14 +317,33 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "RMB5.0B",
+        "stage": "Series A",
+        "investors": [
+          "Alibaba",
+          "Xiaomi",
+          "Tencent",
+          "Asia Investment Capital",
+          "CICC",
+          "Beijing AI Industry Fund",
+          "Shanghai AI Industry Fund",
+          "Shenzhen Capital Group"
+        ],
+        "source": "https://www.cls.cn/detail/1744649",
+        "date": "2024-07-25"
       },
       "tags": [
         "China",
         "open-weight"
-      ]
+      ],
+      "identitySource": {
+        "source": "https://www.cls.cn/detail/1744649",
+        "date": "2024-07-25",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
     },
     {
       "id": "tencent-hunyuan",

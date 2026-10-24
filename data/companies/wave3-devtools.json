@@ -21,9 +21,19 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$18M",
+        "stage": "Series A",
+        "investors": [
+          "Insight Partners",
+          "boldstart ventures",
+          "Blitzscaling Ventures",
+          "Craft Ventures",
+          "Earl Grey Capital",
+          "Andrew Ng",
+          "Dharmesh Shah"
+        ],
+        "source": "https://www.globenewswire.com/news-release/2024/10/22/2966872/0/en/crewai-launches-multi-agentic-platform-to-deliver-on-the-promise-of-generative-ai-for-enterprise.html",
+        "date": "2024-10-22"
       },
       "tags": [
         "agents",
@@ -104,7 +114,7 @@
       "updatedAt": "2026-10-24",
       "funding": {
         "total": null,
-        "stage": "Private",
+        "stage": "Acquired by Cursor",
         "investors": []
       },
       "tags": [
@@ -177,9 +187,20 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$55M",
+        "stage": "Series B",
+        "investors": [
+          "Telstra Ventures",
+          "Atlassian Ventures",
+          "Elaia",
+          "Headline",
+          "Hetz Ventures",
+          "Khosla Ventures",
+          "Qualcomm Ventures",
+          "TPY Capital"
+        ],
+        "source": "https://www.globenewswire.com/news-release/2023/11/08/2776490/0/en/update-tabnine-raises-25-million-from-atlassian-ventures-telstra-ventures-and-more-to-meet-demand-for-enterprise-ready-generative-ai-in-the-software-development-lifecycle.html",
+        "date": "2023-11-08"
       },
       "tags": [
         "coding",
@@ -289,9 +310,16 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$50M",
+        "stage": "Series B",
+        "investors": [
+          "Sequoia Capital",
+          "GV",
+          "Neo",
+          "BoxGroup"
+        ],
+        "source": "https://www.warp.dev/blog/warp-drive-series-b",
+        "date": "2023-06-21"
       },
       "tags": [
         "terminal",
@@ -1200,9 +1228,18 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$584M",
+        "stage": "Series E",
+        "investors": [
+          "Franklin Templeton",
+          "Coatue",
+          "Salesforce Ventures",
+          "Sequoia",
+          "Thrive Capital",
+          "Tiger Global"
+        ],
+        "source": "https://www.gong.io/press/gong-raises-250-million-in-series-e-funding-at-7-25-billion-valuation",
+        "date": "2021-06-03"
       },
       "tags": [
         "sales",
@@ -1215,6 +1252,12 @@
           "founders",
           "founded"
         ]
+      },
+      "valuation": {
+        "amount": "$7.25B",
+        "date": "2021-06-03",
+        "source": "https://www.gong.io/press/gong-raises-250-million-in-series-e-funding-at-7-25-billion-valuation",
+        "notes": "Company-stated Series E valuation"
       }
     },
     {
@@ -1350,9 +1393,13 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$100M",
+        "stage": "Series D",
+        "investors": [
+          "Ontario Teachers' Pension Plan"
+        ],
+        "source": "https://coda.io/@coda/all-in-on-all-in-one-docs",
+        "date": "2021-07-08"
       },
       "tags": [
         "docs"

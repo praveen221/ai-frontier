@@ -189,17 +189,37 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
+        "total": ">$710M",
+        "stage": "Acquired by SoftBank",
         "investors": [
+          "Ontario Teachers' Pension Plan",
+          "Fidelity International",
+          "Schroders",
+          "Baillie Gifford",
+          "Draper Esprit",
           "Sequoia Capital",
-          "SoftBank"
-        ]
+          "Microsoft"
+        ],
+        "source": "https://www.graphcore.ai/posts/graphcore-raises-222-million-in-series-e-funding-round",
+        "date": "2020-12-29"
       },
       "tags": [
         "IPU",
         "UK"
-      ]
+      ],
+      "valuation": {
+        "amount": "$2.77B",
+        "date": "2020-12-29",
+        "source": "https://www.graphcore.ai/posts/graphcore-raises-222-million-in-series-e-funding-round",
+        "notes": "Series E post-money valuation; later acquired by SoftBank on 2024-07-11"
+      },
+      "identitySource": {
+        "source": "https://www.graphcore.ai/posts/graphcore-joins-softbank-group-to-build-next-generation-of-ai-compute",
+        "date": "2024-07-11",
+        "fields": [
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "furiosa",
