@@ -1,15 +1,6 @@
 import Link from 'next/link';
 import type { Company, TaxonomyLayer } from '@/lib/schema';
-
-const GROUPS: { title: string; ids: string[] }[] = [
-  { title: 'Compute', ids: ['chips-silicon', 'fabs-manufacturing', 'infrastructure-cloud', 'systems-software'] },
-  { title: 'Data', ids: ['data-platforms'] },
-  { title: 'Models', ids: ['models-frontier', 'models-open', 'models-small', 'models-image', 'models-video', 'models-audio', 'models-robotics'] },
-  { title: 'Tooling', ids: ['serving-inference', 'dev-tools', 'agents-memory'] },
-  { title: 'Applications', ids: ['apps-coding', 'apps-enterprise', 'apps-vertical', 'apps-creative', 'apps-consumer'] },
-  { title: 'Physical', ids: ['robotics-physical', 'autonomous-systems', 'defense-national-security'] },
-  { title: 'Society', ids: ['safety-security', 'policy-standards', 'research-institutions', 'capital-investors'] },
-];
+import { SHELL, STACK_GROUPS, shortLayerName } from '@/lib/stack';
 
 export function StackMap({
   layers,
@@ -24,22 +15,26 @@ export function StackMap({
   );
 
   return (
-    <section className="border-b border-border">
-      <div className="mx-auto max-w-[1500px] px-4 py-4 sm:px-6">
-        <div className="mb-3 flex items-end justify-between gap-4">
+    <section className="hidden border-b border-border md:block">
+      <div className={`${SHELL} py-7`}>
+        <div className="mb-5 flex items-end justify-between gap-4">
           <div>
-            <p className="text-[11px] uppercase tracking-[0.12em] text-primary">The stack</p>
-            <h2 className="text-sm font-semibold tracking-tight">Bottom-up, no overlapping buckets.</h2>
+            <p className="text-[12px] font-medium uppercase tracking-[0.14em] text-primary">The stack</p>
+            <h2 className="mt-1 text-[17px] font-semibold tracking-[-0.02em]">
+              Bottom-up, no overlapping buckets.
+            </h2>
           </div>
-          <Link href="/taxonomy/" className="text-[12px] text-primary">
+          <Link href="/taxonomy/" className="shrink-0 text-[14px] text-primary hover:underline">
             Full taxonomy →
           </Link>
         </div>
-        <div className="flex gap-2 overflow-x-auto pb-1">
-          {GROUPS.map((group) => (
-            <div key={group.title} className="min-w-[160px] flex-1 rounded-md border border-border px-2.5 py-2">
-              <p className="mb-1 text-[10px] uppercase tracking-[0.08em] text-muted-foreground">{group.title}</p>
-              <ul>
+        <div className="grid grid-cols-2 gap-3 md:grid-cols-4 xl:grid-cols-7">
+          {STACK_GROUPS.map((group) => (
+            <div key={group.title} className="rounded-lg border border-border bg-background px-3 py-3">
+              <p className="mb-2 text-[12px] font-medium uppercase tracking-[0.1em] text-muted-foreground">
+                {group.title}
+              </p>
+              <ul className="space-y-0.5">
                 {group.ids.map((id) => {
                   const layer = byId.get(id);
                   if (!layer) return null;
@@ -47,10 +42,12 @@ export function StackMap({
                     <li key={id}>
                       <Link
                         href={`/layer/${id}/`}
-                        className="flex items-center justify-between gap-2 rounded px-0.5 py-0.5 text-[11px] hover:bg-accent"
+                        className="flex items-center justify-between gap-2 rounded-md px-1 py-1 text-[13px] leading-snug hover:bg-accent"
                       >
-                        <span className="truncate">{layer.name.replace(/^Foundation Models: |^Applications: /, '')}</span>
-                        <span className="font-mono text-[10px] text-muted-foreground">{counts.get(id) ?? 0}</span>
+                        <span className="min-w-0">{shortLayerName(layer.name)}</span>
+                        <span className="shrink-0 font-mono text-[11px] text-muted-foreground">
+                          {counts.get(id) ?? 0}
+                        </span>
                       </Link>
                     </li>
                   );
