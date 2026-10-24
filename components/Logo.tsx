@@ -35,6 +35,8 @@ export function Logo({
       width={size}
       height={size}
       className="shrink-0 rounded-md bg-white"
+      loading="lazy"
+      decoding="async"
       onError={() => setFailed(true)}
     />
   );

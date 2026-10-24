@@ -1,6 +1,5 @@
 import type { Company } from './schema';
-
-export const REPO_URL = 'https://github.com/praveen221/ai-frontier';
+export { REPO_URL, SITE_URL } from './site';
 
 export function logoUrl(website: string): string {
   try {

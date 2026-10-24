@@ -13,15 +13,16 @@ export default function RecentPage() {
   const companies = getCompanies()
     .slice()
     .sort((a, b) => b.updatedAt.localeCompare(a.updatedAt) || b.addedAt.localeCompare(a.addedAt));
+  const recent = companies.slice(0, 48);
 
   return (
-    <main className="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+    <main id="main" className="mx-auto max-w-3xl px-4 py-12 sm:px-6">
       <h1 className="text-3xl font-semibold tracking-tight">Recently added / updated</h1>
       <p className="mt-2 text-sm text-muted-foreground">
-        Driven by each record&apos;s <code>addedAt</code> and <code>updatedAt</code> dates in the data files.
+        The latest {recent.length} records by <code>addedAt</code> / <code>updatedAt</code>.
       </p>
       <ul className="mt-8 divide-y divide-border border-y border-border">
-        {companies.map((company) => (
+        {recent.map((company) => (
           <li key={company.id} className="flex items-start gap-3 py-4">
             <Logo name={company.name} website={company.website} />
             <div>

@@ -7,9 +7,9 @@ export default function HomePage() {
   const layers = getLayers();
 
   return (
-    <>
+    <div id="main">
       <StackMap layers={layers} companies={companies} />
       <Directory companies={companies} layers={layers} />
-    </>
+    </div>
   );
 }

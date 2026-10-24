@@ -59,6 +59,12 @@ export const RevenueSchema = z.object({
   ...SourcedAmount,
 });
 
+export const IdentitySourceSchema = z.object({
+  source: z.string().url(),
+  date: z.string().regex(DATE_RE, 'Use YYYY-MM-DD'),
+  fields: z.array(z.enum(['founders', 'founded', 'headquarters'])).min(1),
+});
+
 export const CompanySchema = z.object({
   id: z
     .string()
@@ -76,6 +82,7 @@ export const CompanySchema = z.object({
   entityType: EntityTypeSchema,
   addedAt: z.string().regex(DATE_RE),
   updatedAt: z.string().regex(DATE_RE),
+  identitySource: IdentitySourceSchema.optional(),
   funding: FundingSchema,
   valuation: ValuationSchema.optional(),
   revenue: RevenueSchema.optional(),
