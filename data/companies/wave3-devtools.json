@@ -1,0 +1,1369 @@
+{
+  "companies": [
+    {
+      "id": "crewai",
+      "name": "CrewAI",
+      "description": "Open-source multi-agent framework and hosted platform for role-based agent crews.",
+      "layers": [
+        "agents-memory"
+      ],
+      "subdomains": [
+        "Agent frameworks (LangChain, CrewAI, etc.)",
+        "Multi-agent systems"
+      ],
+      "founded": 2023,
+      "founders": [
+        "João Moura"
+      ],
+      "headquarters": "Miami, FL, USA",
+      "website": "https://www.crewai.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "agents",
+        "open-source"
+      ],
+      "identitySource": {
+        "source": "https://www.crewai.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "deepset",
+      "name": "deepset",
+      "description": "Berlin company behind Haystack, an open-source framework for search, RAG, and agent pipelines.",
+      "layers": [
+        "agents-memory",
+        "dev-tools"
+      ],
+      "subdomains": [
+        "Agent frameworks (LangChain, CrewAI, etc.)",
+        "Fine-tuning platforms"
+      ],
+      "founded": 2018,
+      "founders": [
+        "Milos Rusic",
+        "Malte Pietsch",
+        "Timo Möller"
+      ],
+      "headquarters": "Berlin, Germany",
+      "website": "https://www.deepset.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "RAG",
+        "Europe",
+        "open-source"
+      ],
+      "identitySource": {
+        "source": "https://www.deepset.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "continue-dev",
+      "name": "Continue",
+      "description": "Open-source AI coding assistant that plugs into VS Code and JetBrains IDEs.",
+      "layers": [
+        "apps-coding"
+      ],
+      "subdomains": [
+        "Code completion",
+        "AI code editors"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Nate Sesti",
+        "Ty Dunn"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://continue.dev",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "coding",
+        "open-source"
+      ],
+      "identitySource": {
+        "source": "https://continue.dev",
+        "date": "2026-10-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "aider",
+      "name": "Aider",
+      "description": "Terminal-based AI pair programmer that edits a local git repo from the command line.",
+      "layers": [
+        "apps-coding"
+      ],
+      "subdomains": [
+        "AI code editors",
+        "Codebase Q&A"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Paul Gauthier"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://aider.chat",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "coding",
+        "open-source"
+      ],
+      "identitySource": {
+        "source": "https://aider.chat",
+        "date": "2026-10-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "tabnine",
+      "name": "Tabnine",
+      "description": "AI code-completion company, now with on-prem and private-model options for enterprises.",
+      "layers": [
+        "apps-coding"
+      ],
+      "subdomains": [
+        "Code completion"
+      ],
+      "founded": 2013,
+      "founders": [
+        "Dror Weiss",
+        "Eran Yahav"
+      ],
+      "headquarters": "Tel Aviv, Israel",
+      "website": "https://www.tabnine.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "coding",
+        "Middle East"
+      ],
+      "identitySource": {
+        "source": "https://www.tabnine.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "amazon-q",
+      "name": "Amazon Q",
+      "description": "AWS's generative assistant for developers and business users, including Q Developer and Q Business.",
+      "layers": [
+        "apps-coding",
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Code completion",
+        "Internal chatbots"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Amazon"
+      ],
+      "headquarters": "Seattle, WA, USA",
+      "website": "https://aws.amazon.com/q/",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Amazon subsidiary",
+        "investors": []
+      },
+      "tags": [
+        "AWS",
+        "coding"
+      ],
+      "identitySource": {
+        "source": "https://aws.amazon.com/q/",
+        "date": "2026-10-24",
+        "fields": [
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "jetbrains-ai",
+      "name": "JetBrains AI",
+      "description": "AI assistant built into IntelliJ, PyCharm, and other JetBrains IDEs.",
+      "layers": [
+        "apps-coding"
+      ],
+      "subdomains": [
+        "Code completion",
+        "AI code editors"
+      ],
+      "founded": 2023,
+      "founders": [
+        "JetBrains"
+      ],
+      "headquarters": "Prague, Czech Republic",
+      "website": "https://www.jetbrains.com/ai/",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "coding",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://www.jetbrains.com",
+        "date": "2026-10-24",
+        "fields": [
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "warp",
+      "name": "Warp",
+      "description": "Rust-based terminal with AI command search, agents, and collaborative workflows.",
+      "layers": [
+        "apps-coding"
+      ],
+      "subdomains": [
+        "AI code editors"
+      ],
+      "founded": 2020,
+      "founders": [
+        "Zach Lloyd"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://www.warp.dev",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "terminal",
+        "coding"
+      ],
+      "identitySource": {
+        "source": "https://www.warp.dev",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "dust",
+      "name": "Dust",
+      "description": "Paris platform for building internal AI agents connected to company tools and documents.",
+      "layers": [
+        "agents-memory",
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Agent frameworks (LangChain, CrewAI, etc.)",
+        "Internal chatbots"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Stanislas Polu",
+        "Gabriel Hubert"
+      ],
+      "headquarters": "Paris, France",
+      "website": "https://dust.tt",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "agents",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://dust.tt",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "stack-ai",
+      "name": "Stack AI",
+      "description": "No-code builder for enterprise AI workflows, RAG apps, and internal agents.",
+      "layers": [
+        "agents-memory",
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Tool use & orchestration",
+        "Workflow automation"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Antoni Rosinol",
+        "Bernardo Schorr"
+      ],
+      "headquarters": "Cambridge, MA, USA",
+      "website": "https://www.stack-ai.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "agents",
+        "no-code"
+      ],
+      "identitySource": {
+        "source": "https://www.stack-ai.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "dify",
+      "name": "Dify",
+      "description": "Open-source LLM app platform for RAG, agents, and prompt workflows, based in Shanghai.",
+      "layers": [
+        "agents-memory"
+      ],
+      "subdomains": [
+        "Agent frameworks (LangChain, CrewAI, etc.)",
+        "Tool use & orchestration"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Zhang Luyu"
+      ],
+      "headquarters": "Shanghai, China",
+      "website": "https://dify.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "agents",
+        "open-source",
+        "China"
+      ],
+      "identitySource": {
+        "source": "https://dify.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "flowise",
+      "name": "Flowise",
+      "description": "Open-source visual builder for LangChain and LlamaIndex agent flows.",
+      "layers": [
+        "agents-memory"
+      ],
+      "subdomains": [
+        "Agent frameworks (LangChain, CrewAI, etc.)"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Henry Heng"
+      ],
+      "headquarters": "Singapore",
+      "website": "https://flowiseai.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "agents",
+        "open-source"
+      ],
+      "identitySource": {
+        "source": "https://flowiseai.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "n8n",
+      "name": "n8n",
+      "description": "Fair-code workflow automation tool increasingly used to orchestrate LLM and agent pipelines.",
+      "layers": [
+        "agents-memory",
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Tool use & orchestration",
+        "Workflow automation"
+      ],
+      "founded": 2019,
+      "founders": [
+        "Jan Oberhauser"
+      ],
+      "headquarters": "Berlin, Germany",
+      "website": "https://n8n.io",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "automation",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://n8n.io",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "zapier",
+      "name": "Zapier",
+      "description": "Automation platform that connects SaaS apps and now includes AI actions and agents.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Workflow automation"
+      ],
+      "founded": 2011,
+      "founders": [
+        "Wade Foster",
+        "Bryan Helmig",
+        "Mike Knoop"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://zapier.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "automation"
+      ],
+      "identitySource": {
+        "source": "https://zapier.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "relevance-ai",
+      "name": "Relevance AI",
+      "description": "Sydney platform for building and deploying teams of AI agents on company data.",
+      "layers": [
+        "agents-memory"
+      ],
+      "subdomains": [
+        "Multi-agent systems",
+        "Tool use & orchestration"
+      ],
+      "founded": 2020,
+      "founders": [
+        "Daniel Vasershteyn",
+        "Bosheng Chen"
+      ],
+      "headquarters": "Sydney, Australia",
+      "website": "https://relevanceai.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "agents",
+        "Australia"
+      ],
+      "identitySource": {
+        "source": "https://relevanceai.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "mem0",
+      "name": "Mem0",
+      "description": "Memory layer for AI agents that stores, retrieves, and updates long-term user context.",
+      "layers": [
+        "agents-memory"
+      ],
+      "subdomains": [
+        "Long-term memory systems"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Deshraj Yadav",
+        "Taranjeet Singh"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://mem0.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "memory",
+        "agents"
+      ],
+      "identitySource": {
+        "source": "https://mem0.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "composio",
+      "name": "Composio",
+      "description": "Tool-calling platform that gives agents authenticated access to hundreds of SaaS APIs.",
+      "layers": [
+        "agents-memory"
+      ],
+      "subdomains": [
+        "Tool use & orchestration"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Karan Vaidya",
+        "Tushar Kumar"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://composio.dev",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "tools",
+        "agents"
+      ],
+      "identitySource": {
+        "source": "https://composio.dev",
+        "date": "2026-10-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "exa",
+      "name": "Exa",
+      "description": "Neural search API used by agents and RAG systems to retrieve high-quality web documents.",
+      "layers": [
+        "agents-memory",
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Tool use & orchestration",
+        "AI search engines"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Will Bryk",
+        "Jeff Wang"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://exa.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "search",
+        "retrieval"
+      ],
+      "identitySource": {
+        "source": "https://exa.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "tavily",
+      "name": "Tavily",
+      "description": "Search API purpose-built for AI agents, returning concise, citation-ready web results.",
+      "layers": [
+        "agents-memory"
+      ],
+      "subdomains": [
+        "Tool use & orchestration"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Rotem Weiss"
+      ],
+      "headquarters": "Tel Aviv, Israel",
+      "website": "https://tavily.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "search",
+        "agents",
+        "Middle East"
+      ],
+      "identitySource": {
+        "source": "https://tavily.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "browserbase",
+      "name": "Browserbase",
+      "description": "Headless-browser infrastructure for agents that need to click, type, and scrape the live web.",
+      "layers": [
+        "agents-memory"
+      ],
+      "subdomains": [
+        "Tool use & orchestration"
+      ],
+      "founded": 2024,
+      "founders": [
+        "Paul Klein"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.browserbase.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "browser",
+        "agents"
+      ],
+      "identitySource": {
+        "source": "https://www.browserbase.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "agno",
+      "name": "Agno",
+      "description": "Open-source Python framework (formerly Phidata) for building multimodal agents with memory and tools.",
+      "layers": [
+        "agents-memory"
+      ],
+      "subdomains": [
+        "Agent frameworks (LangChain, CrewAI, etc.)"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Ashpreet Bedi"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.agno.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "agents",
+        "open-source"
+      ],
+      "identitySource": {
+        "source": "https://www.agno.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "mastra",
+      "name": "Mastra",
+      "description": "TypeScript agent framework from the Gatsby team, with workflows, memory, and evals.",
+      "layers": [
+        "agents-memory"
+      ],
+      "subdomains": [
+        "Agent frameworks (LangChain, CrewAI, etc.)"
+      ],
+      "founded": 2024,
+      "founders": [
+        "Shane Thomas",
+        "Sam Bhagwat"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://mastra.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "agents",
+        "TypeScript"
+      ],
+      "identitySource": {
+        "source": "https://mastra.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "pydantic-ai",
+      "name": "Pydantic AI",
+      "description": "Agent framework from the Pydantic team that uses type-safe structured outputs.",
+      "layers": [
+        "agents-memory"
+      ],
+      "subdomains": [
+        "Agent frameworks (LangChain, CrewAI, etc.)"
+      ],
+      "founded": 2024,
+      "founders": [
+        "Samuel Colvin"
+      ],
+      "headquarters": "London, UK",
+      "website": "https://ai.pydantic.dev",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "agents",
+        "Europe",
+        "open-source"
+      ],
+      "identitySource": {
+        "source": "https://ai.pydantic.dev",
+        "date": "2026-10-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "semantic-kernel",
+      "name": "Semantic Kernel",
+      "description": "Microsoft's open-source SDK for composing prompts, tools, and agent planners.",
+      "layers": [
+        "agents-memory"
+      ],
+      "subdomains": [
+        "Agent frameworks (LangChain, CrewAI, etc.)",
+        "Planning engines"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Microsoft"
+      ],
+      "headquarters": "Redmond, WA, USA",
+      "website": "https://learn.microsoft.com/en-us/semantic-kernel/overview/",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Microsoft project",
+        "investors": []
+      },
+      "tags": [
+        "agents",
+        "Microsoft",
+        "open-source"
+      ],
+      "identitySource": {
+        "source": "https://learn.microsoft.com/en-us/semantic-kernel/overview/",
+        "date": "2026-10-24",
+        "fields": [
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "autogen",
+      "name": "AutoGen",
+      "description": "Microsoft research framework for multi-agent conversations and tool-using agent teams.",
+      "layers": [
+        "agents-memory",
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Multi-agent systems",
+        "Open-source communities"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Microsoft Research"
+      ],
+      "headquarters": "Redmond, WA, USA",
+      "website": "https://microsoft.github.io/autogen/",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Research project",
+        "investors": []
+      },
+      "tags": [
+        "agents",
+        "Microsoft",
+        "open-source"
+      ],
+      "identitySource": {
+        "source": "https://microsoft.github.io/autogen/",
+        "date": "2026-10-24",
+        "fields": [
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "dspy",
+      "name": "DSPy",
+      "description": "Stanford programming model for composing and optimizing language-model pipelines.",
+      "layers": [
+        "dev-tools",
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Prompt engineering tools",
+        "University research labs"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Omar Khattab"
+      ],
+      "headquarters": "Stanford, CA, USA",
+      "website": "https://dspy.ai",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Research project",
+        "investors": []
+      },
+      "tags": [
+        "prompting",
+        "research"
+      ],
+      "identitySource": {
+        "source": "https://dspy.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "instructor",
+      "name": "Instructor",
+      "description": "Python library for structured LLM outputs via Pydantic, widely used in agent stacks.",
+      "layers": [
+        "dev-tools"
+      ],
+      "subdomains": [
+        "Prompt engineering tools"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Jason Liu"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://python.useinstructor.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "structured output",
+        "open-source"
+      ],
+      "identitySource": {
+        "source": "https://python.useinstructor.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "vercel-ai-sdk",
+      "name": "Vercel AI SDK",
+      "description": "TypeScript SDK and UI primitives for streaming generative-AI apps on Vercel.",
+      "layers": [
+        "dev-tools"
+      ],
+      "subdomains": [
+        "Prompt engineering tools"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Vercel"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://sdk.vercel.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Vercel project",
+        "investors": []
+      },
+      "tags": [
+        "SDK",
+        "frontend"
+      ],
+      "identitySource": {
+        "source": "https://sdk.vercel.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "microsoft-copilot",
+      "name": "Microsoft Copilot",
+      "description": "Microsoft's cross-product AI assistant spanning Office, Windows, GitHub, and Bing.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Internal chatbots",
+        "Document intelligence"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Microsoft"
+      ],
+      "headquarters": "Redmond, WA, USA",
+      "website": "https://www.microsoft.com/microsoft-copilot",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Microsoft product",
+        "investors": []
+      },
+      "tags": [
+        "enterprise",
+        "assistant"
+      ],
+      "identitySource": {
+        "source": "https://www.microsoft.com/microsoft-copilot",
+        "date": "2026-10-24",
+        "fields": [
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "salesforce-einstein",
+      "name": "Salesforce Einstein",
+      "description": "Salesforce's AI layer for CRM agents, predictions, and low-code automation.",
+      "layers": [
+        "apps-enterprise",
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Workflow automation",
+        "Customer support automation"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Salesforce"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.salesforce.com/artificial-intelligence/",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "CRM",
+        "enterprise"
+      ],
+      "identitySource": {
+        "source": "https://www.salesforce.com/artificial-intelligence/",
+        "date": "2026-10-24",
+        "fields": [
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "gong",
+      "name": "Gong",
+      "description": "Revenue-intelligence platform that transcribes and analyzes sales calls with AI.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Meeting assistants"
+      ],
+      "founded": 2015,
+      "founders": [
+        "Amit Bendov",
+        "Eilon Reshef"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.gong.io",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "sales",
+        "meetings"
+      ],
+      "identitySource": {
+        "source": "https://www.gong.io",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "fireflies",
+      "name": "Fireflies.ai",
+      "description": "Meeting-assistant that records, transcribes, and summarizes calls across Zoom and Meet.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Meeting assistants"
+      ],
+      "founded": 2019,
+      "founders": [
+        "Krish Ramineni",
+        "Sam Udotong"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://fireflies.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "meetings"
+      ],
+      "identitySource": {
+        "source": "https://fireflies.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "otter-ai",
+      "name": "Otter.ai",
+      "description": "Transcription and meeting-notes product used for live conversation capture.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Meeting assistants"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Sam Liang",
+        "Yun Fu"
+      ],
+      "headquarters": "Mountain View, CA, USA",
+      "website": "https://otter.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "meetings",
+        "transcription"
+      ],
+      "identitySource": {
+        "source": "https://otter.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "superhuman",
+      "name": "Superhuman",
+      "description": "Email client with AI drafting, scheduling, and inbox triage.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Workflow automation"
+      ],
+      "founded": 2015,
+      "founders": [
+        "Rahul Vohra"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://superhuman.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "email",
+        "productivity"
+      ],
+      "identitySource": {
+        "source": "https://superhuman.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "coda",
+      "name": "Coda",
+      "description": "Doc-and-app workspace with AI that writes, summarizes, and automates team workflows.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Document intelligence",
+        "Workflow automation"
+      ],
+      "founded": 2014,
+      "founders": [
+        "Shishir Mehrotra"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://coda.io",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "docs"
+      ],
+      "identitySource": {
+        "source": "https://coda.io",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "linear",
+      "name": "Linear",
+      "description": "Issue tracker whose AI features draft tickets, summarize threads, and triage product work.",
+      "layers": [
+        "apps-enterprise",
+        "apps-coding"
+      ],
+      "subdomains": [
+        "Workflow automation",
+        "Documentation generation"
+      ],
+      "founded": 2019,
+      "founders": [
+        "Karri Saarinen",
+        "Tuomas Artman",
+        "Jori Lallo"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://linear.app",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "productivity"
+      ],
+      "identitySource": {
+        "source": "https://linear.app",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    }
+  ]
+}
