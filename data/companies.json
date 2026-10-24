@@ -269,15 +269,20 @@
       "headquarters": "Sunnyvale, CA, USA",
       "website": "https://cerebras.ai",
       "funding": {
-        "total": "$715M",
-        "stage": "Series F",
+        "total": "$1B",
+        "stage": "Series H",
         "investors": [
-          "Alpha Wave",
+          "Tiger Global",
           "Benchmark",
+          "Fidelity Management & Research Company",
+          "Atreides Management",
+          "Alpha Wave Global",
+          "Altimeter",
+          "AMD",
           "Coatue"
         ],
-        "source": "https://www.crunchbase.com/organization/cerebras-systems",
-        "date": "2024-11-06"
+        "source": "https://www.cerebras.ai/press-release/cerebras-systems-raises-usd1-billion-series-h",
+        "date": "2026-02-03"
       },
       "tags": [
         "wafer-scale",
@@ -295,6 +300,12 @@
           "founded",
           "headquarters"
         ]
+      },
+      "valuation": {
+        "amount": "~$23B",
+        "date": "2026-02-03",
+        "source": "https://www.cerebras.ai/press-release/cerebras-systems-raises-usd1-billion-series-h",
+        "notes": "Approximate post-money at Series H"
       }
     },
     {
@@ -366,15 +377,18 @@
       "headquarters": "Palo Alto, CA, USA",
       "website": "https://sambanova.ai",
       "funding": {
-        "total": "$1.56B",
-        "stage": "Series D",
+        "total": "$1B",
+        "stage": "Series F",
         "investors": [
-          "SoftBank",
+          "General Atlantic",
+          "Seligman Ventures",
+          "T. Rowe Price Associates",
           "BlackRock",
-          "GGV Capital"
+          "Qatar Investment Authority",
+          "Vista Equity Partners"
         ],
-        "source": "https://www.crunchbase.com/organization/sambanova-systems",
-        "date": "2023-06-13"
+        "source": "https://sambanova.ai/press/sambanova-completes-first-close-of-1b-financing-at-11b-valuation",
+        "date": "2026-07-08"
       },
       "tags": [
         "custom silicon",
@@ -392,6 +406,12 @@
           "founded",
           "headquarters"
         ]
+      },
+      "valuation": {
+        "amount": "$11B",
+        "date": "2026-07-08",
+        "source": "https://sambanova.ai/press/sambanova-completes-first-close-of-1b-financing-at-11b-valuation",
+        "notes": "Post-money at Series F first close"
       }
     },
     {
@@ -1521,22 +1541,19 @@
       "headquarters": "New York, NY, USA",
       "website": "https://runwayml.com",
       "funding": {
-        "total": "$237M",
-        "stage": "Series C",
+        "total": "$315M",
+        "stage": "Series E",
         "investors": [
-          "Google",
+          "General Atlantic",
           "NVIDIA",
-          "Salesforce Ventures",
+          "Adobe Ventures",
+          "AllianceBernstein",
+          "AMD Ventures",
+          "Fidelity Management & Research Company",
           "Felicis"
         ],
-        "source": "https://techcrunch.com/2023/06/29/runway-raises-141m/",
-        "date": "2023-06-29"
-      },
-      "valuation": {
-        "amount": "$1.5B",
-        "date": "2023-06-29",
-        "source": "https://techcrunch.com/2023/06/29/runway-raises-141m/",
-        "notes": "Valuation at Series C"
+        "source": "https://runway.com/news/runway-series-e-funding",
+        "date": "2026-02-10"
       },
       "tags": [
         "video generation",
@@ -1574,21 +1591,24 @@
       "headquarters": "New York, NY, USA",
       "website": "https://elevenlabs.io",
       "funding": {
-        "total": "$180M",
-        "stage": "Series B",
+        "total": "$500M",
+        "stage": "Series D",
         "investors": [
+          "Sequoia Capital",
           "Andreessen Horowitz",
-          "ICONIQ Growth",
-          "Sequoia Capital"
+          "ICONIQ",
+          "Lightspeed Venture Partners",
+          "Evantic Capital",
+          "BOND"
         ],
-        "source": "https://elevenlabs.io/blog/series-b/",
-        "date": "2024-01-22"
+        "source": "https://elevenlabs.io/blog/series-d",
+        "date": "2026-02-04"
       },
       "valuation": {
-        "amount": "$1.1B",
-        "date": "2024-01-22",
-        "source": "https://elevenlabs.io/blog/series-b/",
-        "notes": "Valuation at Series B"
+        "amount": "$11B",
+        "date": "2026-02-04",
+        "source": "https://elevenlabs.io/blog/series-d",
+        "notes": "Valuation at Series D"
       },
       "tags": [
         "voice AI",
@@ -1605,6 +1625,13 @@
           "founders",
           "founded"
         ]
+      },
+      "revenue": {
+        "amount": ">$330M ARR",
+        "period": "2025",
+        "source": "https://elevenlabs.io/blog/series-d",
+        "date": "2026-02-04",
+        "notes": "Company-stated year-end 2025 ARR"
       }
     },
     {
@@ -1628,21 +1655,25 @@
       "headquarters": "Cambridge, MA, USA",
       "website": "https://www.suno.ai",
       "funding": {
-        "total": "$125M",
-        "stage": "Series A",
+        "total": ">$400M",
+        "stage": "Series D",
         "investors": [
-          "Lightspeed Venture Partners",
-          "Nat Friedman",
-          "Daniel Gross"
+          "Bond Capital",
+          "IVP",
+          "Forerunner",
+          "Union Square Ventures",
+          "Alkeon",
+          "Quiet",
+          "Menlo Ventures"
         ],
-        "source": "https://techcrunch.com/2024/05/21/suno-raises-125m/",
-        "date": "2024-05-21"
+        "source": "https://suno.com/blog/series-d-announcement",
+        "date": "2026-06-03"
       },
       "valuation": {
-        "amount": "$500M",
-        "date": "2024-05-21",
-        "source": "https://techcrunch.com/2024/05/21/suno-raises-125m/",
-        "notes": "Valuation at Series A"
+        "amount": "$5.4B",
+        "date": "2026-06-03",
+        "source": "https://suno.com/blog/series-d-announcement",
+        "notes": "Post-money at Series D"
       },
       "tags": [
         "music generation",
@@ -1763,14 +1794,18 @@
       "headquarters": "San Francisco, CA, USA",
       "website": "https://www.langchain.com",
       "funding": {
-        "total": "$35M",
-        "stage": "Series A",
+        "total": "$125M",
+        "stage": "Series B",
         "investors": [
+          "IVP",
           "Sequoia Capital",
-          "Benchmark"
+          "Benchmark",
+          "Amplify",
+          "CapitalG",
+          "Sapphire Ventures"
         ],
-        "source": "https://blog.langchain.dev/announcing-our-series-a/",
-        "date": "2023-04-20"
+        "source": "https://www.langchain.com/blog/series-b",
+        "date": "2025-10-20"
       },
       "tags": [
         "agent framework",
@@ -1787,6 +1822,12 @@
           "founders",
           "founded"
         ]
+      },
+      "valuation": {
+        "amount": "$1.25B",
+        "date": "2025-10-20",
+        "source": "https://www.langchain.com/blog/series-b",
+        "notes": "Valuation at Series B"
       }
     },
     {
@@ -2406,6 +2447,12 @@
           "founded",
           "headquarters"
         ]
+      },
+      "valuation": {
+        "amount": ">$1B",
+        "date": "2024-04-23",
+        "source": "https://www.perplexity.ai/hub/blog/perplexity-launches-enterprise-pro",
+        "notes": "Company-stated valuation after April 2024 raise; later press rounds are unsourced here"
       }
     },
     {
@@ -2429,15 +2476,18 @@
       "headquarters": "Palo Alto, CA, USA",
       "website": "https://www.glean.com",
       "funding": {
-        "total": "$360M",
-        "stage": "Series D",
+        "total": "$150M",
+        "stage": "Series F",
         "investors": [
+          "Wellington Management",
+          "Khosla Ventures",
+          "Altimeter",
+          "Sequoia Capital",
           "Kleiner Perkins",
-          "Lightspeed Venture Partners",
-          "Sequoia Capital"
+          "Lightspeed Venture Partners"
         ],
-        "source": "https://www.glean.com/blog/series-d",
-        "date": "2024-02-27"
+        "source": "https://www.glean.com/blog/glean-series-f-announcement",
+        "date": "2025-06-10"
       },
       "tags": [
         "enterprise search",
@@ -2454,6 +2504,19 @@
           "founded",
           "headquarters"
         ]
+      },
+      "valuation": {
+        "amount": "$7.2B",
+        "date": "2025-06-10",
+        "source": "https://www.glean.com/blog/glean-series-f-announcement",
+        "notes": "Valuation at Series F"
+      },
+      "revenue": {
+        "amount": ">$200M ARR",
+        "period": "December 2025",
+        "source": "https://www.glean.com/blog/glean-200m-arr-milestone",
+        "date": "2025-12-08",
+        "notes": "Company-stated ARR milestone"
       }
     },
     {
@@ -2475,21 +2538,24 @@
       "headquarters": "San Francisco, CA, USA",
       "website": "https://www.harvey.ai",
       "funding": {
-        "total": "$106M",
-        "stage": "Series B",
+        "total": "$550M",
+        "stage": "Venture",
         "investors": [
+          "Diffusion",
+          "Lightspeed Venture Partners",
           "Sequoia Capital",
           "Kleiner Perkins",
-          "OpenAI"
+          "Andreessen Horowitz",
+          "Coatue"
         ],
-        "source": "https://techcrunch.com/2023/12/15/harvey-raises-80m/",
-        "date": "2023-12-15"
+        "source": "https://www.harvey.ai/blog/harvey-raises-dollar550m-at-a-dollar155b-valuation-to-help-legal-teams-own-their-intelligence",
+        "date": "2026-09-09"
       },
       "valuation": {
-        "amount": "$1.5B",
-        "date": "2023-12-15",
-        "source": "https://techcrunch.com/2023/12/15/harvey-raises-80m/",
-        "notes": "Valuation at Series B"
+        "amount": "$15.5B",
+        "date": "2026-09-09",
+        "source": "https://www.harvey.ai/blog/harvey-raises-dollar550m-at-a-dollar155b-valuation-to-help-legal-teams-own-their-intelligence",
+        "notes": "Valuation at September 2026 round"
       },
       "tags": [
         "legal AI",
@@ -2525,23 +2591,25 @@
       "headquarters": "Sunnyvale, CA, USA",
       "website": "https://www.figure.ai",
       "funding": {
-        "total": "$754M",
-        "stage": "Series B",
+        "total": ">$1B",
+        "stage": "Series C",
         "investors": [
-          "Microsoft",
-          "OpenAI Startup Fund",
+          "Parkway Venture Capital",
+          "Brookfield Asset Management",
           "NVIDIA",
-          "Jeff Bezos",
-          "Intel Capital"
+          "Macquarie Capital",
+          "Intel Capital",
+          "Salesforce",
+          "Qualcomm Ventures"
         ],
-        "source": "https://techcrunch.com/2024/02/29/figure-ai-raises-675m/",
-        "date": "2024-02-29"
+        "source": "https://www.figure.ai/news/series-c",
+        "date": "2025-09-16"
       },
       "valuation": {
-        "amount": "$2.6B",
-        "date": "2024-02-29",
-        "source": "https://techcrunch.com/2024/02/29/figure-ai-raises-675m/",
-        "notes": "Post-money valuation at Series B"
+        "amount": "$39B",
+        "date": "2025-09-16",
+        "source": "https://www.figure.ai/news/series-c",
+        "notes": "Post-money at Series C"
       },
       "tags": [
         "humanoid",
@@ -2618,21 +2686,20 @@
       "headquarters": "Costa Mesa, CA, USA",
       "website": "https://www.anduril.com",
       "funding": {
-        "total": "$3.7B",
-        "stage": "Series F",
+        "total": "$5B",
+        "stage": "Series H",
         "investors": [
-          "Founders Fund",
-          "Andreessen Horowitz",
-          "Sands Capital"
+          "Thrive Capital",
+          "Andreessen Horowitz"
         ],
-        "source": "https://www.anduril.com/article/anduril-raises-1-5b-series-f/",
-        "date": "2024-08-07"
+        "source": "https://www.anduril.com/news/anduril-announces-usd5b-series-h-raise",
+        "date": "2026-05-13"
       },
       "valuation": {
-        "amount": "$14B",
-        "date": "2024-08-07",
-        "source": "https://www.anduril.com/article/anduril-raises-1-5b-series-f/",
-        "notes": "Post-money valuation at Series F"
+        "amount": "$61B",
+        "date": "2026-05-13",
+        "source": "https://www.anduril.com/news/anduril-announces-usd5b-series-h-raise",
+        "notes": "Valuation at Series H"
       },
       "tags": [
         "defense",
@@ -2649,6 +2716,13 @@
           "founders",
           "founded"
         ]
+      },
+      "revenue": {
+        "amount": "$2.2B",
+        "period": "2025",
+        "source": "https://www.anduril.com/news/anduril-announces-usd5b-series-h-raise",
+        "date": "2026-05-13",
+        "notes": "Company-stated 2025 revenue"
       }
     },
     {
@@ -2903,10 +2977,10 @@
         "date": "2021-10-01"
       },
       "valuation": {
-        "amount": "$10B",
-        "date": "2021-10-01",
-        "source": "https://www.notion.so/blog/series-c",
-        "notes": "Valuation at Series C"
+        "amount": "$11B",
+        "date": "2026-01-26",
+        "source": "https://www.notion.com/blog/gic-sequoia-index-purchase-notion-shares",
+        "notes": "Valuation at private employee tender"
       },
       "tags": [
         "productivity",

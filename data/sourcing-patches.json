@@ -347,6 +347,371 @@
         "date": "2025-11-13",
         "notes": "Company-stated annualized revenue"
       }
+    },
+    {
+      "id": "cerebras",
+      "funding": {
+        "total": "$1B",
+        "stage": "Series H",
+        "investors": [
+          "Tiger Global",
+          "Benchmark",
+          "Fidelity Management & Research Company",
+          "Atreides Management",
+          "Alpha Wave Global",
+          "Altimeter",
+          "AMD",
+          "Coatue"
+        ],
+        "source": "https://www.cerebras.ai/press-release/cerebras-systems-raises-usd1-billion-series-h",
+        "date": "2026-02-03"
+      },
+      "valuation": {
+        "amount": "~$23B",
+        "date": "2026-02-03",
+        "source": "https://www.cerebras.ai/press-release/cerebras-systems-raises-usd1-billion-series-h",
+        "notes": "Approximate post-money at Series H"
+      }
+    },
+    {
+      "id": "elevenlabs",
+      "funding": {
+        "total": "$500M",
+        "stage": "Series D",
+        "investors": [
+          "Sequoia Capital",
+          "Andreessen Horowitz",
+          "ICONIQ",
+          "Lightspeed Venture Partners",
+          "Evantic Capital",
+          "BOND"
+        ],
+        "source": "https://elevenlabs.io/blog/series-d",
+        "date": "2026-02-04"
+      },
+      "valuation": {
+        "amount": "$11B",
+        "date": "2026-02-04",
+        "source": "https://elevenlabs.io/blog/series-d",
+        "notes": "Valuation at Series D"
+      },
+      "revenue": {
+        "amount": ">$330M ARR",
+        "period": "2025",
+        "source": "https://elevenlabs.io/blog/series-d",
+        "date": "2026-02-04",
+        "notes": "Company-stated year-end 2025 ARR"
+      }
+    },
+    {
+      "id": "runway",
+      "funding": {
+        "total": "$315M",
+        "stage": "Series E",
+        "investors": [
+          "General Atlantic",
+          "NVIDIA",
+          "Adobe Ventures",
+          "AllianceBernstein",
+          "AMD Ventures",
+          "Fidelity Management & Research Company",
+          "Felicis"
+        ],
+        "source": "https://runway.com/news/runway-series-e-funding",
+        "date": "2026-02-10"
+      },
+      "valuation": null
+    },
+    {
+      "id": "langchain",
+      "funding": {
+        "total": "$125M",
+        "stage": "Series B",
+        "investors": [
+          "IVP",
+          "Sequoia Capital",
+          "Benchmark",
+          "Amplify",
+          "CapitalG",
+          "Sapphire Ventures"
+        ],
+        "source": "https://www.langchain.com/blog/series-b",
+        "date": "2025-10-20"
+      },
+      "valuation": {
+        "amount": "$1.25B",
+        "date": "2025-10-20",
+        "source": "https://www.langchain.com/blog/series-b",
+        "notes": "Valuation at Series B"
+      }
+    },
+    {
+      "id": "cognition",
+      "funding": {
+        "total": ">$2B",
+        "stage": "Series E",
+        "investors": [
+          "Andreessen Horowitz",
+          "Accel",
+          "Founders Fund",
+          "General Catalyst",
+          "Avenir"
+        ],
+        "source": "https://cognition.com/blog/series-e",
+        "date": "2026-09-08"
+      },
+      "valuation": {
+        "amount": "$48B",
+        "date": "2026-09-08",
+        "source": "https://cognition.com/blog/series-e",
+        "notes": "Valuation at Series E"
+      },
+      "revenue": {
+        "amount": "~$900M run-rate",
+        "period": "September 2026",
+        "source": "https://cognition.com/blog/series-e",
+        "date": "2026-09-08",
+        "notes": "Company-stated run-rate revenue"
+      }
+    },
+    {
+      "id": "harvey",
+      "funding": {
+        "total": "$550M",
+        "stage": "Venture",
+        "investors": [
+          "Diffusion",
+          "Lightspeed Venture Partners",
+          "Sequoia Capital",
+          "Kleiner Perkins",
+          "Andreessen Horowitz",
+          "Coatue"
+        ],
+        "source": "https://www.harvey.ai/blog/harvey-raises-dollar550m-at-a-dollar155b-valuation-to-help-legal-teams-own-their-intelligence",
+        "date": "2026-09-09"
+      },
+      "valuation": {
+        "amount": "$15.5B",
+        "date": "2026-09-09",
+        "source": "https://www.harvey.ai/blog/harvey-raises-dollar550m-at-a-dollar155b-valuation-to-help-legal-teams-own-their-intelligence",
+        "notes": "Valuation at September 2026 round"
+      }
+    },
+    {
+      "id": "sambanova",
+      "funding": {
+        "total": "$1B",
+        "stage": "Series F",
+        "investors": [
+          "General Atlantic",
+          "Seligman Ventures",
+          "T. Rowe Price Associates",
+          "BlackRock",
+          "Qatar Investment Authority",
+          "Vista Equity Partners"
+        ],
+        "source": "https://sambanova.ai/press/sambanova-completes-first-close-of-1b-financing-at-11b-valuation",
+        "date": "2026-07-08"
+      },
+      "valuation": {
+        "amount": "$11B",
+        "date": "2026-07-08",
+        "source": "https://sambanova.ai/press/sambanova-completes-first-close-of-1b-financing-at-11b-valuation",
+        "notes": "Post-money at Series F first close"
+      }
+    },
+    {
+      "id": "anduril",
+      "funding": {
+        "total": "$5B",
+        "stage": "Series H",
+        "investors": [
+          "Thrive Capital",
+          "Andreessen Horowitz"
+        ],
+        "source": "https://www.anduril.com/news/anduril-announces-usd5b-series-h-raise",
+        "date": "2026-05-13"
+      },
+      "valuation": {
+        "amount": "$61B",
+        "date": "2026-05-13",
+        "source": "https://www.anduril.com/news/anduril-announces-usd5b-series-h-raise",
+        "notes": "Valuation at Series H"
+      },
+      "revenue": {
+        "amount": "$2.2B",
+        "period": "2025",
+        "source": "https://www.anduril.com/news/anduril-announces-usd5b-series-h-raise",
+        "date": "2026-05-13",
+        "notes": "Company-stated 2025 revenue"
+      }
+    },
+    {
+      "id": "glean",
+      "funding": {
+        "total": "$150M",
+        "stage": "Series F",
+        "investors": [
+          "Wellington Management",
+          "Khosla Ventures",
+          "Altimeter",
+          "Sequoia Capital",
+          "Kleiner Perkins",
+          "Lightspeed Venture Partners"
+        ],
+        "source": "https://www.glean.com/blog/glean-series-f-announcement",
+        "date": "2025-06-10"
+      },
+      "valuation": {
+        "amount": "$7.2B",
+        "date": "2025-06-10",
+        "source": "https://www.glean.com/blog/glean-series-f-announcement",
+        "notes": "Valuation at Series F"
+      },
+      "revenue": {
+        "amount": ">$200M ARR",
+        "period": "December 2025",
+        "source": "https://www.glean.com/blog/glean-200m-arr-milestone",
+        "date": "2025-12-08",
+        "notes": "Company-stated ARR milestone"
+      }
+    },
+    {
+      "id": "figure-ai",
+      "funding": {
+        "total": ">$1B",
+        "stage": "Series C",
+        "investors": [
+          "Parkway Venture Capital",
+          "Brookfield Asset Management",
+          "NVIDIA",
+          "Macquarie Capital",
+          "Intel Capital",
+          "Salesforce",
+          "Qualcomm Ventures"
+        ],
+        "source": "https://www.figure.ai/news/series-c",
+        "date": "2025-09-16"
+      },
+      "valuation": {
+        "amount": "$39B",
+        "date": "2025-09-16",
+        "source": "https://www.figure.ai/news/series-c",
+        "notes": "Post-money at Series C"
+      }
+    },
+    {
+      "id": "replit",
+      "funding": {
+        "total": "$400M",
+        "stage": "Venture",
+        "investors": [
+          "Georgian",
+          "G Squared",
+          "Prysm Capital",
+          "1789 Capital",
+          "Y Combinator",
+          "Coatue",
+          "Andreessen Horowitz"
+        ],
+        "source": "https://replit.com/blog/replit-raises-400-million-dollars",
+        "date": "2026-03-11"
+      },
+      "valuation": {
+        "amount": "$9B",
+        "date": "2026-03-11",
+        "source": "https://replit.com/blog/replit-raises-400-million-dollars",
+        "notes": "Valuation at March 2026 round"
+      }
+    },
+    {
+      "id": "suno",
+      "funding": {
+        "total": ">$400M",
+        "stage": "Series D",
+        "investors": [
+          "Bond Capital",
+          "IVP",
+          "Forerunner",
+          "Union Square Ventures",
+          "Alkeon",
+          "Quiet",
+          "Menlo Ventures"
+        ],
+        "source": "https://suno.com/blog/series-d-announcement",
+        "date": "2026-06-03"
+      },
+      "valuation": {
+        "amount": "$5.4B",
+        "date": "2026-06-03",
+        "source": "https://suno.com/blog/series-d-announcement",
+        "notes": "Post-money at Series D"
+      }
+    },
+    {
+      "id": "notion",
+      "valuation": {
+        "amount": "$11B",
+        "date": "2026-01-26",
+        "source": "https://www.notion.com/blog/gic-sequoia-index-purchase-notion-shares",
+        "notes": "Valuation at private employee tender"
+      }
+    },
+    {
+      "id": "helsing",
+      "funding": {
+        "total": "$1.8B",
+        "stage": "Series E",
+        "investors": [
+          "Dragoneer Investment Group",
+          "Lightspeed Venture Partners",
+          "ICONIQ",
+          "General Catalyst",
+          "Prima Materia",
+          "Accel"
+        ],
+        "source": "https://helsing.ai/newsroom/helsing-raises-1-8bn-in-series-e",
+        "date": "2026-07-13"
+      },
+      "valuation": {
+        "amount": "$18B",
+        "date": "2026-07-13",
+        "source": "https://helsing.ai/newsroom/helsing-raises-1-8bn-in-series-e",
+        "notes": "Valuation at Series E"
+      }
+    },
+    {
+      "id": "crusoe",
+      "funding": {
+        "total": "$3.9B",
+        "stage": "Series F",
+        "investors": [
+          "Atreides Management",
+          "Mubadala Capital",
+          "Valor Equity Partners",
+          "Founders Fund",
+          "GIC",
+          "NVIDIA",
+          "Qatar Investment Authority"
+        ],
+        "source": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding",
+        "date": "2026-09-17"
+      },
+      "valuation": {
+        "amount": "$30.9B",
+        "date": "2026-09-17",
+        "source": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding",
+        "notes": "Post-money at Series F first close"
+      }
+    },
+    {
+      "id": "perplexity",
+      "valuation": {
+        "amount": ">$1B",
+        "date": "2024-04-23",
+        "source": "https://www.perplexity.ai/hub/blog/perplexity-launches-enterprise-pro",
+        "notes": "Company-stated valuation after April 2024 raise; later press rounds are unsourced here"
+      }
     }
   ]
 }
