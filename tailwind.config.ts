@@ -5,7 +5,9 @@ const config: Config = {
     './pages/**/*.{js,ts,jsx,tsx,mdx}',
     './components/**/*.{js,ts,jsx,tsx,mdx}',
     './app/**/*.{js,ts,jsx,tsx,mdx}',
+    './lib/**/*.{js,ts,jsx,tsx}',
   ],
+  safelist: ['max-w-[1440px]', 'mx-auto', 'px-4', 'sm:px-6'],
   darkMode: 'class',
   theme: {
     extend: {

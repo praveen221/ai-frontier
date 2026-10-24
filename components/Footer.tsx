@@ -1,9 +1,10 @@
 import { REPO_URL } from '@/lib/format';
+import { SHELL } from '@/lib/stack';
 
 export function Footer() {
   return (
     <footer className="border-t border-border">
-      <div className="mx-auto flex max-w-[1500px] flex-col gap-2 px-4 py-5 text-[12px] text-muted-foreground sm:flex-row sm:items-center sm:justify-between sm:px-6">
+      <div className={`${SHELL} flex flex-col gap-2 py-5 text-[14px] text-muted-foreground sm:flex-row sm:items-center sm:justify-between`}>
         <p>
           <span className="font-medium text-foreground">AI Frontier</span>
           <span className="mx-2">·</span>

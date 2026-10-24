@@ -4,7 +4,7 @@ export { REPO_URL, SITE_URL } from './site';
 export function logoUrl(website: string): string {
   try {
     const host = new URL(website).hostname.replace(/^www\./, '');
-    return `https://www.google.com/s2/favicons?domain=${host}&sz=64`;
+    return `https://www.google.com/s2/favicons?domain=${host}&sz=128`;
   } catch {
     return '';
   }

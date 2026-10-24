@@ -4,8 +4,10 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getCompanies, getCompanyById, getLayers } from '@/lib/data';
 import { entityLabel, formatDate, hostFromUrl } from '@/lib/format';
+import { SHELL, shortLayerName } from '@/lib/stack';
 import { IconExternal } from '@/components/Icons';
 import { Logo } from '@/components/Logo';
+import { SourceLink } from '@/components/SourceLink';
 
 export function generateStaticParams() {
   return getCompanies().map((company) => ({ id: company.id }));
@@ -42,127 +44,175 @@ export default async function CompanyPage({
   if (!company) notFound();
 
   const layerRecords = company.layers
-    .map((id) => layers.find((layer) => layer.id === id))
+    .map((layerId) => layers.find((layer) => layer.id === layerId))
     .filter(Boolean);
+  const identity = company.identitySource;
+  const showDates = company.addedAt !== company.updatedAt;
+  const subdomains = [...new Set(company.subdomains)];
 
   return (
-    <main id="main" className="mx-auto max-w-3xl px-4 py-12 sm:px-6">
-      <Link href="/" className="text-[13px] text-primary">
+    <main id="main" className={`${SHELL} py-10`}>
+      <Link href="/" className="text-[14px] text-primary">
         ← Directory
       </Link>
 
-      <div className="mt-8 flex items-start gap-4">
+      <header className="mt-8 flex items-start gap-4">
         <Logo name={company.name} website={company.website} size={48} />
-        <div>
-          <p className="text-[11px] uppercase tracking-[0.08em] text-muted-foreground">
+        <div className="min-w-0">
+          <p className="text-[12px] uppercase tracking-[0.08em] text-muted-foreground">
             {entityLabel(company.entityType)}
           </p>
-          <h1 className="text-4xl font-semibold tracking-tight">{company.name}</h1>
+          <h1 className="text-[36px] font-semibold tracking-[-0.03em]">{company.name}</h1>
           {company.fullName && company.fullName !== company.name && (
-            <p className="mt-1 text-muted-foreground">{company.fullName}</p>
+            <p className="mt-1 text-[15px] text-muted-foreground">{company.fullName}</p>
           )}
+          <a
+            href={company.website}
+            target="_blank"
+            rel="noreferrer"
+            className="mt-2 inline-flex items-center gap-1 text-[14px] text-primary"
+          >
+            {hostFromUrl(company.website)}
+            <IconExternal />
+          </a>
         </div>
-      </div>
+      </header>
 
-      <p className="mt-6 text-base leading-relaxed">{company.description}</p>
-
-      <div className="mt-4 flex flex-wrap gap-2">
-        {company.tags.map((tag) => (
-          <span key={tag} className="rounded border border-border px-2 py-0.5 text-[11px] text-muted-foreground">
-            {tag}
-          </span>
-        ))}
-      </div>
-
-      <dl className="mt-8 grid gap-4 sm:grid-cols-2">
-        <Fact
-          label="Founded"
-          value={String(company.founded)}
-          source={company.identitySource?.fields.includes('founded') ? company.identitySource : undefined}
-        />
-        <Fact
-          label="Headquarters"
-          value={company.headquarters}
-          source={company.identitySource?.fields.includes('headquarters') ? company.identitySource : undefined}
-        />
-        <Fact
-          label="Founders"
-          value={company.founders.join(', ')}
-          source={company.identitySource?.fields.includes('founders') ? company.identitySource : undefined}
-        />
-        <Fact
-          label="Website"
-          value={
-            <a href={company.website} target="_blank" rel="noreferrer" className="inline-flex items-center gap-1 text-primary">
-              {hostFromUrl(company.website)}
-              <IconExternal />
-            </a>
-          }
-        />
-      </dl>
-
-      <section className="mt-10 border-t border-border pt-8">
-        <h2 className="text-sm font-semibold">Capital (sourced only)</h2>
-        <div className="mt-4 space-y-4">
-          <Sourced
-            label="Funding"
-            value={company.funding.total ?? 'Not disclosed'}
-            extra={company.funding.stage}
-            source={company.funding.source}
-            date={company.funding.date}
-          />
-          {company.valuation && (
-            <Sourced
-              label="Valuation"
-              value={company.valuation.amount}
-              extra={company.valuation.notes}
-              source={company.valuation.source}
-              date={company.valuation.date}
-            />
-          )}
-          {company.revenue && (
-            <Sourced
-              label="Revenue"
-              value={company.revenue.amount}
-              extra={`${company.revenue.period}${company.revenue.notes ? ` · ${company.revenue.notes}` : ''}`}
-              source={company.revenue.source}
-              date={company.revenue.date}
-            />
-          )}
-          {company.funding.investors.length > 0 && (
-            <div>
-              <p className="text-[11px] uppercase tracking-[0.08em] text-muted-foreground">Investors</p>
-              <p className="mt-1 text-sm">{company.funding.investors.join(', ')}</p>
+      <div className="mt-10 grid gap-12 lg:grid-cols-[minmax(0,1fr)_360px]">
+        <div>
+          <p className="text-[16px] leading-relaxed">{company.description}</p>
+          {company.tags.length > 0 && (
+            <div className="mt-4 flex flex-wrap gap-2">
+              {company.tags.map((tag) => (
+                <span
+                  key={tag}
+                  className="rounded-md bg-secondary px-2 py-1 text-[13px] text-muted-foreground"
+                >
+                  {tag}
+                </span>
+              ))}
             </div>
           )}
-        </div>
-      </section>
 
-      <section className="mt-10 border-t border-border pt-8">
-        <h2 className="text-sm font-semibold">Layers</h2>
-        <ul className="mt-4 space-y-3">
-          {layerRecords.map((layer) => (
-            <li key={layer!.id}>
-              <Link href={`/layer/${layer!.id}/`} className="font-medium text-primary">
-                {layer!.name}
-              </Link>
-              <p className="text-sm text-muted-foreground">{layer!.description}</p>
-            </li>
-          ))}
-        </ul>
-        <div className="mt-4 flex flex-wrap gap-2">
-          {company.subdomains.map((item) => (
-            <span key={item} className="rounded border border-border px-2 py-1 text-[11px]">
-              {item}
-            </span>
-          ))}
+          <section className="mt-10">
+            <h2 className="text-[15px] font-semibold">Layers</h2>
+            <ul className="mt-4 space-y-3">
+              {layerRecords.map((layer) => (
+                <li key={layer!.id}>
+                  <Link href={`/layer/${layer!.id}/`} className="font-medium text-primary">
+                    {layer!.name}
+                  </Link>
+                  <p className="text-[14px] text-muted-foreground">{layer!.description}</p>
+                </li>
+              ))}
+            </ul>
+            {subdomains.length > 0 && (
+              <div className="mt-4 flex flex-wrap gap-2">
+                {subdomains.map((item) => (
+                  <span key={item} className="rounded-md bg-secondary px-2 py-1 text-[13px]">
+                    {item}
+                  </span>
+                ))}
+              </div>
+            )}
+          </section>
         </div>
-      </section>
 
-      <p className="mt-10 text-[12px] text-muted-foreground">
-        Added {formatDate(company.addedAt)} · Updated {formatDate(company.updatedAt)}. Figures without a
-        public source are left empty.
-      </p>
+        <aside>
+          <h2 className="text-[15px] font-semibold">Key facts</h2>
+          <dl className="mt-4 grid grid-cols-2 gap-x-6 gap-y-5">
+            <Fact
+              label="Founded"
+              value={String(company.founded)}
+              source={identity?.fields.includes('founded') ? identity : undefined}
+              importDate={company.addedAt}
+            />
+            <Fact
+              label="Headquarters"
+              value={company.headquarters}
+              source={identity?.fields.includes('headquarters') ? identity : undefined}
+              importDate={company.addedAt}
+            />
+            <Fact
+              label="Founders"
+              value={company.founders.join(', ')}
+              source={identity?.fields.includes('founders') ? identity : undefined}
+              importDate={company.addedAt}
+              wide
+            />
+            {company.funding.total && (
+              <Fact
+                label="Funding"
+                value={
+                  <>
+                    {company.funding.total}
+                    {company.funding.stage ? (
+                      <span className="block text-[13px] font-normal text-muted-foreground">
+                        {company.funding.stage}
+                      </span>
+                    ) : null}
+                  </>
+                }
+                source={
+                  company.funding.source && company.funding.date
+                    ? { source: company.funding.source, date: company.funding.date }
+                    : undefined
+                }
+                importDate={company.addedAt}
+              />
+            )}
+            {company.valuation && (
+              <Fact
+                label="Valuation"
+                value={
+                  <>
+                    {company.valuation.amount}
+                    {company.valuation.notes ? (
+                      <span className="block text-[13px] font-normal text-muted-foreground">
+                        {company.valuation.notes}
+                      </span>
+                    ) : null}
+                  </>
+                }
+                source={company.valuation}
+                importDate={company.addedAt}
+              />
+            )}
+            {company.revenue && (
+              <Fact
+                label="Revenue"
+                value={
+                  <>
+                    {company.revenue.amount}
+                    <span className="block text-[13px] font-normal text-muted-foreground">
+                      {company.revenue.period}
+                      {company.revenue.notes ? ` · ${company.revenue.notes}` : ''}
+                    </span>
+                  </>
+                }
+                source={company.revenue}
+                importDate={company.addedAt}
+                wide
+              />
+            )}
+            {company.funding.investors.length > 0 && (
+              <Fact label="Investors" value={company.funding.investors.join(', ')} wide />
+            )}
+          </dl>
+          {layerRecords.length > 0 && (
+            <p className="mt-6 text-[13px] text-muted-foreground">
+              {layerRecords.map((layer) => shortLayerName(layer!.name)).join(' · ')}
+            </p>
+          )}
+        </aside>
+      </div>
+
+      {showDates && (
+        <p className="mt-12 text-[13px] text-muted-foreground">
+          Added {formatDate(company.addedAt)} · Updated {formatDate(company.updatedAt)}. Figures without a
+          public source are left empty.
+        </p>
+      )}
     </main>
   );
 }
@@ -171,55 +221,27 @@ function Fact({
   label,
   value,
   source,
+  importDate,
+  wide,
 }: {
   label: string;
   value: ReactNode;
   source?: { source: string; date: string };
+  importDate?: string;
+  wide?: boolean;
 }) {
   return (
-    <div className="rounded-lg border border-border p-4">
-      <dt className="text-[11px] uppercase tracking-[0.08em] text-muted-foreground">{label}</dt>
-      <dd className="mt-1 text-sm">{value}</dd>
+    <div className={wide ? 'col-span-2' : undefined}>
+      <dt className="text-[12px] uppercase tracking-[0.08em] text-muted-foreground">{label}</dt>
+      <dd className="mt-1 text-[15px] font-medium">{value}</dd>
       {source && (
-        <a
-          href={source.source}
-          target="_blank"
-          rel="noreferrer"
-          className="mt-2 inline-flex items-center gap-1 text-[12px] text-primary"
-        >
-          Source · {formatDate(source.date)}
-          <IconExternal />
-        </a>
-      )}
-    </div>
-  );
-}
-
-function Sourced({
-  label,
-  value,
-  extra,
-  source,
-  date,
-}: {
-  label: string;
-  value: string;
-  extra?: string;
-  source?: string;
-  date?: string;
-}) {
-  return (
-    <div className="rounded-lg border border-border p-4">
-      <p className="text-[11px] uppercase tracking-[0.08em] text-muted-foreground">{label}</p>
-      <p className="mt-1 text-xl font-semibold">{value}</p>
-      {extra && <p className="text-sm text-muted-foreground">{extra}</p>}
-      {source && date ? (
-        <a href={source} target="_blank" rel="noreferrer" className="mt-2 inline-flex items-center gap-1 text-[12px] text-primary">
-          Source · {formatDate(date)}
-          <IconExternal />
-        </a>
-      ) : (
-        <p className="mt-2 text-[12px] text-muted-foreground">No public figure sourced.</p>
+        <div className="mt-1">
+          <SourceLink
+            href={source.source}
+            date={source.date}
+            showDate={!importDate || source.date !== importDate}
+          />
+        </div>
       )}
     </div>
   );
