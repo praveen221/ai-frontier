@@ -213,17 +213,29 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
+        "total": "$1.8B",
+        "stage": "Series E",
         "investors": [
+          "Dragoneer Investment Group",
+          "Lightspeed Venture Partners",
+          "ICONIQ",
+          "General Catalyst",
           "Prima Materia",
-          "General Catalyst"
-        ]
+          "Accel"
+        ],
+        "source": "https://helsing.ai/newsroom/helsing-raises-1-8bn-in-series-e",
+        "date": "2026-07-13"
       },
       "tags": [
         "Europe",
         "defense"
-      ]
+      ],
+      "valuation": {
+        "amount": "$18B",
+        "date": "2026-07-13",
+        "source": "https://helsing.ai/newsroom/helsing-raises-1-8bn-in-series-e",
+        "notes": "Valuation at Series E"
+      }
     },
     {
       "id": "skydio",

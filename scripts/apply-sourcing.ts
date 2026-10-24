@@ -9,7 +9,11 @@ import type { Company } from '../lib/schema';
 const PATCH_PATH = path.join(process.cwd(), 'data/sourcing-patches.json');
 const ROOT = path.join(process.cwd(), 'data');
 
-type Patch = Partial<Company> & { id: string };
+type Patch = Partial<Omit<Company, 'valuation' | 'revenue'>> & {
+  id: string;
+  valuation?: Company['valuation'] | null;
+  revenue?: Company['revenue'] | null;
+};
 
 type CompanyFile = Company[] | { companies: Company[] };
 
@@ -53,8 +57,8 @@ for (const patch of patches.companies) {
     ...current,
     ...patch,
     funding: { ...current.funding, ...(patch.funding ?? {}) },
-    valuation: patch.valuation ?? current.valuation,
-    revenue: patch.revenue ?? current.revenue,
+    valuation: patch.valuation === null ? undefined : (patch.valuation ?? current.valuation),
+    revenue: patch.revenue === null ? undefined : (patch.revenue ?? current.revenue),
     identitySource: patch.identitySource ?? current.identitySource,
     tags: patch.tags ?? current.tags,
     subdomains: [...new Set(patch.subdomains ?? current.subdomains)],

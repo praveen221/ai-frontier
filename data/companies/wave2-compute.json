@@ -341,22 +341,25 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Series D",
+        "total": "$3.9B",
+        "stage": "Series F",
         "investors": [
+          "Atreides Management",
+          "Mubadala Capital",
+          "Valor Equity Partners",
           "Founders Fund",
+          "GIC",
           "NVIDIA",
-          "Fidelity",
-          "Mubadala"
+          "Qatar Investment Authority"
         ],
-        "source": "https://www.crusoe.ai/resources/newsroom/crusoe-closes-series-d-funding",
-        "date": "2024-12-12"
+        "source": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding",
+        "date": "2026-09-17"
       },
       "valuation": {
-        "amount": "$2.8B",
-        "date": "2024-12-12",
-        "source": "https://www.crusoe.ai/resources/newsroom/crusoe-closes-series-d-funding",
-        "notes": "Valuation at Series D"
+        "amount": "$30.9B",
+        "date": "2026-09-17",
+        "source": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding",
+        "notes": "Post-money at Series F first close"
       },
       "tags": [
         "GPU cloud",
