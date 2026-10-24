@@ -1,0 +1,2603 @@
+{
+  "companies": [
+    {
+      "id": "tsmc",
+      "name": "TSMC",
+      "fullName": "Taiwan Semiconductor Manufacturing Company",
+      "description": "World's largest dedicated semiconductor foundry, manufacturing advanced chips for NVIDIA, AMD, Apple, and other AI hardware companies.",
+      "layers": [
+        "fabs-manufacturing"
+      ],
+      "subdomains": [
+        "Semiconductor foundries (TSMC, Samsung, etc.)"
+      ],
+      "founded": 1987,
+      "founders": [
+        "Morris Chang"
+      ],
+      "headquarters": "Hsinchu, Taiwan",
+      "website": "https://www.tsmc.com",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "valuation": {
+        "amount": "$945B",
+        "date": "2024-12-31",
+        "source": "https://www.google.com/finance/quote/TSM:NYSE",
+        "notes": "Market capitalization"
+      },
+      "tags": [
+        "semiconductors",
+        "manufacturing",
+        "foundry",
+        "public"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "asml",
+      "name": "ASML",
+      "fullName": "ASML Holding N.V.",
+      "description": "Dutch company and sole producer of extreme ultraviolet (EUV) lithography machines essential for manufacturing sub-7nm chips.",
+      "layers": [
+        "fabs-manufacturing"
+      ],
+      "subdomains": [
+        "EUV lithography equipment"
+      ],
+      "founded": 1984,
+      "founders": [
+        "Spin-off from Philips"
+      ],
+      "headquarters": "Veldhoven, Netherlands",
+      "website": "https://www.asml.com",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "valuation": {
+        "amount": "$287B",
+        "date": "2024-12-31",
+        "source": "https://www.google.com/finance/quote/ASML:NASDAQ",
+        "notes": "Market capitalization"
+      },
+      "tags": [
+        "lithography",
+        "equipment",
+        "EUV",
+        "public"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "nvidia",
+      "name": "NVIDIA",
+      "fullName": "NVIDIA Corporation",
+      "description": "Leading AI accelerator company producing GPUs (H100, H200, Blackwell) that power the majority of large-scale AI training and inference.",
+      "layers": [
+        "chips-silicon",
+        "systems-software"
+      ],
+      "subdomains": [
+        "Data center GPUs",
+        "GPU programming (CUDA, ROCm)"
+      ],
+      "founded": 1993,
+      "founders": [
+        "Jensen Huang",
+        "Chris Malachowsky",
+        "Curtis Priem"
+      ],
+      "headquarters": "Santa Clara, CA, USA",
+      "website": "https://www.nvidia.com",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "valuation": {
+        "amount": "$3.45T",
+        "date": "2024-12-31",
+        "source": "https://www.google.com/finance/quote/NVDA:NASDAQ",
+        "notes": "Market capitalization"
+      },
+      "tags": [
+        "GPUs",
+        "accelerators",
+        "CUDA",
+        "public"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "amd",
+      "name": "AMD",
+      "fullName": "Advanced Micro Devices",
+      "description": "Semiconductor company producing MI300 series AI accelerators competing with NVIDIA in the data center AI market.",
+      "layers": [
+        "chips-silicon"
+      ],
+      "subdomains": [
+        "Data center GPUs"
+      ],
+      "founded": 1969,
+      "founders": [
+        "Jerry Sanders",
+        "Jack Gifford"
+      ],
+      "headquarters": "Santa Clara, CA, USA",
+      "website": "https://www.amd.com",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "valuation": {
+        "amount": "$198B",
+        "date": "2024-12-31",
+        "source": "https://www.google.com/finance/quote/AMD:NASDAQ",
+        "notes": "Market capitalization"
+      },
+      "tags": [
+        "GPUs",
+        "accelerators",
+        "MI300",
+        "public"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "google-tpu",
+      "name": "Google TPU",
+      "fullName": "Google Tensor Processing Units",
+      "description": "Google's custom AI accelerators optimized for TensorFlow and JAX workloads, powering Gemini and other Google AI products.",
+      "layers": [
+        "chips-silicon"
+      ],
+      "subdomains": [
+        "Custom AI accelerators (TPU, Trainium, etc.)"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Google"
+      ],
+      "headquarters": "Mountain View, CA, USA",
+      "website": "https://cloud.google.com/tpu",
+      "funding": {
+        "total": null,
+        "stage": "Google (Alphabet) internal",
+        "investors": []
+      },
+      "tags": [
+        "TPU",
+        "custom silicon",
+        "Google"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "cerebras",
+      "name": "Cerebras",
+      "fullName": "Cerebras Systems",
+      "description": "Developer of wafer-scale AI processors, with chips larger than a standard dinner plate designed for high-throughput training and inference.",
+      "layers": [
+        "chips-silicon"
+      ],
+      "subdomains": [
+        "Wafer-scale systems"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Andrew Feldman",
+        "Gary Lauterbach"
+      ],
+      "headquarters": "Sunnyvale, CA, USA",
+      "website": "https://cerebras.ai",
+      "funding": {
+        "total": "$715M",
+        "stage": "Series F",
+        "investors": [
+          "Alpha Wave",
+          "Benchmark",
+          "Coatue"
+        ],
+        "source": "https://www.crunchbase.com/organization/cerebras-systems",
+        "date": "2024-11-06"
+      },
+      "tags": [
+        "wafer-scale",
+        "custom silicon",
+        "training"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "groq",
+      "name": "Groq",
+      "fullName": "Groq Inc.",
+      "description": "AI chip startup building Language Processing Units (LPUs) optimized for ultra-low-latency inference, achieving record token-per-second speeds.",
+      "layers": [
+        "chips-silicon"
+      ],
+      "subdomains": [
+        "Inference-optimized chips"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Jonathan Ross"
+      ],
+      "headquarters": "Mountain View, CA, USA",
+      "website": "https://groq.com",
+      "funding": {
+        "total": "$1.1B",
+        "stage": "Series D",
+        "investors": [
+          "BlackRock",
+          "Cisco",
+          "Samsung"
+        ],
+        "source": "https://techcrunch.com/2024/08/05/groq-raises-640m-series-d/",
+        "date": "2024-08-05"
+      },
+      "tags": [
+        "LPU",
+        "inference",
+        "low-latency"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "sambanova",
+      "name": "SambaNova Systems",
+      "fullName": "SambaNova Systems",
+      "description": "Full-stack AI platform company providing custom silicon and software for enterprise AI model training and deployment.",
+      "layers": [
+        "chips-silicon"
+      ],
+      "subdomains": [
+        "Custom AI accelerators (TPU, Trainium, etc.)"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Rodrigo Liang",
+        "Kunle Olukotun"
+      ],
+      "headquarters": "Palo Alto, CA, USA",
+      "website": "https://sambanova.ai",
+      "funding": {
+        "total": "$1.56B",
+        "stage": "Series D",
+        "investors": [
+          "SoftBank",
+          "BlackRock",
+          "GGV Capital"
+        ],
+        "source": "https://www.crunchbase.com/organization/sambanova-systems",
+        "date": "2023-06-13"
+      },
+      "tags": [
+        "custom silicon",
+        "full-stack",
+        "enterprise"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "etched",
+      "name": "Etched",
+      "fullName": "Etched",
+      "description": "Startup building specialized ASICs optimized specifically for transformer model inference, targeting 10x efficiency gains over GPUs.",
+      "layers": [
+        "chips-silicon"
+      ],
+      "subdomains": [
+        "Inference-optimized chips",
+        "Custom AI accelerators (TPU, Trainium, etc.)"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Gavin Uberti",
+        "Chris Zhu",
+        "Robert Wachen"
+      ],
+      "headquarters": "Cupertino, CA, USA",
+      "website": "https://www.etched.com",
+      "funding": {
+        "total": "$125M",
+        "stage": "Series A",
+        "investors": [
+          "Primary Venture Partners",
+          "Positive Sum Ventures"
+        ],
+        "source": "https://techcrunch.com/2024/06/25/etched-raises-120m-seed/",
+        "date": "2024-06-25"
+      },
+      "tags": [
+        "ASIC",
+        "transformer",
+        "inference"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "aws",
+      "name": "AWS",
+      "fullName": "Amazon Web Services",
+      "description": "Largest cloud provider offering extensive GPU compute (P5 instances with H100s), custom Trainium/Inferentia chips, and managed AI services.",
+      "layers": [
+        "infrastructure-cloud"
+      ],
+      "subdomains": [
+        "Hyperscale clouds (AWS, GCP, Azure)"
+      ],
+      "founded": 2006,
+      "founders": [
+        "Amazon"
+      ],
+      "headquarters": "Seattle, WA, USA",
+      "website": "https://aws.amazon.com",
+      "funding": {
+        "total": null,
+        "stage": "Amazon subsidiary",
+        "investors": []
+      },
+      "revenue": {
+        "amount": "$90.8B",
+        "period": "2023",
+        "source": "https://ir.aboutamazon.com/",
+        "date": "2024-02-01"
+      },
+      "tags": [
+        "cloud",
+        "GPU",
+        "hyperscale",
+        "public"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "gcp",
+      "name": "Google Cloud (GCP)",
+      "fullName": "Google Cloud Platform",
+      "description": "Google's cloud offering with TPU access, A3 GPU instances, and tight integration with Vertex AI and Google's foundation models.",
+      "layers": [
+        "infrastructure-cloud"
+      ],
+      "subdomains": [
+        "Hyperscale clouds (AWS, GCP, Azure)"
+      ],
+      "founded": 2008,
+      "founders": [
+        "Google"
+      ],
+      "headquarters": "Mountain View, CA, USA",
+      "website": "https://cloud.google.com",
+      "funding": {
+        "total": null,
+        "stage": "Alphabet subsidiary",
+        "investors": []
+      },
+      "revenue": {
+        "amount": "$33.1B",
+        "period": "2023",
+        "source": "https://abc.xyz/",
+        "date": "2024-01-30"
+      },
+      "tags": [
+        "cloud",
+        "TPU",
+        "GPU",
+        "hyperscale",
+        "public"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "azure",
+      "name": "Microsoft Azure",
+      "fullName": "Microsoft Azure",
+      "description": "Microsoft's cloud platform with extensive NVIDIA GPU infrastructure, exclusive OpenAI model access, and Azure AI services.",
+      "layers": [
+        "infrastructure-cloud"
+      ],
+      "subdomains": [
+        "Hyperscale clouds (AWS, GCP, Azure)"
+      ],
+      "founded": 2010,
+      "founders": [
+        "Microsoft"
+      ],
+      "headquarters": "Redmond, WA, USA",
+      "website": "https://azure.microsoft.com",
+      "funding": {
+        "total": null,
+        "stage": "Microsoft subsidiary",
+        "investors": []
+      },
+      "revenue": {
+        "amount": "$96.8B",
+        "period": "FY2023",
+        "source": "https://www.microsoft.com/investor",
+        "date": "2023-07-25"
+      },
+      "tags": [
+        "cloud",
+        "GPU",
+        "hyperscale",
+        "OpenAI",
+        "public"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "coreweave",
+      "name": "CoreWeave",
+      "fullName": "CoreWeave",
+      "description": "Specialized GPU cloud provider originally from crypto mining, now a major AI infrastructure provider with large NVIDIA allocations.",
+      "layers": [
+        "infrastructure-cloud"
+      ],
+      "subdomains": [
+        "GPU cloud providers"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Michael Intrator",
+        "Brian Venturo",
+        "Brannin McBee"
+      ],
+      "headquarters": "Roseland, NJ, USA",
+      "website": "https://www.coreweave.com",
+      "funding": {
+        "total": "$12.7B",
+        "stage": "Debt + Equity",
+        "investors": [
+          "Magnetar Capital",
+          "Blackstone",
+          "Coatue"
+        ],
+        "source": "https://techcrunch.com/2024/05/28/coreweave-raises-1-1b/",
+        "date": "2024-05-28"
+      },
+      "valuation": {
+        "amount": "$19B",
+        "date": "2024-05-28",
+        "source": "https://techcrunch.com/2024/05/28/coreweave-raises-1-1b/",
+        "notes": "Valuation at Series C"
+      },
+      "tags": [
+        "GPU cloud",
+        "infrastructure",
+        "NVIDIA"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "lambda-labs",
+      "name": "Lambda Labs",
+      "fullName": "Lambda Labs",
+      "description": "GPU cloud and workstation provider offering on-demand and reserved NVIDIA GPU instances for training and inference.",
+      "layers": [
+        "infrastructure-cloud"
+      ],
+      "subdomains": [
+        "GPU cloud providers"
+      ],
+      "founded": 2012,
+      "founders": [
+        "Stephen Balaban"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://lambdalabs.com",
+      "funding": {
+        "total": "$320M",
+        "stage": "Series C",
+        "investors": [
+          "US Innovative Technology Fund",
+          "Mercato Partners"
+        ],
+        "source": "https://techcrunch.com/2024/04/09/lambda-labs-raises-320m/",
+        "date": "2024-04-09"
+      },
+      "tags": [
+        "GPU cloud",
+        "workstations"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "scale-ai",
+      "name": "Scale AI",
+      "fullName": "Scale AI",
+      "description": "Leading data labeling and human feedback platform powering RLHF and data pipelines for OpenAI, Meta, and other frontier labs.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Data labeling & annotation",
+        "Data labeling & annotation"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Alexandr Wang",
+        "Lucy Guo"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://scale.com",
+      "funding": {
+        "total": "$1.6B",
+        "stage": "Series F",
+        "investors": [
+          "Accel",
+          "Index Ventures",
+          "Founders Fund"
+        ],
+        "source": "https://www.crunchbase.com/organization/scale-ai",
+        "date": "2024-05-01"
+      },
+      "valuation": {
+        "amount": "$14B",
+        "date": "2024-05-01",
+        "source": "https://techcrunch.com/2024/05/01/scale-ai-raises-1b/",
+        "notes": "Valuation at Series F"
+      },
+      "tags": [
+        "data labeling",
+        "RLHF",
+        "human feedback"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "surge-ai",
+      "name": "Surge AI",
+      "fullName": "Surge AI",
+      "description": "Data labeling and human feedback platform specializing in high-quality training data for NLP and multimodal models.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Data labeling & annotation"
+      ],
+      "founded": 2018,
+      "founders": [
+        "Edwin Chen",
+        "Jihad Kawas"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.surgehq.ai",
+      "funding": {
+        "total": "$10M",
+        "stage": "Series A",
+        "investors": [
+          "Craft Ventures",
+          "Susa Ventures"
+        ],
+        "source": "https://www.crunchbase.com/organization/surge-ai",
+        "date": "2022-03-15"
+      },
+      "tags": [
+        "data labeling",
+        "NLP"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "pinecone",
+      "name": "Pinecone",
+      "fullName": "Pinecone Systems Inc.",
+      "description": "Managed vector database for similarity search and retrieval, powering RAG systems and semantic search for AI applications.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Vector databases"
+      ],
+      "founded": 2019,
+      "founders": [
+        "Edo Liberty"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://www.pinecone.io",
+      "funding": {
+        "total": "$138M",
+        "stage": "Series B",
+        "investors": [
+          "Andreessen Horowitz",
+          "ICONIQ Growth",
+          "Menlo Ventures"
+        ],
+        "source": "https://www.pinecone.io/blog/series-b/",
+        "date": "2023-04-27"
+      },
+      "valuation": {
+        "amount": "$750M",
+        "date": "2023-04-27",
+        "source": "https://techcrunch.com/2023/04/27/pinecone-valuation/",
+        "notes": "Valuation at Series B"
+      },
+      "tags": [
+        "vector database",
+        "RAG",
+        "embeddings"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "weaviate",
+      "name": "Weaviate",
+      "fullName": "Weaviate B.V.",
+      "description": "Open-source vector database with hybrid search, generative modules, and multi-tenancy for production AI applications.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Vector databases"
+      ],
+      "founded": 2019,
+      "founders": [
+        "Bob van Luijt",
+        "Etienne Dilocker"
+      ],
+      "headquarters": "Amsterdam, Netherlands",
+      "website": "https://weaviate.io",
+      "funding": {
+        "total": "$67M",
+        "stage": "Series B",
+        "investors": [
+          "Index Ventures",
+          "Battery Ventures",
+          "New Enterprise Associates"
+        ],
+        "source": "https://techcrunch.com/2023/04/20/weaviate-raises-50m/",
+        "date": "2023-04-20"
+      },
+      "tags": [
+        "vector database",
+        "open-source",
+        "hybrid search"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "qdrant",
+      "name": "Qdrant",
+      "fullName": "Qdrant",
+      "description": "High-performance vector similarity search engine written in Rust, designed for production workloads with advanced filtering.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Vector databases"
+      ],
+      "founded": 2021,
+      "founders": [
+        "Andrey Vasnetsov",
+        "Viktor Radchenko"
+      ],
+      "headquarters": "Berlin, Germany",
+      "website": "https://qdrant.tech",
+      "funding": {
+        "total": "$9.5M",
+        "stage": "Seed",
+        "investors": [
+          "Unusual Ventures",
+          "42CAP"
+        ],
+        "source": "https://qdrant.tech/blog/seed-funding/",
+        "date": "2023-04-24"
+      },
+      "tags": [
+        "vector database",
+        "Rust",
+        "performance"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "chroma",
+      "name": "Chroma",
+      "fullName": "Chroma",
+      "description": "Open-source embedding database with a developer-friendly API, optimized for AI applications and RAG workflows.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Vector databases"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Jeff Huber",
+        "Anton Troynikov"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.trychroma.com",
+      "funding": {
+        "total": "$18M",
+        "stage": "Seed",
+        "investors": [
+          "Quiet Capital",
+          "Astasia Myers"
+        ],
+        "source": "https://www.trychroma.com/blog/seed",
+        "date": "2023-04-06"
+      },
+      "tags": [
+        "vector database",
+        "open-source",
+        "embeddings"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "fullName": "OpenAI, L.P.",
+      "description": "Frontier AI lab building GPT models, o1 reasoning systems, DALL-E, and ChatGPT. Leading the development of large-scale language models.",
+      "layers": [
+        "models-frontier"
+      ],
+      "subdomains": [
+        "Frontier language models (GPT-4, Claude, Gemini)",
+        "Reasoning models (o1, etc.)"
+      ],
+      "founded": 2015,
+      "founders": [
+        "Sam Altman",
+        "Greg Brockman",
+        "Ilya Sutskever",
+        "Wojciech Zaremba",
+        "John Schulman"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://openai.com",
+      "funding": {
+        "total": "$21.9B",
+        "stage": "Venture",
+        "investors": [
+          "Microsoft",
+          "Thrive Capital",
+          "SoftBank",
+          "NVIDIA"
+        ],
+        "source": "https://openai.com/index/openai-announces-new-funding/",
+        "date": "2024-10-02"
+      },
+      "valuation": {
+        "amount": "$157B",
+        "date": "2024-10-02",
+        "source": "https://openai.com/index/openai-announces-new-funding/",
+        "notes": "Post-money valuation"
+      },
+      "tags": [
+        "frontier lab",
+        "GPT",
+        "reasoning",
+        "ChatGPT"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "fullName": "Anthropic PBC",
+      "description": "AI safety company building Claude models with Constitutional AI, focusing on helpful, harmless, and honest AI systems.",
+      "layers": [
+        "models-frontier"
+      ],
+      "subdomains": [
+        "Frontier language models (GPT-4, Claude, Gemini)"
+      ],
+      "founded": 2021,
+      "founders": [
+        "Dario Amodei",
+        "Daniela Amodei",
+        "Tom Brown",
+        "Jack Clark",
+        "Jared Kaplan"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.anthropic.com",
+      "funding": {
+        "total": "$9.7B",
+        "stage": "Series D",
+        "investors": [
+          "Amazon",
+          "Google",
+          "Spark Capital",
+          "Salesforce Ventures"
+        ],
+        "source": "https://techcrunch.com/2024/11/22/anthropic-raises-4b/",
+        "date": "2024-11-22"
+      },
+      "valuation": {
+        "amount": "$60B",
+        "date": "2024-12-20",
+        "source": "https://www.ft.com/content/anthropic-valuation",
+        "notes": "Reported valuation in funding discussions"
+      },
+      "tags": [
+        "frontier lab",
+        "Claude",
+        "safety",
+        "Constitutional AI"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "google-deepmind",
+      "name": "Google DeepMind",
+      "fullName": "Google DeepMind",
+      "description": "Merged AI research lab (DeepMind + Google Brain) building Gemini models, AlphaFold, and advancing AGI research.",
+      "layers": [
+        "models-frontier"
+      ],
+      "subdomains": [
+        "Frontier language models (GPT-4, Claude, Gemini)",
+        "Multimodal foundation models"
+      ],
+      "founded": 2010,
+      "founders": [
+        "Demis Hassabis",
+        "Shane Legg",
+        "Mustafa Suleyman"
+      ],
+      "headquarters": "London, UK / Mountain View, CA, USA",
+      "website": "https://deepmind.google",
+      "funding": {
+        "total": null,
+        "stage": "Alphabet subsidiary",
+        "investors": []
+      },
+      "tags": [
+        "frontier lab",
+        "Gemini",
+        "AlphaFold",
+        "AGI",
+        "public"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "xai",
+      "name": "xAI",
+      "fullName": "xAI Corp.",
+      "description": "Elon Musk's AI company building Grok models and massive training infrastructure, with tight integration to X (Twitter).",
+      "layers": [
+        "models-frontier"
+      ],
+      "subdomains": [
+        "Frontier language models (GPT-4, Claude, Gemini)"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Elon Musk"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://x.ai",
+      "funding": {
+        "total": "$12B",
+        "stage": "Series C",
+        "investors": [
+          "Valor Equity Partners",
+          "Vy Capital",
+          "Andreessen Horowitz",
+          "Sequoia Capital"
+        ],
+        "source": "https://www.ft.com/content/xai-funding-dec-2024",
+        "date": "2024-12-15"
+      },
+      "valuation": {
+        "amount": "$50B",
+        "date": "2024-12-15",
+        "source": "https://www.wsj.com/tech/ai/elon-musk-xai-funding",
+        "notes": "Post-money valuation at Series C"
+      },
+      "tags": [
+        "frontier lab",
+        "Grok",
+        "X integration"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "meta-ai",
+      "name": "Meta AI (FAIR)",
+      "fullName": "Meta AI Research",
+      "description": "Meta's AI research division producing the open Llama model family and advancing multimodal AI, computer vision, and AR/VR.",
+      "layers": [
+        "models-open"
+      ],
+      "subdomains": [
+        "Open language models (Llama, Mistral, Qwen)"
+      ],
+      "founded": 2013,
+      "founders": [
+        "Yann LeCun (founding leader)"
+      ],
+      "headquarters": "Menlo Park, CA, USA",
+      "website": "https://ai.meta.com",
+      "funding": {
+        "total": null,
+        "stage": "Meta Platforms subsidiary",
+        "investors": []
+      },
+      "tags": [
+        "open-source",
+        "Llama",
+        "research",
+        "public"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "mistral-ai",
+      "name": "Mistral AI",
+      "fullName": "Mistral AI",
+      "description": "European frontier lab known for efficient open-weight models (Mistral, Mixtral) and commercial API offerings.",
+      "layers": [
+        "models-open",
+        "models-frontier"
+      ],
+      "subdomains": [
+        "Open language models (Llama, Mistral, Qwen)",
+        "Frontier language models (GPT-4, Claude, Gemini)"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Arthur Mensch",
+        "Guillaume Lample",
+        "Timoth\u00e9e Lacroix"
+      ],
+      "headquarters": "Paris, France",
+      "website": "https://mistral.ai",
+      "funding": {
+        "total": "$1.15B",
+        "stage": "Series B",
+        "investors": [
+          "General Catalyst",
+          "Lightspeed Venture Partners",
+          "Andreessen Horowitz",
+          "NVIDIA"
+        ],
+        "source": "https://mistral.ai/news/mistral-series-b/",
+        "date": "2024-06-11"
+      },
+      "valuation": {
+        "amount": "$6.2B",
+        "date": "2024-06-11",
+        "source": "https://mistral.ai/news/mistral-series-b/",
+        "notes": "Post-money valuation at Series B"
+      },
+      "tags": [
+        "open-source",
+        "frontier lab",
+        "European",
+        "Mistral"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "fullName": "DeepSeek AI",
+      "description": "Chinese research lab known for efficient open models (DeepSeek-V2, DeepSeek-Coder) and mixture-of-experts architectures.",
+      "layers": [
+        "models-open"
+      ],
+      "subdomains": [
+        "Open language models (Llama, Mistral, Qwen)",
+        "Mixture-of-experts models"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Liang Wenfeng"
+      ],
+      "headquarters": "Hangzhou, China",
+      "website": "https://www.deepseek.com",
+      "funding": {
+        "total": null,
+        "stage": "Backed by High-Flyer hedge fund",
+        "investors": [
+          "High-Flyer Capital Management"
+        ]
+      },
+      "tags": [
+        "open-source",
+        "Chinese",
+        "efficient",
+        "MoE"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "cohere",
+      "name": "Cohere",
+      "fullName": "Cohere Inc.",
+      "description": "Enterprise-focused foundation model company with models optimized for retrieval-augmented generation and secure deployment.",
+      "layers": [
+        "models-open"
+      ],
+      "subdomains": [
+        "Domain-specific open models"
+      ],
+      "founded": 2019,
+      "founders": [
+        "Aidan Gomez",
+        "Nick Frosst",
+        "Ivan Zhang"
+      ],
+      "headquarters": "Toronto, Canada",
+      "website": "https://cohere.com",
+      "funding": {
+        "total": "$1B",
+        "stage": "Series D",
+        "investors": [
+          "PSP Investments",
+          "NVIDIA",
+          "Salesforce Ventures",
+          "Oracle"
+        ],
+        "source": "https://cohere.com/blog/series-d",
+        "date": "2024-06-05"
+      },
+      "valuation": {
+        "amount": "$5.5B",
+        "date": "2024-06-05",
+        "source": "https://cohere.com/blog/series-d",
+        "notes": "Post-money valuation at Series D"
+      },
+      "tags": [
+        "enterprise",
+        "RAG",
+        "Canadian"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "ai21-labs",
+      "name": "AI21 Labs",
+      "fullName": "AI21 Labs",
+      "description": "Israeli NLP company building language models (Jamba) and developer tools focused on reliable enterprise text generation.",
+      "layers": [
+        "models-open"
+      ],
+      "subdomains": [
+        "Domain-specific open models"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Yoav Shoham",
+        "Ori Goshen",
+        "Amnon Shashua"
+      ],
+      "headquarters": "Tel Aviv, Israel",
+      "website": "https://www.ai21.com",
+      "funding": {
+        "total": "$283M",
+        "stage": "Series C",
+        "investors": [
+          "Google",
+          "NVIDIA",
+          "Intel Capital"
+        ],
+        "source": "https://www.ai21.com/blog/series-c",
+        "date": "2023-08-23"
+      },
+      "tags": [
+        "NLP",
+        "Israeli",
+        "enterprise"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "stability-ai",
+      "name": "Stability AI",
+      "fullName": "Stability AI Ltd.",
+      "description": "Open generative AI company behind Stable Diffusion, democratizing image, video, and audio generation models.",
+      "layers": [
+        "models-image"
+      ],
+      "subdomains": [
+        "Text-to-image generation"
+      ],
+      "founded": 2020,
+      "founders": [
+        "Emad Mostaque"
+      ],
+      "headquarters": "London, UK",
+      "website": "https://stability.ai",
+      "funding": {
+        "total": "$101M",
+        "stage": "Series A",
+        "investors": [
+          "Coatue",
+          "Lightspeed Venture Partners",
+          "O'Shaughnessy Ventures"
+        ],
+        "source": "https://techcrunch.com/2022/10/17/stability-ai-funding/",
+        "date": "2022-10-17"
+      },
+      "valuation": {
+        "amount": "$1B",
+        "date": "2022-10-17",
+        "source": "https://techcrunch.com/2022/10/17/stability-ai-funding/",
+        "notes": "Valuation at Series A"
+      },
+      "tags": [
+        "diffusion",
+        "image generation",
+        "open-source"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "midjourney",
+      "name": "Midjourney",
+      "fullName": "Midjourney, Inc.",
+      "description": "Independent research lab producing one of the most popular AI image generation systems, known for artistic quality.",
+      "layers": [
+        "models-image",
+        "apps-creative"
+      ],
+      "subdomains": [
+        "Text-to-image generation",
+        "Image editing & generation"
+      ],
+      "founded": 2021,
+      "founders": [
+        "David Holz"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.midjourney.com",
+      "funding": {
+        "total": null,
+        "stage": "Bootstrapped",
+        "investors": []
+      },
+      "revenue": {
+        "amount": "$200M",
+        "period": "2023",
+        "source": "https://www.theinformation.com/midjourney-revenue",
+        "date": "2023-08-18",
+        "notes": "Estimated annual revenue"
+      },
+      "tags": [
+        "image generation",
+        "bootstrapped",
+        "artistic"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "runway",
+      "name": "Runway",
+      "fullName": "Runway AI, Inc.",
+      "description": "AI research and creative tools company building Gen-2/Gen-3 video models and professional video editing software.",
+      "layers": [
+        "models-video",
+        "apps-creative"
+      ],
+      "subdomains": [
+        "Text-to-video generation",
+        "Video editing"
+      ],
+      "founded": 2018,
+      "founders": [
+        "Crist\u00f3bal Valenzuela",
+        "Alejandro Matamala",
+        "Anastasis Germanidis"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://runwayml.com",
+      "funding": {
+        "total": "$237M",
+        "stage": "Series C",
+        "investors": [
+          "Google",
+          "NVIDIA",
+          "Salesforce Ventures",
+          "Felicis"
+        ],
+        "source": "https://techcrunch.com/2023/06/29/runway-raises-141m/",
+        "date": "2023-06-29"
+      },
+      "valuation": {
+        "amount": "$1.5B",
+        "date": "2023-06-29",
+        "source": "https://techcrunch.com/2023/06/29/runway-raises-141m/",
+        "notes": "Valuation at Series C"
+      },
+      "tags": [
+        "video generation",
+        "creative tools"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "elevenlabs",
+      "name": "ElevenLabs",
+      "fullName": "ElevenLabs",
+      "description": "Voice AI company producing state-of-the-art speech synthesis, voice cloning, and conversational voice models.",
+      "layers": [
+        "models-audio"
+      ],
+      "subdomains": [
+        "Text-to-speech & voice cloning",
+        "Full-duplex speech (GPT-4o voice mode)"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Piotr D\u0105bkowski",
+        "Mati Staniszewski"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://elevenlabs.io",
+      "funding": {
+        "total": "$180M",
+        "stage": "Series B",
+        "investors": [
+          "Andreessen Horowitz",
+          "ICONIQ Growth",
+          "Sequoia Capital"
+        ],
+        "source": "https://elevenlabs.io/blog/series-b/",
+        "date": "2024-01-22"
+      },
+      "valuation": {
+        "amount": "$1.1B",
+        "date": "2024-01-22",
+        "source": "https://elevenlabs.io/blog/series-b/",
+        "notes": "Valuation at Series B"
+      },
+      "tags": [
+        "voice AI",
+        "speech synthesis",
+        "conversational"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "suno",
+      "name": "Suno",
+      "fullName": "Suno Inc.",
+      "description": "Music generation AI enabling users to create full songs with lyrics and vocals from text prompts.",
+      "layers": [
+        "models-audio"
+      ],
+      "subdomains": [
+        "Music generation"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Mikey Shulman",
+        "Georg Kucsko",
+        "Martin Camacho",
+        "Keenan Freyberg"
+      ],
+      "headquarters": "Cambridge, MA, USA",
+      "website": "https://www.suno.ai",
+      "funding": {
+        "total": "$125M",
+        "stage": "Series A",
+        "investors": [
+          "Lightspeed Venture Partners",
+          "Nat Friedman",
+          "Daniel Gross"
+        ],
+        "source": "https://techcrunch.com/2024/05/21/suno-raises-125m/",
+        "date": "2024-05-21"
+      },
+      "valuation": {
+        "amount": "$500M",
+        "date": "2024-05-21",
+        "source": "https://techcrunch.com/2024/05/21/suno-raises-125m/",
+        "notes": "Valuation at Series A"
+      },
+      "tags": [
+        "music generation",
+        "audio"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "physical-intelligence",
+      "name": "Physical Intelligence",
+      "fullName": "Physical Intelligence",
+      "description": "Robotics AI company building general-purpose foundation models (\u03c00) that enable robots to learn diverse physical tasks.",
+      "layers": [
+        "models-robotics",
+        "robotics-physical"
+      ],
+      "subdomains": [
+        "Robotics foundation models",
+        "Manipulation policies"
+      ],
+      "founded": 2024,
+      "founders": [
+        "Karol Hausman",
+        "Sergey Levine",
+        "Chelsea Finn"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://physicalintelligence.company",
+      "funding": {
+        "total": "$400M",
+        "stage": "Series A",
+        "investors": [
+          "Jeff Bezos",
+          "Thrive Capital",
+          "Lux Capital",
+          "OpenAI Startup Fund"
+        ],
+        "source": "https://physicalintelligence.company/blog/pi-raises-400m",
+        "date": "2024-11-04"
+      },
+      "valuation": {
+        "amount": "$2.4B",
+        "date": "2024-11-04",
+        "source": "https://www.nytimes.com/2024/11/04/technology/physical-intelligence-funding.html",
+        "notes": "Post-money valuation at Series A"
+      },
+      "tags": [
+        "robotics",
+        "foundation models",
+        "manipulation"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "skild-ai",
+      "name": "Skild AI",
+      "fullName": "Skild AI",
+      "description": "Building general-purpose brain for robots that can learn across multiple tasks, embodiments, and environments.",
+      "layers": [
+        "models-robotics"
+      ],
+      "subdomains": [
+        "Robotics foundation models"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Deepak Pathak",
+        "Abhinav Gupta"
+      ],
+      "headquarters": "Pittsburgh, PA, USA",
+      "website": "https://www.skild.ai",
+      "funding": {
+        "total": "$300M",
+        "stage": "Series A",
+        "investors": [
+          "Lightspeed Venture Partners",
+          "SoftBank",
+          "Coatue",
+          "Amazon"
+        ],
+        "source": "https://techcrunch.com/2024/07/17/skild-ai-raises-300m/",
+        "date": "2024-07-17"
+      },
+      "valuation": {
+        "amount": "$1.5B",
+        "date": "2024-07-17",
+        "source": "https://techcrunch.com/2024/07-17/skild-ai-raises-300m/",
+        "notes": "Post-money valuation"
+      },
+      "tags": [
+        "robotics",
+        "foundation models",
+        "general-purpose"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "langchain",
+      "name": "LangChain",
+      "fullName": "LangChain, Inc.",
+      "description": "Popular agent framework with LangGraph for orchestration and LangSmith for tracing, powering thousands of AI applications.",
+      "layers": [
+        "agents-memory"
+      ],
+      "subdomains": [
+        "Agent frameworks (LangChain, CrewAI, etc.)"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Harrison Chase"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.langchain.com",
+      "funding": {
+        "total": "$35M",
+        "stage": "Series A",
+        "investors": [
+          "Sequoia Capital",
+          "Benchmark"
+        ],
+        "source": "https://blog.langchain.dev/announcing-our-series-a/",
+        "date": "2023-04-20"
+      },
+      "tags": [
+        "agent framework",
+        "LangGraph",
+        "LangSmith"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "llamaindex",
+      "name": "LlamaIndex",
+      "fullName": "LlamaIndex",
+      "description": "Data framework for retrieval-augmented generation and context management in LLM applications.",
+      "layers": [
+        "agents-memory"
+      ],
+      "subdomains": [
+        "Agent frameworks (LangChain, CrewAI, etc.)"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Jerry Liu"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.llamaindex.ai",
+      "funding": {
+        "total": "$8.5M",
+        "stage": "Seed",
+        "investors": [
+          "Greylock",
+          "Notable Capital"
+        ],
+        "source": "https://www.llamaindex.ai/blog/seed-funding",
+        "date": "2023-05-17"
+      },
+      "tags": [
+        "RAG",
+        "data framework",
+        "agent framework"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "letta",
+      "name": "Letta",
+      "fullName": "Letta (formerly MemGPT)",
+      "description": "Stateful memory system for agents, enabling long-term context and personalization beyond context windows.",
+      "layers": [
+        "agents-memory"
+      ],
+      "subdomains": [
+        "Long-term memory systems",
+        "Long-term memory systems"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Charles Packer",
+        "Sarah Wooders",
+        "Vivian Fang"
+      ],
+      "headquarters": "Berkeley, CA, USA",
+      "website": "https://www.letta.com",
+      "funding": {
+        "total": "$10M",
+        "stage": "Seed",
+        "investors": [
+          "Felicis Ventures",
+          "Fin Ventures"
+        ],
+        "source": "https://www.letta.com/blog/seed-funding",
+        "date": "2024-05-15"
+      },
+      "tags": [
+        "memory",
+        "agents",
+        "stateful"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "zep",
+      "name": "Zep",
+      "fullName": "Zep AI",
+      "description": "Long-term memory infrastructure for conversational AI applications, with fast retrieval and summarization.",
+      "layers": [
+        "agents-memory"
+      ],
+      "subdomains": [
+        "Long-term memory systems"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Andrew Easter"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.getzep.com",
+      "funding": {
+        "total": "$2.5M",
+        "stage": "Pre-seed",
+        "investors": [
+          "Y Combinator"
+        ],
+        "source": "https://www.ycombinator.com/companies/zep",
+        "date": "2023-07-01"
+      },
+      "tags": [
+        "memory",
+        "conversational AI"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "vllm",
+      "name": "vLLM",
+      "fullName": "vLLM Project",
+      "description": "Open-source high-throughput inference engine with PagedAttention, powering major model serving platforms.",
+      "layers": [
+        "serving-inference"
+      ],
+      "subdomains": [
+        "Inference engines (vLLM, TensorRT-LLM)"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Woosuk Kwon",
+        "UC Berkeley Sky Computing Lab"
+      ],
+      "headquarters": "Berkeley, CA, USA",
+      "website": "https://vllm.ai",
+      "funding": {
+        "total": null,
+        "stage": "Open-source research project",
+        "investors": []
+      },
+      "tags": [
+        "inference",
+        "open-source",
+        "serving"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "together-ai",
+      "name": "Together AI",
+      "fullName": "Together AI",
+      "description": "Decentralized GPU cloud for training, fine-tuning, and serving open models with optimized inference.",
+      "layers": [
+        "serving-inference"
+      ],
+      "subdomains": [
+        "Inference engines (vLLM, TensorRT-LLM)"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Vipul Ved Prakash",
+        "Ce Zhang"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.together.ai",
+      "funding": {
+        "total": "$123.5M",
+        "stage": "Series A",
+        "investors": [
+          "Kleiner Perkins",
+          "NVIDIA",
+          "Salesforce Ventures"
+        ],
+        "source": "https://www.together.ai/blog/series-a",
+        "date": "2023-11-29"
+      },
+      "tags": [
+        "inference",
+        "GPU cloud",
+        "open models"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "fireworks-ai",
+      "name": "Fireworks AI",
+      "fullName": "Fireworks AI",
+      "description": "Fast inference and fine-tuning platform for generative AI, with compound AI system support.",
+      "layers": [
+        "serving-inference"
+      ],
+      "subdomains": [
+        "Inference engines (vLLM, TensorRT-LLM)"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Lin Qiao"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://fireworks.ai",
+      "funding": {
+        "total": "$77M",
+        "stage": "Series A",
+        "investors": [
+          "Sequoia Capital",
+          "NVIDIA",
+          "AMD Ventures"
+        ],
+        "source": "https://fireworks.ai/blog/series-a",
+        "date": "2024-02-27"
+      },
+      "tags": [
+        "inference",
+        "fine-tuning"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "modal",
+      "name": "Modal",
+      "fullName": "Modal Labs",
+      "description": "Serverless platform for running GPU workloads, with instant cold starts and pay-per-second billing.",
+      "layers": [
+        "serving-inference"
+      ],
+      "subdomains": [
+        "Model serving platforms"
+      ],
+      "founded": 2021,
+      "founders": [
+        "Erik Bernhardsson",
+        "Akshat Bubna"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://modal.com",
+      "funding": {
+        "total": "$16M",
+        "stage": "Series A",
+        "investors": [
+          "Redpoint Ventures"
+        ],
+        "source": "https://modal.com/blog/series-a",
+        "date": "2023-04-18"
+      },
+      "tags": [
+        "serverless",
+        "GPU",
+        "infrastructure"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "weights-biases",
+      "name": "Weights & Biases",
+      "fullName": "Weights & Biases",
+      "description": "Experiment tracking, model versioning, and collaboration platform for machine learning teams.",
+      "layers": [
+        "dev-tools"
+      ],
+      "subdomains": [
+        "Experiment tracking",
+        "Experiment tracking"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Lukas Biewald",
+        "Chris Van Pelt",
+        "Shawn Lewis"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://wandb.ai",
+      "funding": {
+        "total": "$250M",
+        "stage": "Series C",
+        "investors": [
+          "Felicis Ventures",
+          "Insight Partners"
+        ],
+        "source": "https://wandb.ai/site/company",
+        "date": "2022-06-22"
+      },
+      "valuation": {
+        "amount": "$1B",
+        "date": "2022-06-22",
+        "source": "https://techcrunch.com/2022/06/22/weights-biases-raises-50m/",
+        "notes": "Valuation at Series C"
+      },
+      "tags": [
+        "MLOps",
+        "experiment tracking"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "langfuse",
+      "name": "Langfuse",
+      "fullName": "Langfuse",
+      "description": "Open-source LLM observability, tracing, and prompt management for debugging and improving AI applications.",
+      "layers": [
+        "dev-tools"
+      ],
+      "subdomains": [
+        "LLM observability & tracing",
+        "Prompt engineering tools"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Marc Klingen",
+        "Max Deichmann"
+      ],
+      "headquarters": "Berlin, Germany",
+      "website": "https://langfuse.com",
+      "funding": {
+        "total": "$4M",
+        "stage": "Seed",
+        "investors": [
+          "Lightspeed Venture Partners",
+          "La Famiglia"
+        ],
+        "source": "https://langfuse.com/blog/seed-funding",
+        "date": "2024-03-12"
+      },
+      "tags": [
+        "observability",
+        "open-source",
+        "tracing"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "braintrust",
+      "name": "Braintrust",
+      "fullName": "Braintrust Data",
+      "description": "Evaluation and quality platform for AI products with evals, datasets, and human feedback loops.",
+      "layers": [
+        "dev-tools"
+      ],
+      "subdomains": [
+        "Evaluation platforms"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Ankur Goyal",
+        "Garrett Driscoll"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.braintrust.dev",
+      "funding": {
+        "total": "$36M",
+        "stage": "Series A",
+        "investors": [
+          "Sequoia Capital"
+        ],
+        "source": "https://www.braintrust.dev/blog/series-a",
+        "date": "2024-05-08"
+      },
+      "tags": [
+        "evaluation",
+        "AI quality"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "lakera",
+      "name": "Lakera",
+      "fullName": "Lakera AI",
+      "description": "AI security platform protecting against prompt injection, data leakage, and adversarial attacks on LLMs.",
+      "layers": [
+        "safety-security"
+      ],
+      "subdomains": [
+        "Prompt injection defense",
+        "Content moderation & guardrails"
+      ],
+      "founded": 2021,
+      "founders": [
+        "David Haber",
+        "Mislav Balunovi\u0107"
+      ],
+      "headquarters": "Zurich, Switzerland",
+      "website": "https://www.lakera.ai",
+      "funding": {
+        "total": "$30M",
+        "stage": "Series B",
+        "investors": [
+          "Redalpine",
+          "atomico",
+          "Citi Ventures"
+        ],
+        "source": "https://www.lakera.ai/blog/series-b",
+        "date": "2024-05-07"
+      },
+      "tags": [
+        "security",
+        "prompt injection",
+        "guardrails"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "protect-ai",
+      "name": "Protect AI",
+      "fullName": "Protect AI",
+      "description": "ML security platform scanning for vulnerabilities in models, packages, and AI supply chains.",
+      "layers": [
+        "safety-security"
+      ],
+      "subdomains": [
+        "Model security & red teaming"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Ian Swanson"
+      ],
+      "headquarters": "Seattle, WA, USA",
+      "website": "https://protectai.com",
+      "funding": {
+        "total": "$60M",
+        "stage": "Series A",
+        "investors": [
+          "Evolution Equity Partners",
+          "Salesforce Ventures"
+        ],
+        "source": "https://protectai.com/blog/series-a",
+        "date": "2024-01-31"
+      },
+      "tags": [
+        "ML security",
+        "supply chain"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "cursor",
+      "name": "Cursor",
+      "fullName": "Anysphere Inc. (Cursor)",
+      "description": "AI-native code editor with agent workflows, codebase understanding, and multi-file editing capabilities.",
+      "layers": [
+        "apps-coding"
+      ],
+      "subdomains": [
+        "AI code editors"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Michael Truell",
+        "Sualeh Asif",
+        "Arvid Lunnemark",
+        "Aman Sanger"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.cursor.com",
+      "funding": {
+        "total": "$108M",
+        "stage": "Series A",
+        "investors": [
+          "Andreessen Horowitz",
+          "Thrive Capital",
+          "OpenAI"
+        ],
+        "source": "https://techcrunch.com/2024/08/29/cursor-raises-60m/",
+        "date": "2024-08-29"
+      },
+      "valuation": {
+        "amount": "$2.6B",
+        "date": "2024-12-18",
+        "source": "https://www.ft.com/content/cursor-valuation-2024",
+        "notes": "Reported valuation in ongoing fundraise"
+      },
+      "tags": [
+        "code editor",
+        "agent",
+        "developer tools"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "github-copilot",
+      "name": "GitHub Copilot",
+      "fullName": "GitHub Copilot",
+      "description": "Microsoft/GitHub's AI pair programmer powered by OpenAI Codex, integrated into VS Code and other IDEs.",
+      "layers": [
+        "apps-coding"
+      ],
+      "subdomains": [
+        "Code completion"
+      ],
+      "founded": 2021,
+      "founders": [
+        "GitHub / Microsoft"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://github.com/features/copilot",
+      "funding": {
+        "total": null,
+        "stage": "Microsoft subsidiary",
+        "investors": []
+      },
+      "revenue": {
+        "amount": "$2B",
+        "period": "2024 (projected ARR)",
+        "source": "https://www.ft.com/content/github-copilot-revenue-2024",
+        "date": "2024-10-15",
+        "notes": "Annual recurring revenue run rate"
+      },
+      "tags": [
+        "code completion",
+        "Microsoft",
+        "OpenAI"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "fullName": "Perplexity AI, Inc.",
+      "description": "AI-powered answer engine combining real-time web search with LLM reasoning and source citations.",
+      "layers": [
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "AI search engines"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Aravind Srinivas",
+        "Denis Yarats",
+        "Johnny Ho",
+        "Andy Konwinski"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.perplexity.ai",
+      "funding": {
+        "total": "$165M",
+        "stage": "Series B",
+        "investors": [
+          "IVP",
+          "NEA",
+          "NVIDIA",
+          "Jeff Bezos"
+        ],
+        "source": "https://blog.perplexity.ai/blog/perplexity-raises-series-b",
+        "date": "2024-04-23"
+      },
+      "valuation": {
+        "amount": "$9B",
+        "date": "2024-12-17",
+        "source": "https://www.wsj.com/tech/ai/perplexity-valuation-2024",
+        "notes": "Reported valuation in ongoing fundraise"
+      },
+      "tags": [
+        "search",
+        "answer engine",
+        "citations"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "glean",
+      "name": "Glean",
+      "fullName": "Glean Technologies, Inc.",
+      "description": "Enterprise AI search and knowledge assistant connecting to company data across apps and workflows.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Enterprise search",
+        "Document intelligence"
+      ],
+      "founded": 2019,
+      "founders": [
+        "Arvind Jain",
+        "Tony Gentilcore",
+        "Piyush Prahladka"
+      ],
+      "headquarters": "Palo Alto, CA, USA",
+      "website": "https://www.glean.com",
+      "funding": {
+        "total": "$360M",
+        "stage": "Series D",
+        "investors": [
+          "Kleiner Perkins",
+          "Lightspeed Venture Partners",
+          "Sequoia Capital"
+        ],
+        "source": "https://www.glean.com/blog/series-d",
+        "date": "2024-02-27"
+      },
+      "valuation": {
+        "amount": "$4.6B",
+        "date": "2024-09-09",
+        "source": "https://techcrunch.com/2024/09/09/glean-valuation/",
+        "notes": "Reported valuation"
+      },
+      "tags": [
+        "enterprise search",
+        "knowledge management"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "harvey",
+      "name": "Harvey",
+      "fullName": "Harvey AI",
+      "description": "Legal AI platform for research, drafting, and professional workflows, deployed at major law firms.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Legal AI"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Winston Weinberg",
+        "Gabriel Pereyra"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.harvey.ai",
+      "funding": {
+        "total": "$106M",
+        "stage": "Series B",
+        "investors": [
+          "Sequoia Capital",
+          "Kleiner Perkins",
+          "OpenAI"
+        ],
+        "source": "https://techcrunch.com/2023/12/15/harvey-raises-80m/",
+        "date": "2023-12-15"
+      },
+      "valuation": {
+        "amount": "$1.5B",
+        "date": "2023-12-15",
+        "source": "https://techcrunch.com/2023/12/15/harvey-raises-80m/",
+        "notes": "Valuation at Series B"
+      },
+      "tags": [
+        "legal AI",
+        "vertical SaaS"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "figure-ai",
+      "name": "Figure AI",
+      "fullName": "Figure AI, Inc.",
+      "description": "Humanoid robotics company building general-purpose robots for commercial deployment in warehouses and factories.",
+      "layers": [
+        "robotics-physical"
+      ],
+      "subdomains": [
+        "Humanoid robots"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Brett Adcock"
+      ],
+      "headquarters": "Sunnyvale, CA, USA",
+      "website": "https://www.figure.ai",
+      "funding": {
+        "total": "$754M",
+        "stage": "Series B",
+        "investors": [
+          "Microsoft",
+          "OpenAI Startup Fund",
+          "NVIDIA",
+          "Jeff Bezos",
+          "Intel Capital"
+        ],
+        "source": "https://techcrunch.com/2024/02/29/figure-ai-raises-675m/",
+        "date": "2024-02-29"
+      },
+      "valuation": {
+        "amount": "$2.6B",
+        "date": "2024-02-29",
+        "source": "https://techcrunch.com/2024/02/29/figure-ai-raises-675m/",
+        "notes": "Post-money valuation at Series B"
+      },
+      "tags": [
+        "humanoid",
+        "robotics",
+        "commercial"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "1x-technologies",
+      "name": "1X Technologies",
+      "fullName": "1X Technologies",
+      "description": "Norwegian robotics company developing humanoid robots (NEO) for home and commercial environments.",
+      "layers": [
+        "robotics-physical"
+      ],
+      "subdomains": [
+        "Humanoid robots"
+      ],
+      "founded": 2014,
+      "founders": [
+        "Bernt \u00d8ivind B\u00f8rnich"
+      ],
+      "headquarters": "Sunnyvale, CA, USA / Norway",
+      "website": "https://www.1x.tech",
+      "funding": {
+        "total": "$125M",
+        "stage": "Series B",
+        "investors": [
+          "OpenAI Startup Fund",
+          "EQT Ventures",
+          "Tiger Global"
+        ],
+        "source": "https://techcrunch.com/2024/01/23/1x-raises-100m/",
+        "date": "2024-01-23"
+      },
+      "tags": [
+        "humanoid",
+        "robotics",
+        "Norwegian"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "anduril",
+      "name": "Anduril Industries",
+      "fullName": "Anduril Industries",
+      "description": "Defense technology company building autonomous systems, drones, and AI-powered defense platforms.",
+      "layers": [
+        "defense-national-security"
+      ],
+      "subdomains": [
+        "Autonomous defense systems",
+        "Surveillance & reconnaissance"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Palmer Luckey",
+        "Trae Stephens",
+        "Matt Grimm"
+      ],
+      "headquarters": "Costa Mesa, CA, USA",
+      "website": "https://www.anduril.com",
+      "funding": {
+        "total": "$3.7B",
+        "stage": "Series F",
+        "investors": [
+          "Founders Fund",
+          "Andreessen Horowitz",
+          "Sands Capital"
+        ],
+        "source": "https://www.anduril.com/article/anduril-raises-1-5b-series-f/",
+        "date": "2024-08-07"
+      },
+      "valuation": {
+        "amount": "$14B",
+        "date": "2024-08-07",
+        "source": "https://www.anduril.com/article/anduril-raises-1-5b-series-f/",
+        "notes": "Post-money valuation at Series F"
+      },
+      "tags": [
+        "defense",
+        "autonomous systems",
+        "national security"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "nist-aisi",
+      "name": "NIST AI Safety Institute",
+      "fullName": "NIST U.S. AI Safety Institute",
+      "description": "U.S. government institute developing measurement, evaluation, and risk management frameworks for advanced AI systems.",
+      "layers": [
+        "policy-standards"
+      ],
+      "subdomains": [
+        "AI safety institutes",
+        "Model evaluation standards"
+      ],
+      "founded": 2024,
+      "founders": [
+        "U.S. Department of Commerce / NIST"
+      ],
+      "headquarters": "Gaithersburg, MD, USA",
+      "website": "https://www.nist.gov/aisi",
+      "funding": {
+        "total": null,
+        "stage": "U.S. Government",
+        "investors": []
+      },
+      "tags": [
+        "government",
+        "safety",
+        "standards"
+      ],
+      "entityType": "institution",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "uk-aisi",
+      "name": "UK AI Safety Institute",
+      "fullName": "UK AI Safety Institute",
+      "description": "UK government research institute focused on advanced AI safety testing, evaluations, and frontier model assessments.",
+      "layers": [
+        "policy-standards"
+      ],
+      "subdomains": [
+        "AI safety institutes"
+      ],
+      "founded": 2023,
+      "founders": [
+        "UK Government"
+      ],
+      "headquarters": "London, UK",
+      "website": "https://www.aisi.gov.uk",
+      "funding": {
+        "total": null,
+        "stage": "UK Government",
+        "investors": []
+      },
+      "tags": [
+        "government",
+        "safety",
+        "frontier models"
+      ],
+      "entityType": "institution",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "a16z",
+      "name": "Andreessen Horowitz (a16z)",
+      "fullName": "Andreessen Horowitz",
+      "description": "Venture capital firm with $7.2B AI fund, investing across the AI stack from infrastructure to applications.",
+      "layers": [
+        "capital-investors"
+      ],
+      "subdomains": [
+        "Venture capital firms"
+      ],
+      "founded": 2009,
+      "founders": [
+        "Marc Andreessen",
+        "Ben Horowitz"
+      ],
+      "headquarters": "Menlo Park, CA, USA",
+      "website": "https://a16z.com",
+      "funding": {
+        "total": null,
+        "stage": "Venture capital firm",
+        "investors": []
+      },
+      "tags": [
+        "venture capital",
+        "AI fund"
+      ],
+      "entityType": "investor",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "sequoia",
+      "name": "Sequoia Capital",
+      "fullName": "Sequoia Capital",
+      "description": "Leading venture capital firm backing OpenAI (initial seed), Anthropic, and many AI infrastructure companies.",
+      "layers": [
+        "capital-investors"
+      ],
+      "subdomains": [
+        "Venture capital firms"
+      ],
+      "founded": 1972,
+      "founders": [
+        "Don Valentine"
+      ],
+      "headquarters": "Menlo Park, CA, USA",
+      "website": "https://www.sequoiacap.com",
+      "funding": {
+        "total": null,
+        "stage": "Venture capital firm",
+        "investors": []
+      },
+      "tags": [
+        "venture capital",
+        "frontier labs"
+      ],
+      "entityType": "investor",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "databricks",
+      "name": "Databricks",
+      "fullName": "Databricks, Inc.",
+      "description": "Unified data and AI platform with lakehouse architecture, DBRX models, and end-to-end ML workflows.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Data pipelines & ETL",
+        "Data pipelines & ETL"
+      ],
+      "founded": 2013,
+      "founders": [
+        "Ali Ghodsi",
+        "Andy Konwinski",
+        "Ion Stoica",
+        "Matei Zaharia",
+        "Patrick Wendell",
+        "Reynold Xin"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.databricks.com",
+      "funding": {
+        "total": "$4B",
+        "stage": "Series I",
+        "investors": [
+          "Insight Partners",
+          "Andreessen Horowitz",
+          "Coatue"
+        ],
+        "source": "https://databricks.com/company/newsroom/press-releases/databricks-raises-series-i",
+        "date": "2023-09-14"
+      },
+      "valuation": {
+        "amount": "$43B",
+        "date": "2023-09-14",
+        "source": "https://databricks.com/company/newsroom/press-releases/databricks-raises-series-i",
+        "notes": "Valuation at Series I"
+      },
+      "tags": [
+        "lakehouse",
+        "data platform",
+        "MLOps"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "notion",
+      "name": "Notion AI",
+      "fullName": "Notion Labs, Inc.",
+      "description": "Productivity workspace with integrated AI writing assistant, summarization, and knowledge management.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Workflow automation"
+      ],
+      "founded": 2013,
+      "founders": [
+        "Ivan Zhao",
+        "Simon Last"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.notion.so",
+      "funding": {
+        "total": "$343M",
+        "stage": "Series C",
+        "investors": [
+          "Sequoia Capital",
+          "Coatue"
+        ],
+        "source": "https://www.notion.so/blog/series-c",
+        "date": "2021-10-01"
+      },
+      "valuation": {
+        "amount": "$10B",
+        "date": "2021-10-01",
+        "source": "https://www.notion.so/blog/series-c",
+        "notes": "Valuation at Series C"
+      },
+      "tags": [
+        "productivity",
+        "AI assistant",
+        "knowledge management"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "character-ai",
+      "name": "Character.AI",
+      "fullName": "Character Technologies Inc.",
+      "description": "Conversational AI platform for creating and chatting with personalized AI characters, with millions of users.",
+      "layers": [
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Personal assistants",
+        "Entertainment & chat"
+      ],
+      "founded": 2021,
+      "founders": [
+        "Noam Shazeer",
+        "Daniel De Freitas"
+      ],
+      "headquarters": "Menlo Park, CA, USA",
+      "website": "https://character.ai",
+      "funding": {
+        "total": "$193M",
+        "stage": "Series A",
+        "investors": [
+          "Andreessen Horowitz",
+          "Google"
+        ],
+        "source": "https://blog.character.ai/series-a/",
+        "date": "2023-03-23"
+      },
+      "valuation": {
+        "amount": "$1B",
+        "date": "2023-03-23",
+        "source": "https://blog.character.ai/series-a/",
+        "notes": "Valuation at Series A"
+      },
+      "tags": [
+        "conversational AI",
+        "consumer",
+        "characters"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "hugging-face",
+      "name": "Hugging Face",
+      "fullName": "Hugging Face, Inc.",
+      "description": "Open-source ML platform and model hub hosting 500K+ models, datasets, and Transformers library.",
+      "layers": [
+        "dev-tools",
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Experiment tracking",
+        "Open-source communities"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Cl\u00e9ment Delangue",
+        "Julien Chaumond",
+        "Thomas Wolf"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://huggingface.co",
+      "funding": {
+        "total": "$395M",
+        "stage": "Series D",
+        "investors": [
+          "Salesforce",
+          "Google",
+          "Amazon",
+          "NVIDIA",
+          "Intel"
+        ],
+        "source": "https://huggingface.co/blog/series-d",
+        "date": "2023-08-24"
+      },
+      "valuation": {
+        "amount": "$4.5B",
+        "date": "2023-08-24",
+        "source": "https://huggingface.co/blog/series-d",
+        "notes": "Valuation at Series D"
+      },
+      "tags": [
+        "open-source",
+        "model hub",
+        "Transformers"
+      ],
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24"
+    }
+  ]
+}

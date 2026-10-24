@@ -1,27 +1,67 @@
 # AI Frontier
 
-AI Frontier is a static, GitHub Pages-friendly prototype for exploring the companies, technologies, capital, and research shaping the AI ecosystem.
+A static, browsable directory of the AI ecosystem — chips through applications — so someone who knows only a little deep learning can see every layer and who is building it.
 
-## Run locally
+The site is a Next.js App Router app with `output: 'export'`. There is no backend and no runtime API. All data lives in versioned JSON.
 
-Open `index.html` in a browser, or run:
+## Browse
+
+- `/` — visual stack map, directory list, filters, and a detail pane
+- `/taxonomy/` — the full layer map
+- `/layer/[id]/` — deep link for one layer
+- `/company/[id]/` — shareable company page (sources next to every figure)
+- `/compare/` — side-by-side view of 2–4 entries
+- `/recent/` — added/updated dates from the data files
+
+Search is client-side (⌘K). Theme follows the system and can be toggled.
+
+## Data format
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for the record shape and accuracy rules.
+
+- `data/taxonomy.json` — non-overlapping layers, bottom-up
+- `data/companies.json` — seed catalog
+- `data/companies/*.json` — extra records, one file per batch/layer (merged at build time)
 
 ```bash
-python3 -m http.server 8000
+npm run validate
 ```
 
-Then visit <http://localhost:8000>.
+A scheduled bot can later update the catalog by committing JSON. That workflow is intentionally not included yet.
 
-## Publish on GitHub Pages
+## Develop
 
-Push this repository to GitHub, then choose **Settings → Pages → Deploy from a branch → main → / (root)**. No build step is required.
+```bash
+npm install
+npm run dev
+```
 
-## Pages
+```bash
+npm run build   # validates, then writes static files to out/
+```
 
-- `index.html` — company directory with search, filters, and a persistent company detail pane.
-- `taxonomy.html` — the full taxonomy map: 10 broad domains and 80 subdomains.
-- `companies.json` — 61 seed records across 12 tracked directory domains; this is the editable research dataset, separate from the UI.
+## Deploy
 
-## Next step
+### Vercel (production)
 
-The seed company data lives in `companies.json`, while the taxonomy and rendering logic live in `script.js`. The next version can add source URLs, dated events, and an ingestion service without changing the browsing experience.
+The project is static and should be served from the **root path**.
+
+1. Import the GitHub repo in Vercel.
+2. Framework preset: Next.js. Build command: `npm run build`. Output: `out`.
+3. Leave `NEXT_PUBLIC_BASE_PATH` unset.
+4. Optional: set `NEXT_PUBLIC_SITE_URL` to the production origin for sitemap / Open Graph URLs.
+5. Production branch: `main`.
+
+### GitHub Pages (optional)
+
+If you ever serve the export from `https://<user>.github.io/ai-frontier/`:
+
+```bash
+NEXT_PUBLIC_BASE_PATH=/ai-frontier NEXT_PUBLIC_SITE_URL=https://<user>.github.io/ai-frontier npm run build
+```
+
+`next.config.ts` reads `NEXT_PUBLIC_BASE_PATH` for `basePath` and `assetPrefix`.
+
+## License
+
+[MIT](./LICENSE)

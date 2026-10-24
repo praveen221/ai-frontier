@@ -1,0 +1,161 @@
+{
+  "companies": [
+    {
+      "id": "tenstorrent",
+      "name": "Tenstorrent",
+      "fullName": "Tenstorrent Inc.",
+      "description": "AI chip company led by Jim Keller, building RISC-V based trainers and inference processors.",
+      "layers": ["chips-silicon"],
+      "subdomains": ["Custom AI accelerators (TPU, Trainium, etc.)"],
+      "founded": 2016,
+      "founders": ["Ljubisa Bajic", "Jim Keller"],
+      "headquarters": "Toronto, Canada",
+      "website": "https://tenstorrent.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "valuation": {
+        "amount": "$2B pre-money",
+        "date": "2024-12-02",
+        "source": "https://tenstorrent.com/en/newsroom/tenstorrent-closes-693m-of-series-d-funding-led-by-samsung-securities-and-afw-partners",
+        "notes": "Pre-money valuation at Series D"
+      },
+      "funding": {
+        "total": "$693M+",
+        "stage": "Series D",
+        "investors": ["Samsung Securities", "AFW Partners", "Hyundai Motor Group", "Bezos Expeditions"],
+        "source": "https://tenstorrent.com/en/newsroom/tenstorrent-closes-693m-of-series-d-funding-led-by-samsung-securities-and-afw-partners",
+        "date": "2024-12-02"
+      },
+      "tags": ["RISC-V", "custom silicon"]
+    },
+    {
+      "id": "cambricon",
+      "name": "Cambricon",
+      "fullName": "Cambricon Technologies",
+      "description": "Chinese AI chip designer producing MLUs for data-center and edge inference.",
+      "layers": ["chips-silicon"],
+      "subdomains": ["Custom AI accelerators (TPU, Trainium, etc.)"],
+      "founded": 2016,
+      "founders": ["Chen Tianshi", "Chen Yunji"],
+      "headquarters": "Beijing, China",
+      "website": "https://www.cambricon.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": ["China", "MLU", "public"]
+    },
+    {
+      "id": "huawei-ascend",
+      "name": "Huawei Ascend",
+      "fullName": "Huawei Ascend AI processors",
+      "description": "Huawei's Ascend AI accelerators and CANN software stack for training and inference in China.",
+      "layers": ["chips-silicon"],
+      "subdomains": ["Custom AI accelerators (TPU, Trainium, etc.)"],
+      "founded": 2018,
+      "founders": ["Huawei"],
+      "headquarters": "Shenzhen, China",
+      "website": "https://www.hiascend.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Huawei division",
+        "investors": []
+      },
+      "tags": ["China", "Ascend"]
+    },
+    {
+      "id": "samsung-foundry",
+      "name": "Samsung Foundry",
+      "fullName": "Samsung Electronics Foundry",
+      "description": "Second-largest advanced-node foundry, manufacturing AI accelerators at 4nm and 3nm.",
+      "layers": ["fabs-manufacturing"],
+      "subdomains": ["Semiconductor foundries (TSMC, Samsung, etc.)"],
+      "founded": 2005,
+      "founders": ["Samsung Electronics"],
+      "headquarters": "Hwaseong, South Korea",
+      "website": "https://semiconductor.samsung.com/foundry",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": ["foundry", "Korea", "public"]
+    },
+    {
+      "id": "labelbox",
+      "name": "Labelbox",
+      "fullName": "Labelbox, Inc.",
+      "description": "Data-labeling and evaluation platform used to build training sets and RLHF pipelines.",
+      "layers": ["data-platforms"],
+      "subdomains": ["Data labeling & annotation"],
+      "founded": 2018,
+      "founders": ["Manu Sharma", "Brian Rieger", "Dan Rasmuson"],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://labelbox.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$189M",
+        "stage": "Series D",
+        "investors": ["SoftBank Vision Fund 2", "Andreessen Horowitz"],
+        "source": "https://www.globenewswire.com/news-release/2022/01/06/2362270/0/en/labelbox-raises-110-million-series-d-led-by-softbank-vision-fund-2.html",
+        "date": "2022-01-06"
+      },
+      "tags": ["labeling", "RLHF"]
+    },
+    {
+      "id": "turing",
+      "name": "Turing",
+      "fullName": "Turing",
+      "description": "Network of software engineers and domain experts used to generate training and evaluation data for frontier labs.",
+      "layers": ["data-platforms"],
+      "subdomains": ["Data labeling & annotation"],
+      "founded": 2018,
+      "founders": ["Jonathan Siddharth", "Vijay Krishnan"],
+      "headquarters": "Palo Alto, CA, USA",
+      "website": "https://www.turing.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": ["labeling", "engineering data"]
+    },
+    {
+      "id": "mercor",
+      "name": "Mercor",
+      "fullName": "Mercor",
+      "description": "Marketplace matching domain experts to AI labs for evaluation, labeling, and expert data.",
+      "layers": ["data-platforms"],
+      "subdomains": ["Data labeling & annotation"],
+      "founded": 2023,
+      "founders": ["Brendan Foody", "Adarsh Hiremath", "Surya Midha"],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://mercor.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": ["Felicity Ventures"]
+      },
+      "tags": ["expert data", "evals"]
+    }
+  ]
+}

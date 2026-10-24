@@ -1,0 +1,348 @@
+{
+  "layers": [
+    {
+      "id": "chips-silicon",
+      "name": "Chips & Silicon",
+      "description": "Companies designing and manufacturing the physical processors that run AI: GPUs, TPUs, custom accelerators, and specialized inference chips.",
+      "order": 1,
+      "subdomains": [
+        "Data center GPUs",
+        "Custom AI accelerators (TPU, Trainium, etc.)",
+        "Inference-optimized chips",
+        "Wafer-scale systems",
+        "Neuromorphic processors",
+        "Edge & mobile AI chips"
+      ]
+    },
+    {
+      "id": "fabs-manufacturing",
+      "name": "Semiconductor Fabrication",
+      "description": "The foundries and equipment makers producing the physical chips: advanced node fabs, lithography, and manufacturing infrastructure.",
+      "order": 2,
+      "subdomains": [
+        "Semiconductor foundries (TSMC, Samsung, etc.)",
+        "EUV lithography equipment",
+        "Wafer production",
+        "Fab equipment"
+      ]
+    },
+    {
+      "id": "infrastructure-cloud",
+      "name": "Compute & Cloud Infrastructure",
+      "description": "Data centers, GPU clouds, and orchestration platforms providing the computational substrate for training and inference.",
+      "order": 3,
+      "subdomains": [
+        "Hyperscale clouds (AWS, GCP, Azure)",
+        "GPU cloud providers",
+        "Kubernetes & orchestration",
+        "Cluster networking",
+        "Power & cooling"
+      ]
+    },
+    {
+      "id": "systems-software",
+      "name": "Systems Software & Optimization",
+      "description": "Low-level software that makes hardware run efficiently: CUDA, compilers, kernels, and optimization frameworks.",
+      "order": 4,
+      "subdomains": [
+        "GPU programming (CUDA, ROCm)",
+        "ML compilers",
+        "Kernel optimization",
+        "Quantization & sparsity",
+        "Distributed training frameworks"
+      ]
+    },
+    {
+      "id": "data-platforms",
+      "name": "Data: Collection, Labeling & Storage",
+      "description": "Infrastructure for gathering, annotating, storing, and retrieving the data that powers AI systems.",
+      "order": 5,
+      "subdomains": [
+        "Data labeling & annotation",
+        "Synthetic data generation",
+        "Vector databases",
+        "Knowledge graphs",
+        "Data pipelines & ETL"
+      ]
+    },
+    {
+      "id": "models-frontier",
+      "name": "Foundation Models: Frontier Labs",
+      "description": "Well-funded labs building the largest, most capable general-purpose language and multimodal models.",
+      "order": 6,
+      "subdomains": [
+        "Frontier language models (GPT-4, Claude, Gemini)",
+        "Reasoning models (o1, etc.)",
+        "Long-context models (1M+ tokens)",
+        "Multimodal foundation models"
+      ]
+    },
+    {
+      "id": "models-open",
+      "name": "Foundation Models: Open-Weight Labs",
+      "description": "Organizations releasing open-weight models for research and commercial use, prioritizing accessibility.",
+      "order": 7,
+      "subdomains": [
+        "Open language models (Llama, Mistral, Qwen)",
+        "Mixture-of-experts models",
+        "Multilingual models",
+        "Domain-specific open models"
+      ]
+    },
+    {
+      "id": "models-small",
+      "name": "Foundation Models: Small & On-Device",
+      "description": "Efficient models optimized for edge deployment, mobile devices, and resource-constrained environments.",
+      "order": 8,
+      "subdomains": [
+        "Small language models (<10B params)",
+        "On-device models",
+        "Quantized & compressed models",
+        "Mobile-first models"
+      ]
+    },
+    {
+      "id": "models-image",
+      "name": "Foundation Models: Image & Design",
+      "description": "Models for generating, editing, and understanding images: diffusion models, GANs, and vision systems.",
+      "order": 9,
+      "subdomains": [
+        "Text-to-image generation",
+        "Image editing & inpainting",
+        "3D generation",
+        "Vision-language models"
+      ]
+    },
+    {
+      "id": "models-video",
+      "name": "Foundation Models: Video",
+      "description": "Models that generate, understand, and edit video content, including world models and simulation.",
+      "order": 10,
+      "subdomains": [
+        "Text-to-video generation",
+        "Video editing",
+        "World models & simulation",
+        "Video understanding"
+      ]
+    },
+    {
+      "id": "models-audio",
+      "name": "Foundation Models: Audio, Voice & Speech",
+      "description": "Models for speech synthesis, voice cloning, music generation, and full-duplex conversational AI.",
+      "order": 11,
+      "subdomains": [
+        "Text-to-speech & voice cloning",
+        "Full-duplex speech (GPT-4o voice mode)",
+        "Music generation",
+        "Audio transcription & understanding"
+      ]
+    },
+    {
+      "id": "models-robotics",
+      "name": "Foundation Models: Robotics & Embodied AI",
+      "description": "Models that learn control, manipulation, and navigation for physical robots and embodied agents.",
+      "order": 12,
+      "subdomains": [
+        "Robotics foundation models",
+        "Manipulation policies",
+        "Navigation models",
+        "Sim-to-real transfer"
+      ]
+    },
+    {
+      "id": "serving-inference",
+      "name": "Serving & Inference Infrastructure",
+      "description": "Platforms and engines for deploying models in production: serving, batching, caching, and optimization.",
+      "order": 13,
+      "subdomains": [
+        "Inference engines (vLLM, TensorRT-LLM)",
+        "Model serving platforms",
+        "Batching & scheduling",
+        "KV cache optimization",
+        "Model gateways"
+      ]
+    },
+    {
+      "id": "dev-tools",
+      "name": "Developer Tools & MLOps",
+      "description": "Tools for building, evaluating, monitoring, and improving AI applications: evals, observability, and experimentation.",
+      "order": 14,
+      "subdomains": [
+        "LLM observability & tracing",
+        "Evaluation platforms",
+        "Prompt engineering tools",
+        "Experiment tracking",
+        "Fine-tuning platforms"
+      ]
+    },
+    {
+      "id": "agents-memory",
+      "name": "Agents: Frameworks & Memory",
+      "description": "Libraries and platforms for building autonomous agents with tools, memory, planning, and multi-step reasoning.",
+      "order": 15,
+      "subdomains": [
+        "Agent frameworks (LangChain, CrewAI, etc.)",
+        "Long-term memory systems",
+        "Tool use & orchestration",
+        "Multi-agent systems",
+        "Planning engines"
+      ]
+    },
+    {
+      "id": "safety-security",
+      "name": "Safety, Security & Alignment",
+      "description": "Technologies and research ensuring AI systems are safe, secure, aligned, and resistant to adversarial attacks.",
+      "order": 16,
+      "subdomains": [
+        "Prompt injection defense",
+        "Model security & red teaming",
+        "Content moderation & guardrails",
+        "Alignment research",
+        "Interpretability & mechanistic analysis"
+      ]
+    },
+    {
+      "id": "apps-coding",
+      "name": "Applications: Coding & Software Engineering",
+      "description": "AI-powered tools for writing, reviewing, debugging, and shipping code faster.",
+      "order": 17,
+      "subdomains": [
+        "AI code editors",
+        "Code completion",
+        "Automated testing",
+        "Code review",
+        "Documentation generation",
+        "Codebase Q&A"
+      ]
+    },
+    {
+      "id": "apps-enterprise",
+      "name": "Applications: Enterprise & Productivity",
+      "description": "AI assistants for enterprise search, knowledge management, meetings, and workplace automation.",
+      "order": 18,
+      "subdomains": [
+        "Enterprise search",
+        "Meeting assistants",
+        "Workflow automation",
+        "Document intelligence",
+        "Internal chatbots"
+      ]
+    },
+    {
+      "id": "apps-vertical",
+      "name": "Applications: Vertical AI (Legal, Health, Finance)",
+      "description": "Industry-specific AI products for healthcare, legal, finance, insurance, and other specialized domains.",
+      "order": 19,
+      "subdomains": [
+        "Legal AI",
+        "Healthcare & diagnostics",
+        "Drug discovery & biotech",
+        "Finance & trading",
+        "Insurance underwriting",
+        "Customer support automation"
+      ]
+    },
+    {
+      "id": "apps-creative",
+      "name": "Applications: Creative & Media Tools",
+      "description": "AI-native tools for design, video editing, music production, and content creation.",
+      "order": 20,
+      "subdomains": [
+        "Image editing & generation",
+        "Video editing & effects",
+        "Music production",
+        "3D asset generation",
+        "Voice & dubbing"
+      ]
+    },
+    {
+      "id": "apps-consumer",
+      "name": "Applications: Consumer Products",
+      "description": "Consumer-facing AI products: search engines, personal assistants, education, and entertainment.",
+      "order": 21,
+      "subdomains": [
+        "AI search engines",
+        "Personal assistants",
+        "Education & tutoring",
+        "Entertainment & chat",
+        "Health & fitness"
+      ]
+    },
+    {
+      "id": "robotics-physical",
+      "name": "Robotics: Physical Systems",
+      "description": "Companies building physical robots for manufacturing, logistics, homes, and commercial environments.",
+      "order": 22,
+      "subdomains": [
+        "Humanoid robots",
+        "Warehouse & logistics robots",
+        "Domestic robots",
+        "Manufacturing automation",
+        "Surgical robots"
+      ]
+    },
+    {
+      "id": "autonomous-systems",
+      "name": "Autonomous Vehicles & Drones",
+      "description": "Self-driving cars, delivery drones, autonomous trucking, and aerial mobility systems.",
+      "order": 23,
+      "subdomains": [
+        "Autonomous vehicles (L4/L5)",
+        "Delivery drones",
+        "Autonomous trucking",
+        "eVTOL & air taxis",
+        "Marine autonomy"
+      ]
+    },
+    {
+      "id": "defense-national-security",
+      "name": "Defense & National Security",
+      "description": "Autonomous systems, intelligence analysis, and decision-support tools for defense and national security.",
+      "order": 24,
+      "subdomains": [
+        "Autonomous defense systems",
+        "Intelligence analysis",
+        "Surveillance & reconnaissance",
+        "Cybersecurity AI",
+        "Command & control"
+      ]
+    },
+    {
+      "id": "policy-standards",
+      "name": "Policy, Regulation & Standards",
+      "description": "Government agencies, standards bodies, and institutions shaping AI governance, safety, and regulation.",
+      "order": 25,
+      "subdomains": [
+        "AI safety institutes",
+        "Regulatory bodies",
+        "Standards organizations",
+        "Model evaluation standards",
+        "Ethics & governance frameworks"
+      ]
+    },
+    {
+      "id": "research-institutions",
+      "name": "Research Institutions (Academic & Nonprofit)",
+      "description": "Universities, research labs, and nonprofit institutes advancing AI science and publishing foundational research.",
+      "order": 26,
+      "subdomains": [
+        "University research labs",
+        "Nonprofit research institutes",
+        "Open-source communities",
+        "Benchmark & dataset creators"
+      ]
+    },
+    {
+      "id": "capital-investors",
+      "name": "Capital & Investors",
+      "description": "Venture capital firms, accelerators, and funding sources backing AI companies.",
+      "order": 27,
+      "subdomains": [
+        "Venture capital firms",
+        "AI-focused funds",
+        "Corporate venture arms",
+        "Accelerators & incubators"
+      ]
+    }
+  ]
+}

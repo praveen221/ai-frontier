@@ -1,0 +1,329 @@
+{
+  "companies": [
+    {
+      "id": "moonshot",
+      "name": "Moonshot AI",
+      "fullName": "Beijing Moonshot Technology Co., Ltd.",
+      "description": "Beijing lab behind the Kimi assistant and long-context foundation models.",
+      "layers": ["models-frontier"],
+      "subdomains": ["Frontier language models (GPT-4, Claude, Gemini)", "Long-context models (1M+ tokens)"],
+      "founded": 2023,
+      "founders": ["Yang Zhilin"],
+      "headquarters": "Beijing, China",
+      "website": "https://www.moonshot.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": ["Alibaba", "Tencent"]
+      },
+      "tags": ["China", "Kimi", "long-context"]
+    },
+    {
+      "id": "zhipu",
+      "name": "Zhipu AI",
+      "fullName": "Beijing Zhipu Huazhang Technology Co., Ltd.",
+      "description": "Tsinghua-originated lab building the GLM open and commercial model family.",
+      "layers": ["models-open"],
+      "subdomains": ["Open language models (Llama, Mistral, Qwen)"],
+      "founded": 2019,
+      "founders": ["Tang Jie"],
+      "headquarters": "Beijing, China",
+      "website": "https://www.zhipuai.cn",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": ["China", "GLM", "open-weight"]
+    },
+    {
+      "id": "alibaba-qwen",
+      "name": "Alibaba Qwen",
+      "fullName": "Alibaba Cloud Qwen (Tongyi Qianwen)",
+      "description": "Alibaba Cloud's open and commercial Qwen model family, spanning language, code, and multimodal models.",
+      "layers": ["models-open"],
+      "subdomains": ["Open language models (Llama, Mistral, Qwen)", "Multilingual models"],
+      "founded": 2023,
+      "founders": ["Alibaba Cloud"],
+      "headquarters": "Hangzhou, China",
+      "website": "https://qwenlm.github.io",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Alibaba subsidiary",
+        "investors": []
+      },
+      "tags": ["China", "Qwen", "open-weight", "public"]
+    },
+    {
+      "id": "minimax",
+      "name": "MiniMax",
+      "fullName": "MiniMax",
+      "description": "Shanghai lab building large language, speech, and video models, including the Talkie / Hailuo products.",
+      "layers": ["models-frontier", "models-audio"],
+      "subdomains": ["Frontier language models (GPT-4, Claude, Gemini)", "Text-to-speech & voice cloning"],
+      "founded": 2021,
+      "founders": ["Yan Junjie"],
+      "headquarters": "Shanghai, China",
+      "website": "https://www.minimaxi.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": ["China", "speech", "video"]
+    },
+    {
+      "id": "bytedance-seed",
+      "name": "ByteDance Seed",
+      "fullName": "ByteDance Seed Foundation Model Team",
+      "description": "ByteDance's foundation-model organization training Doubao / Seed models for consumer and enterprise products.",
+      "layers": ["models-frontier"],
+      "subdomains": ["Frontier language models (GPT-4, Claude, Gemini)", "Multimodal foundation models"],
+      "founded": 2023,
+      "founders": ["ByteDance"],
+      "headquarters": "Beijing, China",
+      "website": "https://seed.bytedance.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "ByteDance subsidiary",
+        "investors": []
+      },
+      "tags": ["China", "Doubao", "Seed"]
+    },
+    {
+      "id": "baidu",
+      "name": "Baidu",
+      "fullName": "Baidu, Inc.",
+      "description": "Chinese search company behind the Ernie foundation models and a large consumer AI assistant.",
+      "layers": ["models-frontier"],
+      "subdomains": ["Frontier language models (GPT-4, Claude, Gemini)"],
+      "founded": 2000,
+      "founders": ["Robin Li", "Eric Xu"],
+      "headquarters": "Beijing, China",
+      "website": "https://www.baidu.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "valuation": {
+        "amount": "$29B",
+        "date": "2024-12-31",
+        "source": "https://www.google.com/finance/quote/BIDU:NASDAQ",
+        "notes": "Market capitalization"
+      },
+      "tags": ["China", "Ernie", "public"]
+    },
+    {
+      "id": "stepfun",
+      "name": "StepFun",
+      "fullName": "StepFun (Jieyue Xingchen)",
+      "description": "Shanghai lab training the Step multimodal model series.",
+      "layers": ["models-frontier"],
+      "subdomains": ["Multimodal foundation models"],
+      "founded": 2023,
+      "founders": ["Jiang Daxin"],
+      "headquarters": "Shanghai, China",
+      "website": "https://www.stepfun.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": ["China", "multimodal"]
+    },
+    {
+      "id": "zero-one-ai",
+      "name": "01.AI",
+      "fullName": "01.AI",
+      "description": "Kai-Fu Lee's lab releasing the Yi open-weight models and building consumer assistants for China.",
+      "layers": ["models-open"],
+      "subdomains": ["Open language models (Llama, Mistral, Qwen)"],
+      "founded": 2023,
+      "founders": ["Kai-Fu Lee"],
+      "headquarters": "Beijing, China",
+      "website": "https://www.01.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": ["Alibaba"]
+      },
+      "tags": ["China", "Yi", "open-weight"]
+    },
+    {
+      "id": "baichuan",
+      "name": "Baichuan AI",
+      "fullName": "Baichuan Intelligent Technology",
+      "description": "Beijing lab known for the Baichuan open-weight language models.",
+      "layers": ["models-open"],
+      "subdomains": ["Open language models (Llama, Mistral, Qwen)"],
+      "founded": 2023,
+      "founders": ["Wang Xiaochuan"],
+      "headquarters": "Beijing, China",
+      "website": "https://www.baichuan-ai.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": ["China", "open-weight"]
+    },
+    {
+      "id": "tencent-hunyuan",
+      "name": "Tencent Hunyuan",
+      "fullName": "Tencent Hunyuan",
+      "description": "Tencent's Hunyuan foundation-model family, used across WeChat and Tencent Cloud.",
+      "layers": ["models-frontier"],
+      "subdomains": ["Frontier language models (GPT-4, Claude, Gemini)"],
+      "founded": 2023,
+      "founders": ["Tencent"],
+      "headquarters": "Shenzhen, China",
+      "website": "https://hunyuan.tencent.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Tencent subsidiary",
+        "investors": []
+      },
+      "tags": ["China", "Hunyuan", "public"]
+    },
+    {
+      "id": "iflytek",
+      "name": "iFlytek",
+      "fullName": "iFlytek Co., Ltd.",
+      "description": "Chinese speech and language company building Spark models and large-scale voice systems.",
+      "layers": ["models-audio"],
+      "subdomains": ["Audio transcription & understanding", "Text-to-speech & voice cloning"],
+      "founded": 1999,
+      "founders": ["Liu Qingfeng"],
+      "headquarters": "Hefei, China",
+      "website": "https://www.iflytek.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": ["China", "speech", "public"]
+    },
+    {
+      "id": "sakana",
+      "name": "Sakana AI",
+      "fullName": "Sakana AI",
+      "description": "Tokyo research lab exploring nature-inspired methods for training and combining foundation models.",
+      "layers": ["models-open"],
+      "subdomains": ["Domain-specific open models"],
+      "founded": 2023,
+      "founders": ["David Ha", "Llion Jones", "Ren Ito"],
+      "headquarters": "Tokyo, Japan",
+      "website": "https://sakana.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$30M",
+        "stage": "Seed",
+        "investors": ["Khosla Ventures", "Lux Capital"],
+        "source": "https://sakana.ai/seed-round/",
+        "date": "2024-01-16"
+      },
+      "tags": ["Japan", "research"]
+    },
+    {
+      "id": "krutrim",
+      "name": "Krutrim",
+      "fullName": "Ola Krutrim",
+      "description": "Ola's AI company building Indian-language foundation models and a domestic compute stack.",
+      "layers": ["models-open"],
+      "subdomains": ["Multilingual models"],
+      "founded": 2023,
+      "founders": ["Bhavish Aggarwal"],
+      "headquarters": "Bengaluru, India",
+      "website": "https://olakrutrim.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Ola-backed",
+        "investors": ["Ola"]
+      },
+      "tags": ["India", "multilingual"]
+    },
+    {
+      "id": "sarvam",
+      "name": "Sarvam AI",
+      "fullName": "Sarvam AI",
+      "description": "Indian foundation-model lab focused on Indic languages, voice, and sovereign deployment.",
+      "layers": ["models-open", "models-audio"],
+      "subdomains": ["Multilingual models", "Text-to-speech & voice cloning"],
+      "founded": 2023,
+      "founders": ["Pratyush Kumar", "Vivek Raghavan"],
+      "headquarters": "Bengaluru, India",
+      "website": "https://www.sarvam.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$41M",
+        "stage": "Series A",
+        "investors": ["Lightspeed India", "Peak XV Partners"],
+        "source": "https://www.sarvam.ai/blogs/announcing-series-a/",
+        "date": "2023-12-07"
+      },
+      "tags": ["India", "Indic languages", "voice"]
+    },
+    {
+      "id": "g42",
+      "name": "G42",
+      "fullName": "G42",
+      "description": "Abu Dhabi AI and cloud group building regional models (including work with Cerebras) and sovereign compute.",
+      "layers": ["models-frontier", "infrastructure-cloud"],
+      "subdomains": ["Frontier language models (GPT-4, Claude, Gemini)", "GPU cloud providers"],
+      "founded": 2018,
+      "founders": ["Peng Xiao"],
+      "headquarters": "Abu Dhabi, United Arab Emirates",
+      "website": "https://www.g42.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": ["MGX", "Microsoft"]
+      },
+      "tags": ["UAE", "sovereign AI"]
+    }
+  ]
+}
