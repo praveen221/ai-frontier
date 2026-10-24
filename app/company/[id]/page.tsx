@@ -26,6 +26,7 @@ export async function generateMetadata({
       title: company.name,
       description: company.description,
       url: `/company/${company.id}/`,
+      images: [{ url: `/og/${company.id}.svg`, width: 1200, height: 630, alt: company.name }],
     },
   };
 }

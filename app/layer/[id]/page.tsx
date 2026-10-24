@@ -19,6 +19,11 @@ export async function generateMetadata({
   return {
     title: layer.name,
     description: layer.description,
+    openGraph: {
+      title: layer.name,
+      description: layer.description,
+      images: [{ url: `/og/${layer.id}.svg`, width: 1200, height: 630, alt: layer.name }],
+    },
   };
 }
 
