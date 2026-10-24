@@ -74,12 +74,11 @@ async function main() {
   ok('sidebar count is search-aware', /1\s*$/.test(frontierCount.trim()) || frontierCount.includes('1'), frontierCount);
 
   await page.locator('#directory-search').fill('');
-  await page.waitForTimeout(150);
-  const amdRow = page.locator('li').filter({ hasText: 'AMD' }).first();
+  await page.getByText(/of 495/).first().waitFor();
+  const amdRow = page.locator('li').filter({ has: page.getByRole('link', { name: 'AMD', exact: true }) });
   await amdRow.locator('input[type="checkbox"]').check();
-  const appleRow = page.locator('li').filter({ hasText: /^Apple/ }).first();
-  if (await appleRow.count()) await appleRow.locator('input[type="checkbox"]').check();
-  const href = await page.locator('a:has-text("Open compare")').getAttribute('href');
+  await page.getByRole('link', { name: /Open compare/ }).waitFor();
+  const href = await page.getByRole('link', { name: /Open compare/ }).getAttribute('href');
   ok('compare link carries ids', Boolean(href && href.includes('/compare/') && href.includes('ids=') && href.includes('amd')), href || 'missing');
 
   await page.goto(`${BASE}${href}`, { waitUntil: 'networkidle' });
