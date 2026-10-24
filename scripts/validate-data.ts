@@ -11,16 +11,16 @@ function loadCompanies(): Company[] {
   const file = path.join(process.cwd(), 'data', 'companies.json');
   const collected: Company[] = [];
 
+  if (fs.existsSync(file)) {
+    const parsed = readJson(file) as { companies?: Company[] };
+    collected.push(...(parsed.companies ?? []));
+  }
+
   if (fs.existsSync(dir)) {
     for (const name of fs.readdirSync(dir).filter((n) => n.endsWith('.json')).sort()) {
       const parsed = readJson(path.join(dir, name)) as { companies?: Company[] } | Company[];
       collected.push(...(Array.isArray(parsed) ? parsed : parsed.companies ?? []));
     }
-  }
-
-  if (collected.length === 0 && fs.existsSync(file)) {
-    const parsed = readJson(file) as { companies?: Company[] };
-    collected.push(...(parsed.companies ?? []));
   }
 
   return collected;

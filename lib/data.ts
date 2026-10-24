@@ -29,6 +29,12 @@ function readCompanyFile(filePath: string): Company[] {
 export function getCompanies(): Company[] {
   const byId = new Map<string, Company>();
 
+  if (fs.existsSync(COMPANIES_FILE)) {
+    for (const company of readCompanyFile(COMPANIES_FILE)) {
+      byId.set(company.id, company);
+    }
+  }
+
   if (fs.existsSync(COMPANIES_DIR)) {
     const files = fs
       .readdirSync(COMPANIES_DIR)
@@ -38,12 +44,6 @@ export function getCompanies(): Company[] {
       for (const company of readCompanyFile(path.join(COMPANIES_DIR, file))) {
         byId.set(company.id, company);
       }
-    }
-  }
-
-  if (byId.size === 0 && fs.existsSync(COMPANIES_FILE)) {
-    for (const company of readCompanyFile(COMPANIES_FILE)) {
-      byId.set(company.id, company);
     }
   }
 
