@@ -178,7 +178,13 @@
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": [] },
+      "funding": {
+        "total": "$140M",
+        "stage": "Series D",
+        "investors": ["Sequoia Capital", "Kleiner Perkins", "NVIDIA"],
+        "source": "https://blog.fal.ai/our-series-d-scaling-fal/",
+        "date": "2025-12-09"
+      },
       "tags": ["inference", "media"]
     },
     {

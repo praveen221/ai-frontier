@@ -1005,9 +1005,18 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$210M",
+        "stage": "Series B",
+        "investors": [
+          "GV",
+          "Kleiner Perkins",
+          "Sequoia Capital",
+          "Coatue",
+          "Conviction",
+          "Thrive"
+        ],
+        "source": "https://www.openevidence.com/announcements/openevidence-the-fastest-growing-application-for-physicians-in-history-announces-dollar210-million-round-at-dollar35-billion-valuation",
+        "date": "2025-07-15"
       },
       "tags": [
         "health",
@@ -1019,6 +1028,12 @@
         "fields": [
           "founders"
         ]
+      },
+      "valuation": {
+        "amount": "$3.5B",
+        "date": "2025-07-15",
+        "source": "https://www.openevidence.com/announcements/openevidence-the-fastest-growing-application-for-physicians-in-history-announces-dollar210-million-round-at-dollar35-billion-valuation",
+        "notes": "Valuation at Series B"
       }
     },
     {
@@ -1834,6 +1849,13 @@
           "founded",
           "headquarters"
         ]
+      },
+      "revenue": {
+        "amount": "$1.038B",
+        "period": "FY2025",
+        "source": "https://investors.duolingo.com/static-files/4e5b1c62-7afd-4a48-b5bf-b91000fe12f2",
+        "date": "2026-02-26",
+        "notes": "GAAP revenue $1,037.6 million"
       }
     },
     {
@@ -2201,14 +2223,13 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": "$200M+",
-        "stage": "Private",
+        "total": "$1B",
+        "stage": "Growth",
         "investors": [
-          "Baillie Gifford",
-          "BlackRock"
+          "General Catalyst"
         ],
-        "source": "https://www.grammarly.com/blog/company/third-funding-round/",
-        "date": "2021-11-18"
+        "source": "https://www.grammarly.com/blog/company/grammarly-announces-growth-financing/",
+        "date": "2025-05-29"
       },
       "tags": [
         "writing"
@@ -2220,6 +2241,13 @@
           "founders",
           "founded"
         ]
+      },
+      "revenue": {
+        "amount": ">$700M",
+        "period": "2025",
+        "source": "https://www.grammarly.com/blog/company/grammarly-announces-growth-financing/",
+        "date": "2025-05-29",
+        "notes": "Company-stated annual revenue"
       }
     },
     {

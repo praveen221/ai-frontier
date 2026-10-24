@@ -392,7 +392,14 @@
         "GPU cloud",
         "Europe",
         "public"
-      ]
+      ],
+      "revenue": {
+        "amount": "$529.8M",
+        "period": "FY2025",
+        "source": "https://assets.nebius.com/assets/04f48f4e-48e9-468e-a428-ef16565c3fb5/Financial%20results_Q4%202025_11022026.pdf",
+        "date": "2026-02-12",
+        "notes": "GAAP group revenue $529.8 million"
+      }
     },
     {
       "id": "oracle-cloud",

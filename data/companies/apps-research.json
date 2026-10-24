@@ -124,17 +124,32 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
+        "total": "$950M",
+        "stage": "Venture",
         "investors": [
-          "Greylock",
-          "Sequoia Capital"
-        ]
+          "Tiger Global",
+          "GV"
+        ],
+        "source": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+        "date": "2026-05-04"
       },
       "tags": [
         "customer support",
         "agents"
-      ]
+      ],
+      "valuation": {
+        "amount": ">$15B",
+        "date": "2026-05-04",
+        "source": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+        "notes": "Valuation at May 2026 round"
+      },
+      "revenue": {
+        "amount": ">$150M ARR",
+        "period": "February 2026",
+        "source": "https://sierra.ai/blog/year-two-in-review",
+        "date": "2026-02-06",
+        "notes": "Company-stated ARR entering year three"
+      }
     },
     {
       "id": "allen-ai",

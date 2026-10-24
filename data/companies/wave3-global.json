@@ -66,9 +66,18 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$300M",
+        "stage": "Venture",
+        "investors": [
+          "Index Ventures",
+          "ICONIQ Growth",
+          "Teachers' Venture Growth",
+          "IVP",
+          "Atomico",
+          "WiL"
+        ],
+        "source": "https://www.deepl.com/en/press-release/deepl-announces-300-million-investment-at-2-billion-valuation-fueled-by-global-demand-for-ai-language-solutions",
+        "date": "2024-05-22"
       },
       "tags": [
         "translation",
@@ -82,6 +91,12 @@
           "founded",
           "headquarters"
         ]
+      },
+      "valuation": {
+        "amount": "$2B",
+        "date": "2024-05-22",
+        "source": "https://www.deepl.com/en/press-release/deepl-announces-300-million-investment-at-2-billion-valuation-fueled-by-global-demand-for-ai-language-solutions",
+        "notes": "Valuation at May 2024 round"
       }
     },
     {
@@ -304,16 +319,19 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": "$330M+",
-        "stage": "Series D",
+        "total": "$200M",
+        "stage": "Series E",
         "investors": [
-          "NEA",
           "GV",
-          "MMC Ventures",
-          "FirstMark"
+          "Evantic",
+          "Hedosophia",
+          "NVentures",
+          "Accel",
+          "Kleiner Perkins",
+          "NEA"
         ],
-        "source": "https://www.synthesia.io/post/synthesia-secures-180m-in-series-d-funding",
-        "date": "2025-01-15"
+        "source": "https://www.synthesia.io/post/series-e-200-million-4-billion-valuation-future-work",
+        "date": "2026-01-26"
       },
       "tags": [
         "video",
@@ -327,6 +345,19 @@
           "founded",
           "headquarters"
         ]
+      },
+      "valuation": {
+        "amount": "$4B",
+        "date": "2026-01-26",
+        "source": "https://www.synthesia.io/post/series-e-200-million-4-billion-valuation-future-work",
+        "notes": "Valuation at Series E"
+      },
+      "revenue": {
+        "amount": ">$100M ARR",
+        "period": "April 2025",
+        "source": "https://www.synthesia.io/post/100-million-revenue-adobe-investment",
+        "date": "2025-04-15",
+        "notes": "Company-stated ARR milestone"
       }
     },
     {
@@ -353,15 +384,18 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": "$1.05B",
-        "stage": "Series C",
+        "total": "$1.2B",
+        "stage": "Series D",
         "investors": [
-          "SoftBank Group",
+          "Eclipse",
+          "Balderton",
+          "SoftBank Vision Fund 2",
+          "Microsoft",
           "NVIDIA",
-          "Microsoft"
+          "Uber"
         ],
-        "source": "https://wayve.ai/press/series-c/",
-        "date": "2024-05-07"
+        "source": "https://wayve.ai/press/series-d/",
+        "date": "2026-02-25"
       },
       "tags": [
         "AV",
@@ -375,6 +409,12 @@
           "founded",
           "headquarters"
         ]
+      },
+      "valuation": {
+        "amount": "$8.6B",
+        "date": "2026-02-25",
+        "source": "https://wayve.ai/press/series-d/",
+        "notes": "Post-money at Series D"
       }
     },
     {
