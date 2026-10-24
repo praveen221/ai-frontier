@@ -1,7 +1,7 @@
 import type { Company } from './schema';
 
-export const SHELL_WIDTH = 'mx-auto max-w-[1440px]';
-export const SHELL = `${SHELL_WIDTH} px-4 sm:px-6`;
+export const SHELL_WIDTH = 'shell-width';
+export const SHELL = 'shell';
 
 export const STACK_GROUPS: { title: string; ids: string[] }[] = [
   { title: 'Compute', ids: ['chips-silicon', 'fabs-manufacturing', 'infrastructure-cloud', 'systems-software'] },
@@ -17,14 +17,14 @@ export function shortLayerName(name: string): string {
   return name.replace(/^(Foundation Models|Applications|Robotics|Data): /, '');
 }
 
-export function sourcedAt(company: Company): string {
-  const dates = [
-    company.funding.date,
-    company.valuation?.date,
-    company.revenue?.date,
-    company.identitySource?.date,
-    company.updatedAt,
-    company.addedAt,
-  ].filter((value): value is string => Boolean(value));
-  return dates.sort().at(-1) ?? company.updatedAt;
+export function sourcedAt(company: Company): string | null {
+  const dates = [company.funding.date, company.valuation?.date, company.revenue?.date].filter(
+    (value): value is string => Boolean(value),
+  );
+  if (company.identitySource?.date && company.identitySource.date !== company.addedAt) {
+    dates.push(company.identitySource.date);
+  }
+  if (company.updatedAt !== company.addedAt) dates.push(company.updatedAt);
+  if (!dates.length) return null;
+  return dates.sort().at(-1) ?? null;
 }

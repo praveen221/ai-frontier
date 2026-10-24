@@ -125,16 +125,19 @@ export default async function CompanyPage({
               label="Founded"
               value={String(company.founded)}
               source={identity?.fields.includes('founded') ? identity : undefined}
+              importDate={company.addedAt}
             />
             <Fact
               label="Headquarters"
               value={company.headquarters}
               source={identity?.fields.includes('headquarters') ? identity : undefined}
+              importDate={company.addedAt}
             />
             <Fact
               label="Founders"
               value={company.founders.join(', ')}
               source={identity?.fields.includes('founders') ? identity : undefined}
+              importDate={company.addedAt}
               wide
             />
             {company.funding.total && (
@@ -155,6 +158,7 @@ export default async function CompanyPage({
                     ? { source: company.funding.source, date: company.funding.date }
                     : undefined
                 }
+                importDate={company.addedAt}
               />
             )}
             {company.valuation && (
@@ -171,6 +175,7 @@ export default async function CompanyPage({
                   </>
                 }
                 source={company.valuation}
+                importDate={company.addedAt}
               />
             )}
             {company.revenue && (
@@ -186,6 +191,7 @@ export default async function CompanyPage({
                   </>
                 }
                 source={company.revenue}
+                importDate={company.addedAt}
                 wide
               />
             )}
@@ -215,11 +221,13 @@ function Fact({
   label,
   value,
   source,
+  importDate,
   wide,
 }: {
   label: string;
   value: ReactNode;
   source?: { source: string; date: string };
+  importDate?: string;
   wide?: boolean;
 }) {
   return (
@@ -228,7 +236,11 @@ function Fact({
       <dd className="mt-1 text-[15px] font-medium">{value}</dd>
       {source && (
         <div className="mt-1">
-          <SourceLink href={source.source} date={source.date} />
+          <SourceLink
+            href={source.source}
+            date={source.date}
+            showDate={!importDate || source.date !== importDate}
+          />
         </div>
       )}
     </div>

@@ -11,17 +11,17 @@ export const metadata: Metadata = {
 };
 
 export default function RecentPage() {
-  const companies = getCompanies()
-    .slice()
-    .sort((a, b) => sourcedAt(b).localeCompare(sourcedAt(a)) || a.name.localeCompare(b.name))
+  const ranked = getCompanies()
+    .map((company) => ({ company, at: sourcedAt(company) }))
+    .filter((row): row is { company: (typeof row)['company']; at: string } => Boolean(row.at))
+    .sort((a, b) => b.at.localeCompare(a.at) || a.company.name.localeCompare(b.company.name))
     .slice(0, 20);
 
-  const groups = new Map<string, typeof companies>();
-  for (const company of companies) {
-    const key = sourcedAt(company);
-    const list = groups.get(key) ?? [];
-    list.push(company);
-    groups.set(key, list);
+  const groups = new Map<string, typeof ranked>();
+  for (const row of ranked) {
+    const list = groups.get(row.at) ?? [];
+    list.push(row);
+    groups.set(row.at, list);
   }
 
   return (
@@ -39,7 +39,7 @@ export default function RecentPage() {
               {formatDate(date)}
             </h2>
             <ul className="mt-3 divide-y divide-border border-y border-border">
-              {rows.map((company) => (
+              {rows.map(({ company }) => (
                 <li key={company.id} className="flex items-start gap-3 py-3.5">
                   <Logo name={company.name} website={company.website} />
                   <div className="min-w-0">

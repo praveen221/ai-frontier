@@ -4,9 +4,11 @@ import { IconExternal } from './Icons';
 export function SourceLink({
   href,
   date,
+  showDate = true,
 }: {
   href: string;
   date: string;
+  showDate?: boolean;
 }) {
   const label = `Source, ${formatDate(date)}`;
   return (
@@ -19,7 +21,7 @@ export function SourceLink({
       className="inline-flex items-center gap-1 text-muted-foreground hover:text-primary"
     >
       <IconExternal />
-      <span className="text-[12px]">{formatDate(date)}</span>
+      {showDate && <span className="text-[12px]">{formatDate(date)}</span>}
     </a>
   );
 }

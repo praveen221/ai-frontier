@@ -68,6 +68,25 @@ code,
   background: hsl(var(--primary) / 0.16);
 }
 
+.shell-width {
+  margin-inline: auto;
+  max-width: 1440px;
+}
+
+.shell {
+  margin-inline: auto;
+  max-width: 1440px;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+@media (min-width: 640px) {
+  .shell {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
 .no-scrollbar {
   -ms-overflow-style: none;
   scrollbar-width: none;
