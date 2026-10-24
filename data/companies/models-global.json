@@ -56,15 +56,24 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "RMB8.36B+",
+        "stage": "Public (HKEX: 2513)",
+        "investors": [],
+        "source": "https://www.zhipuai.cn/investor_relations/%E6%8B%9B%E8%82%A1%E4%B9%A6_%E4%B8%AD%E6%96%87.pdf",
+        "date": "2025-12-30"
       },
       "tags": [
         "China",
         "GLM",
         "open-weight"
-      ]
+      ],
+      "revenue": {
+        "amount": "RMB724.3M",
+        "period": "FY2025",
+        "source": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0331/2026033101549.pdf",
+        "date": "2026-03-31",
+        "notes": "HKEX annual results; revenue RMB724.334 million"
+      }
     },
     {
       "id": "alibaba-qwen",
@@ -122,15 +131,24 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "HK$4.60B",
+        "stage": "Public (HKEX: 0100)",
+        "investors": [],
+        "source": "https://www.minimax.io/news/minimax-global-announces-full-year-2025-financial-results",
+        "date": "2026-03-02"
       },
       "tags": [
         "China",
         "speech",
         "video"
-      ]
+      ],
+      "revenue": {
+        "amount": "$79.0M",
+        "period": "FY2025",
+        "source": "https://www.minimax.io/news/minimax-global-announces-full-year-2025-financial-results",
+        "date": "2026-03-02",
+        "notes": "Company-stated FY2025 revenue; IPO net proceeds HK$4,596.1 million on 2026-01-09"
+      }
     },
     {
       "id": "bytedance-seed",
@@ -190,17 +208,18 @@
         "stage": "Public company",
         "investors": []
       },
-      "valuation": {
-        "amount": "$29B",
-        "date": "2024-12-31",
-        "source": "https://www.google.com/finance/quote/BIDU:NASDAQ",
-        "notes": "Market capitalization"
-      },
       "tags": [
         "China",
         "Ernie",
         "public"
-      ]
+      ],
+      "revenue": {
+        "amount": "$18.46B",
+        "period": "FY2025",
+        "source": "https://ir.baidu.com/news-releases/news-release-details/baidu-announces-fourth-quarter-and-fiscal-year-2025-results",
+        "date": "2026-02-26",
+        "notes": "RMB129.1 billion ($18.46 billion) total revenues"
+      }
     },
     {
       "id": "stepfun",
@@ -356,7 +375,14 @@
         "China",
         "speech",
         "public"
-      ]
+      ],
+      "revenue": {
+        "amount": "RMB27.11B",
+        "period": "FY2025",
+        "source": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225233581.PDF",
+        "date": "2026-04-29",
+        "notes": "SZSE 002230 2025 annual report operating revenue RMB27,105,390,547.66"
+      }
     },
     {
       "id": "sakana",
@@ -468,14 +494,16 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": "$41M",
-        "stage": "Series A",
+        "total": "$234M",
+        "stage": "Series B",
         "investors": [
-          "Lightspeed India",
+          "HCLTech",
+          "Bessemer Venture Partners",
+          "Khosla Ventures",
           "Peak XV Partners"
         ],
-        "source": "https://www.sarvam.ai/blogs/announcing-series-a/",
-        "date": "2023-12-07"
+        "source": "https://www.sarvam.ai/announcing-series-b",
+        "date": "2026-06-15"
       },
       "tags": [
         "India",
@@ -490,6 +518,12 @@
           "founded",
           "headquarters"
         ]
+      },
+      "valuation": {
+        "amount": "$1.5B",
+        "date": "2026-06-15",
+        "source": "https://www.sarvam.ai/announcing-series-b",
+        "notes": "Post-money at first close of $300M Series B"
       }
     },
     {

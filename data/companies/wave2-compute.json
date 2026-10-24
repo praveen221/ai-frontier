@@ -158,7 +158,14 @@
         "equipment",
         "Japan",
         "public"
-      ]
+      ],
+      "revenue": {
+        "amount": "¥2.44T",
+        "period": "FY2026",
+        "source": "https://www.tel.com/news/ir/2026/20260430_001.html",
+        "date": "2026-04-30",
+        "notes": "Net sales ¥2,443.533 billion for year ended 31 March 2026"
+      }
     },
     {
       "id": "graphcore",
@@ -215,9 +222,17 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$246M",
+        "stage": "Series C",
+        "investors": [
+          "Korea Development Bank",
+          "Industrial Bank of Korea",
+          "Keistone Partners",
+          "PI Partners",
+          "Kakao Investment"
+        ],
+        "source": "https://furiosa.ai/blog/announcing-furiosaais-125m-series-c-bridge-funding-to-scale-sustainable-ai-compute",
+        "date": "2025-07-30"
       },
       "tags": [
         "Korea",
@@ -245,14 +260,28 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$250M",
+        "stage": "Series C",
+        "investors": [
+          "Arm",
+          "Samsung Ventures",
+          "Pegatron VC",
+          "Korea Development Bank",
+          "Korelya Capital"
+        ],
+        "source": "https://rebellions.ai/newsroom/rebellions-raises-250-million-to-advance-the-next-generation-ai-infrastructure-backed-by-arm-and-samsung/",
+        "date": "2025-09-30"
       },
       "tags": [
         "Korea",
         "inference"
-      ]
+      ],
+      "valuation": {
+        "amount": "$1.4B",
+        "date": "2025-09-30",
+        "source": "https://rebellions.ai/newsroom/rebellions-raises-250-million-to-advance-the-next-generation-ai-infrastructure-backed-by-arm-and-samsung/",
+        "notes": "Valuation at Series C"
+      }
     },
     {
       "id": "lightmatter",
@@ -277,15 +306,23 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
+        "total": "$400M",
+        "stage": "Series D",
         "investors": [
           "GV"
-        ]
+        ],
+        "source": "https://lightmatter.com/press-release/lightmatter-raises-400m-series-d-quadruples-valuation-to-4-4b-as-photonics-leader-for-next-gen-ai-data-centers/",
+        "date": "2024-10-16"
       },
       "tags": [
         "photonics"
-      ]
+      ],
+      "valuation": {
+        "amount": "$4.4B",
+        "date": "2024-10-16",
+        "source": "https://lightmatter.com/press-release/lightmatter-raises-400m-series-d-quadruples-valuation-to-4-4b-as-photonics-leader-for-next-gen-ai-data-centers/",
+        "notes": "Valuation at Series D"
+      }
     },
     {
       "id": "hailo",
@@ -309,9 +346,17 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$340M+",
+        "stage": "Series C",
+        "investors": [
+          "Zisapel family",
+          "Gil Agmon",
+          "Delek Motors",
+          "OurCrowd",
+          "Poalim Equity"
+        ],
+        "source": "https://hailo.ai/company-overview/newsroom/news/hailo-closes-new-120-million-funding-round-and-debuts-hailo-10-a-new-powerful-ai-accelerator-bringing-generative-ai-to-edge-devices/",
+        "date": "2024-04-02"
       },
       "tags": [
         "edge",
@@ -463,7 +508,14 @@
       "tags": [
         "China",
         "cloud"
-      ]
+      ],
+      "revenue": {
+        "amount": "RMB158.13B",
+        "period": "FY2026",
+        "source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0513/2026051300653.pdf",
+        "date": "2026-05-13",
+        "notes": "Alibaba Cloud Intelligence Group segment revenue RMB158,132 million (US$22,924 million) for year ended 31 March 2026"
+      }
     },
     {
       "id": "runpod",
@@ -486,14 +538,28 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$20M",
+        "stage": "Seed",
+        "investors": [
+          "Intel Capital",
+          "Dell Technologies Capital",
+          "Julien Chaumond",
+          "Nat Friedman"
+        ],
+        "source": "https://www.intelcapital.com/runpod-raises-20m-in-seed-funding-co-led-by-intel-capital-and-dell-technologies-capital/",
+        "date": "2024-05-08"
       },
       "tags": [
         "GPU cloud",
         "serverless"
-      ]
+      ],
+      "revenue": {
+        "amount": "$120M ARR",
+        "period": "January 2026",
+        "source": "https://www.runpod.io/blog/a-note-to-the-developers-who-built-runpod-with-us",
+        "date": "2026-01-23",
+        "notes": "Founder-stated ARR milestone"
+      }
     },
     {
       "id": "pytorch",

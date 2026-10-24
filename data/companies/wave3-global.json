@@ -676,7 +676,7 @@
       "updatedAt": "2026-10-24",
       "funding": {
         "total": null,
-        "stage": "Private",
+        "stage": "Public company",
         "investors": []
       },
       "tags": [
@@ -691,6 +691,13 @@
           "founded",
           "headquarters"
         ]
+      },
+      "revenue": {
+        "amount": "₹32,997M",
+        "period": "FY2026",
+        "source": "https://fractal.ai/docs/Investor-Relations/Annual-Reports-and-Postal-Ballot-Notice/Fractal-Annual-Report-FY-2025-26.pdf",
+        "date": "2026-08-24",
+        "notes": "Revenue from operations INR 32,997 million for year ended 31 March 2026"
       }
     },
     {
@@ -791,9 +798,17 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$213M",
+        "stage": "Series C",
+        "investors": [
+          "SoftBank Vision Fund 2",
+          "Zoom",
+          "Menlo Ventures",
+          "Nexus Ventures",
+          "Next47"
+        ],
+        "source": "https://www.observe.ai/press-releases/observe-ai-raises-125m-series-c-to-usher-in-ai-empowered-era-for-contact-centers",
+        "date": "2022-04-12"
       },
       "tags": [
         "support",
@@ -829,9 +844,18 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$260M",
+        "stage": "Series F",
+        "investors": [
+          "NVIDIA",
+          "AMD",
+          "Snowflake",
+          "Databricks",
+          "NEA",
+          "March Capital"
+        ],
+        "source": "https://www.uniphore.com/press-releases/nvidia-amd-snowflake-databricks-invest-in-uniphores-series-f/",
+        "date": "2025-10-22"
       },
       "tags": [
         "support",
@@ -844,6 +868,12 @@
           "founders",
           "founded"
         ]
+      },
+      "valuation": {
+        "amount": "$2.5B",
+        "date": "2025-10-22",
+        "source": "https://www.uniphore.com/press-releases/nvidia-amd-snowflake-databricks-invest-in-uniphores-series-f/",
+        "notes": "Series F priced at $2.5 billion"
       }
     },
     {
@@ -961,6 +991,13 @@
           "founded",
           "headquarters"
         ]
+      },
+      "revenue": {
+        "amount": "₹245.58 crore",
+        "period": "FY2026",
+        "source": "https://e2e-mainsite-ui.objectstore.e2enetworks.net/Financial_Compliance/Financial_Information/Financial_Results/20252026/Audit_financial_Results_for_the_Financial_year_ended_March_31_03_2026.pdf",
+        "date": "2026-04-20",
+        "notes": "Revenue from operations ₹24,558.01 lakh for year ended 31 March 2026"
       }
     },
     {
@@ -1619,6 +1656,13 @@
           "founded",
           "headquarters"
         ]
+      },
+      "revenue": {
+        "amount": "KRW97.15T",
+        "period": "FY2025",
+        "source": "https://news.skhynix.com/en/sk-hynix-announces-fy25-financial-results/",
+        "date": "2026-01-28",
+        "notes": "KRW97.1467 trillion revenue"
       }
     },
     {

@@ -1930,9 +1930,11 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "RMB8.00B",
+        "stage": "Public (STAR: 688795)",
+        "investors": [],
+        "source": "https://static.cninfo.com.cn/finalpage/2025-12-04/1224848789.PDF",
+        "date": "2025-12-04"
       },
       "tags": [
         "GPU",
@@ -1945,6 +1947,13 @@
           "founded",
           "headquarters"
         ]
+      },
+      "revenue": {
+        "amount": "RMB438.46M",
+        "period": "FY2024",
+        "source": "https://static.cninfo.com.cn/finalpage/2025-12-04/1224848789.PDF",
+        "date": "2025-12-04",
+        "notes": "STAR IPO listing announcement; 70 million new A shares at RMB114.28 raised RMB7,999.60 million"
       }
     },
     {

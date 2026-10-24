@@ -21,9 +21,17 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$65M",
+        "stage": "Series D",
+        "investors": [
+          "Lightspeed",
+          "360 ONE Asset",
+          "Merck Global Health Innovation Fund",
+          "Novo Holdings",
+          "HealthQuad"
+        ],
+        "source": "https://www.qure.ai/us/news-press-coverages/qure-ai-gets-series-d-funding-to-expand-healthcare-ai",
+        "date": "2024-09-25"
       },
       "tags": [
         "health",
@@ -250,9 +258,11 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$150M",
+        "stage": "Growth",
+        "investors": [],
+        "source": "https://yotta.com/news/yotta-raises-150-million-at-3-9-billion-valuation-to-fund-ai-infrastructure-expansion/",
+        "date": "2026-07-06"
       },
       "tags": [
         "cloud",
@@ -265,6 +275,12 @@
           "founded",
           "headquarters"
         ]
+      },
+      "valuation": {
+        "amount": "$3.9B",
+        "date": "2026-07-06",
+        "source": "https://yotta.com/news/yotta-raises-150-million-at-3-9-billion-valuation-to-fund-ai-infrastructure-expansion/",
+        "notes": "Valuation at $150 million raise"
       }
     },
     {
@@ -287,9 +303,17 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "up to $600M",
+        "stage": "Growth equity",
+        "investors": [
+          "Blackstone",
+          "Teachers' Venture Growth",
+          "TVS Capital",
+          "360 ONE Assets",
+          "Nexus Ventures"
+        ],
+        "source": "https://neysa.ai/press-release/blackstone-leads-funding-of-over-1-billion-dollar-to-neysa/",
+        "date": "2026-02-16"
       },
       "tags": [
         "neocloud",
@@ -343,6 +367,13 @@
           "founded",
           "headquarters"
         ]
+      },
+      "revenue": {
+        "amount": "$20.16B",
+        "period": "FY2026",
+        "source": "https://www.sec.gov/Archives/edgar/data/1067491/000106749126000018/exv99w01.htm",
+        "date": "2026-04-23",
+        "notes": "IFRS revenues $20,158 million for year ended 31 March 2026"
       }
     },
     {
@@ -382,6 +413,13 @@
           "founded",
           "headquarters"
         ]
+      },
+      "revenue": {
+        "amount": "$30.02B",
+        "period": "FY2026",
+        "source": "https://www.tcs.com/who-we-are/newsroom/press-release/tcs-financial-results-q4-fy-2026",
+        "date": "2026-04-09",
+        "notes": "FY26 revenue $30,017 million"
       }
     },
     {

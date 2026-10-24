@@ -48,7 +48,14 @@
         "stage": "Public company",
         "investors": []
       },
-      "tags": ["China", "MLU", "public"]
+      "tags": ["China", "MLU", "public"],
+      "revenue": {
+        "amount": "RMB6.50B",
+        "period": "FY2025",
+        "source": "https://static.cninfo.com.cn/finalpage/2026-03-13/1225007336.PDF",
+        "date": "2026-03-13",
+        "notes": "STAR 688256 2025 annual report operating revenue RMB6,497,196,198.68"
+      }
     },
     {
       "id": "huawei-ascend",
