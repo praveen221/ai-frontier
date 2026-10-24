@@ -484,22 +484,42 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$180M",
+        "stage": "Series C",
+        "investors": [
+          "Accel",
+          "Meritech",
+          "Redpoint",
+          "Evantic",
+          "Visionaries Club",
+          "NVentures",
+          "T.Capital",
+          "Felicis Ventures",
+          "Sequoia",
+          "Highland Europe",
+          "HV Capital"
+        ],
+        "source": "https://blog.n8n.io/series-c/",
+        "date": "2025-10-09"
       },
       "tags": [
         "automation",
         "Europe"
       ],
       "identitySource": {
-        "source": "https://n8n.io",
+        "source": "https://n8n.io/press/",
         "date": "2026-10-24",
         "fields": [
           "founders",
           "founded",
           "headquarters"
         ]
+      },
+      "valuation": {
+        "amount": "$5.2B",
+        "date": "2026-05-12",
+        "source": "https://blog.n8n.io/n8n-sap/",
+        "notes": "Valuation at SAP strategic investment; Series C in October 2025 was $2.5B"
       }
     },
     {

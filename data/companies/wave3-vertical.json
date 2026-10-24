@@ -172,9 +172,28 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$550M",
+        "stage": "Series E",
+        "investors": [
+          "Atreides Management",
+          "Baron Capital",
+          "Capital Group",
+          "Fidelity Management & Research Company",
+          "Glade Brook Capital Partners",
+          "J.P. Morgan",
+          "Accel",
+          "Benchmark",
+          "Bessemer Venture Partners",
+          "General Catalyst",
+          "ICONIQ",
+          "Insight Venture Partners",
+          "Menlo Ventures",
+          "Redpoint Ventures",
+          "Salesforce Ventures",
+          "Sands Capital"
+        ],
+        "source": "https://legora.com/newsroom/legora-raises-550-million-series-e-at-8.8-billion-valuation-to-accelerate-growth",
+        "date": "2026-10-21"
       },
       "tags": [
         "legal",
@@ -187,6 +206,19 @@
           "founded",
           "headquarters"
         ]
+      },
+      "valuation": {
+        "amount": "$8.8B",
+        "date": "2026-10-21",
+        "source": "https://legora.com/newsroom/legora-raises-550-million-series-e-at-8.8-billion-valuation-to-accelerate-growth",
+        "notes": "Post-money at Series E"
+      },
+      "revenue": {
+        "amount": ">$200M ARR",
+        "period": "October 2026",
+        "source": "https://legora.com/newsroom/legora-raises-550-million-series-e-at-8.8-billion-valuation-to-accelerate-growth",
+        "date": "2026-10-21",
+        "notes": "Company-stated ARR"
       }
     },
     {

@@ -84,7 +84,12 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": { "total": null, "stage": "Adobe subsidiary", "investors": [] },
-      "tags": ["creative", "public"]
+      "tags": ["creative", "public"],
+      "identitySource": {
+        "source": "https://www.adobe.com/products/firefly.html",
+        "date": "2026-10-24",
+        "fields": ["founded", "headquarters"]
+      }
     },
     {
       "id": "kuaishou-kling",

@@ -435,9 +435,24 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$70M",
+        "stage": "Series C",
+        "investors": [
+          "Adams Street Partners",
+          "M12",
+          "Sinewave Ventures",
+          "OMERS Ventures",
+          "Datadog",
+          "PagerDuty",
+          "Industry Ventures",
+          "Archerman Capital",
+          "Foundation Capital",
+          "Battery Ventures",
+          "TCV",
+          "Swift VC"
+        ],
+        "source": "https://arize.com/blog/arize-ai-raises-70m-series-c-to-build-the-gold-standard-for-ai-evaluation-observability/",
+        "date": "2025-02-20"
       },
       "tags": [
         "observability",

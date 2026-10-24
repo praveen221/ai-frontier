@@ -1,0 +1,211 @@
+{
+  "companies": [
+    {
+      "id": "lovable",
+      "name": "Lovable",
+      "fullName": "Lovable",
+      "description": "Stockholm software-creation platform that turns a natural-language prompt into a hosted full-stack app, aimed at builders who do not write code.",
+      "layers": [
+        "apps-coding"
+      ],
+      "subdomains": [
+        "AI code editors"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Anton Osika",
+        "Fabian Hedin"
+      ],
+      "headquarters": "Stockholm, Sweden",
+      "website": "https://lovable.dev",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$400M",
+        "stage": "Series C",
+        "investors": [
+          "Menlo Ventures",
+          "EQT Scaleup Europe Fund",
+          "Balderton Capital",
+          "Carmignac",
+          "Kaszek Ventures",
+          "LTS Growth",
+          "Tencent",
+          "World Innovation Lab",
+          "Regent",
+          "Accel",
+          "Antler",
+          "CapitalG",
+          "DST Global",
+          "Evantic Capital",
+          "HubSpot Ventures",
+          "Salesforce Ventures"
+        ],
+        "source": "https://lovable.dev/blog/series-c",
+        "date": "2026-08-12"
+      },
+      "valuation": {
+        "amount": "$13.3B",
+        "date": "2026-08-12",
+        "source": "https://lovable.dev/blog/series-c",
+        "notes": "Valuation at Series C"
+      },
+      "tags": [
+        "coding",
+        "Europe",
+        "vibe coding"
+      ],
+      "identitySource": {
+        "source": "https://docs.lovable.dev/introduction/faq",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "manus",
+      "name": "Manus",
+      "fullName": "Manus",
+      "description": "General AI agent that takes multi-step research, coding, and browser tasks from a prompt through to a finished result.",
+      "layers": [
+        "agents-memory",
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Tool use & orchestration",
+        "Personal assistants"
+      ],
+      "founded": 2025,
+      "founders": [
+        "Red",
+        "Pan"
+      ],
+      "headquarters": "Singapore",
+      "website": "https://manus.im",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$75M",
+        "stage": "Venture",
+        "investors": [
+          "Benchmark"
+        ],
+        "source": "https://www.manus.im/blog/manus-100m-arr",
+        "date": "2025-12-17"
+      },
+      "revenue": {
+        "amount": "$100M ARR",
+        "period": "December 2025",
+        "source": "https://www.manus.im/blog/manus-100m-arr",
+        "date": "2025-12-17",
+        "notes": "Company-stated ARR eight months after launch; also stated >$125M total revenue run-rate"
+      },
+      "tags": [
+        "agents",
+        "Singapore"
+      ],
+      "identitySource": {
+        "source": "https://www.manus.im/blog/manus-100m-arr",
+        "date": "2025-12-17",
+        "fields": [
+          "founders",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "datadog",
+      "name": "Datadog",
+      "fullName": "Datadog, Inc.",
+      "description": "Public observability and security platform for cloud applications, adding AI SRE agents and LLM monitoring.",
+      "layers": [
+        "dev-tools"
+      ],
+      "subdomains": [
+        "LLM observability & tracing"
+      ],
+      "founded": 2010,
+      "founders": [
+        "Olivier Pomel",
+        "Alexis Lê-Quôc"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://www.datadoghq.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public (NASDAQ: DDOG)",
+        "investors": []
+      },
+      "revenue": {
+        "amount": "$3.43B",
+        "period": "FY2025",
+        "source": "https://investors.datadoghq.com/news-releases/news-release-details/datadog-announces-fourth-quarter-and-fiscal-year-2025-financial",
+        "date": "2026-02-10",
+        "notes": "Revenue $3.43 billion, up 28% year-over-year"
+      },
+      "tags": [
+        "observability",
+        "public"
+      ],
+      "identitySource": {
+        "source": "https://www.datadoghq.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "wiz",
+      "name": "Wiz",
+      "fullName": "Wiz, Inc.",
+      "description": "Cloud security platform that maps risk across AWS, Azure, GCP, and OCI; joined Google Cloud in 2026.",
+      "layers": [
+        "safety-security",
+        "defense-national-security"
+      ],
+      "subdomains": [
+        "Model security & red teaming",
+        "Cybersecurity AI"
+      ],
+      "founded": 2020,
+      "founders": [
+        "Assaf Rappaport",
+        "Yinon Costica",
+        "Ami Luttwak",
+        "Roy Reznik"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://www.wiz.io",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Acquired by Google",
+        "investors": []
+      },
+      "tags": [
+        "cloud security",
+        "Google"
+      ],
+      "identitySource": {
+        "source": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
+        "date": "2026-03-11",
+        "fields": [
+          "founded"
+        ]
+      }
+    }
+  ]
+}

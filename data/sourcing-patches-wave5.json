@@ -1,0 +1,702 @@
+{
+  "companies": [
+    {
+      "id": "factory-ai",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$150M",
+        "stage": "Series C",
+        "investors": [
+          "Khosla Ventures",
+          "Sequoia Capital",
+          "Blackstone",
+          "Insight Partners",
+          "Evantic Capital",
+          "20VC",
+          "NEA",
+          "Mantis VC"
+        ],
+        "source": "https://factory.ai/news/series-c",
+        "date": "2026-04-16"
+      },
+      "valuation": {
+        "amount": "$1.5B",
+        "date": "2026-04-16",
+        "source": "https://factory.ai/news/series-c",
+        "notes": "Valuation at Series C"
+      },
+      "identitySource": {
+        "source": "https://factory.ai",
+        "date": "2026-10-24",
+        "fields": ["founders", "founded", "headquarters"]
+      }
+    },
+    {
+      "id": "augment-code",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$227M",
+        "stage": "Series B (select assets acquired by Harness)",
+        "investors": [
+          "Sutter Hill Ventures",
+          "Index Ventures",
+          "Innovation Endeavors",
+          "Lightspeed Venture Partners",
+          "Meritech Capital"
+        ],
+        "source": "https://www.augmentcode.com/blog/augment-inc-raises-227-million",
+        "date": "2024-04-24"
+      },
+      "valuation": {
+        "amount": "$977M",
+        "date": "2024-04-24",
+        "source": "https://www.augmentcode.com/blog/augment-inc-raises-227-million",
+        "notes": "Post-money at Series B; company also stated $252M total funding including $25M Series A"
+      },
+      "identitySource": {
+        "source": "https://www.augmentcode.com/blog/augment-inc-raises-227-million",
+        "date": "2024-04-24",
+        "fields": ["founded", "headquarters"]
+      }
+    },
+    {
+      "id": "poolside",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$500M",
+        "stage": "Venture",
+        "investors": [],
+        "source": "https://poolside.ai/blog/announcing-our-500-million-fundraise-to-make-progress-towards-agi",
+        "date": "2024-10-02"
+      },
+      "identitySource": {
+        "source": "https://poolside.ai",
+        "date": "2026-10-24",
+        "fields": ["founders", "founded", "headquarters"]
+      }
+    },
+    {
+      "id": "magic-dev",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$515M",
+        "stage": "Venture",
+        "investors": [
+          "Eric Schmidt",
+          "Jane Street",
+          "Sequoia",
+          "Atlassian",
+          "Nat Friedman",
+          "Daniel Gross",
+          "Elad Gil",
+          "CapitalG"
+        ],
+        "source": "https://magic.dev/blog/100m-token-context-windows",
+        "date": "2024-08-29"
+      },
+      "identitySource": {
+        "source": "https://magic.dev/blog/series-a",
+        "date": "2023-02-06",
+        "fields": ["founders"]
+      }
+    },
+    {
+      "id": "sourcegraph",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$125M",
+        "stage": "Series D",
+        "investors": [
+          "Andreessen Horowitz",
+          "Insight Partners",
+          "Geodesic Capital",
+          "Sequoia Capital"
+        ],
+        "source": "https://sourcegraph.com/blog/announcing-sourcegraphs-series-d-round",
+        "date": "2021-07-13"
+      },
+      "valuation": {
+        "amount": "$2.625B",
+        "date": "2021-07-13",
+        "source": "https://sourcegraph.com/blog/announcing-sourcegraphs-series-d-round",
+        "notes": "Valuation at Series D"
+      },
+      "identitySource": {
+        "source": "https://sourcegraph.com",
+        "date": "2026-10-24",
+        "fields": ["founders", "founded", "headquarters"]
+      }
+    },
+    {
+      "id": "writer",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$200M",
+        "stage": "Series C",
+        "investors": [
+          "Premji Invest",
+          "Radical Ventures",
+          "ICONIQ Growth",
+          "Adobe Ventures",
+          "B Capital",
+          "Citi Ventures",
+          "IBM Ventures",
+          "Salesforce Ventures",
+          "Workday Ventures",
+          "Accenture",
+          "Balderton",
+          "Insight Partners",
+          "Vanguard"
+        ],
+        "source": "https://writer.com/blog/series-c-funding-writer-press-release/",
+        "date": "2024-11-12"
+      },
+      "valuation": {
+        "amount": "$1.9B",
+        "date": "2024-11-12",
+        "source": "https://writer.com/blog/series-c-funding-writer-press-release/",
+        "notes": "Valuation at Series C"
+      },
+      "identitySource": {
+        "source": "https://writer.com/blog/series-c-funding-writer-press-release/",
+        "date": "2024-11-12",
+        "fields": ["founded", "headquarters"]
+      }
+    },
+    {
+      "id": "hebbia",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$130M",
+        "stage": "Series B",
+        "investors": [
+          "Andreessen Horowitz",
+          "Index Ventures",
+          "Google Ventures",
+          "Peter Thiel"
+        ],
+        "source": "https://www.hebbia.com/blog/hebbia-raises-usd130m-series-b",
+        "date": "2024-07-08"
+      },
+      "identitySource": {
+        "source": "https://www.hebbia.com",
+        "date": "2026-10-24",
+        "fields": ["founders", "founded", "headquarters"]
+      }
+    },
+    {
+      "id": "moveworks",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$200M",
+        "stage": "Series C",
+        "investors": [
+          "Tiger Global",
+          "Alkeon Capital",
+          "Lightspeed Venture Partners",
+          "Sapphire Ventures",
+          "Bain Capital",
+          "ICONIQ Growth",
+          "Kleiner Perkins"
+        ],
+        "source": "https://www.moveworks.com/us/en/company/news/press-releases/moveworks-raises-200-million-series-c-funding",
+        "date": "2021-06-30"
+      },
+      "valuation": {
+        "amount": "$2.1B",
+        "date": "2021-06-30",
+        "source": "https://www.moveworks.com/us/en/company/news/press-releases/moveworks-raises-200-million-series-c-funding",
+        "notes": "Valuation at Series C; company also stated $315M total funding"
+      },
+      "identitySource": {
+        "source": "https://www.moveworks.com",
+        "date": "2026-10-24",
+        "fields": ["founders", "founded", "headquarters"]
+      }
+    },
+    {
+      "id": "evenup",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$150M",
+        "stage": "Series E",
+        "investors": [
+          "Bessemer Venture Partners",
+          "REV",
+          "B Capital",
+          "SignalFire",
+          "Adams Street",
+          "Premji Invest",
+          "Bain Capital",
+          "HarbourVest",
+          "Lightspeed",
+          "Broadlight Capital"
+        ],
+        "source": "https://www.evenuplaw.com/blog/evenup-2b-valuation/",
+        "date": "2025-10-07"
+      },
+      "valuation": {
+        "amount": ">$2B",
+        "date": "2025-10-07",
+        "source": "https://www.evenuplaw.com/blog/evenup-2b-valuation/",
+        "notes": "Valuation at Series E; company also stated $385M total capital raised"
+      },
+      "identitySource": {
+        "source": "https://www.evenuplaw.com/about/",
+        "date": "2026-10-24",
+        "fields": ["founders", "founded", "headquarters"]
+      }
+    },
+    {
+      "id": "granola",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$125M",
+        "stage": "Series C",
+        "investors": [
+          "Index Ventures",
+          "Kleiner Perkins",
+          "Lightspeed",
+          "Spark Capital",
+          "NFDG"
+        ],
+        "source": "https://www.granola.ai/blog/series-c",
+        "date": "2026-03-25"
+      },
+      "valuation": {
+        "amount": "$1.5B",
+        "date": "2026-03-25",
+        "source": "https://www.granola.ai/blog/series-c",
+        "notes": "Valuation at Series C"
+      },
+      "identitySource": {
+        "source": "https://www.granola.ai",
+        "date": "2026-10-24",
+        "fields": ["founders", "founded", "headquarters"]
+      }
+    },
+    {
+      "id": "figma",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public (NYSE: FIG)",
+        "investors": []
+      },
+      "revenue": {
+        "amount": "$1.056B",
+        "period": "FY2025",
+        "source": "https://investor.figma.com/news-events/news/news-details/2026/Figma-Announces-Fourth-Quarter-and-Fiscal-Year-2025-Financial-Results/default.aspx",
+        "date": "2026-02-18",
+        "notes": "Revenue $1.056 billion, up 41% year-over-year"
+      },
+      "identitySource": {
+        "source": "https://www.figma.com",
+        "date": "2026-10-24",
+        "fields": ["founders", "founded", "headquarters"]
+      }
+    },
+    {
+      "id": "canva",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$200M",
+        "stage": "Private",
+        "investors": [
+          "T. Rowe Price",
+          "Franklin Templeton",
+          "Sequoia Capital Global Equities",
+          "Bessemer Venture Partners",
+          "Greenoaks Capital",
+          "Dragoneer Investments",
+          "Blackbird",
+          "Felicis",
+          "AirTree Ventures"
+        ],
+        "source": "https://www.canva.com/newsroom/news/canva-announces-usd-40-billion-valuation-fueled-global-demand-visual-communication/",
+        "date": "2021-09-15"
+      },
+      "valuation": {
+        "amount": "$40B",
+        "date": "2021-09-15",
+        "source": "https://www.canva.com/newsroom/news/canva-announces-usd-40-billion-valuation-fueled-global-demand-visual-communication/",
+        "notes": "Valuation after September 2021 funding round"
+      },
+      "identitySource": {
+        "source": "https://www.canva.com",
+        "date": "2026-10-24",
+        "fields": ["founders", "founded", "headquarters"]
+      }
+    },
+    {
+      "id": "tempus",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public (NASDAQ: TEM)",
+        "investors": []
+      },
+      "revenue": {
+        "amount": "$1.272B",
+        "period": "FY2025",
+        "source": "https://investors.tempus.com/news-releases/news-release-details/tempus-reports-fourth-quarter-and-full-year-2025-results",
+        "date": "2026-02-24",
+        "notes": "Total net revenue $1,271.789 million"
+      },
+      "identitySource": {
+        "source": "https://www.tempus.com",
+        "date": "2026-10-24",
+        "fields": ["founders", "founded", "headquarters"]
+      }
+    },
+    {
+      "id": "recursion",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public (NASDAQ: RXRX)",
+        "investors": []
+      },
+      "revenue": {
+        "amount": "$74.7M",
+        "period": "FY2025",
+        "source": "https://ir.recursion.com/news-releases/news-release-details/recursion-reports-fourth-quarter-and-full-year-2025-financial/",
+        "date": "2026-02-25",
+        "notes": "Total revenue $74.7 million, primarily from collaboration agreements"
+      },
+      "identitySource": {
+        "source": "https://www.recursion.com",
+        "date": "2026-10-24",
+        "fields": ["founders", "founded", "headquarters"]
+      }
+    },
+    {
+      "id": "photoroom",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$43M",
+        "stage": "Series B",
+        "investors": [
+          "Balderton Capital",
+          "Aglaé",
+          "Y Combinator"
+        ],
+        "source": "https://www.prnewswire.com/news-releases/photoroom-secures-43m-in-series-b-funding-launches-next-generation-ai-photo-editing-features-for-businesses-302071832.html",
+        "date": "2024-02-27"
+      },
+      "identitySource": {
+        "source": "https://www.photoroom.com/about",
+        "date": "2026-10-24",
+        "fields": ["founders", "founded", "headquarters"]
+      }
+    },
+    {
+      "id": "arize",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$70M",
+        "stage": "Series C",
+        "investors": [
+          "Adams Street Partners",
+          "M12",
+          "Sinewave Ventures",
+          "OMERS Ventures",
+          "Datadog",
+          "PagerDuty",
+          "Industry Ventures",
+          "Archerman Capital",
+          "Foundation Capital",
+          "Battery Ventures",
+          "TCV",
+          "Swift VC"
+        ],
+        "source": "https://arize.com/blog/arize-ai-raises-70m-series-c-to-build-the-gold-standard-for-ai-evaluation-observability/",
+        "date": "2025-02-20"
+      },
+      "identitySource": {
+        "source": "https://arize.com",
+        "date": "2026-10-24",
+        "fields": ["founders", "founded"]
+      }
+    },
+    {
+      "id": "hiddenlayer",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$100M",
+        "stage": "Series B",
+        "investors": [
+          "Delta-v Capital",
+          "Ten Eleven Ventures",
+          "Morgan Stanley",
+          "M12",
+          "Booz Allen Ventures"
+        ],
+        "source": "https://www.hiddenlayer.com/news/hiddenlayer-100m-series-b-ai-security",
+        "date": "2026-09-02"
+      },
+      "identitySource": {
+        "source": "https://www.hiddenlayer.com",
+        "date": "2026-10-24",
+        "fields": ["founders", "founded", "headquarters"]
+      }
+    },
+    {
+      "id": "codeium-windsurf",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Acquired by Cognition",
+        "investors": [
+          "Greenoaks",
+          "Kleiner Perkins"
+        ]
+      },
+      "revenue": {
+        "amount": "$82M ARR",
+        "period": "July 2025",
+        "source": "https://cognition.com/blog/windsurf",
+        "date": "2025-07-14",
+        "notes": "Cognition acquisition announcement: $82M of ARR"
+      },
+      "identitySource": {
+        "source": "https://cognition.com/blog/windsurf",
+        "date": "2025-07-14",
+        "fields": ["founded"]
+      }
+    },
+    {
+      "id": "legora",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$550M",
+        "stage": "Series E",
+        "investors": [
+          "Atreides Management",
+          "Baron Capital",
+          "Capital Group",
+          "Fidelity Management & Research Company",
+          "Glade Brook Capital Partners",
+          "J.P. Morgan",
+          "Accel",
+          "Benchmark",
+          "Bessemer Venture Partners",
+          "General Catalyst",
+          "ICONIQ",
+          "Insight Venture Partners",
+          "Menlo Ventures",
+          "Redpoint Ventures",
+          "Salesforce Ventures",
+          "Sands Capital"
+        ],
+        "source": "https://legora.com/newsroom/legora-raises-550-million-series-e-at-8.8-billion-valuation-to-accelerate-growth",
+        "date": "2026-10-21"
+      },
+      "valuation": {
+        "amount": "$8.8B",
+        "date": "2026-10-21",
+        "source": "https://legora.com/newsroom/legora-raises-550-million-series-e-at-8.8-billion-valuation-to-accelerate-growth",
+        "notes": "Post-money at Series E"
+      },
+      "revenue": {
+        "amount": ">$200M ARR",
+        "period": "October 2026",
+        "source": "https://legora.com/newsroom/legora-raises-550-million-series-e-at-8.8-billion-valuation-to-accelerate-growth",
+        "date": "2026-10-21",
+        "notes": "Company-stated ARR"
+      },
+      "identitySource": {
+        "source": "https://legora.com",
+        "date": "2026-10-24",
+        "fields": ["founded", "headquarters"]
+      }
+    },
+    {
+      "id": "h-company",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "€200M+",
+        "stage": "Venture",
+        "investors": [
+          "Accel",
+          "UiPath",
+          "Motier",
+          "Bpifrance",
+          "Bernard Arnault",
+          "Eric Schmidt",
+          "FDJ UNITED Ventures"
+        ],
+        "source": "https://hcompany.ai/newsroom/h-company-and-fdj-united-to-collaborate-on-deploying-agentic-ai",
+        "date": "2025-11-17"
+      },
+      "identitySource": {
+        "source": "https://hcompany.ai/about",
+        "date": "2026-10-24",
+        "fields": ["founded", "headquarters"]
+      }
+    },
+    {
+      "id": "upstage",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$45M",
+        "stage": "Series B bridge",
+        "investors": [
+          "Korea Development Bank",
+          "Amazon",
+          "AMD"
+        ],
+        "source": "https://www.upstage.ai/news/upstage-series-b-bridge",
+        "date": "2025-08-20"
+      },
+      "identitySource": {
+        "source": "https://www.upstage.ai",
+        "date": "2026-10-24",
+        "fields": ["founders", "founded", "headquarters"]
+      }
+    },
+    {
+      "id": "twelve-labs",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$100M",
+        "stage": "Series B",
+        "investors": [
+          "NEA",
+          "NAVER Ventures",
+          "Amazon",
+          "Radical Ventures",
+          "Korea Investment Partners",
+          "Index Ventures",
+          "Quadrille Capital",
+          "Red Bull Ventures"
+        ],
+        "source": "https://www.twelvelabs.io/blog/twelvelabs-series-b-100m",
+        "date": "2026-07-01"
+      },
+      "identitySource": {
+        "source": "https://www.twelvelabs.io",
+        "date": "2026-10-24",
+        "fields": ["founders", "founded"]
+      }
+    },
+    {
+      "id": "n8n",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$180M",
+        "stage": "Series C",
+        "investors": [
+          "Accel",
+          "Meritech",
+          "Redpoint",
+          "Evantic",
+          "Visionaries Club",
+          "NVentures",
+          "T.Capital",
+          "Felicis Ventures",
+          "Sequoia",
+          "Highland Europe",
+          "HV Capital"
+        ],
+        "source": "https://blog.n8n.io/series-c/",
+        "date": "2025-10-09"
+      },
+      "valuation": {
+        "amount": "$5.2B",
+        "date": "2026-05-12",
+        "source": "https://blog.n8n.io/n8n-sap/",
+        "notes": "Valuation at SAP strategic investment; Series C in October 2025 was $2.5B"
+      },
+      "identitySource": {
+        "source": "https://n8n.io/press/",
+        "date": "2026-10-24",
+        "fields": ["founders", "founded", "headquarters"]
+      }
+    },
+    {
+      "id": "preferred-networks",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "¥24B",
+        "stage": "Private (latest round)",
+        "investors": [
+          "SBI Group",
+          "Development Bank of Japan",
+          "Mitsubishi Corporation",
+          "Wacom",
+          "Sekisui House Investment",
+          "Kodansha",
+          "Mitsubishi UFJ Trust and Banking",
+          "Sumitomo Mitsui Trust Bank",
+          "TBS Innovation Partners",
+          "Toei Animation"
+        ],
+        "source": "https://www.preferred.jp/en/news/pr20250430",
+        "date": "2025-04-30"
+      },
+      "identitySource": {
+        "source": "https://www.preferred.jp",
+        "date": "2026-10-24",
+        "fields": ["founders", "founded", "headquarters"]
+      }
+    },
+    {
+      "id": "naver",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "revenue": {
+        "amount": "KRW12.035T",
+        "period": "FY2025",
+        "source": "https://www.navercorp.com/en/media/pressReleasesDetail?seq=10034311",
+        "date": "2026-02-06",
+        "notes": "Consolidated annual revenue KRW12.035 trillion"
+      },
+      "identitySource": {
+        "source": "https://www.navercorp.com",
+        "date": "2026-10-24",
+        "fields": ["founded", "headquarters"]
+      }
+    },
+    {
+      "id": "github-copilot",
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://github.com/features/copilot",
+        "date": "2026-10-24",
+        "fields": ["founded", "headquarters"]
+      }
+    },
+    {
+      "id": "adobe-firefly",
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.adobe.com/products/firefly.html",
+        "date": "2026-10-24",
+        "fields": ["founded", "headquarters"]
+      }
+    },
+    {
+      "id": "metr",
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://metr.org",
+        "date": "2026-10-24",
+        "fields": ["founders", "founded", "headquarters"]
+      }
+    },
+    {
+      "id": "isomorphic",
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.isomorphiclabs.com",
+        "date": "2026-10-24",
+        "fields": ["founders", "founded", "headquarters"]
+      }
+    }
+  ]
+}

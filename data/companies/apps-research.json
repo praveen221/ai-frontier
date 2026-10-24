@@ -23,7 +23,7 @@
       "updatedAt": "2026-10-24",
       "funding": {
         "total": null,
-        "stage": "Private",
+        "stage": "Acquired by Cognition",
         "investors": [
           "Greenoaks",
           "Kleiner Perkins"
@@ -32,7 +32,21 @@
       "tags": [
         "coding",
         "agents"
-      ]
+      ],
+      "revenue": {
+        "amount": "$82M ARR",
+        "period": "July 2025",
+        "source": "https://cognition.com/blog/windsurf",
+        "date": "2025-07-14",
+        "notes": "Cognition acquisition announcement: $82M of ARR"
+      },
+      "identitySource": {
+        "source": "https://cognition.com/blog/windsurf",
+        "date": "2025-07-14",
+        "fields": [
+          "founded"
+        ]
+      }
     },
     {
       "id": "cognition",
