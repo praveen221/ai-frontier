@@ -596,15 +596,15 @@
       "headquarters": "Roseland, NJ, USA",
       "website": "https://www.coreweave.com",
       "funding": {
-        "total": "$12.7B",
-        "stage": "Debt + Equity",
+        "total": "$1.1B",
+        "stage": "Series C",
         "investors": [
           "Magnetar Capital",
           "Blackstone",
           "Coatue"
         ],
-        "source": "https://techcrunch.com/2024/05/28/coreweave-raises-1-1b/",
-        "date": "2024-05-28"
+        "source": "https://www.coreweave.com/blog/coreweave-secures-1-1-billion-in-series-c-funding-to-drive-the-next-generation-of-cloud-computing-for-the-future-of-ai",
+        "date": "2026-10-02"
       },
       "valuation": {
         "amount": "$19B",
@@ -681,7 +681,6 @@
         "data-platforms"
       ],
       "subdomains": [
-        "Data labeling & annotation",
         "Data labeling & annotation"
       ],
       "founded": 2016,
@@ -703,10 +702,10 @@
         "date": "2024-05-01"
       },
       "valuation": {
-        "amount": "$14B",
-        "date": "2024-05-01",
-        "source": "https://techcrunch.com/2024/05/01/scale-ai-raises-1b/",
-        "notes": "Valuation at Series F"
+        "amount": ">$29B",
+        "date": "2025-06-12",
+        "source": "https://scale.com/blog/scale-ai-announces-next-phase-of-company-evolution",
+        "notes": "Valuation at Meta investment"
       },
       "tags": [
         "data labeling",
@@ -1950,15 +1949,17 @@
       "headquarters": "San Francisco, CA, USA",
       "website": "https://www.together.ai",
       "funding": {
-        "total": "$123.5M",
-        "stage": "Series A",
+        "total": "$800M",
+        "stage": "Series C",
         "investors": [
-          "Kleiner Perkins",
+          "Aramco Ventures",
           "NVIDIA",
-          "Salesforce Ventures"
+          "Vista Equity",
+          "General Catalyst",
+          "Emergence Capital"
         ],
-        "source": "https://www.together.ai/blog/series-a",
-        "date": "2023-11-29"
+        "source": "https://www.together.ai/blog/announcing-our-series-c",
+        "date": "2026-07-01"
       },
       "tags": [
         "inference",
@@ -1995,15 +1996,16 @@
       "headquarters": "San Francisco, CA, USA",
       "website": "https://fireworks.ai",
       "funding": {
-        "total": "$77M",
-        "stage": "Series A",
+        "total": "$1.505B",
+        "stage": "Series D",
         "investors": [
-          "Sequoia Capital",
-          "NVIDIA",
-          "AMD Ventures"
+          "Atreides Management",
+          "Index Ventures",
+          "TCV",
+          "NVIDIA"
         ],
-        "source": "https://fireworks.ai/blog/series-a",
-        "date": "2024-02-27"
+        "source": "https://fireworks.ai/blog/fireworks-series-d-funding",
+        "date": "2026-07-15"
       },
       "tags": [
         "inference",
@@ -2019,6 +2021,19 @@
           "founders",
           "founded"
         ]
+      },
+      "valuation": {
+        "amount": "$17.5B",
+        "date": "2026-07-15",
+        "source": "https://fireworks.ai/blog/fireworks-series-d-funding",
+        "notes": "Valuation at Series D"
+      },
+      "revenue": {
+        "amount": "$1B run-rate",
+        "period": "July 2026",
+        "source": "https://fireworks.ai/blog/fireworks-series-d-funding",
+        "date": "2026-07-15",
+        "notes": "Company-stated annualized revenue run rate"
       }
     },
     {
@@ -2269,15 +2284,18 @@
       "headquarters": "San Francisco, CA, USA",
       "website": "https://www.cursor.com",
       "funding": {
-        "total": "$60M",
-        "stage": "Series A",
+        "total": "$2.3B",
+        "stage": "Series D",
         "investors": [
+          "Accel",
+          "Thrive",
           "Andreessen Horowitz",
-          "Thrive Capital",
-          "OpenAI"
+          "Coatue",
+          "NVIDIA",
+          "Google"
         ],
-        "source": "https://cursor.com/blog/series-a",
-        "date": "2024-08-22"
+        "source": "https://cursor.com/blog/series-d",
+        "date": "2025-11-13"
       },
       "tags": [
         "code editor",
@@ -2294,6 +2312,19 @@
           "founders",
           "founded"
         ]
+      },
+      "valuation": {
+        "amount": "$29.3B",
+        "date": "2025-11-13",
+        "source": "https://cursor.com/blog/series-d",
+        "notes": "Post-money at Series D"
+      },
+      "revenue": {
+        "amount": "$1B run-rate",
+        "period": "November 2025",
+        "source": "https://cursor.com/blog/series-d",
+        "date": "2025-11-13",
+        "notes": "Company-stated annualized revenue"
       }
     },
     {

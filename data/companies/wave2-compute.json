@@ -83,7 +83,14 @@
         "CPU",
         "NPU",
         "public"
-      ]
+      ],
+      "revenue": {
+        "amount": "$4.01B",
+        "period": "FY2025 ended Mar 31, 2025",
+        "source": "https://investors.arm.com/static-files/219a3b28-f209-4d74-8bc6-f9e026d55a95",
+        "date": "2025-03-31",
+        "notes": "Group revenue $4,007 million"
+      }
     },
     {
       "id": "applied-materials",
@@ -113,7 +120,14 @@
       "tags": [
         "equipment",
         "public"
-      ]
+      ],
+      "revenue": {
+        "amount": "$28.37B",
+        "period": "FY2025",
+        "source": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-announces-fourth-quarter-and-fiscal-year-2025/",
+        "date": "2025-11-13",
+        "notes": "Net revenue $28,368 million"
+      }
     },
     {
       "id": "tokyo-electron",

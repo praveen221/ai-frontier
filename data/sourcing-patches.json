@@ -247,6 +247,106 @@
         "source": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
         "notes": "Post-money at Series D"
       }
+    },
+    {
+      "id": "scale-ai",
+      "valuation": {
+        "amount": ">$29B",
+        "date": "2025-06-12",
+        "source": "https://scale.com/blog/scale-ai-announces-next-phase-of-company-evolution",
+        "notes": "Valuation at Meta investment"
+      }
+    },
+    {
+      "id": "together-ai",
+      "funding": {
+        "total": "$800M",
+        "stage": "Series C",
+        "investors": [
+          "Aramco Ventures",
+          "NVIDIA",
+          "Vista Equity",
+          "General Catalyst",
+          "Emergence Capital"
+        ],
+        "source": "https://www.together.ai/blog/announcing-our-series-c",
+        "date": "2026-07-01"
+      }
+    },
+    {
+      "id": "fireworks-ai",
+      "funding": {
+        "total": "$1.505B",
+        "stage": "Series D",
+        "investors": ["Atreides Management", "Index Ventures", "TCV", "NVIDIA"],
+        "source": "https://fireworks.ai/blog/fireworks-series-d-funding",
+        "date": "2026-07-15"
+      },
+      "valuation": {
+        "amount": "$17.5B",
+        "date": "2026-07-15",
+        "source": "https://fireworks.ai/blog/fireworks-series-d-funding",
+        "notes": "Valuation at Series D"
+      },
+      "revenue": {
+        "amount": "$1B run-rate",
+        "period": "July 2026",
+        "source": "https://fireworks.ai/blog/fireworks-series-d-funding",
+        "date": "2026-07-15",
+        "notes": "Company-stated annualized revenue run rate"
+      }
+    },
+    {
+      "id": "coreweave",
+      "funding": {
+        "total": "$1.1B",
+        "stage": "Series C",
+        "source": "https://www.coreweave.com/blog/coreweave-secures-1-1-billion-in-series-c-funding-to-drive-the-next-generation-of-cloud-computing-for-the-future-of-ai",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "id": "arm",
+      "revenue": {
+        "amount": "$4.01B",
+        "period": "FY2025 ended Mar 31, 2025",
+        "source": "https://investors.arm.com/static-files/219a3b28-f209-4d74-8bc6-f9e026d55a95",
+        "date": "2025-03-31",
+        "notes": "Group revenue $4,007 million"
+      }
+    },
+    {
+      "id": "applied-materials",
+      "revenue": {
+        "amount": "$28.37B",
+        "period": "FY2025",
+        "source": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-announces-fourth-quarter-and-fiscal-year-2025/",
+        "date": "2025-11-13",
+        "notes": "Net revenue $28,368 million"
+      }
+    },
+    {
+      "id": "cursor",
+      "funding": {
+        "total": "$2.3B",
+        "stage": "Series D",
+        "investors": ["Accel", "Thrive", "Andreessen Horowitz", "Coatue", "NVIDIA", "Google"],
+        "source": "https://cursor.com/blog/series-d",
+        "date": "2025-11-13"
+      },
+      "valuation": {
+        "amount": "$29.3B",
+        "date": "2025-11-13",
+        "source": "https://cursor.com/blog/series-d",
+        "notes": "Post-money at Series D"
+      },
+      "revenue": {
+        "amount": "$1B run-rate",
+        "period": "November 2025",
+        "source": "https://cursor.com/blog/series-d",
+        "date": "2025-11-13",
+        "notes": "Company-stated annualized revenue"
+      }
     }
   ]
 }
