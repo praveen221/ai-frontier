@@ -24,17 +24,25 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
+        "total": "$1B",
         "stage": "Private",
-        "investors": []
+        "investors": [
+          "NFDG",
+          "Andreessen Horowitz",
+          "Sequoia",
+          "DST Global",
+          "SV Angel"
+        ],
+        "source": "https://ssi.inc/updates",
+        "date": "2024-09-04"
       },
       "tags": [
         "frontier lab",
         "safety"
       ],
       "identitySource": {
-        "source": "https://ssi.inc",
-        "date": "2026-10-24",
+        "source": "https://ssi.inc/updates",
+        "date": "2024-09-04",
         "fields": [
           "founders",
           "founded"
@@ -62,20 +70,35 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$2B",
+        "stage": "Seed",
+        "investors": [
+          "Andreessen Horowitz",
+          "NVIDIA",
+          "Accel",
+          "ServiceNow",
+          "Cisco",
+          "AMD",
+          "Jane Street"
+        ],
+        "source": "https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/",
+        "date": "2025-07-15"
       },
       "tags": [
         "frontier lab"
       ],
       "identitySource": {
-        "source": "https://thinkingmachines.ai",
-        "date": "2026-10-24",
+        "source": "https://thinkingmachines.ai/news/nvidia-partnership/",
+        "date": "2026-03-10",
         "fields": [
-          "founders",
-          "founded"
+          "founders"
         ]
+      },
+      "valuation": {
+        "amount": "$12B",
+        "date": "2025-07-15",
+        "source": "https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/",
+        "notes": "Company-stated seed valuation reported by Reuters"
       }
     },
     {
@@ -99,19 +122,30 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "nearly $65M",
+        "stage": "Series A",
+        "investors": [
+          "March Capital",
+          "AMD",
+          "Franklin Venture Partners",
+          "Google",
+          "KB Investment",
+          "NVIDIA",
+          "Thrive Capital"
+        ],
+        "source": "https://www.businesswire.com/news/home/20231211867788/en/Essential-AI-Raises-%2456.5M-Series-A-to-Build-the-Enterprise-Brain",
+        "date": "2023-12-12"
       },
       "tags": [
         "frontier lab"
       ],
       "identitySource": {
-        "source": "https://essential.ai",
-        "date": "2026-10-24",
+        "source": "https://www.businesswire.com/news/home/20231211867788/en/Essential-AI-Raises-%2456.5M-Series-A-to-Build-the-Enterprise-Brain",
+        "date": "2023-12-12",
         "fields": [
           "founders",
-          "founded"
+          "founded",
+          "headquarters"
         ]
       }
     },
@@ -137,19 +171,23 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
+        "total": "$110M",
         "stage": "Private",
-        "investors": []
+        "investors": [
+          "NVIDIA",
+          "Snowflake"
+        ],
+        "source": "https://reka.ai/news/reka-secures-110-million-to-accelerate-adoption-of-its-multimodal-ai-platforms",
+        "date": "2025-07-22"
       },
       "tags": [
         "multimodal"
       ],
       "identitySource": {
-        "source": "https://www.reka.ai",
-        "date": "2026-10-24",
+        "source": "https://reka.ai/news/reka-secures-110-million-to-accelerate-adoption-of-its-multimodal-ai-platforms",
+        "date": "2025-07-22",
         "fields": [
-          "founders",
-          "founded"
+          "founders"
         ]
       }
     },
@@ -292,19 +330,27 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$30M",
+        "stage": "Series B",
+        "investors": [
+          "Accel",
+          "Madrona Ventures",
+          "Khosla Ventures",
+          "Nat Friedman",
+          "Elad Gil",
+          "RTP Global"
+        ],
+        "source": "https://www.recraft.ai/press-releases/series-b-announcement",
+        "date": "2025-05-01"
       },
       "tags": [
         "image"
       ],
       "identitySource": {
-        "source": "https://www.recraft.ai",
-        "date": "2026-10-24",
+        "source": "https://www.recraft.ai/press-releases/series-b-announcement",
+        "date": "2025-05-01",
         "fields": [
-          "founders",
-          "founded"
+          "founders"
         ]
       }
     },
@@ -366,20 +412,42 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$60M",
+        "stage": "Series A",
+        "investors": [
+          "Benchmark",
+          "Thrive Capital",
+          "BOND",
+          "SV Angel",
+          "Conviction"
+        ],
+        "source": "https://www.heygen.com/blog/announcing-our-series-a",
+        "date": "2024-06-20"
       },
       "tags": [
         "video"
       ],
       "identitySource": {
-        "source": "https://www.heygen.com",
-        "date": "2026-10-24",
+        "source": "https://www.heygen.com/blog/announcing-our-series-a",
+        "date": "2024-06-20",
         "fields": [
           "founders",
-          "founded"
+          "founded",
+          "headquarters"
         ]
+      },
+      "valuation": {
+        "amount": ">$500M",
+        "date": "2024-06-20",
+        "source": "https://www.heygen.com/blog/announcing-our-series-a",
+        "notes": "Company-stated valuation at Series A"
+      },
+      "revenue": {
+        "amount": "$35M+ ARR",
+        "period": "as of Series A (2024-06-20)",
+        "source": "https://www.heygen.com/blog/announcing-our-series-a",
+        "date": "2024-06-20",
+        "notes": "Company-stated jump from $1M to $35M+ ARR"
       }
     },
     {
@@ -940,20 +1008,34 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$118M",
+        "stage": "Series E",
+        "investors": [
+          "Fidelity Management & Research Company",
+          "NEA",
+          "BOND Capital",
+          "Drive Capital"
+        ],
+        "source": "https://www.vastdata.com/press-releases/vast-series-e-funding-triples-valuation",
+        "date": "2023-12-06"
       },
       "tags": [
         "storage"
       ],
       "identitySource": {
-        "source": "https://www.vastdata.com",
-        "date": "2026-10-24",
+        "source": "https://www.vastdata.com/press-releases/vast-series-e-funding-triples-valuation",
+        "date": "2023-12-06",
         "fields": [
           "founders",
-          "founded"
+          "founded",
+          "headquarters"
         ]
+      },
+      "valuation": {
+        "amount": "$9.1B",
+        "date": "2023-12-06",
+        "source": "https://www.vastdata.com/press-releases/vast-series-e-funding-triples-valuation",
+        "notes": "Company-stated Series E valuation"
       }
     },
     {
@@ -978,20 +1060,34 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$140M",
+        "stage": "Series E",
+        "investors": [
+          "Valor Equity Partners",
+          "Generation Investment Management",
+          "NVIDIA",
+          "Atreides Management"
+        ],
+        "source": "https://www.weka.io/news/weka-nets-140m-in-series-e-funding-at-1-6b-valuation",
+        "date": "2024-05-15"
       },
       "tags": [
         "storage"
       ],
       "identitySource": {
-        "source": "https://www.weka.io",
-        "date": "2026-10-24",
+        "source": "https://www.weka.io/news/weka-nets-140m-in-series-e-funding-at-1-6b-valuation",
+        "date": "2024-05-15",
         "fields": [
           "founders",
-          "founded"
+          "founded",
+          "headquarters"
         ]
+      },
+      "valuation": {
+        "amount": "$1.6B",
+        "date": "2024-05-15",
+        "source": "https://www.weka.io/news/weka-nets-140m-in-series-e-funding-at-1-6b-valuation",
+        "notes": "Company-stated post-money Series E valuation"
       }
     },
     {
@@ -1052,16 +1148,26 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "nearly $1B",
+        "stage": "Series A-X",
+        "investors": [
+          "B Capital",
+          "Google",
+          "Mercedes-Benz",
+          "PEAK6",
+          "AT&T Ventures",
+          "John Deere",
+          "Qatar Investment Authority"
+        ],
+        "source": "https://apptronik.com/news-collection/apptronik-closes-over-935-million-series-a",
+        "date": "2026-02-11"
       },
       "tags": [
         "humanoid"
       ],
       "identitySource": {
-        "source": "https://apptronik.com",
-        "date": "2026-10-24",
+        "source": "https://apptronik.com/news-collection/apptronik-closes-over-935-million-series-a",
+        "date": "2026-02-11",
         "fields": [
           "founders",
           "founded",
@@ -1248,7 +1354,7 @@
       "updatedAt": "2026-10-24",
       "funding": {
         "total": null,
-        "stage": "Public company",
+        "stage": "Public (NASDAQ: AUR)",
         "investors": []
       },
       "tags": [
@@ -1264,6 +1370,13 @@
           "founded",
           "headquarters"
         ]
+      },
+      "revenue": {
+        "amount": "$3M",
+        "period": "FY2025 ended December 31, 2025",
+        "source": "https://ir.aurora.tech/sec-filings/all-sec-filings/content/0001828108-26-000014/0001828108-26-000014.pdf",
+        "date": "2026-02-11",
+        "notes": "GAAP recognized revenue from company 8-K shareholder letter"
       }
     },
     {

@@ -66,15 +66,29 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
+        "total": "$135M",
+        "stage": "Series B",
         "investors": [
-          "Lightspeed Venture Partners"
-        ]
+          "Spark Capital",
+          "Greycroft",
+          "Lightspeed",
+          "Neo",
+          "Makers Fund"
+        ],
+        "source": "https://www.pika.art/blog/announcement",
+        "date": "2024-06-05"
       },
       "tags": [
         "video"
-      ]
+      ],
+      "identitySource": {
+        "source": "https://www.pika.art/blog/announcement",
+        "date": "2024-06-05",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "abridge",
@@ -434,17 +448,33 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
+        "total": "$99M",
+        "stage": "Acquired by Nscale",
         "investors": [
-          "Andreessen Horowitz",
-          "NEA"
-        ]
+          "Addition",
+          "Intel Capital",
+          "Foundation Capital"
+        ],
+        "source": "https://www.anyscale.com/press/anyscale-unveils-ray-2-0-and-anyscale-innovations-at-ray-summit-2022-adds-an-additional-99m-funding-from-existing-investors",
+        "date": "2022-08-23"
       },
       "tags": [
         "Ray",
         "distributed"
-      ]
+      ],
+      "valuation": {
+        "amount": "$1B",
+        "date": "2021-12-08",
+        "source": "https://www.anyscale.com/press/anyscale-secures-100m-series-c-at-1b-valuation-to-radically-simplify-scaling-and-productionizing-ai-applications",
+        "notes": "Series C valuation; later $99M Series C extension; acquired by Nscale in 2026"
+      },
+      "identitySource": {
+        "source": "https://www.anyscale.com/press/anyscale-secures-100m-series-c-at-1b-valuation-to-radically-simplify-scaling-and-productionizing-ai-applications",
+        "date": "2021-12-08",
+        "fields": [
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "openrouter",
@@ -467,14 +497,34 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$113M",
+        "stage": "Series B",
+        "investors": [
+          "CapitalG",
+          "NVentures",
+          "ServiceNow Ventures",
+          "MongoDB Ventures",
+          "Snowflake Ventures",
+          "Databricks Ventures",
+          "AMP PBC",
+          "Pace Capital",
+          "Andreessen Horowitz",
+          "Menlo Ventures"
+        ],
+        "source": "https://openrouter.ai/announcements/series-b",
+        "date": "2026-05-28"
       },
       "tags": [
         "gateway",
         "routing"
-      ]
+      ],
+      "identitySource": {
+        "source": "https://openrouter.ai/announcements/series-b",
+        "date": "2026-05-28",
+        "fields": [
+          "founders"
+        ]
+      }
     },
     {
       "id": "palantir",

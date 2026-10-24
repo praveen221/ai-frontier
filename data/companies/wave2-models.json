@@ -44,12 +44,13 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": "$230M",
-        "stage": "Early",
-        "investors": ["Andreessen Horowitz", "NEA", "Radical Ventures"],
-        "source": "https://www.reuters.com/technology/artificial-intelligence/ai-godmother-fei-fei-li-raises-230-million-launch-ai-startup-2024-09-13/",
-        "date": "2024-09-13"
+        "total": "$1B",
+        "stage": "Pending acquisition by AMD",
+        "investors": ["AMD", "Autodesk", "Emerson Collective", "Fidelity Management & Research Company", "NVIDIA", "Sea"],
+        "source": "https://www.worldlabs.ai/blog/funding-2026",
+        "date": "2026-02-18"
       },
+      "identitySource": { "source": "https://www.worldlabs.ai/blog/funding-2026", "date": "2026-02-18", "fields": ["founders", "founded", "headquarters"] },
       "tags": ["world models", "spatial"]
     },
     {
@@ -66,7 +67,8 @@
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": ["Andreessen Horowitz"] },
+      "funding": { "total": "$80M", "stage": "Series A", "investors": ["Andreessen Horowitz", "Index Ventures", "Redpoint Ventures", "Pear VC", "SV Angel"], "source": "https://www.redpoint.com/content-hub/written/ideogram-raises-usd80m-to-build-the-future-of-creation/", "date": "2024-02-28" },
+      "identitySource": { "source": "https://ideogram.ai/launch", "date": "2023-08-22", "fields": ["founders", "headquarters"] },
       "tags": ["image", "Canada"]
     },
     {
@@ -122,7 +124,8 @@
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": ["Index Ventures", "Lightspeed"] },
+      "funding": { "total": "$64M", "stage": "Series A", "investors": ["Kleiner Perkins"], "source": "https://www.cartesia.ai/blog/series-a", "date": "2025-03-11" },
+      "identitySource": { "source": "https://www.cartesia.ai/blog/series-a", "date": "2025-03-11", "fields": ["founders"] },
       "tags": ["voice", "SSM"]
     },
     {
@@ -173,7 +176,8 @@
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": [] },
+      "funding": { "total": "$115M", "stage": "Series C", "investors": ["Accel", "Keith Block", "Smith Point Capital", "Insight Partners", "Daniel Gross", "Nat Friedman", "Y Combinator"], "source": "https://www.assemblyai.com/blog/announcing-our-50m-series-c-to-build-superhuman-speech-ai-models", "date": "2023-12-03" },
+      "identitySource": { "source": "https://www.assemblyai.com/blog/announcing-our-50m-series-c-to-build-superhuman-speech-ai-models", "date": "2023-12-03", "fields": ["founders", "founded"] },
       "tags": ["speech-to-text"]
     },
     {
@@ -190,7 +194,9 @@
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": [] },
+      "funding": { "total": "$130M", "stage": "Series C", "investors": ["AVP", "Alkeon", "In-Q-Tel", "Madrona", "Tiger", "Wing", "Y Combinator", "BlackRock", "Alumni Ventures", "Princeville Capital", "Twilio", "ServiceNow Ventures", "SAP", "Citi Ventures"], "source": "https://deepgram.com/learn/press-release-deepgram-raises-series-c", "date": "2026-01-13" },
+      "valuation": { "amount": "$1.3B", "date": "2026-01-13", "source": "https://deepgram.com/learn/press-release-deepgram-raises-series-c", "notes": "Company-stated Series C valuation" },
+      "identitySource": { "source": "https://deepgram.com/learn/press-release-deepgram-raises-series-c", "date": "2026-01-13", "fields": ["founders", "founded", "headquarters"] },
       "tags": ["speech-to-text"]
     },
     {
@@ -207,7 +213,8 @@
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": [] },
+      "funding": { "total": "$250M", "stage": "Series A", "investors": ["AMD Ventures"], "source": "https://www.liquid.ai/blog/we-raised-250m-to-scale-capable-and-efficient-general-purpose-ai", "date": "2024-12-13" },
+      "identitySource": { "source": "https://www.liquid.ai/blog/we-raised-250m-to-scale-capable-and-efficient-general-purpose-ai", "date": "2024-12-13", "fields": ["founders", "founded", "headquarters"] },
       "tags": ["on-device", "efficient"]
     },
     {
@@ -258,7 +265,8 @@
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": ["Microsoft", "Reid Hoffman", "Bill Gates"] },
+      "funding": { "total": "$1.525B", "stage": "Private", "investors": ["Microsoft", "Reid Hoffman", "Bill Gates", "Eric Schmidt", "NVIDIA"], "source": "https://www.businesswire.com/news/home/20230629810313/en/Inflection-AI-Announces-%241.3-Billion-of-Funding-Led-by-Current-Investors-Microsoft-and-NVIDIA", "date": "2023-06-29" },
+      "identitySource": { "source": "https://www.businesswire.com/news/home/20230629810313/en/Inflection-AI-Announces-%241.3-Billion-of-Funding-Led-by-Current-Investors-Microsoft-and-NVIDIA", "date": "2023-06-29", "fields": ["founders", "founded", "headquarters"] },
       "tags": ["Pi", "enterprise"]
     },
     {
@@ -292,7 +300,9 @@
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": ["Astera Institute", "Nvidia"] },
+      "funding": { "total": "$210M+", "stage": "Series B", "investors": ["Astera Institute", "NVIDIA", "Alexa Fund", "Eric Schmidt"], "source": "https://imbue.com/blog/imbue-raises-fresh-capital", "date": "2023-10-19" },
+      "valuation": { "amount": ">$1B", "date": "2023-09-07", "source": "https://imbue.com/blog/introducing-imbue", "notes": "Company-stated Series B valuation" },
+      "identitySource": { "source": "https://imbue.com/blog/introducing-imbue", "date": "2023-09-07", "fields": ["founders", "headquarters"] },
       "tags": ["agents", "reasoning"]
     }
   ]

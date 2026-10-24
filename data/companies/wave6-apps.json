@@ -1,0 +1,278 @@
+{
+  "companies": [
+    {
+      "id": "decagon",
+      "name": "Decagon",
+      "fullName": "Decagon AI Inc.",
+      "description": "Enterprise AI concierge that handles customer conversations across voice, chat, email, and SMS for large companies.",
+      "layers": [
+        "apps-enterprise",
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Internal chatbots",
+        "Customer support automation"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Jesse Zhang",
+        "Ashwin Sreenivas"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://decagon.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$250M",
+        "stage": "Series D",
+        "investors": [
+          "Coatue Management",
+          "Index Ventures",
+          "ChemistryVC",
+          "Definition Capital",
+          "Starwood Capital",
+          "Andreessen Horowitz",
+          "Accel",
+          "Bain Capital Ventures"
+        ],
+        "source": "https://decagon.ai/blog/series-d-announcement",
+        "date": "2026-01-27"
+      },
+      "valuation": {
+        "amount": "$4.5B",
+        "date": "2026-01-27",
+        "source": "https://decagon.ai/blog/series-d-announcement",
+        "notes": "Company-stated Series D valuation"
+      },
+      "tags": [
+        "customer support",
+        "agents"
+      ],
+      "identitySource": {
+        "source": "https://decagon.ai/about",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "grafana-labs",
+      "name": "Grafana Labs",
+      "fullName": "Grafana Labs",
+      "description": "Open observability company behind Grafana Cloud, used to monitor infrastructure and AI production systems.",
+      "layers": [
+        "dev-tools"
+      ],
+      "subdomains": [
+        "LLM observability & tracing"
+      ],
+      "founded": 2014,
+      "founders": [
+        "Raj Dutt",
+        "Torkel Ödegaard",
+        "Anthony Woods"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://grafana.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private (secondary)",
+        "investors": [
+          "Ontario Teachers' Pension Plan",
+          "Sapphire Ventures",
+          "Tiger Global",
+          "Lightspeed Venture Partners",
+          "GIC",
+          "Coatue",
+          "Sequoia Capital",
+          "CapitalG"
+        ]
+      },
+      "revenue": {
+        "amount": "$400M ARR",
+        "period": "as of September 2025",
+        "source": "https://grafana.com/press/2025/09/30/grafana-labs-surpasses-400m-arr-and-7000-customers-gains-new-investors-to-accelerate-global-expansion/",
+        "date": "2025-09-30",
+        "notes": "Company-stated ARR; accompanying announcement was a secondary transaction with no primary raise amount"
+      },
+      "tags": [
+        "observability"
+      ],
+      "identitySource": {
+        "source": "https://grafana.com/about/",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "genspark",
+      "name": "Genspark",
+      "fullName": "Genspark",
+      "description": "AI workspace and agent product that turns a prompt into finished research, browsing, and office work.",
+      "layers": [
+        "apps-consumer",
+        "agents-memory"
+      ],
+      "subdomains": [
+        "AI search engines",
+        "Personal assistants",
+        "Tool use & orchestration"
+      ],
+      "founded": 2024,
+      "founders": [
+        "Eric Jing"
+      ],
+      "headquarters": "Palo Alto, CA, USA",
+      "website": "https://www.genspark.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$385M",
+        "stage": "Series B",
+        "investors": [
+          "Emergence Capital",
+          "SBI Investment",
+          "LG Technology Ventures",
+          "Pavilion Capital",
+          "UpHonest Capital"
+        ],
+        "source": "https://www.genspark.ai/blog/genspark-ai-workspace-3",
+        "date": "2026-03-12"
+      },
+      "valuation": {
+        "amount": "$1.25B",
+        "date": "2025-11-20",
+        "source": "https://www.genspark.ai/blog/genspark-ai-workspace-and-series-b-funding",
+        "notes": "Post-money on the $275M Series B; later extension to $385M did not restate valuation"
+      },
+      "revenue": {
+        "amount": "$200M ARR",
+        "period": "March 2026 (11 months)",
+        "source": "https://www.genspark.ai/blog/genspark-ai-workspace-3",
+        "date": "2026-03-12",
+        "notes": "Company-stated annual run rate"
+      },
+      "tags": [
+        "agents",
+        "search"
+      ],
+      "identitySource": {
+        "source": "https://www.genspark.ai/blog/genspark-ai-workspace-and-series-b-funding",
+        "date": "2025-11-20",
+        "fields": [
+          "founders",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "tessl",
+      "name": "Tessl",
+      "fullName": "Tessl",
+      "description": "London platform for AI-native software development, from specification through generated code.",
+      "layers": [
+        "apps-coding"
+      ],
+      "subdomains": [
+        "AI code editors"
+      ],
+      "founded": 2024,
+      "founders": [
+        "Guy Podjarny"
+      ],
+      "headquarters": "London, UK",
+      "website": "https://tessl.io",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$125M",
+        "stage": "Series A",
+        "investors": [
+          "Index Ventures",
+          "Accel",
+          "GV",
+          "boldstart ventures"
+        ],
+        "source": "https://tessl.io/blog/announcing-our-series-a-for-ai-native-software-development/",
+        "date": "2024-11-14"
+      },
+      "tags": [
+        "coding",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://tessl.io/blog/announcing-our-series-a-for-ai-native-software-development/",
+        "date": "2024-11-14",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "reflection-ai",
+      "name": "Reflection AI",
+      "fullName": "Reflection AI",
+      "description": "US lab training frontier open-weight models, including the Beam series, for researchers and enterprises.",
+      "layers": [
+        "models-frontier",
+        "models-open"
+      ],
+      "subdomains": [
+        "Frontier language models (GPT-4, Claude, Gemini)",
+        "Open language models (Llama, Mistral, Qwen)"
+      ],
+      "founded": 2024,
+      "founders": [
+        "Misha Laskin",
+        "Ioannis Antonoglou"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://reflection.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$2B",
+        "stage": "Private",
+        "investors": [
+          "NVIDIA",
+          "Lightspeed",
+          "Sequoia",
+          "B Capital",
+          "DST",
+          "CRV"
+        ],
+        "source": "https://www.reflection.ai/blog/building-frontier-open-intelligencence",
+        "date": "2025-08-09"
+      },
+      "tags": [
+        "frontier lab",
+        "open-weight"
+      ],
+      "identitySource": {
+        "source": "https://www.reuters.com/business/nvidia-backed-reflection-ai-raises-2-billion-funding-boosts-valuation-8-billion-2025-10-09/",
+        "date": "2025-10-09",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    }
+  ]
+}

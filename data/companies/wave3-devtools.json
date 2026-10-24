@@ -696,21 +696,36 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$250M",
+        "stage": "Series C",
+        "investors": [
+          "Andreessen Horowitz",
+          "Benchmark",
+          "Lightspeed",
+          "Y Combinator",
+          "NVentures"
+        ],
+        "source": "https://exa.ai/blog/announcing-series-c",
+        "date": "2026-05-20"
       },
       "tags": [
         "search",
         "retrieval"
       ],
       "identitySource": {
-        "source": "https://exa.ai",
-        "date": "2026-10-24",
+        "source": "https://exa.ai/blog/announcing-series-c",
+        "date": "2026-05-20",
         "fields": [
           "founders",
-          "founded"
+          "founded",
+          "headquarters"
         ]
+      },
+      "valuation": {
+        "amount": "$2.2B",
+        "date": "2026-05-20",
+        "source": "https://exa.ai/blog/announcing-series-c",
+        "notes": "Company-stated Series C valuation"
       }
     },
     {
@@ -770,17 +785,23 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$40M",
+        "stage": "Series B",
+        "investors": [
+          "Notable Capital",
+          "CRV",
+          "Kleiner Perkins"
+        ],
+        "source": "https://www.browserbase.com/blog/series-b-and-beyond",
+        "date": "2025-06-18"
       },
       "tags": [
         "browser",
         "agents"
       ],
       "identitySource": {
-        "source": "https://www.browserbase.com",
-        "date": "2026-10-24",
+        "source": "https://www.browserbase.com/blog/series-b-and-beyond",
+        "date": "2025-06-18",
         "fields": [
           "founders"
         ]
@@ -1369,20 +1390,34 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$82M",
+        "stage": "Series C",
+        "investors": [
+          "Accel",
+          "Sequoia",
+          "01A",
+          "Seven Seven Six"
+        ],
+        "source": "https://linear.app/now/building-our-way",
+        "date": "2025-06-10"
       },
       "tags": [
         "productivity"
       ],
       "identitySource": {
-        "source": "https://linear.app",
-        "date": "2026-10-24",
+        "source": "https://linear.app/now/building-our-way",
+        "date": "2025-06-10",
         "fields": [
           "founders",
-          "founded"
+          "founded",
+          "headquarters"
         ]
+      },
+      "valuation": {
+        "amount": "$1.25B",
+        "date": "2025-06-10",
+        "source": "https://linear.app/now/building-our-way",
+        "notes": "Company-stated Series C valuation; includes primary and secondary"
       }
     }
   ]

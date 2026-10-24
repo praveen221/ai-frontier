@@ -651,7 +651,7 @@
       "updatedAt": "2026-10-24",
       "funding": {
         "total": null,
-        "stage": "Public company",
+        "stage": "Public (NYSE: PATH)",
         "investors": []
       },
       "tags": [
@@ -667,6 +667,13 @@
           "founders",
           "founded"
         ]
+      },
+      "revenue": {
+        "amount": "$1.611B",
+        "period": "FY2026 ended January 31, 2026",
+        "source": "https://ir.uipath.com/news/detail/431/uipath-reports-fourth-quarter-and-full-year-fiscal-2026-financial-results",
+        "date": "2026-03-11",
+        "notes": "Company-stated full-year revenue"
       }
     },
     {

@@ -25,13 +25,14 @@
       "subdomains": ["GPU cloud providers"],
       "founded": 2017,
       "founders": ["Benjamin Levy", "Guillaume Sciau"],
-      "headquarters": "London, UK",
+      "headquarters": "New York, NY, USA",
       "website": "https://www.fluidstack.io",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "identitySource": { "source": "https://www.fluidstack.io", "date": "2026-10-24", "fields": ["headquarters"] },
-      "funding": { "total": null, "stage": "Private", "investors": [] },
+      "identitySource": { "source": "https://fluidstack.io/news/fluidstack-expands-u-s-investment-by-relocating-global-headquarters-to-new-york-city", "date": "2025-12-04", "fields": ["headquarters"] },
+      "funding": { "total": "$830M", "stage": "Series A", "investors": ["Situational Awareness"], "source": "https://fluidstack.io/news/series-a-announcement", "date": "2026-07-20" },
+      "valuation": { "amount": "$7.5B", "date": "2026-07-20", "source": "https://fluidstack.io/news/series-a-announcement", "notes": "Company-stated Series A valuation (closed January 2026; announced July 20)" },
       "tags": ["neocloud", "Europe"]
     },
     {
@@ -213,7 +214,9 @@
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": [] },
+      "funding": { "total": "$1.5B", "stage": "Series F", "investors": ["Altimeter Capital", "Conviction Partners", "Spark Capital", "Sands Capital", "Wellington Management", "Battery Ventures", "Blackbird", "D.E. Shaw Ventures", "Durable Capital Partners", "Greylock", "IVP"], "source": "https://www.baseten.co/blog/announcing-our-series-f/", "date": "2026-06-22" },
+      "valuation": { "amount": "$13B", "date": "2026-06-22", "source": "https://www.baseten.co/blog/announcing-our-series-f/", "notes": "Company-stated Series F valuation" },
+      "identitySource": { "source": "https://www.baseten.co/blog/announcing-our-series-f/", "date": "2026-06-22", "fields": ["headquarters"] },
       "tags": ["inference"]
     },
     {
