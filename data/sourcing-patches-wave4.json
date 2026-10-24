@@ -1,0 +1,592 @@
+{
+  "companies": [
+    {
+      "id": "baidu",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "stage": "Public company"
+      },
+      "valuation": null,
+      "revenue": {
+        "amount": "$18.46B",
+        "period": "FY2025",
+        "source": "https://ir.baidu.com/news-releases/news-release-details/baidu-announces-fourth-quarter-and-fiscal-year-2025-results",
+        "date": "2026-02-26",
+        "notes": "RMB129.1 billion ($18.46 billion) total revenues"
+      }
+    },
+    {
+      "id": "iflytek",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "stage": "Public company"
+      },
+      "revenue": {
+        "amount": "RMB27.11B",
+        "period": "FY2025",
+        "source": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225233581.PDF",
+        "date": "2026-04-29",
+        "notes": "SZSE 002230 2025 annual report operating revenue RMB27,105,390,547.66"
+      }
+    },
+    {
+      "id": "cambricon",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "stage": "Public company"
+      },
+      "revenue": {
+        "amount": "RMB6.50B",
+        "period": "FY2025",
+        "source": "https://static.cninfo.com.cn/finalpage/2026-03-13/1225007336.PDF",
+        "date": "2026-03-13",
+        "notes": "STAR 688256 2025 annual report operating revenue RMB6,497,196,198.68"
+      }
+    },
+    {
+      "id": "moore-threads",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "RMB8.00B",
+        "stage": "Public (STAR: 688795)",
+        "investors": [],
+        "source": "https://static.cninfo.com.cn/finalpage/2025-12-04/1224848789.PDF",
+        "date": "2025-12-04"
+      },
+      "revenue": {
+        "amount": "RMB438.46M",
+        "period": "FY2024",
+        "source": "https://static.cninfo.com.cn/finalpage/2025-12-04/1224848789.PDF",
+        "date": "2025-12-04",
+        "notes": "STAR IPO listing announcement; 70 million new A shares at RMB114.28 raised RMB7,999.60 million"
+      }
+    },
+    {
+      "id": "zhipu",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "RMB8.36B+",
+        "stage": "Public (HKEX: 2513)",
+        "investors": [],
+        "source": "https://www.zhipuai.cn/investor_relations/%E6%8B%9B%E8%82%A1%E4%B9%A6_%E4%B8%AD%E6%96%87.pdf",
+        "date": "2025-12-30"
+      },
+      "revenue": {
+        "amount": "RMB724.3M",
+        "period": "FY2025",
+        "source": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0331/2026033101549.pdf",
+        "date": "2026-03-31",
+        "notes": "HKEX annual results; revenue RMB724.334 million"
+      }
+    },
+    {
+      "id": "minimax",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "HK$4.60B",
+        "stage": "Public (HKEX: 0100)",
+        "investors": [],
+        "source": "https://www.minimax.io/news/minimax-global-announces-full-year-2025-financial-results",
+        "date": "2026-03-02"
+      },
+      "revenue": {
+        "amount": "$79.0M",
+        "period": "FY2025",
+        "source": "https://www.minimax.io/news/minimax-global-announces-full-year-2025-financial-results",
+        "date": "2026-03-02",
+        "notes": "Company-stated FY2025 revenue; IPO net proceeds HK$4,596.1 million on 2026-01-09"
+      }
+    },
+    {
+      "id": "alibaba-cloud",
+      "updatedAt": "2026-10-24",
+      "revenue": {
+        "amount": "RMB158.13B",
+        "period": "FY2026",
+        "source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0513/2026051300653.pdf",
+        "date": "2026-05-13",
+        "notes": "Alibaba Cloud Intelligence Group segment revenue RMB158,132 million (US$22,924 million) for year ended 31 March 2026"
+      }
+    },
+    {
+      "id": "furiosa",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$246M",
+        "stage": "Series C",
+        "investors": [
+          "Korea Development Bank",
+          "Industrial Bank of Korea",
+          "Keistone Partners",
+          "PI Partners",
+          "Kakao Investment"
+        ],
+        "source": "https://furiosa.ai/blog/announcing-furiosaais-125m-series-c-bridge-funding-to-scale-sustainable-ai-compute",
+        "date": "2025-07-30"
+      }
+    },
+    {
+      "id": "rebellions",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$250M",
+        "stage": "Series C",
+        "investors": [
+          "Arm",
+          "Samsung Ventures",
+          "Pegatron VC",
+          "Korea Development Bank",
+          "Korelya Capital"
+        ],
+        "source": "https://rebellions.ai/newsroom/rebellions-raises-250-million-to-advance-the-next-generation-ai-infrastructure-backed-by-arm-and-samsung/",
+        "date": "2025-09-30"
+      },
+      "valuation": {
+        "amount": "$1.4B",
+        "date": "2025-09-30",
+        "source": "https://rebellions.ai/newsroom/rebellions-raises-250-million-to-advance-the-next-generation-ai-infrastructure-backed-by-arm-and-samsung/",
+        "notes": "Valuation at Series C"
+      }
+    },
+    {
+      "id": "lightmatter",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$400M",
+        "stage": "Series D",
+        "investors": [
+          "GV"
+        ],
+        "source": "https://lightmatter.com/press-release/lightmatter-raises-400m-series-d-quadruples-valuation-to-4-4b-as-photonics-leader-for-next-gen-ai-data-centers/",
+        "date": "2024-10-16"
+      },
+      "valuation": {
+        "amount": "$4.4B",
+        "date": "2024-10-16",
+        "source": "https://lightmatter.com/press-release/lightmatter-raises-400m-series-d-quadruples-valuation-to-4-4b-as-photonics-leader-for-next-gen-ai-data-centers/",
+        "notes": "Valuation at Series D"
+      }
+    },
+    {
+      "id": "hailo",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$340M+",
+        "stage": "Series C",
+        "investors": [
+          "Zisapel family",
+          "Gil Agmon",
+          "Delek Motors",
+          "OurCrowd",
+          "Poalim Equity"
+        ],
+        "source": "https://hailo.ai/company-overview/newsroom/news/hailo-closes-new-120-million-funding-round-and-debuts-hailo-10-a-new-powerful-ai-accelerator-bringing-generative-ai-to-edge-devices/",
+        "date": "2024-04-02"
+      }
+    },
+    {
+      "id": "d-matrix",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$450M",
+        "stage": "Series C",
+        "investors": [
+          "Bullhound Capital",
+          "Triatomic Capital",
+          "Temasek",
+          "Qatar Investment Authority",
+          "M12"
+        ],
+        "source": "https://www.d-matrix.ai/announcements/d-matrix-raises-275-million-to-power-the-age-of-ai-inference/",
+        "date": "2025-11-12"
+      },
+      "valuation": {
+        "amount": "$2B",
+        "date": "2025-11-12",
+        "source": "https://www.d-matrix.ai/announcements/d-matrix-raises-275-million-to-power-the-age-of-ai-inference/",
+        "notes": "Valuation at Series C"
+      }
+    },
+    {
+      "id": "sk-hynix",
+      "updatedAt": "2026-10-24",
+      "revenue": {
+        "amount": "KRW97.15T",
+        "period": "FY2025",
+        "source": "https://news.skhynix.com/en/sk-hynix-announces-fy25-financial-results/",
+        "date": "2026-01-28",
+        "notes": "KRW97.1467 trillion revenue"
+      }
+    },
+    {
+      "id": "marvell",
+      "updatedAt": "2026-10-24",
+      "revenue": {
+        "amount": "$8.195B",
+        "period": "FY2026",
+        "source": "https://investor.marvell.com/news-events/press-releases/detail/1011/marvell-technology-inc-reports-fourth-quarter-and-fiscal-year-2026-financial-results",
+        "date": "2026-03-05",
+        "notes": "Fiscal year ended 31 January 2026"
+      }
+    },
+    {
+      "id": "tokyo-electron",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "stage": "Public company"
+      },
+      "revenue": {
+        "amount": "¥2.44T",
+        "period": "FY2026",
+        "source": "https://www.tel.com/news/ir/2026/20260430_001.html",
+        "date": "2026-04-30",
+        "notes": "Net sales ¥2,443.533 billion for year ended 31 March 2026"
+      }
+    },
+    {
+      "id": "infosys",
+      "updatedAt": "2026-10-24",
+      "revenue": {
+        "amount": "$20.16B",
+        "period": "FY2026",
+        "source": "https://www.sec.gov/Archives/edgar/data/1067491/000106749126000018/exv99w01.htm",
+        "date": "2026-04-23",
+        "notes": "IFRS revenues $20,158 million for year ended 31 March 2026"
+      }
+    },
+    {
+      "id": "tcs",
+      "updatedAt": "2026-10-24",
+      "revenue": {
+        "amount": "$30.02B",
+        "period": "FY2026",
+        "source": "https://www.tcs.com/who-we-are/newsroom/press-release/tcs-financial-results-q4-fy-2026",
+        "date": "2026-04-09",
+        "notes": "FY26 revenue $30,017 million"
+      }
+    },
+    {
+      "id": "e2e-networks",
+      "updatedAt": "2026-10-24",
+      "revenue": {
+        "amount": "₹245.58 crore",
+        "period": "FY2026",
+        "source": "https://e2e-mainsite-ui.objectstore.e2enetworks.net/Financial_Compliance/Financial_Information/Financial_Results/20252026/Audit_financial_Results_for_the_Financial_year_ended_March_31_03_2026.pdf",
+        "date": "2026-04-20",
+        "notes": "Revenue from operations ₹24,558.01 lakh for year ended 31 March 2026"
+      }
+    },
+    {
+      "id": "sarvam",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$234M",
+        "stage": "Series B",
+        "investors": [
+          "HCLTech",
+          "Bessemer Venture Partners",
+          "Khosla Ventures",
+          "Peak XV Partners"
+        ],
+        "source": "https://www.sarvam.ai/announcing-series-b",
+        "date": "2026-06-15"
+      },
+      "valuation": {
+        "amount": "$1.5B",
+        "date": "2026-06-15",
+        "source": "https://www.sarvam.ai/announcing-series-b",
+        "notes": "Post-money at first close of $300M Series B"
+      }
+    },
+    {
+      "id": "uniphore",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$260M",
+        "stage": "Series F",
+        "investors": [
+          "NVIDIA",
+          "AMD",
+          "Snowflake",
+          "Databricks",
+          "NEA",
+          "March Capital"
+        ],
+        "source": "https://www.uniphore.com/press-releases/nvidia-amd-snowflake-databricks-invest-in-uniphores-series-f/",
+        "date": "2025-10-22"
+      },
+      "valuation": {
+        "amount": "$2.5B",
+        "date": "2025-10-22",
+        "source": "https://www.uniphore.com/press-releases/nvidia-amd-snowflake-databricks-invest-in-uniphores-series-f/",
+        "notes": "Series F priced at $2.5 billion"
+      }
+    },
+    {
+      "id": "qure-ai",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$65M",
+        "stage": "Series D",
+        "investors": [
+          "Lightspeed",
+          "360 ONE Asset",
+          "Merck Global Health Innovation Fund",
+          "Novo Holdings",
+          "HealthQuad"
+        ],
+        "source": "https://www.qure.ai/us/news-press-coverages/qure-ai-gets-series-d-funding-to-expand-healthcare-ai",
+        "date": "2024-09-25"
+      }
+    },
+    {
+      "id": "observe-ai",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$213M",
+        "stage": "Series C",
+        "investors": [
+          "SoftBank Vision Fund 2",
+          "Zoom",
+          "Menlo Ventures",
+          "Nexus Ventures",
+          "Next47"
+        ],
+        "source": "https://www.observe.ai/press-releases/observe-ai-raises-125m-series-c-to-usher-in-ai-empowered-era-for-contact-centers",
+        "date": "2022-04-12"
+      }
+    },
+    {
+      "id": "yotta",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$150M",
+        "stage": "Growth",
+        "investors": [],
+        "source": "https://yotta.com/news/yotta-raises-150-million-at-3-9-billion-valuation-to-fund-ai-infrastructure-expansion/",
+        "date": "2026-07-06"
+      },
+      "valuation": {
+        "amount": "$3.9B",
+        "date": "2026-07-06",
+        "source": "https://yotta.com/news/yotta-raises-150-million-at-3-9-billion-valuation-to-fund-ai-infrastructure-expansion/",
+        "notes": "Valuation at $150 million raise"
+      }
+    },
+    {
+      "id": "neysa",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "up to $600M",
+        "stage": "Growth equity",
+        "investors": [
+          "Blackstone",
+          "Teachers' Venture Growth",
+          "TVS Capital",
+          "360 ONE Assets",
+          "Nexus Ventures"
+        ],
+        "source": "https://neysa.ai/press-release/blackstone-leads-funding-of-over-1-billion-dollar-to-neysa/",
+        "date": "2026-02-16"
+      }
+    },
+    {
+      "id": "fractal-ai",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "stage": "Public company"
+      },
+      "revenue": {
+        "amount": "₹32,997M",
+        "period": "FY2026",
+        "source": "https://fractal.ai/docs/Investor-Relations/Annual-Reports-and-Postal-Ballot-Notice/Fractal-Annual-Report-FY-2025-26.pdf",
+        "date": "2026-08-24",
+        "notes": "Revenue from operations INR 32,997 million for year ended 31 March 2026"
+      }
+    },
+    {
+      "id": "nscale",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$433M",
+        "stage": "Pre-Series C SAFE",
+        "investors": [
+          "Blue Owl",
+          "Dell",
+          "NVIDIA",
+          "Nokia"
+        ],
+        "source": "https://www.nscale.com/press-releases/nscale-pre-series-c-safe",
+        "date": "2025-10-01"
+      }
+    },
+    {
+      "id": "runpod",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$20M",
+        "stage": "Seed",
+        "investors": [
+          "Intel Capital",
+          "Dell Technologies Capital",
+          "Julien Chaumond",
+          "Nat Friedman"
+        ],
+        "source": "https://www.intelcapital.com/runpod-raises-20m-in-seed-funding-co-led-by-intel-capital-and-dell-technologies-capital/",
+        "date": "2024-05-08"
+      },
+      "revenue": {
+        "amount": "$120M ARR",
+        "period": "January 2026",
+        "source": "https://www.runpod.io/blog/a-note-to-the-developers-who-built-runpod-with-us",
+        "date": "2026-01-23",
+        "notes": "Founder-stated ARR milestone"
+      }
+    },
+    {
+      "id": "ovhcloud",
+      "updatedAt": "2026-10-24",
+      "revenue": {
+        "amount": "€1.08B",
+        "period": "FY2025",
+        "source": "https://corporate.ovhcloud.com/en/newsroom/news/financial-results-fy25/",
+        "date": "2025-10-20",
+        "notes": "Revenue €1,084.6 million for year ended 31 August 2025"
+      }
+    },
+    {
+      "id": "appen",
+      "updatedAt": "2026-10-24",
+      "revenue": {
+        "amount": "$230.8M",
+        "period": "FY2025",
+        "source": "https://announcements.asx.com.au/asxpdf/20260225/pdf/06wq7806yk1ll4.pdf",
+        "date": "2026-02-25",
+        "notes": "Operating revenue US$230.8 million; 4.5% growth excluding Google"
+      }
+    },
+    {
+      "id": "superannotate",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$36M",
+        "stage": "Series B",
+        "investors": [
+          "Socium Ventures",
+          "NVIDIA",
+          "Databricks Ventures",
+          "Play Time Ventures",
+          "Glynn Capital"
+        ],
+        "source": "https://www.superannotate.com/blog/superannotate-36m-series-b-funding-round",
+        "date": "2024-11-18"
+      }
+    },
+    {
+      "id": "encord",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$110M",
+        "stage": "Series C",
+        "investors": [
+          "Wellington Management",
+          "Y Combinator",
+          "CRV",
+          "N47",
+          "Crane Venture Partners"
+        ],
+        "source": "https://encord.com/blog/encord-announces-60-million-series-c/",
+        "date": "2026-02-26"
+      }
+    },
+    {
+      "id": "elastic",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "stage": "Public company"
+      },
+      "revenue": {
+        "amount": "$1.74B",
+        "period": "FY2026",
+        "source": "https://ir.elastic.co/News--Events/news/news-details/2026/Elastic-Reports-Fourth-Quarter-and-Fiscal-2026-Financial-Results/default.aspx",
+        "date": "2026-05-28",
+        "notes": "FY26 revenue $1.739 billion for year ended 30 April 2026"
+      }
+    },
+    {
+      "id": "unstructured",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$65M",
+        "stage": "Series B",
+        "investors": [
+          "Menlo Ventures",
+          "Databricks Ventures",
+          "IBM Ventures",
+          "NVentures",
+          "Madrona",
+          "Bain Capital Ventures"
+        ],
+        "source": "https://www.businesswire.com/news/home/20240314620374/en/Unstructured-Raises-%2440M-Series-B-From-Menlo-Ventures-Databricks-Ventures-IBM-Ventures-and-NVIDIA-to-Make-Enterprise-Data-LLM-ready",
+        "date": "2024-03-14"
+      }
+    },
+    {
+      "id": "zilliz",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$113M",
+        "stage": "Series B",
+        "investors": [
+          "Prosperity7 Ventures",
+          "Pavilion Capital",
+          "Hillhouse Capital",
+          "5Y Capital",
+          "Yunqi Capital"
+        ],
+        "source": "https://zilliz.com/news/vector-database-company-zilliz-series-b-extension",
+        "date": "2022-08-24"
+      }
+    },
+    {
+      "id": "cleanlab",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "stage": "Acquired by Handshake"
+      }
+    },
+    {
+      "id": "tonic-ai",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$47M+",
+        "stage": "Series B",
+        "investors": [
+          "Insight Partners",
+          "GGV Capital",
+          "Bloomberg Beta",
+          "Heavybit"
+        ],
+        "source": "https://www.tonic.ai/press-releases/series-b",
+        "date": "2021-09-29"
+      }
+    },
+    {
+      "id": "landing-ai",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$57M",
+        "stage": "Series A",
+        "investors": [
+          "McRock Capital",
+          "Insight Partners",
+          "CPP Investments",
+          "Intel Capital",
+          "Samsung Catalyst Fund"
+        ],
+        "source": "https://www.prnewswire.com/news-releases/landing-ai-secures-funding-to-unlock-power-of-small-datasets-unleashing-next-era-of-ai-301418192.html",
+        "date": "2021-11-08"
+      }
+    }
+  ]
+}

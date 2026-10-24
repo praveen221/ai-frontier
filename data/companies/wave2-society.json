@@ -529,9 +529,17 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$110M",
+        "stage": "Series C",
+        "investors": [
+          "Wellington Management",
+          "Y Combinator",
+          "CRV",
+          "N47",
+          "Crane Venture Partners"
+        ],
+        "source": "https://encord.com/blog/encord-announces-60-million-series-c/",
+        "date": "2026-02-26"
       },
       "tags": [
         "labeling",

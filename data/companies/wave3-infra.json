@@ -111,7 +111,13 @@
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": [] },
+      "funding": {
+        "total": "$433M",
+        "stage": "Pre-Series C SAFE",
+        "investors": ["Blue Owl", "Dell", "NVIDIA", "Nokia"],
+        "source": "https://www.nscale.com/press-releases/nscale-pre-series-c-safe",
+        "date": "2025-10-01"
+      },
       "tags": ["Europe", "neocloud"]
     },
     {
@@ -146,7 +152,14 @@
       "updatedAt": "2026-10-24",
       "identitySource": { "source": "https://www.ovhcloud.com", "date": "2026-10-24", "fields": ["founders", "founded", "headquarters"] },
       "funding": { "total": null, "stage": "Public company", "investors": [] },
-      "tags": ["Europe", "public"]
+      "tags": ["Europe", "public"],
+      "revenue": {
+        "amount": "€1.08B",
+        "period": "FY2025",
+        "source": "https://corporate.ovhcloud.com/en/newsroom/news/financial-results-fy25/",
+        "date": "2025-10-20",
+        "notes": "Revenue €1,084.6 million for year ended 31 August 2025"
+      }
     },
     {
       "id": "replicate",
@@ -331,7 +344,19 @@
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": [] },
+      "funding": {
+        "total": "$450M",
+        "stage": "Series C",
+        "investors": ["Bullhound Capital", "Triatomic Capital", "Temasek", "Qatar Investment Authority", "M12"],
+        "source": "https://www.d-matrix.ai/announcements/d-matrix-raises-275-million-to-power-the-age-of-ai-inference/",
+        "date": "2025-11-12"
+      },
+      "valuation": {
+        "amount": "$2B",
+        "date": "2025-11-12",
+        "source": "https://www.d-matrix.ai/announcements/d-matrix-raises-275-million-to-power-the-age-of-ai-inference/",
+        "notes": "Valuation at Series C"
+      },
       "tags": ["inference silicon"]
     },
     {
@@ -382,7 +407,14 @@
       "updatedAt": "2026-10-24",
       "identitySource": { "source": "https://www.marvell.com", "date": "2026-10-24", "fields": ["founders", "founded", "headquarters"] },
       "funding": { "total": null, "stage": "Public company", "investors": [] },
-      "tags": ["custom silicon", "public"]
+      "tags": ["custom silicon", "public"],
+      "revenue": {
+        "amount": "$8.195B",
+        "period": "FY2026",
+        "source": "https://investor.marvell.com/news-events/press-releases/detail/1011/marvell-technology-inc-reports-fourth-quarter-and-fiscal-year-2026-financial-results",
+        "date": "2026-03-05",
+        "notes": "Fiscal year ended 31 January 2026"
+      }
     },
     {
       "id": "ibm-cloud",
