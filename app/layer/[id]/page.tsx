@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { Directory } from '@/components/Directory';
 import { getCompanies, getLayerById, getLayers } from '@/lib/data';
+import { SHELL } from '@/lib/stack';
 
 export function generateStaticParams() {
   return getLayers().map((layer) => ({ id: layer.id }));
@@ -39,15 +40,15 @@ export default async function LayerPage({
   return (
     <div id="main">
       <div className="border-b border-border">
-        <div className="mx-auto max-w-[1500px] px-4 py-8 sm:px-6">
-          <Link href="/taxonomy/" className="text-[13px] text-primary">
+        <div className={`${SHELL} py-8`}>
+          <Link href="/taxonomy/" className="text-[14px] text-primary">
             ← All layers
           </Link>
-          <h1 className="mt-3 text-3xl font-semibold tracking-tight">{layer.name}</h1>
-          <p className="mt-2 max-w-2xl text-sm text-muted-foreground">{layer.description}</p>
+          <h1 className="mt-3 text-[32px] font-semibold tracking-[-0.03em]">{layer.name}</h1>
+          <p className="mt-2 max-w-2xl text-[15px] text-muted-foreground">{layer.description}</p>
         </div>
       </div>
-      <Directory companies={getCompanies()} layers={getLayers()} initialLayer={layer.id} />
+      <Directory companies={getCompanies()} layers={getLayers()} initialLayer={layer.id} hideHero />
     </div>
   );
 }
