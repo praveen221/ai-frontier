@@ -74,7 +74,7 @@ async function main() {
   ok('sidebar count is search-aware', /1\s*$/.test(frontierCount.trim()) || frontierCount.includes('1'), frontierCount);
 
   await page.locator('#directory-search').fill('');
-  await page.getByText(/of 495/).first().waitFor();
+  await page.getByText(/of \d+/).first().waitFor();
   const amdRow = page.locator('li').filter({ has: page.getByRole('link', { name: 'AMD', exact: true }) });
   await amdRow.locator('input[type="checkbox"]').check();
   await page.getByRole('link', { name: /Open compare/ }).waitFor();
@@ -87,7 +87,7 @@ async function main() {
   const combo = await page.locator('[role="combobox"]').count();
   const fatSelect = await page.locator('select option').count();
   ok('compare uses searchable combobox', combo >= 1, `combo=${combo}`);
-  ok('compare is not a 495-option select', fatSelect < 30, `options=${fatSelect}`);
+  ok('compare is not a fat option select', fatSelect < 30, `options=${fatSelect}`);
 
   // Layer page: single header
   await page.goto(`${BASE}/layer/models-video/`, { waitUntil: 'networkidle' });

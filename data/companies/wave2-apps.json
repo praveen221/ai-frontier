@@ -5,306 +5,870 @@
       "name": "Sourcegraph",
       "fullName": "Sourcegraph",
       "description": "Code-intelligence company behind Cody and Amp, agents that search and edit large codebases.",
-      "layers": ["apps-coding"],
-      "subdomains": ["AI code editors", "Codebase Q&A"],
+      "layers": [
+        "apps-coding"
+      ],
+      "subdomains": [
+        "AI code editors",
+        "Codebase Q&A"
+      ],
       "founded": 2013,
-      "founders": ["Quinn Slack", "Beyang Liu"],
+      "founders": [
+        "Quinn Slack",
+        "Beyang Liu"
+      ],
       "headquarters": "San Francisco, CA, USA",
       "website": "https://sourcegraph.com",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": ["Andreessen Horowitz", "Sequoia Capital"] },
-      "tags": ["Cody", "Amp"]
+      "funding": {
+        "total": "$125M",
+        "stage": "Series D",
+        "investors": [
+          "Andreessen Horowitz",
+          "Insight Partners",
+          "Geodesic Capital",
+          "Sequoia Capital"
+        ],
+        "source": "https://sourcegraph.com/blog/announcing-sourcegraphs-series-d-round",
+        "date": "2021-07-13"
+      },
+      "tags": [
+        "Cody",
+        "Amp"
+      ],
+      "valuation": {
+        "amount": "$2.625B",
+        "date": "2021-07-13",
+        "source": "https://sourcegraph.com/blog/announcing-sourcegraphs-series-d-round",
+        "notes": "Valuation at Series D"
+      },
+      "identitySource": {
+        "source": "https://sourcegraph.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "poolside",
       "name": "Poolside",
       "fullName": "Poolside",
       "description": "Foundation-model lab training coding models and agents for software engineering.",
-      "layers": ["apps-coding", "models-frontier"],
-      "subdomains": ["AI code editors", "Frontier language models (GPT-4, Claude, Gemini)"],
+      "layers": [
+        "apps-coding",
+        "models-frontier"
+      ],
+      "subdomains": [
+        "AI code editors",
+        "Frontier language models (GPT-4, Claude, Gemini)"
+      ],
       "founded": 2023,
-      "founders": ["Eiso Kant", "Jason Warner"],
+      "founders": [
+        "Eiso Kant",
+        "Jason Warner"
+      ],
       "headquarters": "Paris, France",
       "website": "https://poolside.ai",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": ["Bessemer", "DST"] },
-      "tags": ["coding models", "Europe"]
+      "funding": {
+        "total": "$500M",
+        "stage": "Venture",
+        "investors": [],
+        "source": "https://poolside.ai/blog/announcing-our-500-million-fundraise-to-make-progress-towards-agi",
+        "date": "2024-10-02"
+      },
+      "tags": [
+        "coding models",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://poolside.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "magic-dev",
       "name": "Magic",
       "fullName": "Magic",
       "description": "Lab building a long-context coding model and an in-house inference chip effort.",
-      "layers": ["apps-coding"],
-      "subdomains": ["AI code editors"],
+      "layers": [
+        "apps-coding"
+      ],
+      "subdomains": [
+        "AI code editors"
+      ],
       "founded": 2022,
-      "founders": ["Eric Steinberger", "Sebastian De Ro"],
+      "founders": [
+        "Eric Steinberger",
+        "Sebastian De Ro"
+      ],
       "headquarters": "San Francisco, CA, USA",
       "website": "https://magic.dev",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": ["CapitalG", "Jane Street"] },
-      "tags": ["coding", "long context"]
+      "funding": {
+        "total": "$515M",
+        "stage": "Venture",
+        "investors": [
+          "Eric Schmidt",
+          "Jane Street",
+          "Sequoia",
+          "Atlassian",
+          "Nat Friedman",
+          "Daniel Gross",
+          "Elad Gil",
+          "CapitalG"
+        ],
+        "source": "https://magic.dev/blog/100m-token-context-windows",
+        "date": "2024-08-29"
+      },
+      "tags": [
+        "coding",
+        "long context"
+      ],
+      "identitySource": {
+        "source": "https://magic.dev/blog/series-a",
+        "date": "2023-02-06",
+        "fields": [
+          "founders"
+        ]
+      }
     },
     {
       "id": "factory-ai",
       "name": "Factory",
       "fullName": "Factory",
       "description": "Autonomy platform for software engineering — Droids that open PRs and operate the SDLC.",
-      "layers": ["apps-coding"],
-      "subdomains": ["Code review", "AI code editors"],
+      "layers": [
+        "apps-coding"
+      ],
+      "subdomains": [
+        "Code review",
+        "AI code editors"
+      ],
       "founded": 2023,
-      "founders": ["Matan Grinberg", "Eno Reyes"],
+      "founders": [
+        "Matan Grinberg",
+        "Eno Reyes"
+      ],
       "headquarters": "San Francisco, CA, USA",
       "website": "https://factory.ai",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": ["Sequoia Capital"] },
-      "tags": ["agents", "SDLC"]
+      "funding": {
+        "total": "$150M",
+        "stage": "Series C",
+        "investors": [
+          "Khosla Ventures",
+          "Sequoia Capital",
+          "Blackstone",
+          "Insight Partners",
+          "Evantic Capital",
+          "20VC",
+          "NEA",
+          "Mantis VC"
+        ],
+        "source": "https://factory.ai/news/series-c",
+        "date": "2026-04-16"
+      },
+      "tags": [
+        "agents",
+        "SDLC"
+      ],
+      "valuation": {
+        "amount": "$1.5B",
+        "date": "2026-04-16",
+        "source": "https://factory.ai/news/series-c",
+        "notes": "Valuation at Series C"
+      },
+      "identitySource": {
+        "source": "https://factory.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "augment-code",
       "name": "Augment Code",
       "fullName": "Augment Code",
       "description": "AI coding assistant built for large existing repos rather than greenfield chat.",
-      "layers": ["apps-coding"],
-      "subdomains": ["Code completion", "Codebase Q&A"],
+      "layers": [
+        "apps-coding"
+      ],
+      "subdomains": [
+        "Code completion",
+        "Codebase Q&A"
+      ],
       "founded": 2022,
-      "founders": ["Igor Ostrovsky", "Guy Gur-Ari", "Dmitry Lider"],
+      "founders": [
+        "Igor Ostrovsky",
+        "Guy Gur-Ari",
+        "Dmitry Lider"
+      ],
       "headquarters": "Palo Alto, CA, USA",
       "website": "https://www.augmentcode.com",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": ["Sutter Hill"] },
-      "tags": ["enterprise coding"]
+      "funding": {
+        "total": "$227M",
+        "stage": "Series B (select assets acquired by Harness)",
+        "investors": [
+          "Sutter Hill Ventures",
+          "Index Ventures",
+          "Innovation Endeavors",
+          "Lightspeed Venture Partners",
+          "Meritech Capital"
+        ],
+        "source": "https://www.augmentcode.com/blog/augment-inc-raises-227-million",
+        "date": "2024-04-24"
+      },
+      "tags": [
+        "enterprise coding"
+      ],
+      "valuation": {
+        "amount": "$977M",
+        "date": "2024-04-24",
+        "source": "https://www.augmentcode.com/blog/augment-inc-raises-227-million",
+        "notes": "Post-money at Series B; company also stated $252M total funding including $25M Series A"
+      },
+      "identitySource": {
+        "source": "https://www.augmentcode.com/blog/augment-inc-raises-227-million",
+        "date": "2024-04-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "writer",
       "name": "Writer",
       "fullName": "Writer",
       "description": "Enterprise generative platform with its own Palmyra models for brand-safe writing and agents.",
-      "layers": ["apps-enterprise"],
-      "subdomains": ["Document intelligence", "Workflow automation"],
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Document intelligence",
+        "Workflow automation"
+      ],
       "founded": 2020,
-      "founders": ["May Habib", "Waseem Alshikh"],
+      "founders": [
+        "May Habib",
+        "Waseem Alshikh"
+      ],
       "headquarters": "San Francisco, CA, USA",
       "website": "https://writer.com",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": ["Iconiq", "Balderton"] },
-      "tags": ["enterprise", "writing"]
+      "funding": {
+        "total": "$200M",
+        "stage": "Series C",
+        "investors": [
+          "Premji Invest",
+          "Radical Ventures",
+          "ICONIQ Growth",
+          "Adobe Ventures",
+          "B Capital",
+          "Citi Ventures",
+          "IBM Ventures",
+          "Salesforce Ventures",
+          "Workday Ventures",
+          "Accenture",
+          "Balderton",
+          "Insight Partners",
+          "Vanguard"
+        ],
+        "source": "https://writer.com/blog/series-c-funding-writer-press-release/",
+        "date": "2024-11-12"
+      },
+      "tags": [
+        "enterprise",
+        "writing"
+      ],
+      "valuation": {
+        "amount": "$1.9B",
+        "date": "2024-11-12",
+        "source": "https://writer.com/blog/series-c-funding-writer-press-release/",
+        "notes": "Valuation at Series C"
+      },
+      "identitySource": {
+        "source": "https://writer.com/blog/series-c-funding-writer-press-release/",
+        "date": "2024-11-12",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "hebbia",
       "name": "Hebbia",
       "fullName": "Hebbia",
       "description": "Matrix-style document AI used by funds and law firms to read very large deal rooms.",
-      "layers": ["apps-enterprise", "apps-vertical"],
-      "subdomains": ["Document intelligence", "Legal AI"],
+      "layers": [
+        "apps-enterprise",
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Document intelligence",
+        "Legal AI"
+      ],
       "founded": 2020,
-      "founders": ["George Sivulka"],
+      "founders": [
+        "George Sivulka"
+      ],
       "headquarters": "New York, NY, USA",
       "website": "https://www.hebbia.com",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": ["Andreessen Horowitz", "Index Ventures"] },
-      "tags": ["documents", "finance"]
+      "funding": {
+        "total": "$130M",
+        "stage": "Series B",
+        "investors": [
+          "Andreessen Horowitz",
+          "Index Ventures",
+          "Google Ventures",
+          "Peter Thiel"
+        ],
+        "source": "https://www.hebbia.com/blog/hebbia-raises-usd130m-series-b",
+        "date": "2024-07-08"
+      },
+      "tags": [
+        "documents",
+        "finance"
+      ],
+      "identitySource": {
+        "source": "https://www.hebbia.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "moveworks",
       "name": "Moveworks",
       "fullName": "Moveworks",
       "description": "Enterprise agent that resolves IT, HR, and finance tickets inside Slack and Teams.",
-      "layers": ["apps-enterprise"],
-      "subdomains": ["Internal chatbots", "Workflow automation"],
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Internal chatbots",
+        "Workflow automation"
+      ],
       "founded": 2016,
-      "founders": ["Bhavin Shah", "Vaibhav Nivargi", "Varun Singh", "Jiang Chen"],
+      "founders": [
+        "Bhavin Shah",
+        "Vaibhav Nivargi",
+        "Varun Singh",
+        "Jiang Chen"
+      ],
       "headquarters": "Mountain View, CA, USA",
       "website": "https://www.moveworks.com",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": ["Tiger Global", "Lightspeed"] },
-      "tags": ["IT support", "enterprise"]
+      "funding": {
+        "total": "$200M",
+        "stage": "Series C",
+        "investors": [
+          "Tiger Global",
+          "Alkeon Capital",
+          "Lightspeed Venture Partners",
+          "Sapphire Ventures",
+          "Bain Capital",
+          "ICONIQ Growth",
+          "Kleiner Perkins"
+        ],
+        "source": "https://www.moveworks.com/us/en/company/news/press-releases/moveworks-raises-200-million-series-c-funding",
+        "date": "2021-06-30"
+      },
+      "tags": [
+        "IT support",
+        "enterprise"
+      ],
+      "valuation": {
+        "amount": "$2.1B",
+        "date": "2021-06-30",
+        "source": "https://www.moveworks.com/us/en/company/news/press-releases/moveworks-raises-200-million-series-c-funding",
+        "notes": "Valuation at Series C; company also stated $315M total funding"
+      },
+      "identitySource": {
+        "source": "https://www.moveworks.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "evenup",
       "name": "EvenUp",
       "fullName": "EvenUp",
       "description": "Legal AI that drafts personal-injury demand packages from medical records.",
-      "layers": ["apps-vertical"],
-      "subdomains": ["Legal AI"],
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Legal AI"
+      ],
       "founded": 2019,
-      "founders": ["Rami Karabibar", "Ray Mieszaniec"],
+      "founders": [
+        "Rami Karabibar",
+        "Ray Mieszaniec"
+      ],
       "headquarters": "San Francisco, CA, USA",
       "website": "https://www.evenuplaw.com",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": [] },
-      "tags": ["legal"]
+      "funding": {
+        "total": "$150M",
+        "stage": "Series E",
+        "investors": [
+          "Bessemer Venture Partners",
+          "REV",
+          "B Capital",
+          "SignalFire",
+          "Adams Street",
+          "Premji Invest",
+          "Bain Capital",
+          "HarbourVest",
+          "Lightspeed",
+          "Broadlight Capital"
+        ],
+        "source": "https://www.evenuplaw.com/blog/evenup-2b-valuation/",
+        "date": "2025-10-07"
+      },
+      "tags": [
+        "legal"
+      ],
+      "valuation": {
+        "amount": ">$2B",
+        "date": "2025-10-07",
+        "source": "https://www.evenuplaw.com/blog/evenup-2b-valuation/",
+        "notes": "Valuation at Series E; company also stated $385M total capital raised"
+      },
+      "identitySource": {
+        "source": "https://www.evenuplaw.com/about/",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "tempus",
       "name": "Tempus",
       "fullName": "Tempus AI",
       "description": "Public precision-medicine company applying AI to clinical and molecular data.",
-      "layers": ["apps-vertical"],
-      "subdomains": ["Healthcare & diagnostics"],
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Healthcare & diagnostics"
+      ],
       "founded": 2015,
-      "founders": ["Eric Lefkofsky"],
+      "founders": [
+        "Eric Lefkofsky"
+      ],
       "headquarters": "Chicago, IL, USA",
       "website": "https://www.tempus.com",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Public company", "investors": [] },
-      "tags": ["healthcare", "public"]
+      "funding": {
+        "total": null,
+        "stage": "Public (NASDAQ: TEM)",
+        "investors": []
+      },
+      "tags": [
+        "healthcare",
+        "public"
+      ],
+      "revenue": {
+        "amount": "$1.272B",
+        "period": "FY2025",
+        "source": "https://investors.tempus.com/news-releases/news-release-details/tempus-reports-fourth-quarter-and-full-year-2025-results",
+        "date": "2026-02-24",
+        "notes": "Total net revenue $1,271.789 million"
+      },
+      "identitySource": {
+        "source": "https://www.tempus.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "isomorphic",
       "name": "Isomorphic Labs",
       "fullName": "Isomorphic Labs",
       "description": "Alphabet's drug-design company applying AlphaFold-style models to chemistry.",
-      "layers": ["apps-vertical"],
-      "subdomains": ["Drug discovery & biotech"],
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Drug discovery & biotech"
+      ],
       "founded": 2021,
-      "founders": ["Demis Hassabis"],
+      "founders": [
+        "Demis Hassabis"
+      ],
       "headquarters": "London, UK",
       "website": "https://www.isomorphiclabs.com",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Alphabet subsidiary", "investors": [] },
-      "tags": ["drug discovery", "AlphaFold"]
+      "funding": {
+        "total": null,
+        "stage": "Alphabet subsidiary",
+        "investors": []
+      },
+      "tags": [
+        "drug discovery",
+        "AlphaFold"
+      ],
+      "identitySource": {
+        "source": "https://www.isomorphiclabs.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "recursion",
       "name": "Recursion",
       "fullName": "Recursion Pharmaceuticals",
       "description": "Public techbio company pairing lab automation with foundation models for drug discovery.",
-      "layers": ["apps-vertical"],
-      "subdomains": ["Drug discovery & biotech"],
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Drug discovery & biotech"
+      ],
       "founded": 2013,
-      "founders": ["Chris Gibson", "Dean Li", "Blake Borgeson"],
+      "founders": [
+        "Chris Gibson",
+        "Dean Li",
+        "Blake Borgeson"
+      ],
       "headquarters": "Salt Lake City, UT, USA",
       "website": "https://www.recursion.com",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Public company", "investors": [] },
-      "tags": ["techbio", "public"]
+      "funding": {
+        "total": null,
+        "stage": "Public (NASDAQ: RXRX)",
+        "investors": []
+      },
+      "tags": [
+        "techbio",
+        "public"
+      ],
+      "revenue": {
+        "amount": "$74.7M",
+        "period": "FY2025",
+        "source": "https://ir.recursion.com/news-releases/news-release-details/recursion-reports-fourth-quarter-and-full-year-2025-financial/",
+        "date": "2026-02-25",
+        "notes": "Total revenue $74.7 million, primarily from collaboration agreements"
+      },
+      "identitySource": {
+        "source": "https://www.recursion.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "granola",
       "name": "Granola",
       "fullName": "Granola",
       "description": "Meeting notepad that turns rough notes into structured summaries without a bot in the call.",
-      "layers": ["apps-enterprise", "apps-consumer"],
-      "subdomains": ["Meeting assistants", "Personal assistants"],
+      "layers": [
+        "apps-enterprise",
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Meeting assistants",
+        "Personal assistants"
+      ],
       "founded": 2023,
-      "founders": ["Chris Pedregal"],
+      "founders": [
+        "Chris Pedregal"
+      ],
       "headquarters": "London, UK",
       "website": "https://granola.ai",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": ["Spark Capital"] },
-      "tags": ["meetings"]
+      "funding": {
+        "total": "$125M",
+        "stage": "Series C",
+        "investors": [
+          "Index Ventures",
+          "Kleiner Perkins",
+          "Lightspeed",
+          "Spark Capital",
+          "NFDG"
+        ],
+        "source": "https://www.granola.ai/blog/series-c",
+        "date": "2026-03-25"
+      },
+      "tags": [
+        "meetings"
+      ],
+      "valuation": {
+        "amount": "$1.5B",
+        "date": "2026-03-25",
+        "source": "https://www.granola.ai/blog/series-c",
+        "notes": "Valuation at Series C"
+      },
+      "identitySource": {
+        "source": "https://www.granola.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "limitless",
       "name": "Limitless",
       "fullName": "Limitless (formerly Rewind)",
       "description": "Personal AI that records meetings and wearable audio so you can search your own life.",
-      "layers": ["apps-consumer"],
-      "subdomains": ["Personal assistants"],
+      "layers": [
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Personal assistants"
+      ],
       "founded": 2020,
-      "founders": ["Dan Siroker"],
+      "founders": [
+        "Dan Siroker"
+      ],
       "headquarters": "San Francisco, CA, USA",
       "website": "https://www.limitless.ai",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": [] },
-      "tags": ["wearable", "memory"]
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "wearable",
+        "memory"
+      ]
     },
     {
       "id": "you-com",
       "name": "You.com",
       "fullName": "You.com",
       "description": "AI search engine and research assistant with citations and custom agents.",
-      "layers": ["apps-consumer"],
-      "subdomains": ["AI search engines"],
+      "layers": [
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "AI search engines"
+      ],
       "founded": 2020,
-      "founders": ["Richard Socher", "Bryan McCann"],
+      "founders": [
+        "Richard Socher",
+        "Bryan McCann"
+      ],
       "headquarters": "Palo Alto, CA, USA",
       "website": "https://you.com",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": ["Salesforce Ventures"] },
-      "tags": ["search"]
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": [
+          "Salesforce Ventures"
+        ]
+      },
+      "tags": [
+        "search"
+      ]
     },
     {
       "id": "poe",
       "name": "Poe",
       "fullName": "Poe by Quora",
       "description": "Quora's consumer app for chatting with many models in one place.",
-      "layers": ["apps-consumer"],
-      "subdomains": ["Entertainment & chat"],
+      "layers": [
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Entertainment & chat"
+      ],
       "founded": 2022,
-      "founders": ["Adam D'Angelo"],
+      "founders": [
+        "Adam D'Angelo"
+      ],
       "headquarters": "Mountain View, CA, USA",
       "website": "https://poe.com",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Quora product", "investors": [] },
-      "tags": ["consumer", "multi-model"]
+      "funding": {
+        "total": null,
+        "stage": "Quora product",
+        "investors": []
+      },
+      "tags": [
+        "consumer",
+        "multi-model"
+      ]
     },
     {
       "id": "canva",
       "name": "Canva",
       "fullName": "Canva",
       "description": "Design platform whose Magic Studio uses generative models for images, video, and layouts.",
-      "layers": ["apps-creative"],
-      "subdomains": ["Image editing & generation"],
+      "layers": [
+        "apps-creative"
+      ],
+      "subdomains": [
+        "Image editing & generation"
+      ],
       "founded": 2012,
-      "founders": ["Melanie Perkins", "Cliff Obrecht", "Cameron Adams"],
+      "founders": [
+        "Melanie Perkins",
+        "Cliff Obrecht",
+        "Cameron Adams"
+      ],
       "headquarters": "Sydney, Australia",
       "website": "https://www.canva.com",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": [] },
-      "tags": ["design", "Australia"]
+      "funding": {
+        "total": "$200M",
+        "stage": "Private",
+        "investors": [
+          "T. Rowe Price",
+          "Franklin Templeton",
+          "Sequoia Capital Global Equities",
+          "Bessemer Venture Partners",
+          "Greenoaks Capital",
+          "Dragoneer Investments",
+          "Blackbird",
+          "Felicis",
+          "AirTree Ventures"
+        ],
+        "source": "https://www.canva.com/newsroom/news/canva-announces-usd-40-billion-valuation-fueled-global-demand-visual-communication/",
+        "date": "2021-09-15"
+      },
+      "tags": [
+        "design",
+        "Australia"
+      ],
+      "valuation": {
+        "amount": "$40B",
+        "date": "2021-09-15",
+        "source": "https://www.canva.com/newsroom/news/canva-announces-usd-40-billion-valuation-fueled-global-demand-visual-communication/",
+        "notes": "Valuation after September 2021 funding round"
+      },
+      "identitySource": {
+        "source": "https://www.canva.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "figma",
       "name": "Figma",
       "fullName": "Figma",
       "description": "Design tool adding AI features for mockups, copy, and developer handoff.",
-      "layers": ["apps-creative"],
-      "subdomains": ["Image editing & generation"],
+      "layers": [
+        "apps-creative"
+      ],
+      "subdomains": [
+        "Image editing & generation"
+      ],
       "founded": 2012,
-      "founders": ["Dylan Field", "Evan Wallace"],
+      "founders": [
+        "Dylan Field",
+        "Evan Wallace"
+      ],
       "headquarters": "San Francisco, CA, USA",
       "website": "https://www.figma.com",
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private / Adobe deal unwound", "investors": [] },
-      "tags": ["design"]
+      "funding": {
+        "total": null,
+        "stage": "Public (NYSE: FIG)",
+        "investors": []
+      },
+      "tags": [
+        "design"
+      ],
+      "revenue": {
+        "amount": "$1.056B",
+        "period": "FY2025",
+        "source": "https://investor.figma.com/news-events/news/news-details/2026/Figma-Announces-Fourth-Quarter-and-Fiscal-Year-2025-Financial-Results/default.aspx",
+        "date": "2026-02-18",
+        "notes": "Revenue $1.056 billion, up 41% year-over-year"
+      },
+      "identitySource": {
+        "source": "https://www.figma.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     }
   ]
 }

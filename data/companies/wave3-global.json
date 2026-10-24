@@ -240,16 +240,26 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "€200M+",
+        "stage": "Venture",
+        "investors": [
+          "Accel",
+          "UiPath",
+          "Motier",
+          "Bpifrance",
+          "Bernard Arnault",
+          "Eric Schmidt",
+          "FDJ UNITED Ventures"
+        ],
+        "source": "https://hcompany.ai/newsroom/h-company-and-fdj-united-to-collaborate-on-deploying-agentic-ai",
+        "date": "2025-11-17"
       },
       "tags": [
         "Europe",
         "agents"
       ],
       "identitySource": {
-        "source": "https://www.hcompany.ai",
+        "source": "https://hcompany.ai/about",
         "date": "2026-10-24",
         "fields": [
           "founded",
@@ -278,16 +288,22 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$43M",
+        "stage": "Series B",
+        "investors": [
+          "Balderton Capital",
+          "Aglaé",
+          "Y Combinator"
+        ],
+        "source": "https://www.prnewswire.com/news-releases/photoroom-secures-43m-in-series-b-funding-launches-next-generation-ai-photo-editing-features-for-businesses-302071832.html",
+        "date": "2024-02-27"
       },
       "tags": [
         "creative",
         "Europe"
       ],
       "identitySource": {
-        "source": "https://www.photoroom.com",
+        "source": "https://www.photoroom.com/about",
         "date": "2026-10-24",
         "fields": [
           "founders",
@@ -1064,9 +1080,22 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "¥24B",
+        "stage": "Private (latest round)",
+        "investors": [
+          "SBI Group",
+          "Development Bank of Japan",
+          "Mitsubishi Corporation",
+          "Wacom",
+          "Sekisui House Investment",
+          "Kodansha",
+          "Mitsubishi UFJ Trust and Banking",
+          "Sumitomo Mitsui Trust Bank",
+          "TBS Innovation Partners",
+          "Toei Animation"
+        ],
+        "source": "https://www.preferred.jp/en/news/pr20250430",
+        "date": "2025-04-30"
       },
       "tags": [
         "Japan",
@@ -1386,6 +1415,13 @@
           "founded",
           "headquarters"
         ]
+      },
+      "revenue": {
+        "amount": "KRW12.035T",
+        "period": "FY2025",
+        "source": "https://www.navercorp.com/en/media/pressReleasesDetail?seq=10034311",
+        "date": "2026-02-06",
+        "notes": "Consolidated annual revenue KRW12.035 trillion"
       }
     },
     {
@@ -1410,9 +1446,15 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$45M",
+        "stage": "Series B bridge",
+        "investors": [
+          "Korea Development Bank",
+          "Amazon",
+          "AMD"
+        ],
+        "source": "https://www.upstage.ai/news/upstage-series-b-bridge",
+        "date": "2025-08-20"
       },
       "tags": [
         "Korea",
@@ -1488,9 +1530,20 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$100M",
+        "stage": "Series B",
+        "investors": [
+          "NEA",
+          "NAVER Ventures",
+          "Amazon",
+          "Radical Ventures",
+          "Korea Investment Partners",
+          "Index Ventures",
+          "Quadrille Capital",
+          "Red Bull Ventures"
+        ],
+        "source": "https://www.twelvelabs.io/blog/twelvelabs-series-b-100m",
+        "date": "2026-07-01"
       },
       "tags": [
         "video",

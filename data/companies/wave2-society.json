@@ -22,13 +22,30 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$100M",
+        "stage": "Series B",
+        "investors": [
+          "Delta-v Capital",
+          "Ten Eleven Ventures",
+          "Morgan Stanley",
+          "M12",
+          "Booz Allen Ventures"
+        ],
+        "source": "https://www.hiddenlayer.com/news/hiddenlayer-100m-series-b-ai-security",
+        "date": "2026-09-02"
       },
       "tags": [
         "ML security"
-      ]
+      ],
+      "identitySource": {
+        "source": "https://www.hiddenlayer.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "metr",
@@ -60,7 +77,16 @@
       "tags": [
         "evals",
         "safety"
-      ]
+      ],
+      "identitySource": {
+        "source": "https://metr.org",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "apollo-research",

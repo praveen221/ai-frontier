@@ -2425,7 +2425,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://github.com/features/copilot",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "perplexity",
