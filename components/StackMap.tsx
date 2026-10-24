@@ -24,15 +24,22 @@ export function StackMap({
   );
 
   return (
-    <section className="border-b border-border bg-secondary/40">
-      <div className="mx-auto max-w-[1500px] px-4 py-8 sm:px-6">
-        <p className="text-[11px] uppercase tracking-[0.12em] text-primary">The stack</p>
-        <h2 className="mt-2 text-xl font-semibold tracking-tight">Bottom-up, no overlapping buckets.</h2>
-        <div className="mt-6 grid gap-3 md:grid-cols-2 xl:grid-cols-4">
+    <section className="border-b border-border">
+      <div className="mx-auto max-w-[1500px] px-4 py-4 sm:px-6">
+        <div className="mb-3 flex items-end justify-between gap-4">
+          <div>
+            <p className="text-[11px] uppercase tracking-[0.12em] text-primary">The stack</p>
+            <h2 className="text-sm font-semibold tracking-tight">Bottom-up, no overlapping buckets.</h2>
+          </div>
+          <Link href="/taxonomy/" className="text-[12px] text-primary">
+            Full taxonomy →
+          </Link>
+        </div>
+        <div className="flex gap-2 overflow-x-auto pb-1">
           {GROUPS.map((group) => (
-            <div key={group.title} className="rounded-lg border border-border bg-background p-3">
-              <p className="mb-2 text-[10px] uppercase tracking-[0.08em] text-muted-foreground">{group.title}</p>
-              <ul className="space-y-1">
+            <div key={group.title} className="min-w-[160px] flex-1 rounded-md border border-border px-2.5 py-2">
+              <p className="mb-1 text-[10px] uppercase tracking-[0.08em] text-muted-foreground">{group.title}</p>
+              <ul>
                 {group.ids.map((id) => {
                   const layer = byId.get(id);
                   if (!layer) return null;
@@ -40,9 +47,9 @@ export function StackMap({
                     <li key={id}>
                       <Link
                         href={`/layer/${id}/`}
-                        className="flex items-center justify-between gap-2 rounded px-1.5 py-1 text-[12px] hover:bg-accent"
+                        className="flex items-center justify-between gap-2 rounded px-0.5 py-0.5 text-[11px] hover:bg-accent"
                       >
-                        <span className="truncate">{layer.name}</span>
+                        <span className="truncate">{layer.name.replace(/^Foundation Models: |^Applications: /, '')}</span>
                         <span className="font-mono text-[10px] text-muted-foreground">{counts.get(id) ?? 0}</span>
                       </Link>
                     </li>
