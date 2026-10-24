@@ -87,12 +87,65 @@ function validate() {
   const withValuation = companies.filter((c) => c.valuation).length;
   const withRevenue = companies.filter((c) => c.revenue).length;
   const withFunding = companies.filter((c) => c.funding.total && c.funding.source).length;
+  const withIdentity = companies.filter((c) => c.identitySource).length;
+  const identityFields = { founders: 0, founded: 0, headquarters: 0 };
+  for (const company of companies) {
+    for (const field of company.identitySource?.fields ?? []) {
+      identityFields[field] += 1;
+    }
+  }
+
+  const byLayer = new Map<string, number>();
+  for (const layer of taxonomy.layers) byLayer.set(layer.id, 0);
+  for (const company of companies) {
+    for (const layer of company.layers) {
+      byLayer.set(layer, (byLayer.get(layer) ?? 0) + 1);
+    }
+  }
+
+  const regions = new Map<string, number>();
+  for (const company of companies) {
+    const region = classifyRegion(company.headquarters);
+    regions.set(region, (regions.get(region) ?? 0) + 1);
+  }
 
   console.log(`Companies: ${companies.length}`);
   console.log(`  sourced funding: ${withFunding}`);
   console.log(`  sourced valuation: ${withValuation}`);
   console.log(`  sourced revenue: ${withRevenue}`);
+  console.log(`  identity source: ${withIdentity}`);
+  console.log(`    founders: ${identityFields.founders}`);
+  console.log(`    founded: ${identityFields.founded}`);
+  console.log(`    headquarters: ${identityFields.headquarters}`);
+  console.log('  by layer:');
+  for (const layer of taxonomy.layers) {
+    console.log(`    ${layer.id}: ${byLayer.get(layer.id) ?? 0}`);
+  }
+  console.log('  by region:');
+  for (const [region, count] of [...regions.entries()].sort((a, b) => b[1] - a[1])) {
+    console.log(`    ${region}: ${count}`);
+  }
   console.log('\nAll data files validated.');
+}
+
+function classifyRegion(hq: string): string {
+  const value = hq.toLowerCase();
+  if (/(india|bengaluru|bangalore|mumbai|delhi|hyderabad|chennai|pune|noida)/.test(value)) return 'India';
+  if (/(japan|tokyo|osaka|korea|seoul|seongnam|yongin)/.test(value)) return 'Japan/Korea';
+  if (/(uae|dubai|abu dhabi|saudi|riyadh|qatar|doha|israel|tel aviv|neom)/.test(value)) return 'Middle East';
+  if (/(brazil|s[aã]o paulo|argentina|buenos|chile|santiago|mexico|colombia|bogot[aá]|uruguay|montevideo)/.test(value)) {
+    return 'LatAm';
+  }
+  if (
+    /(uk|united kingdom|london|france|paris|germany|berlin|munich|heidelberg|netherlands|amsterdam|sweden|stockholm|finland|helsinki|switzerland|spain|italy|milan|ireland|dublin|poland|warsaw|austria|vienna|portugal|belgium|denmark|norway|estonia|cambridge, uk|oxford)/.test(
+      value,
+    )
+  ) {
+    return 'Europe';
+  }
+  if (/(china|beijing|shanghai|shenzhen|hangzhou|hong kong|taiwan|hsinchu)/.test(value)) return 'Greater China';
+  if (/(usa|united states|canada|toronto|montreal|vancouver)/.test(value)) return 'North America';
+  return 'Other';
 }
 
 validate();

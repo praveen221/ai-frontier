@@ -1,0 +1,952 @@
+{
+  "companies": [
+    {
+      "id": "cais",
+      "name": "Center for AI Safety",
+      "description": "San Francisco nonprofit that publishes safety research, evaluations, and the widely cited harm-threshold work.",
+      "layers": [
+        "safety-security",
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Alignment research",
+        "Nonprofit research institutes"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Dan Hendrycks"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.safe.ai",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Nonprofit",
+        "investors": []
+      },
+      "tags": [
+        "safety",
+        "nonprofit"
+      ],
+      "identitySource": {
+        "source": "https://www.safe.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "govai",
+      "name": "Centre for the Governance of AI",
+      "description": "Oxford research institute studying the politics and governance of advanced AI.",
+      "layers": [
+        "policy-standards",
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Ethics & governance frameworks",
+        "Nonprofit research institutes"
+      ],
+      "founded": 2018,
+      "founders": [
+        "Allan Dafoe"
+      ],
+      "headquarters": "Oxford, UK",
+      "website": "https://www.governance.ai",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Nonprofit",
+        "investors": []
+      },
+      "tags": [
+        "policy",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://www.governance.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "fli",
+      "name": "Future of Life Institute",
+      "description": "Nonprofit that funds AI-safety work and organizes pauses and policy open letters.",
+      "layers": [
+        "policy-standards",
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Ethics & governance frameworks",
+        "Nonprofit research institutes"
+      ],
+      "founded": 2014,
+      "founders": [
+        "Max Tegmark",
+        "Jaan Tallinn",
+        "Viktoriya Krakovna"
+      ],
+      "headquarters": "Cambridge, MA, USA",
+      "website": "https://futureoflife.org",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Nonprofit",
+        "investors": []
+      },
+      "tags": [
+        "policy",
+        "nonprofit"
+      ],
+      "identitySource": {
+        "source": "https://futureoflife.org",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "far-ai",
+      "name": "FAR.AI",
+      "description": "Independent safety research org that incubates technical projects and evaluations.",
+      "layers": [
+        "safety-security",
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Alignment research",
+        "Nonprofit research institutes"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Adam Gleave"
+      ],
+      "headquarters": "Berkeley, CA, USA",
+      "website": "https://far.ai",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Nonprofit",
+        "investors": []
+      },
+      "tags": [
+        "safety"
+      ],
+      "identitySource": {
+        "source": "https://far.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "arc",
+      "name": "Alignment Research Center",
+      "description": "Paul Christiano's nonprofit working on theoretical alignment and evaluations.",
+      "layers": [
+        "safety-security",
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Alignment research",
+        "Nonprofit research institutes"
+      ],
+      "founded": 2021,
+      "founders": [
+        "Paul Christiano"
+      ],
+      "headquarters": "Berkeley, CA, USA",
+      "website": "https://alignment.org",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Nonprofit",
+        "investors": []
+      },
+      "tags": [
+        "alignment"
+      ],
+      "identitySource": {
+        "source": "https://alignment.org",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "partnership-on-ai",
+      "name": "Partnership on AI",
+      "description": "Multi-stakeholder nonprofit convening companies and civil society on AI practice.",
+      "layers": [
+        "policy-standards"
+      ],
+      "subdomains": [
+        "Ethics & governance frameworks"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Amazon",
+        "Anthropic",
+        "DeepMind",
+        "Google",
+        "Meta",
+        "Microsoft",
+        "OpenAI"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://partnershiponai.org",
+      "entityType": "institution",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Nonprofit",
+        "investors": []
+      },
+      "tags": [
+        "policy",
+        "nonprofit"
+      ],
+      "identitySource": {
+        "source": "https://partnershiponai.org",
+        "date": "2026-10-24",
+        "fields": [
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "ada-lovelace",
+      "name": "Ada Lovelace Institute",
+      "description": "London institute researching the social impacts of data and AI.",
+      "layers": [
+        "policy-standards"
+      ],
+      "subdomains": [
+        "Ethics & governance frameworks"
+      ],
+      "founded": 2018,
+      "founders": [
+        "Nuffield Foundation"
+      ],
+      "headquarters": "London, UK",
+      "website": "https://www.adalovelaceinstitute.org",
+      "entityType": "institution",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Nonprofit",
+        "investors": []
+      },
+      "tags": [
+        "policy",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://www.adalovelaceinstitute.org",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "ai-now",
+      "name": "AI Now Institute",
+      "description": "Policy research institute focused on the social implications of artificial intelligence.",
+      "layers": [
+        "policy-standards"
+      ],
+      "subdomains": [
+        "Ethics & governance frameworks"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Kate Crawford",
+        "Meredith Whittaker"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://ainowinstitute.org",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Nonprofit",
+        "investors": []
+      },
+      "tags": [
+        "policy"
+      ],
+      "identitySource": {
+        "source": "https://ainowinstitute.org",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "oecd-ai",
+      "name": "OECD.AI",
+      "description": "OECD's AI policy observatory and the home of the OECD AI Principles.",
+      "layers": [
+        "policy-standards"
+      ],
+      "subdomains": [
+        "Ethics & governance frameworks",
+        "Standards organizations"
+      ],
+      "founded": 2019,
+      "founders": [
+        "OECD"
+      ],
+      "headquarters": "Paris, France",
+      "website": "https://oecd.ai",
+      "entityType": "institution",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Intergovernmental",
+        "investors": []
+      },
+      "tags": [
+        "policy",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://oecd.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "frontier-model-forum",
+      "name": "Frontier Model Forum",
+      "description": "Industry body formed by Anthropic, Google, Microsoft, and OpenAI for frontier-model safety.",
+      "layers": [
+        "policy-standards"
+      ],
+      "subdomains": [
+        "Model evaluation standards"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Anthropic",
+        "Google",
+        "Microsoft",
+        "OpenAI"
+      ],
+      "headquarters": "Washington, DC, USA",
+      "website": "https://www.frontiermodelforum.org",
+      "entityType": "institution",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Industry consortium",
+        "investors": []
+      },
+      "tags": [
+        "policy",
+        "industry"
+      ],
+      "identitySource": {
+        "source": "https://www.frontiermodelforum.org",
+        "date": "2026-10-24",
+        "fields": [
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "singapore-aisi",
+      "name": "Singapore AI Safety Institute",
+      "description": "National institute under IMDA for evaluating and governing advanced AI systems.",
+      "layers": [
+        "policy-standards"
+      ],
+      "subdomains": [
+        "AI safety institutes"
+      ],
+      "founded": 2024,
+      "founders": [
+        "Government of Singapore"
+      ],
+      "headquarters": "Singapore",
+      "website": "https://www.aisi.gov.sg",
+      "entityType": "institution",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Government",
+        "investors": []
+      },
+      "tags": [
+        "policy",
+        "Asia"
+      ],
+      "identitySource": {
+        "source": "https://www.aisi.gov.sg",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "japan-aisi",
+      "name": "Japan AI Safety Institute",
+      "description": "METI-backed institute coordinating Japanese frontier-model evaluations.",
+      "layers": [
+        "policy-standards"
+      ],
+      "subdomains": [
+        "AI safety institutes"
+      ],
+      "founded": 2024,
+      "founders": [
+        "Government of Japan"
+      ],
+      "headquarters": "Tokyo, Japan",
+      "website": "https://aisi.go.jp",
+      "entityType": "institution",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Government",
+        "investors": []
+      },
+      "tags": [
+        "policy",
+        "Japan"
+      ],
+      "identitySource": {
+        "source": "https://aisi.go.jp",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "unesco-ai",
+      "name": "UNESCO AI Ethics",
+      "description": "UN agency that adopted the Recommendation on the Ethics of Artificial Intelligence.",
+      "layers": [
+        "policy-standards"
+      ],
+      "subdomains": [
+        "Ethics & governance frameworks"
+      ],
+      "founded": 1945,
+      "founders": [
+        "United Nations"
+      ],
+      "headquarters": "Paris, France",
+      "website": "https://www.unesco.org/en/artificial-intelligence",
+      "entityType": "institution",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Intergovernmental",
+        "investors": []
+      },
+      "tags": [
+        "policy",
+        "UN"
+      ],
+      "identitySource": {
+        "source": "https://www.unesco.org/en/artificial-intelligence",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "ieee",
+      "name": "IEEE",
+      "description": "Standards body whose P7000 series and related groups write AI and autonomous-systems standards.",
+      "layers": [
+        "policy-standards"
+      ],
+      "subdomains": [
+        "Standards organizations"
+      ],
+      "founded": 1963,
+      "founders": [
+        "Institute of Electrical and Electronics Engineers"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://www.ieee.org",
+      "entityType": "institution",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Nonprofit",
+        "investors": []
+      },
+      "tags": [
+        "standards"
+      ],
+      "identitySource": {
+        "source": "https://www.ieee.org",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "iso",
+      "name": "ISO/IEC JTC 1/SC 42",
+      "description": "Joint ISO and IEC committee that publishes international AI management and risk standards.",
+      "layers": [
+        "policy-standards"
+      ],
+      "subdomains": [
+        "Standards organizations"
+      ],
+      "founded": 2017,
+      "founders": [
+        "ISO",
+        "IEC"
+      ],
+      "headquarters": "Geneva, Switzerland",
+      "website": "https://www.iso.org/committee/6794475.html",
+      "entityType": "institution",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Standards body",
+        "investors": []
+      },
+      "tags": [
+        "standards",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://www.iso.org/committee/6794475.html",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "vector-institute",
+      "name": "Vector Institute",
+      "description": "Toronto nonprofit research institute for deep learning and applied AI.",
+      "layers": [
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Nonprofit research institutes"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Geoffrey Hinton",
+        "Government of Ontario"
+      ],
+      "headquarters": "Toronto, Canada",
+      "website": "https://vectorinstitute.ai",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Nonprofit",
+        "investors": []
+      },
+      "tags": [
+        "research",
+        "Canada"
+      ],
+      "identitySource": {
+        "source": "https://vectorinstitute.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "alan-turing",
+      "name": "Alan Turing Institute",
+      "description": "The UK's national institute for data science and artificial intelligence.",
+      "layers": [
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Nonprofit research institutes"
+      ],
+      "founded": 2015,
+      "founders": [
+        "UK government"
+      ],
+      "headquarters": "London, UK",
+      "website": "https://www.turing.ac.uk",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "National institute",
+        "investors": []
+      },
+      "tags": [
+        "research",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://www.turing.ac.uk",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "inria",
+      "name": "Inria",
+      "description": "French national research institute for digital science, including large-scale AI programs.",
+      "layers": [
+        "research-institutions"
+      ],
+      "subdomains": [
+        "University research labs"
+      ],
+      "founded": 1967,
+      "founders": [
+        "French government"
+      ],
+      "headquarters": "Rocquencourt, France",
+      "website": "https://www.inria.fr",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "National institute",
+        "investors": []
+      },
+      "tags": [
+        "research",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://www.inria.fr",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "riken-aip",
+      "name": "RIKEN AIP",
+      "description": "Japan's national AI research center, part of RIKEN.",
+      "layers": [
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Nonprofit research institutes"
+      ],
+      "founded": 2016,
+      "founders": [
+        "RIKEN"
+      ],
+      "headquarters": "Tokyo, Japan",
+      "website": "https://www.riken.jp/en/research/labs/aip/",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "National institute",
+        "investors": []
+      },
+      "tags": [
+        "research",
+        "Japan"
+      ],
+      "identitySource": {
+        "source": "https://www.riken.jp/en/research/labs/aip/",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "calypso-ai",
+      "name": "CalypsoAI",
+      "description": "Model-security company that tests and gates generative AI before enterprise deployment.",
+      "layers": [
+        "safety-security"
+      ],
+      "subdomains": [
+        "Model security & red teaming"
+      ],
+      "founded": 2018,
+      "founders": [
+        "Neil Serebryany"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://calypsoai.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "security"
+      ],
+      "identitySource": {
+        "source": "https://calypsoai.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "robust-intelligence",
+      "name": "Robust Intelligence",
+      "description": "AI-security company (now part of Cisco) that tested models for failure modes.",
+      "layers": [
+        "safety-security"
+      ],
+      "subdomains": [
+        "Model security & red teaming"
+      ],
+      "founded": 2019,
+      "founders": [
+        "Yaron Singer",
+        "Kojin Oshiba"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.robustintelligence.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Acquired by Cisco",
+        "investors": []
+      },
+      "tags": [
+        "security",
+        "acquired"
+      ],
+      "identitySource": {
+        "source": "https://www.robustintelligence.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "saferai",
+      "name": "SaferAI",
+      "description": "Independent org that audits and rates the risk-management practices of frontier labs.",
+      "layers": [
+        "safety-security",
+        "policy-standards"
+      ],
+      "subdomains": [
+        "Model evaluation standards",
+        "Alignment research"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Siméon Campos"
+      ],
+      "headquarters": "Paris, France",
+      "website": "https://www.safer-ai.org",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Nonprofit",
+        "investors": []
+      },
+      "tags": [
+        "safety",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://www.safer-ai.org",
+        "date": "2026-10-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "palisade",
+      "name": "Palisade Research",
+      "description": "Research group studying offensive AI capabilities, cyber risk, and loss-of-control scenarios.",
+      "layers": [
+        "safety-security"
+      ],
+      "subdomains": [
+        "Alignment research",
+        "Model security & red teaming"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Jeffrey Ladish"
+      ],
+      "headquarters": "Berkeley, CA, USA",
+      "website": "https://palisaderesearch.org",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Nonprofit",
+        "investors": []
+      },
+      "tags": [
+        "safety"
+      ],
+      "identitySource": {
+        "source": "https://palisaderesearch.org",
+        "date": "2026-10-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "chai-berkeley",
+      "name": "CHAI",
+      "description": "UC Berkeley's Center for Human-Compatible AI, a leading academic alignment lab.",
+      "layers": [
+        "research-institutions",
+        "safety-security"
+      ],
+      "subdomains": [
+        "University research labs",
+        "Alignment research"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Stuart Russell"
+      ],
+      "headquarters": "Berkeley, CA, USA",
+      "website": "https://humancompatible.ai",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "University lab",
+        "investors": []
+      },
+      "tags": [
+        "alignment",
+        "academia"
+      ],
+      "identitySource": {
+        "source": "https://humancompatible.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "cifar",
+      "name": "CIFAR",
+      "description": "Canadian research organization that funded the original Toronto, Montreal, and Edmonton AI chairs.",
+      "layers": [
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Nonprofit research institutes"
+      ],
+      "founded": 1982,
+      "founders": [
+        "Canadian Institute for Advanced Research"
+      ],
+      "headquarters": "Toronto, Canada",
+      "website": "https://cifar.ca",
+      "entityType": "institution",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Nonprofit",
+        "investors": []
+      },
+      "tags": [
+        "research",
+        "Canada"
+      ],
+      "identitySource": {
+        "source": "https://cifar.ca",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    }
+  ]
+}

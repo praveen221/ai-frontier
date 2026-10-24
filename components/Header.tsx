@@ -47,6 +47,7 @@ export function Header() {
             <Link
               key={item.href}
               href={item.href}
+              aria-current={active(item.href) ? 'page' : undefined}
               className={`px-2 py-1 text-[13px] ${
                 active(item.href)
                   ? 'text-foreground'

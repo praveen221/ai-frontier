@@ -36,7 +36,16 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.tsmc.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "asml",
@@ -74,7 +83,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.asml.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "nvidia",
@@ -116,7 +133,16 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.nvidia.com/en-us/about-nvidia/",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "amd",
@@ -155,7 +181,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.amd.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "google-tpu",
@@ -224,7 +258,16 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.cerebras.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "groq",
@@ -261,7 +304,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://groq.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
     },
     {
       "id": "sambanova",
@@ -299,7 +350,16 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://sambanova.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "etched",
@@ -365,8 +425,9 @@
       "revenue": {
         "amount": "$90.8B",
         "period": "2023",
-        "source": "https://ir.aboutamazon.com/",
-        "date": "2024-02-01"
+        "notes": "AWS net sales, Amazon Form 10-K",
+        "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/amzn-20231231.htm",
+        "date": "2024-02-02"
       },
       "tags": [
         "cloud",
@@ -376,7 +437,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://aws.amazon.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "gcp",
@@ -403,8 +472,9 @@
       "revenue": {
         "amount": "$33.1B",
         "period": "2023",
-        "source": "https://abc.xyz/",
-        "date": "2024-01-30"
+        "notes": "Google Cloud revenues, Alphabet Form 10-K",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000022/goog-20231231.htm",
+        "date": "2024-01-31"
       },
       "tags": [
         "cloud",
@@ -415,7 +485,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://cloud.google.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "azure",
@@ -440,10 +518,11 @@
         "investors": []
       },
       "revenue": {
-        "amount": "$96.8B",
-        "period": "FY2023",
-        "source": "https://www.microsoft.com/investor",
-        "date": "2023-07-25"
+        "amount": "$96.5B",
+        "period": "FY2024",
+        "notes": "Intelligent Cloud revenue, Microsoft Form 10-K",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000095017024087843/msft-20240630.htm",
+        "date": "2024-07-30"
       },
       "tags": [
         "cloud",
@@ -454,7 +533,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://azure.microsoft.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "coreweave",
@@ -499,7 +586,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.coreweave.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "lambda-labs",
@@ -534,7 +629,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://lambdalabs.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
     },
     {
       "id": "scale-ai",
@@ -579,7 +682,16 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://scale.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "surge-ai",
@@ -658,7 +770,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.pinecone.io",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
     },
     {
       "id": "weaviate",
@@ -696,7 +816,16 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://weaviate.io",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "qdrant",
@@ -733,7 +862,16 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://qdrant.tech",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "chroma",
@@ -770,7 +908,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.trychroma.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
     },
     {
       "id": "openai",
@@ -820,7 +966,16 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://openai.com/about/",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "anthropic",
@@ -855,12 +1010,6 @@
         "source": "https://techcrunch.com/2024/11/22/anthropic-raises-4b/",
         "date": "2024-11-22"
       },
-      "valuation": {
-        "amount": "$60B",
-        "date": "2024-12-20",
-        "source": "https://www.ft.com/content/anthropic-valuation",
-        "notes": "Reported valuation in funding discussions"
-      },
       "tags": [
         "frontier lab",
         "Claude",
@@ -869,7 +1018,16 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.anthropic.com/company",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "google-deepmind",
@@ -905,7 +1063,16 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://deepmind.google/about/",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "xai",
@@ -925,22 +1092,17 @@
       "headquarters": "San Francisco, CA, USA",
       "website": "https://x.ai",
       "funding": {
-        "total": "$12B",
+        "total": "$6B",
         "stage": "Series C",
         "investors": [
-          "Valor Equity Partners",
-          "Vy Capital",
           "Andreessen Horowitz",
-          "Sequoia Capital"
+          "Sequoia Capital",
+          "Fidelity",
+          "Valor Equity Partners",
+          "MGX"
         ],
-        "source": "https://www.ft.com/content/xai-funding-dec-2024",
-        "date": "2024-12-15"
-      },
-      "valuation": {
-        "amount": "$50B",
-        "date": "2024-12-15",
-        "source": "https://www.wsj.com/tech/ai/elon-musk-xai-funding",
-        "notes": "Post-money valuation at Series C"
+        "source": "https://x.ai/news/series-c",
+        "date": "2024-12-23"
       },
       "tags": [
         "frontier lab",
@@ -949,7 +1111,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://x.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
     },
     {
       "id": "meta-ai",
@@ -981,7 +1151,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://ai.meta.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "mistral-ai",
@@ -1000,7 +1178,7 @@
       "founders": [
         "Arthur Mensch",
         "Guillaume Lample",
-        "Timoth\u00e9e Lacroix"
+        "Timothée Lacroix"
       ],
       "headquarters": "Paris, France",
       "website": "https://mistral.ai",
@@ -1030,7 +1208,16 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://mistral.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "deepseek",
@@ -1065,7 +1252,16 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.deepseek.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "cohere",
@@ -1111,7 +1307,16 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://cohere.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "ai21-labs",
@@ -1193,7 +1398,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://stability.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "midjourney",
@@ -1219,13 +1432,6 @@
         "stage": "Bootstrapped",
         "investors": []
       },
-      "revenue": {
-        "amount": "$200M",
-        "period": "2023",
-        "source": "https://www.theinformation.com/midjourney-revenue",
-        "date": "2023-08-18",
-        "notes": "Estimated annual revenue"
-      },
       "tags": [
         "image generation",
         "bootstrapped",
@@ -1233,7 +1439,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.midjourney.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
     },
     {
       "id": "runway",
@@ -1250,7 +1464,7 @@
       ],
       "founded": 2018,
       "founders": [
-        "Crist\u00f3bal Valenzuela",
+        "Cristóbal Valenzuela",
         "Alejandro Matamala",
         "Anastasis Germanidis"
       ],
@@ -1280,7 +1494,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://runwayml.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
     },
     {
       "id": "elevenlabs",
@@ -1296,7 +1518,7 @@
       ],
       "founded": 2022,
       "founders": [
-        "Piotr D\u0105bkowski",
+        "Piotr Dąbkowski",
         "Mati Staniszewski"
       ],
       "headquarters": "New York, NY, USA",
@@ -1325,7 +1547,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://elevenlabs.io",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
     },
     {
       "id": "suno",
@@ -1376,7 +1606,7 @@
       "id": "physical-intelligence",
       "name": "Physical Intelligence",
       "fullName": "Physical Intelligence",
-      "description": "Robotics AI company building general-purpose foundation models (\u03c00) that enable robots to learn diverse physical tasks.",
+      "description": "Robotics AI company building general-purpose foundation models (π0) that enable robots to learn diverse physical tasks.",
       "layers": [
         "models-robotics",
         "robotics-physical"
@@ -1453,7 +1683,7 @@
       "valuation": {
         "amount": "$1.5B",
         "date": "2024-07-17",
-        "source": "https://techcrunch.com/2024/07-17/skild-ai-raises-300m/",
+        "source": "https://techcrunch.com/2024/07/17/skild-ai-raises-300m/",
         "notes": "Post-money valuation"
       },
       "tags": [
@@ -1499,7 +1729,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.langchain.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
     },
     {
       "id": "llamaindex",
@@ -1678,7 +1916,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.together.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
     },
     {
       "id": "fireworks-ai",
@@ -1714,7 +1960,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://fireworks.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
     },
     {
       "id": "modal",
@@ -1884,7 +2138,7 @@
       "founded": 2021,
       "founders": [
         "David Haber",
-        "Mislav Balunovi\u0107"
+        "Mislav Balunović"
       ],
       "headquarters": "Zurich, Switzerland",
       "website": "https://www.lakera.ai",
@@ -1964,21 +2218,15 @@
       "headquarters": "San Francisco, CA, USA",
       "website": "https://www.cursor.com",
       "funding": {
-        "total": "$108M",
+        "total": "$60M",
         "stage": "Series A",
         "investors": [
           "Andreessen Horowitz",
           "Thrive Capital",
           "OpenAI"
         ],
-        "source": "https://techcrunch.com/2024/08/29/cursor-raises-60m/",
-        "date": "2024-08-29"
-      },
-      "valuation": {
-        "amount": "$2.6B",
-        "date": "2024-12-18",
-        "source": "https://www.ft.com/content/cursor-valuation-2024",
-        "notes": "Reported valuation in ongoing fundraise"
+        "source": "https://cursor.com/blog/series-a",
+        "date": "2024-08-22"
       },
       "tags": [
         "code editor",
@@ -1987,7 +2235,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.cursor.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
     },
     {
       "id": "github-copilot",
@@ -2010,13 +2266,6 @@
         "total": null,
         "stage": "Microsoft subsidiary",
         "investors": []
-      },
-      "revenue": {
-        "amount": "$2B",
-        "period": "2024 (projected ARR)",
-        "source": "https://www.ft.com/content/github-copilot-revenue-2024",
-        "date": "2024-10-15",
-        "notes": "Annual recurring revenue run rate"
       },
       "tags": [
         "code completion",
@@ -2059,12 +2308,6 @@
         "source": "https://blog.perplexity.ai/blog/perplexity-raises-series-b",
         "date": "2024-04-23"
       },
-      "valuation": {
-        "amount": "$9B",
-        "date": "2024-12-17",
-        "source": "https://www.wsj.com/tech/ai/perplexity-valuation-2024",
-        "notes": "Reported valuation in ongoing fundraise"
-      },
       "tags": [
         "search",
         "answer engine",
@@ -2072,7 +2315,16 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.perplexity.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "glean",
@@ -2105,19 +2357,22 @@
         "source": "https://www.glean.com/blog/series-d",
         "date": "2024-02-27"
       },
-      "valuation": {
-        "amount": "$4.6B",
-        "date": "2024-09-09",
-        "source": "https://techcrunch.com/2024/09/09/glean-valuation/",
-        "notes": "Reported valuation"
-      },
       "tags": [
         "enterprise search",
         "knowledge management"
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.glean.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "harvey",
@@ -2160,7 +2415,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.harvey.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
     },
     {
       "id": "figure-ai",
@@ -2205,7 +2468,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.figure.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
     },
     {
       "id": "1x-technologies",
@@ -2220,7 +2491,7 @@
       ],
       "founded": 2014,
       "founders": [
-        "Bernt \u00d8ivind B\u00f8rnich"
+        "Bernt Øivind Børnich"
       ],
       "headquarters": "Sunnyvale, CA, USA / Norway",
       "website": "https://www.1x.tech",
@@ -2288,7 +2559,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.anduril.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
     },
     {
       "id": "nist-aisi",
@@ -2320,7 +2599,15 @@
       ],
       "entityType": "institution",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.nist.gov/aisi",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "uk-aisi",
@@ -2351,7 +2638,15 @@
       ],
       "entityType": "institution",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.aisi.gov.uk",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "a16z",
@@ -2382,7 +2677,16 @@
       ],
       "entityType": "investor",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://a16z.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "sequoia",
@@ -2412,7 +2716,15 @@
       ],
       "entityType": "investor",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.sequoiacap.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "databricks",
@@ -2461,7 +2773,16 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.databricks.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "notion",
@@ -2504,7 +2825,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://www.notion.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
     },
     {
       "id": "character-ai",
@@ -2548,7 +2877,15 @@
       ],
       "entityType": "company",
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-24",
+      "identitySource": {
+        "source": "https://character.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
     },
     {
       "id": "hugging-face",
@@ -2565,7 +2902,7 @@
       ],
       "founded": 2016,
       "founders": [
-        "Cl\u00e9ment Delangue",
+        "Clément Delangue",
         "Julien Chaumond",
         "Thomas Wolf"
       ],

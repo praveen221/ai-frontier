@@ -1,0 +1,1369 @@
+{
+  "companies": [
+    {
+      "id": "appen",
+      "name": "Appen",
+      "description": "Public data-for-AI company that collects and annotates training data across languages and modalities.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Data labeling & annotation"
+      ],
+      "founded": 1996,
+      "founders": [
+        "Julie Vonwiller"
+      ],
+      "headquarters": "Sydney, Australia",
+      "website": "https://www.appen.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "labeling",
+        "public",
+        "Australia"
+      ],
+      "fullName": "Appen Limited",
+      "identitySource": {
+        "source": "https://www.appen.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "superannotate",
+      "name": "SuperAnnotate",
+      "description": "Platform for multimodal data labeling, QA, and dataset management used to train models.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Data labeling & annotation"
+      ],
+      "founded": 2018,
+      "founders": [
+        "Tigran Galstyan",
+        "Vahan Petrosyan"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.superannotate.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "labeling",
+        "multimodal"
+      ],
+      "identitySource": {
+        "source": "https://www.superannotate.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "toloka",
+      "name": "Toloka",
+      "description": "Crowdsourcing and expert-labeling platform for LLM evaluation, RLHF, and multilingual data.",
+      "layers": [
+        "data-platforms",
+        "dev-tools"
+      ],
+      "subdomains": [
+        "Data labeling & annotation",
+        "Evaluation platforms"
+      ],
+      "founded": 2014,
+      "founders": [
+        "Yandex"
+      ],
+      "headquarters": "Amsterdam, Netherlands",
+      "website": "https://toloka.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "labeling",
+        "evals",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://toloka.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "hive",
+      "name": "Hive",
+      "description": "AI data-labeling and content-moderation company that also sells prebuilt vision and text models.",
+      "layers": [
+        "data-platforms",
+        "safety-security"
+      ],
+      "subdomains": [
+        "Data labeling & annotation",
+        "Content moderation & guardrails"
+      ],
+      "founded": 2013,
+      "founders": [
+        "Kevin Guo",
+        "Dmitriy Galaktionov"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://thehive.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "labeling",
+        "moderation"
+      ],
+      "identitySource": {
+        "source": "https://thehive.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "defined-ai",
+      "name": "Defined.ai",
+      "description": "Ethical training-data marketplace for speech, NLP, and computer-vision datasets.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Data labeling & annotation"
+      ],
+      "founded": 2015,
+      "founders": [
+        "Daniela Braga"
+      ],
+      "headquarters": "Seattle, WA, USA",
+      "website": "https://www.defined.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "datasets",
+        "speech"
+      ],
+      "identitySource": {
+        "source": "https://www.defined.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "cleanlab",
+      "name": "Cleanlab",
+      "description": "Data-centric AI software that finds label errors and improves dataset quality automatically.",
+      "layers": [
+        "data-platforms",
+        "dev-tools"
+      ],
+      "subdomains": [
+        "Data labeling & annotation",
+        "Evaluation platforms"
+      ],
+      "founded": 2021,
+      "founders": [
+        "Curtis Northcutt",
+        "Anish Athalye",
+        "Jonas Mueller"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://cleanlab.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "data quality"
+      ],
+      "identitySource": {
+        "source": "https://cleanlab.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "gretel",
+      "name": "Gretel",
+      "description": "Synthetic-data platform for generating privacy-safe tabular, text, and sequential datasets.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Synthetic data generation"
+      ],
+      "founded": 2019,
+      "founders": [
+        "Ali Golshan",
+        "Alex Watson",
+        "John Johnson"
+      ],
+      "headquarters": "San Diego, CA, USA",
+      "website": "https://gretel.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "synthetic data",
+        "privacy"
+      ],
+      "identitySource": {
+        "source": "https://gretel.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "mostly-ai",
+      "name": "MOSTLY AI",
+      "description": "Vienna-based synthetic-data vendor for privacy-preserving tabular data used in analytics and AI.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Synthetic data generation"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Michael Platzer",
+        "Klaudius Kalcher"
+      ],
+      "headquarters": "Vienna, Austria",
+      "website": "https://mostly.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "synthetic data",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://mostly.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "tonic-ai",
+      "name": "Tonic.ai",
+      "description": "De-identification and synthetic-data platform that creates safe copies of production databases.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Synthetic data generation"
+      ],
+      "founded": 2018,
+      "founders": [
+        "Ian Coe"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.tonic.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "synthetic data"
+      ],
+      "identitySource": {
+        "source": "https://www.tonic.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "landing-ai",
+      "name": "Landing AI",
+      "description": "Andrew Ng's company for visual inspection and data-centric computer-vision tooling.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Data labeling & annotation"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Andrew Ng"
+      ],
+      "headquarters": "Palo Alto, CA, USA",
+      "website": "https://landing.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "computer vision",
+        "data-centric"
+      ],
+      "identitySource": {
+        "source": "https://landing.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "arize",
+      "name": "Arize AI",
+      "description": "ML observability platform for production monitoring, tracing, and evaluation of LLM applications.",
+      "layers": [
+        "dev-tools"
+      ],
+      "subdomains": [
+        "LLM observability & tracing"
+      ],
+      "founded": 2020,
+      "founders": [
+        "Jason Lopatecki",
+        "Aparna Dhinakaran"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://arize.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "observability",
+        "evals"
+      ],
+      "identitySource": {
+        "source": "https://arize.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "fiddler",
+      "name": "Fiddler AI",
+      "description": "Model monitoring and explainability platform for traditional ML and generative AI systems.",
+      "layers": [
+        "dev-tools"
+      ],
+      "subdomains": [
+        "LLM observability & tracing"
+      ],
+      "founded": 2018,
+      "founders": [
+        "Krishna Gade",
+        "Amit Paka"
+      ],
+      "headquarters": "Palo Alto, CA, USA",
+      "website": "https://www.fiddler.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "observability",
+        "explainability"
+      ],
+      "identitySource": {
+        "source": "https://www.fiddler.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "whylabs",
+      "name": "WhyLabs",
+      "description": "Data- and ML-monitoring company built around the open-source whylogs telemetry standard.",
+      "layers": [
+        "dev-tools"
+      ],
+      "subdomains": [
+        "LLM observability & tracing"
+      ],
+      "founded": 2019,
+      "founders": [
+        "Alessya Visnjic",
+        "Andy Dang"
+      ],
+      "headquarters": "Seattle, WA, USA",
+      "website": "https://whylabs.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "observability"
+      ],
+      "identitySource": {
+        "source": "https://whylabs.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "helicone",
+      "name": "Helicone",
+      "description": "Open-source LLM observability gateway for logging, cost tracking, and prompt analytics.",
+      "layers": [
+        "dev-tools"
+      ],
+      "subdomains": [
+        "LLM observability & tracing"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Justin Torre",
+        "Cole Gottdank"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.helicone.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "observability",
+        "open-source"
+      ],
+      "identitySource": {
+        "source": "https://www.helicone.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "humanloop",
+      "name": "Humanloop",
+      "description": "London evaluation and prompt-engineering platform for teams shipping LLM applications.",
+      "layers": [
+        "dev-tools"
+      ],
+      "subdomains": [
+        "Evaluation platforms",
+        "Prompt engineering tools"
+      ],
+      "founded": 2020,
+      "founders": [
+        "Raza Habib"
+      ],
+      "headquarters": "London, UK",
+      "website": "https://humanloop.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "evals",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://humanloop.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "comet-ml",
+      "name": "Comet",
+      "description": "Experiment-tracking and model-management platform for machine-learning teams.",
+      "layers": [
+        "dev-tools"
+      ],
+      "subdomains": [
+        "Experiment tracking"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Gideon Mendels"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://www.comet.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "experiment tracking"
+      ],
+      "identitySource": {
+        "source": "https://www.comet.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "neptune-ai",
+      "name": "Neptune.ai",
+      "description": "Polish experiment-tracking and model-registry product used by ML research and applied teams.",
+      "layers": [
+        "dev-tools"
+      ],
+      "subdomains": [
+        "Experiment tracking"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Piotr Niedźwiedź"
+      ],
+      "headquarters": "Warsaw, Poland",
+      "website": "https://neptune.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "experiment tracking",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://neptune.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "patronus-ai",
+      "name": "Patronus AI",
+      "description": "Automated evaluation and red-teaming platform for LLM hallucinations, safety, and quality.",
+      "layers": [
+        "dev-tools",
+        "safety-security"
+      ],
+      "subdomains": [
+        "Evaluation platforms",
+        "Model security & red teaming"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Anand Kannappan",
+        "Rebecca Qian"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://www.patronus.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "evals",
+        "red team"
+      ],
+      "identitySource": {
+        "source": "https://www.patronus.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "promptfoo",
+      "name": "Promptfoo",
+      "description": "Open-source eval framework for testing prompts, RAG systems, and model outputs in CI.",
+      "layers": [
+        "dev-tools"
+      ],
+      "subdomains": [
+        "Evaluation platforms",
+        "Prompt engineering tools"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Ian Webster"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.promptfoo.dev",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "evals",
+        "open-source"
+      ],
+      "identitySource": {
+        "source": "https://www.promptfoo.dev",
+        "date": "2026-10-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "galileo-ai",
+      "name": "Galileo",
+      "description": "Evaluation and observability platform focused on hallucination detection and LLM quality.",
+      "layers": [
+        "dev-tools"
+      ],
+      "subdomains": [
+        "Evaluation platforms",
+        "LLM observability & tracing"
+      ],
+      "founded": 2021,
+      "founders": [
+        "Vikram Chatterji",
+        "Atindriyo Sanyal"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.galileo.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "evals"
+      ],
+      "identitySource": {
+        "source": "https://www.galileo.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "zilliz",
+      "name": "Zilliz",
+      "description": "Commercial company behind the open-source Milvus vector database for similarity search.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Vector databases"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Charles Xie"
+      ],
+      "headquarters": "Redwood City, CA, USA",
+      "website": "https://zilliz.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "vector db",
+        "Milvus"
+      ],
+      "identitySource": {
+        "source": "https://zilliz.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "vespa-ai",
+      "name": "Vespa",
+      "description": "Open-source serving engine for search, recommendation, and vector retrieval, spun out of Yahoo.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Vector databases"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Yahoo"
+      ],
+      "headquarters": "Trondheim, Norway",
+      "website": "https://vespa.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "search",
+        "vector db",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://vespa.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "elastic",
+      "name": "Elastic",
+      "description": "Public search company whose Elasticsearch stack now includes vector and hybrid retrieval for RAG.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Vector databases",
+        "Data pipelines & ETL"
+      ],
+      "founded": 2012,
+      "founders": [
+        "Shay Banon"
+      ],
+      "headquarters": "Amsterdam, Netherlands",
+      "website": "https://www.elastic.co",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "search",
+        "public",
+        "Europe"
+      ],
+      "fullName": "Elastic N.V.",
+      "identitySource": {
+        "source": "https://www.elastic.co",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "unstructured",
+      "name": "Unstructured",
+      "description": "ETL platform that turns PDFs, HTML, and other messy documents into LLM-ready data.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Data pipelines & ETL"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Brian Raymond"
+      ],
+      "headquarters": "Bethesda, MD, USA",
+      "website": "https://unstructured.io",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "ETL",
+        "documents"
+      ],
+      "identitySource": {
+        "source": "https://unstructured.io",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "lancedb",
+      "name": "LanceDB",
+      "description": "Embedded multimodal vector database built on the Lance columnar format for RAG and search.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Vector databases"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Chang She",
+        "Lei Xu"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://lancedb.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "vector db"
+      ],
+      "identitySource": {
+        "source": "https://lancedb.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "snowflake",
+      "name": "Snowflake",
+      "description": "Public data-cloud company offering Cortex LLM functions, Arctic models, and vector search.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Data pipelines & ETL"
+      ],
+      "founded": 2012,
+      "founders": [
+        "Benoit Dageville",
+        "Thierry Cruanes",
+        "Marcin Zukowski"
+      ],
+      "headquarters": "Bozeman, MT, USA",
+      "website": "https://www.snowflake.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "data cloud",
+        "public"
+      ],
+      "fullName": "Snowflake Inc.",
+      "identitySource": {
+        "source": "https://www.snowflake.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "dbt-labs",
+      "name": "dbt Labs",
+      "description": "Analytics-engineering company behind dbt, used to transform warehouse data before it reaches models.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Data pipelines & ETL"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Tristan Handy"
+      ],
+      "headquarters": "Philadelphia, PA, USA",
+      "website": "https://www.getdbt.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "ETL",
+        "analytics"
+      ],
+      "identitySource": {
+        "source": "https://www.getdbt.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "airbyte",
+      "name": "Airbyte",
+      "description": "Open-source data-integration platform that moves operational data into warehouses and AI pipelines.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Data pipelines & ETL"
+      ],
+      "founded": 2020,
+      "founders": [
+        "Michel Tricot",
+        "John Lafleur"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://airbyte.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "ETL",
+        "open-source"
+      ],
+      "identitySource": {
+        "source": "https://airbyte.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "fivetran",
+      "name": "Fivetran",
+      "description": "Managed ELT service that syncs SaaS and database sources into warehouses used by AI teams.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Data pipelines & ETL"
+      ],
+      "founded": 2012,
+      "founders": [
+        "George Fraser",
+        "Taylor Brown"
+      ],
+      "headquarters": "Oakland, CA, USA",
+      "website": "https://www.fivetran.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "ETL"
+      ],
+      "identitySource": {
+        "source": "https://www.fivetran.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "neo4j",
+      "name": "Neo4j",
+      "description": "Graph-database company used for knowledge graphs, GraphRAG, and relationship-aware retrieval.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Knowledge graphs"
+      ],
+      "founded": 2007,
+      "founders": [
+        "Emil Eifrem",
+        "Johan Svensson",
+        "Peter Neubauer"
+      ],
+      "headquarters": "San Mateo, CA, USA",
+      "website": "https://neo4j.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "graph",
+        "knowledge graph"
+      ],
+      "identitySource": {
+        "source": "https://neo4j.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "diffbot",
+      "name": "Diffbot",
+      "description": "Web-scale knowledge-graph company that extracts structured facts from the public internet.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Knowledge graphs"
+      ],
+      "founded": 2008,
+      "founders": [
+        "Mike Tung"
+      ],
+      "headquarters": "Menlo Park, CA, USA",
+      "website": "https://www.diffbot.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "knowledge graph"
+      ],
+      "identitySource": {
+        "source": "https://www.diffbot.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "parallel-domain",
+      "name": "Parallel Domain",
+      "description": "Synthetic sensor-data platform for training perception models in autonomy and robotics.",
+      "layers": [
+        "data-platforms",
+        "autonomous-systems"
+      ],
+      "subdomains": [
+        "Synthetic data generation",
+        "Autonomous vehicles (L4/L5)"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Kevin McNamara"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://paralleldomain.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "synthetic data",
+        "autonomy"
+      ],
+      "identitySource": {
+        "source": "https://paralleldomain.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "synthesis-ai",
+      "name": "Synthesis AI",
+      "description": "Synthetic image and video generation for computer-vision training data.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Synthetic data generation"
+      ],
+      "founded": 2019,
+      "founders": [
+        "Yashar Behzadi"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://synthesis.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "synthetic data",
+        "vision"
+      ],
+      "identitySource": {
+        "source": "https://synthesis.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "valohai",
+      "name": "Valohai",
+      "description": "Finnish MLOps platform for reproducible training pipelines on any cloud or on-prem cluster.",
+      "layers": [
+        "dev-tools"
+      ],
+      "subdomains": [
+        "Experiment tracking",
+        "Fine-tuning platforms"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Otso Helenius"
+      ],
+      "headquarters": "Turku, Finland",
+      "website": "https://valohai.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "MLOps",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://valohai.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "confident-ai",
+      "name": "Confident AI",
+      "description": "Company behind DeepEval, an open-source LLM evaluation framework and hosted eval platform.",
+      "layers": [
+        "dev-tools"
+      ],
+      "subdomains": [
+        "Evaluation platforms"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Jeffrey Ip",
+        "Kritin Vongthongsri"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.confident-ai.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "evals",
+        "open-source"
+      ],
+      "identitySource": {
+        "source": "https://www.confident-ai.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "haize-labs",
+      "name": "Haize Labs",
+      "description": "Red-teaming and evaluation startup that stress-tests models for jailbreaks and safety failures.",
+      "layers": [
+        "safety-security",
+        "dev-tools"
+      ],
+      "subdomains": [
+        "Model security & red teaming",
+        "Evaluation platforms"
+      ],
+      "founded": 2024,
+      "founders": [
+        "Leonard Tang"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://haizelabs.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "red team",
+        "safety"
+      ],
+      "identitySource": {
+        "source": "https://haizelabs.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    }
+  ]
+}

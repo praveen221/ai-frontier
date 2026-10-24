@@ -7,7 +7,7 @@ AI Frontier is a static directory. The site is generated from versioned JSON. A 
 | File | Purpose |
 | --- | --- |
 | `data/taxonomy.json` | Ordered layers and subdomains. Each layer has a one-line explainer. |
-| `data/companies.json` | Seed catalog (or split later into `data/companies/*.json`, one file per layer). |
+| `data/companies.json` | Seed catalog. Later files in `data/companies/*.json` overlay by `id`. |
 
 `npm run validate` reads either the single companies file or every `data/companies/*.json` file.
 
@@ -40,11 +40,18 @@ AI Frontier is a static directory. The site is generated from versioned JSON. A 
     "source": "https://example.com/blog/seed",
     "notes": "Post-money at seed"
   },
+  "identitySource": {
+    "source": "https://example.com/about",
+    "date": "2026-10-24",
+    "fields": ["founders", "founded", "headquarters"]
+  },
   "tags": ["open-weight"]
 }
 ```
 
 `entityType` is one of `company`, `research`, `institution`, `investor`. Academic and nonprofit labs use `research`. Government bodies use `institution`.
+
+`identitySource` is optional. Add it only when the linked page actually states the listed fields (founders, founding year, and/or HQ).
 
 ## Accuracy rules
 

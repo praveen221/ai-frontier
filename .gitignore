@@ -11,4 +11,6 @@ yarn-error.log*
 .env*.local
 *.tsbuildinfo
 next-env.d.ts
-public/og/*.svg
+public/og/*
+public/sitemap.xml
+public/robots.txt

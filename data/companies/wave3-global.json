@@ -1,0 +1,2160 @@
+{
+  "companies": [
+    {
+      "id": "aleph-alpha",
+      "name": "Aleph Alpha",
+      "description": "Heidelberg lab building sovereign European foundation models and an enterprise OS for LLMs.",
+      "layers": [
+        "models-frontier"
+      ],
+      "subdomains": [
+        "Frontier language models (GPT-4, Claude, Gemini)"
+      ],
+      "founded": 2019,
+      "founders": [
+        "Jonas Andrulis"
+      ],
+      "headquarters": "Heidelberg, Germany",
+      "website": "https://aleph-alpha.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$500M+",
+        "stage": "Series B",
+        "investors": [
+          "Ipai",
+          "Bosch Ventures",
+          "Schwarz Group"
+        ],
+        "source": "https://aleph-alpha.com/en/news/half-billion-dollar-investment-round/",
+        "date": "2023-11-06"
+      },
+      "tags": [
+        "frontier lab",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://aleph-alpha.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "deepl",
+      "name": "DeepL",
+      "description": "Cologne translation company whose models compete with the largest labs on language quality.",
+      "layers": [
+        "models-audio",
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Audio transcription & understanding",
+        "Document intelligence"
+      ],
+      "founded": 2009,
+      "founders": [
+        "Jarosław Kutylowski"
+      ],
+      "headquarters": "Cologne, Germany",
+      "website": "https://www.deepl.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "translation",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://www.deepl.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "silo-ai",
+      "name": "Silo AI",
+      "description": "Helsinki applied-AI lab, now part of AMD, that built private models for European industry.",
+      "layers": [
+        "models-open"
+      ],
+      "subdomains": [
+        "Domain-specific open models"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Peter Sarlin"
+      ],
+      "headquarters": "Helsinki, Finland",
+      "website": "https://www.silo.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Acquired by AMD",
+        "investors": []
+      },
+      "tags": [
+        "Europe",
+        "acquired"
+      ],
+      "identitySource": {
+        "source": "https://www.silo.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "lighton",
+      "name": "LightOn",
+      "description": "Paris lab building large language models and retrieval systems for enterprise use.",
+      "layers": [
+        "models-open"
+      ],
+      "subdomains": [
+        "Open language models (Llama, Mistral, Qwen)"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Igor Carron",
+        "Laurent Daudet"
+      ],
+      "headquarters": "Paris, France",
+      "website": "https://www.lighton.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "Europe",
+        "open-weight"
+      ],
+      "identitySource": {
+        "source": "https://www.lighton.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "kyutai",
+      "name": "Kyutai",
+      "description": "Paris nonprofit lab funded by Xavier Niel to train and release open multimodal models.",
+      "layers": [
+        "models-open",
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Open language models (Llama, Mistral, Qwen)",
+        "Nonprofit research institutes"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Xavier Niel",
+        "Neil Zeghidour",
+        "Alexandre Défossez"
+      ],
+      "headquarters": "Paris, France",
+      "website": "https://kyutai.org",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Nonprofit",
+        "investors": []
+      },
+      "tags": [
+        "Europe",
+        "nonprofit",
+        "open-weight"
+      ],
+      "identitySource": {
+        "source": "https://kyutai.org",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "h-company",
+      "name": "H Company",
+      "description": "Paris lab (formerly Holistic AI) training computer-use and multimodal agents.",
+      "layers": [
+        "models-frontier",
+        "agents-memory"
+      ],
+      "subdomains": [
+        "Multimodal foundation models",
+        "Tool use & orchestration"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Charles Kantor"
+      ],
+      "headquarters": "Paris, France",
+      "website": "https://www.hcompany.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "Europe",
+        "agents"
+      ],
+      "identitySource": {
+        "source": "https://www.hcompany.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "photoroom",
+      "name": "Photoroom",
+      "description": "Paris consumer and API product for background removal and AI product photography.",
+      "layers": [
+        "apps-creative"
+      ],
+      "subdomains": [
+        "Image editing & generation"
+      ],
+      "founded": 2019,
+      "founders": [
+        "Matthieu Rouif",
+        "Eliot Andres"
+      ],
+      "headquarters": "Paris, France",
+      "website": "https://www.photoroom.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "creative",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://www.photoroom.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "synthesia",
+      "name": "Synthesia",
+      "description": "London company that turns scripts into presenter videos with AI avatars.",
+      "layers": [
+        "apps-creative",
+        "models-video"
+      ],
+      "subdomains": [
+        "Video editing & effects",
+        "Text-to-video generation"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Victor Riparbelli",
+        "Steffen Tjerrild"
+      ],
+      "headquarters": "London, UK",
+      "website": "https://www.synthesia.io",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$330M+",
+        "stage": "Series D",
+        "investors": [
+          "NEA",
+          "GV",
+          "MMC Ventures",
+          "FirstMark"
+        ],
+        "source": "https://www.synthesia.io/post/synthesia-secures-180m-in-series-d-funding",
+        "date": "2025-01-15"
+      },
+      "tags": [
+        "video",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://www.synthesia.io",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "wayve",
+      "name": "Wayve",
+      "description": "London autonomous-driving lab training end-to-end embodied models for cars.",
+      "layers": [
+        "autonomous-systems",
+        "models-robotics"
+      ],
+      "subdomains": [
+        "Autonomous vehicles (L4/L5)",
+        "Robotics foundation models"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Alex Kendall",
+        "Amar Shah",
+        "Jamie Shotton"
+      ],
+      "headquarters": "London, UK",
+      "website": "https://wayve.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$1.05B",
+        "stage": "Series C",
+        "investors": [
+          "SoftBank Group",
+          "NVIDIA",
+          "Microsoft"
+        ],
+        "source": "https://wayve.ai/press/series-c/",
+        "date": "2024-05-07"
+      },
+      "tags": [
+        "AV",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://wayve.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "oxa",
+      "name": "Oxa",
+      "description": "Oxford autonomy company (formerly Oxbotica) building software for industrial vehicles.",
+      "layers": [
+        "autonomous-systems"
+      ],
+      "subdomains": [
+        "Autonomous vehicles (L4/L5)"
+      ],
+      "founded": 2014,
+      "founders": [
+        "Paul Newman",
+        "Ingmar Posner"
+      ],
+      "headquarters": "Oxford, UK",
+      "website": "https://oxa.tech",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "AV",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://oxa.tech",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "instadeep",
+      "name": "InstaDeep",
+      "description": "London/Tunis decision-making lab, now part of BioNTech, known for biology and RL research.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Drug discovery & biotech"
+      ],
+      "founded": 2014,
+      "founders": [
+        "Karim Beguir",
+        "Zohra Slim"
+      ],
+      "headquarters": "London, UK",
+      "website": "https://instadeep.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Acquired by BioNTech",
+        "investors": []
+      },
+      "tags": [
+        "biotech",
+        "Africa",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://instadeep.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "igenius",
+      "name": "iGenius",
+      "description": "Milan enterprise-AI company building Crystal, a sovereign assistant for regulated industries.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Internal chatbots",
+        "Document intelligence"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Uljan Sharka"
+      ],
+      "headquarters": "Milan, Italy",
+      "website": "https://igenius.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "enterprise",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://igenius.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "tractable",
+      "name": "Tractable",
+      "description": "London computer-vision company that estimates accident and disaster damage for insurers.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Insurance underwriting"
+      ],
+      "founded": 2014,
+      "founders": [
+        "Alex Dalyac",
+        "Razvan Ranca",
+        "Aditya Sanghrajka"
+      ],
+      "headquarters": "London, UK",
+      "website": "https://tractable.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "insurance",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://tractable.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "faculty-ai",
+      "name": "Faculty",
+      "description": "London applied-AI firm that builds decision systems for government and enterprise.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Workflow automation"
+      ],
+      "founded": 2014,
+      "founders": [
+        "Marc Warner"
+      ],
+      "headquarters": "London, UK",
+      "website": "https://faculty.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "enterprise",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://faculty.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "uipath",
+      "name": "UiPath",
+      "description": "Public automation company, founded in Bucharest, that now ships AI agents with its RPA platform.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Workflow automation"
+      ],
+      "founded": 2005,
+      "founders": [
+        "Daniel Dines",
+        "Marius Tîrcă"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://www.uipath.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "RPA",
+        "public",
+        "Europe"
+      ],
+      "fullName": "UiPath, Inc.",
+      "identitySource": {
+        "source": "https://www.uipath.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "fractal-ai",
+      "name": "Fractal",
+      "description": "Mumbai analytics and AI services firm that also builds products for large enterprises.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Workflow automation",
+        "Document intelligence"
+      ],
+      "founded": 2000,
+      "founders": [
+        "Srikanth Velamakanni",
+        "Pranay Agrawal"
+      ],
+      "headquarters": "Mumbai, India",
+      "website": "https://fractal.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "services",
+        "India"
+      ],
+      "identitySource": {
+        "source": "https://fractal.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "yellow-ai",
+      "name": "Yellow.ai",
+      "description": "Conversational-AI platform for customer support, founded in India with a global footprint.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Customer support automation"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Rashid Khan",
+        "Jaya Kishore Reddy"
+      ],
+      "headquarters": "San Mateo, CA, USA",
+      "website": "https://yellow.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "support",
+        "India"
+      ],
+      "identitySource": {
+        "source": "https://yellow.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "haptik",
+      "name": "Haptik",
+      "description": "Mumbai conversational-AI company, now part of Reliance, used for customer support bots.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Customer support automation"
+      ],
+      "founded": 2013,
+      "founders": [
+        "Aakrit Vaish",
+        "Swapan Rajdev"
+      ],
+      "headquarters": "Mumbai, India",
+      "website": "https://www.haptik.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Reliance Jio subsidiary",
+        "investors": []
+      },
+      "tags": [
+        "support",
+        "India"
+      ],
+      "identitySource": {
+        "source": "https://www.haptik.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "observe-ai",
+      "name": "Observe.AI",
+      "description": "Contact-center AI that scores and assists agents from voice and chat transcripts.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Customer support automation"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Swapnil Jain",
+        "Jithendra Vepa"
+      ],
+      "headquarters": "Redwood City, CA, USA",
+      "website": "https://www.observe.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "support",
+        "India"
+      ],
+      "identitySource": {
+        "source": "https://www.observe.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "uniphore",
+      "name": "Uniphore",
+      "description": "Enterprise conversational-AI company founded in Chennai, now headquartered in Palo Alto.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Customer support automation"
+      ],
+      "founded": 2008,
+      "founders": [
+        "Umesh Sachdev",
+        "Ravi Saraogi"
+      ],
+      "headquarters": "Palo Alto, CA, USA",
+      "website": "https://www.uniphore.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "support",
+        "India"
+      ],
+      "identitySource": {
+        "source": "https://www.uniphore.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "gnani",
+      "name": "Gnani.ai",
+      "description": "Bengaluru speech-AI company building voicebots and multilingual ASR for India.",
+      "layers": [
+        "models-audio",
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Audio transcription & understanding",
+        "Customer support automation"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Ramu V. Adothu"
+      ],
+      "headquarters": "Bengaluru, India",
+      "website": "https://www.gnani.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "speech",
+        "India"
+      ],
+      "identitySource": {
+        "source": "https://www.gnani.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "skit-ai",
+      "name": "Skit.ai",
+      "description": "Voice-automation company (formerly Vernacular.ai) for collections and customer operations.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Customer support automation"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Sourabh Gupta",
+        "Akshay Deshraj"
+      ],
+      "headquarters": "Bengaluru, India",
+      "website": "https://skit.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "voice",
+        "India"
+      ],
+      "identitySource": {
+        "source": "https://skit.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "e2e-networks",
+      "name": "E2E Networks",
+      "description": "Indian GPU-cloud and sovereign-infrastructure provider listed in India.",
+      "layers": [
+        "infrastructure-cloud"
+      ],
+      "subdomains": [
+        "GPU cloud providers"
+      ],
+      "founded": 2009,
+      "founders": [
+        "Tarun Dua"
+      ],
+      "headquarters": "New Delhi, India",
+      "website": "https://www.e2enetworks.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "neocloud",
+        "India",
+        "public"
+      ],
+      "identitySource": {
+        "source": "https://www.e2enetworks.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "ai4bharat",
+      "name": "AI4Bharat",
+      "description": "IIT Madras research lab releasing open datasets and models for Indian languages.",
+      "layers": [
+        "research-institutions",
+        "models-open"
+      ],
+      "subdomains": [
+        "University research labs",
+        "Multilingual models"
+      ],
+      "founded": 2019,
+      "founders": [
+        "Mitesh Khapra",
+        "Pratyush Kumar"
+      ],
+      "headquarters": "Chennai, India",
+      "website": "https://ai4bharat.org",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Research lab",
+        "investors": []
+      },
+      "tags": [
+        "India",
+        "open-source",
+        "research"
+      ],
+      "identitySource": {
+        "source": "https://ai4bharat.org",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "preferred-networks",
+      "name": "Preferred Networks",
+      "description": "Tokyo deep-learning company spanning chips, robotics, and industrial AI.",
+      "layers": [
+        "models-robotics",
+        "chips-silicon"
+      ],
+      "subdomains": [
+        "Robotics foundation models",
+        "Custom AI accelerators (TPU, Trainium, etc.)"
+      ],
+      "founded": 2014,
+      "founders": [
+        "Toru Nishikawa",
+        "Daisuke Okanohara"
+      ],
+      "headquarters": "Tokyo, Japan",
+      "website": "https://www.preferred.jp",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "Japan",
+        "robotics"
+      ],
+      "identitySource": {
+        "source": "https://www.preferred.jp",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "abeja",
+      "name": "ABEJA",
+      "description": "Tokyo AI platform company listed in Japan, focused on retail and industrial computer vision.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Document intelligence"
+      ],
+      "founded": 2012,
+      "founders": [
+        "Yosuke Okada"
+      ],
+      "headquarters": "Tokyo, Japan",
+      "website": "https://abejainc.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "Japan",
+        "public"
+      ],
+      "identitySource": {
+        "source": "https://abejainc.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "pksha",
+      "name": "PKSHA Technology",
+      "description": "Tokyo public company building language and prediction algorithms for Japanese industry.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Document intelligence"
+      ],
+      "founded": 2012,
+      "founders": [
+        "Katsuya Uenoyama"
+      ],
+      "headquarters": "Tokyo, Japan",
+      "website": "https://www.pkshatech.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "Japan",
+        "public"
+      ],
+      "identitySource": {
+        "source": "https://www.pkshatech.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "elyza",
+      "name": "ELYZA",
+      "description": "University-of-Tokyo spin-out training Japanese large language models.",
+      "layers": [
+        "models-open"
+      ],
+      "subdomains": [
+        "Open language models (Llama, Mistral, Qwen)",
+        "Multilingual models"
+      ],
+      "founded": 2018,
+      "founders": [
+        "Ryosuke Nakase"
+      ],
+      "headquarters": "Tokyo, Japan",
+      "website": "https://elyza.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "Japan",
+        "LLM"
+      ],
+      "identitySource": {
+        "source": "https://elyza.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "rinna",
+      "name": "rinna",
+      "description": "Tokyo lab, backed by SoftBank and Microsoft, known for Japanese conversational models.",
+      "layers": [
+        "models-open"
+      ],
+      "subdomains": [
+        "Multilingual models"
+      ],
+      "founded": 2020,
+      "founders": [
+        "Takahiro Yamaguchi"
+      ],
+      "headquarters": "Tokyo, Japan",
+      "website": "https://rinna.co.jp",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "Japan",
+        "LLM"
+      ],
+      "identitySource": {
+        "source": "https://rinna.co.jp",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "sony-ai",
+      "name": "Sony AI",
+      "description": "Sony's research organization for gaming, sensing, and creative-AI models.",
+      "layers": [
+        "models-image"
+      ],
+      "subdomains": [
+        "Vision-language models"
+      ],
+      "founded": 2020,
+      "founders": [
+        "Sony"
+      ],
+      "headquarters": "Tokyo, Japan",
+      "website": "https://ai.sony",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Sony subsidiary",
+        "investors": []
+      },
+      "tags": [
+        "Japan",
+        "research"
+      ],
+      "identitySource": {
+        "source": "https://ai.sony",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "toyota-research",
+      "name": "Toyota Research Institute",
+      "description": "Toyota's research lab for robotics, automated driving, and battery materials.",
+      "layers": [
+        "models-robotics",
+        "autonomous-systems"
+      ],
+      "subdomains": [
+        "Robotics foundation models",
+        "Autonomous vehicles (L4/L5)"
+      ],
+      "founded": 2015,
+      "founders": [
+        "Gill Pratt"
+      ],
+      "headquarters": "Los Altos, CA, USA",
+      "website": "https://www.tri.global",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Toyota subsidiary",
+        "investors": []
+      },
+      "tags": [
+        "robotics",
+        "Japan"
+      ],
+      "identitySource": {
+        "source": "https://www.tri.global",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "tier-iv",
+      "name": "Tier IV",
+      "description": "Tokyo open-source autonomy company behind Autoware for self-driving software.",
+      "layers": [
+        "autonomous-systems"
+      ],
+      "subdomains": [
+        "Autonomous vehicles (L4/L5)"
+      ],
+      "founded": 2015,
+      "founders": [
+        "Shinpei Kato"
+      ],
+      "headquarters": "Tokyo, Japan",
+      "website": "https://tier4.jp",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "AV",
+        "Japan",
+        "open-source"
+      ],
+      "identitySource": {
+        "source": "https://tier4.jp",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "naver",
+      "name": "NAVER",
+      "description": "Korean internet company whose HyperCLOVA models and CLOVA Studio power search and assistants.",
+      "layers": [
+        "models-open",
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Open language models (Llama, Mistral, Qwen)",
+        "AI search engines"
+      ],
+      "founded": 1999,
+      "founders": [
+        "Lee Hae-jin"
+      ],
+      "headquarters": "Seongnam, South Korea",
+      "website": "https://www.navercorp.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "Korea",
+        "public",
+        "LLM"
+      ],
+      "fullName": "NAVER Corporation",
+      "identitySource": {
+        "source": "https://www.navercorp.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "upstage",
+      "name": "Upstage",
+      "description": "Korean LLM company known for Solar models and document-AI products.",
+      "layers": [
+        "models-open",
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Open language models (Llama, Mistral, Qwen)",
+        "Document intelligence"
+      ],
+      "founded": 2020,
+      "founders": [
+        "Sung Kim"
+      ],
+      "headquarters": "Yongin, South Korea",
+      "website": "https://www.upstage.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "Korea",
+        "LLM"
+      ],
+      "identitySource": {
+        "source": "https://www.upstage.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "nota-ai",
+      "name": "Nota AI",
+      "description": "Seoul company that compresses and deploys models onto edge devices.",
+      "layers": [
+        "models-small",
+        "systems-software"
+      ],
+      "subdomains": [
+        "On-device models",
+        "Quantization & sparsity"
+      ],
+      "founded": 2019,
+      "founders": [
+        "Chanyoung Oh"
+      ],
+      "headquarters": "Seoul, South Korea",
+      "website": "https://www.nota.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "Korea",
+        "edge"
+      ],
+      "identitySource": {
+        "source": "https://www.nota.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "twelve-labs",
+      "name": "Twelve Labs",
+      "description": "Video-understanding company with roots in Korea, building multimodal video models.",
+      "layers": [
+        "models-video"
+      ],
+      "subdomains": [
+        "Video understanding"
+      ],
+      "founded": 2021,
+      "founders": [
+        "Jae Lee",
+        "James Le"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.twelvelabs.io",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "video",
+        "Korea"
+      ],
+      "identitySource": {
+        "source": "https://www.twelvelabs.io",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "lg-ai-research",
+      "name": "LG AI Research",
+      "description": "LG's research institute publishing EXAONE foundation models.",
+      "layers": [
+        "models-open",
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Open language models (Llama, Mistral, Qwen)",
+        "Nonprofit research institutes"
+      ],
+      "founded": 2020,
+      "founders": [
+        "LG"
+      ],
+      "headquarters": "Seoul, South Korea",
+      "website": "https://www.lgresearch.ai",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "LG subsidiary",
+        "investors": []
+      },
+      "tags": [
+        "Korea",
+        "research"
+      ],
+      "identitySource": {
+        "source": "https://www.lgresearch.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "lunit",
+      "name": "Lunit",
+      "description": "Seoul medical-AI company for cancer detection in radiology and pathology.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Healthcare & diagnostics"
+      ],
+      "founded": 2013,
+      "founders": [
+        "Brandon Suh"
+      ],
+      "headquarters": "Seoul, South Korea",
+      "website": "https://www.lunit.io",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "health",
+        "Korea",
+        "public"
+      ],
+      "identitySource": {
+        "source": "https://www.lunit.io",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "riiid",
+      "name": "Riiid",
+      "description": "Korean education-AI company known for adaptive test-prep models.",
+      "layers": [
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Education & tutoring"
+      ],
+      "founded": 2014,
+      "founders": [
+        "YJoon Kim"
+      ],
+      "headquarters": "Seoul, South Korea",
+      "website": "https://riiid.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "education",
+        "Korea"
+      ],
+      "identitySource": {
+        "source": "https://riiid.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "sk-hynix",
+      "name": "SK hynix",
+      "description": "Korean memory maker whose HBM is a bottleneck input for AI training clusters.",
+      "layers": [
+        "fabs-manufacturing"
+      ],
+      "subdomains": [
+        "Wafer production"
+      ],
+      "founded": 1983,
+      "founders": [
+        "Hyundai Electronics"
+      ],
+      "headquarters": "Icheon, South Korea",
+      "website": "https://www.skhynix.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "memory",
+        "HBM",
+        "Korea",
+        "public"
+      ],
+      "identitySource": {
+        "source": "https://www.skhynix.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "tii",
+      "name": "Technology Innovation Institute",
+      "description": "Abu Dhabi research institute that released the Falcon open-weight models.",
+      "layers": [
+        "models-open",
+        "research-institutions"
+      ],
+      "subdomains": [
+        "Open language models (Llama, Mistral, Qwen)",
+        "Nonprofit research institutes"
+      ],
+      "founded": 2020,
+      "founders": [
+        "Abu Dhabi government"
+      ],
+      "headquarters": "Abu Dhabi, UAE",
+      "website": "https://www.tii.ae",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Government research",
+        "investors": []
+      },
+      "tags": [
+        "Middle East",
+        "open-weight"
+      ],
+      "identitySource": {
+        "source": "https://www.tii.ae",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "humain",
+      "name": "HUMAIN",
+      "description": "Saudi public-private AI company launched to build national models and infrastructure.",
+      "layers": [
+        "infrastructure-cloud",
+        "models-frontier"
+      ],
+      "subdomains": [
+        "GPU cloud providers",
+        "Frontier language models (GPT-4, Claude, Gemini)"
+      ],
+      "founded": 2025,
+      "founders": [
+        "Public Investment Fund"
+      ],
+      "headquarters": "Riyadh, Saudi Arabia",
+      "website": "https://www.humain.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Government-backed",
+        "investors": []
+      },
+      "tags": [
+        "Middle East",
+        "sovereign AI"
+      ],
+      "identitySource": {
+        "source": "https://www.humain.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "sdaia",
+      "name": "SDAIA",
+      "description": "Saudi Data and AI Authority, the national body for data, AI policy, and public-sector models.",
+      "layers": [
+        "policy-standards"
+      ],
+      "subdomains": [
+        "Regulatory bodies"
+      ],
+      "founded": 2019,
+      "founders": [
+        "Government of Saudi Arabia"
+      ],
+      "headquarters": "Riyadh, Saudi Arabia",
+      "website": "https://sdaia.gov.sa",
+      "entityType": "institution",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Government",
+        "investors": []
+      },
+      "tags": [
+        "Middle East",
+        "policy"
+      ],
+      "identitySource": {
+        "source": "https://sdaia.gov.sa",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "presight",
+      "name": "Presight",
+      "description": "Abu Dhabi G42 company building analytics and AI platforms for government and industry.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Document intelligence"
+      ],
+      "founded": 2020,
+      "founders": [
+        "G42"
+      ],
+      "headquarters": "Abu Dhabi, UAE",
+      "website": "https://presight.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "Middle East",
+        "enterprise"
+      ],
+      "identitySource": {
+        "source": "https://presight.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "mgx",
+      "name": "MGX",
+      "description": "Abu Dhabi AI investment company backing global model labs and infrastructure.",
+      "layers": [
+        "capital-investors"
+      ],
+      "subdomains": [
+        "AI-focused funds"
+      ],
+      "founded": 2024,
+      "founders": [
+        "Mubadala",
+        "G42"
+      ],
+      "headquarters": "Abu Dhabi, UAE",
+      "website": "https://www.mgx.ae",
+      "entityType": "investor",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Sovereign investor",
+        "investors": []
+      },
+      "tags": [
+        "Middle East",
+        "investor"
+      ],
+      "identitySource": {
+        "source": "https://www.mgx.ae",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "qcri",
+      "name": "Qatar Computing Research Institute",
+      "description": "Doha research institute working on Arabic NLP, computer vision, and social computing.",
+      "layers": [
+        "research-institutions"
+      ],
+      "subdomains": [
+        "University research labs"
+      ],
+      "founded": 2010,
+      "founders": [
+        "Qatar Foundation"
+      ],
+      "headquarters": "Doha, Qatar",
+      "website": "https://www.hbku.edu.qa/en/qcri",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Research institute",
+        "investors": []
+      },
+      "tags": [
+        "Middle East",
+        "research"
+      ],
+      "identitySource": {
+        "source": "https://www.hbku.edu.qa/en/qcri",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "notco",
+      "name": "NotCo",
+      "description": "Santiago food-tech company that uses AI to recreate animal products from plants.",
+      "layers": [
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Health & fitness"
+      ],
+      "founded": 2015,
+      "founders": [
+        "Matías Muchnick",
+        "Karim Pichara",
+        "Pablo Zamora"
+      ],
+      "headquarters": "Santiago, Chile",
+      "website": "https://notco.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "LatAm",
+        "food"
+      ],
+      "identitySource": {
+        "source": "https://notco.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "satellogic",
+      "name": "Satellogic",
+      "description": "Buenos Aires Earth-observation company that uses AI on a constellation of satellites.",
+      "layers": [
+        "defense-national-security"
+      ],
+      "subdomains": [
+        "Intelligence analysis",
+        "Surveillance & reconnaissance"
+      ],
+      "founded": 2010,
+      "founders": [
+        "Emiliano Kargieman"
+      ],
+      "headquarters": "Buenos Aires, Argentina",
+      "website": "https://satellogic.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "LatAm",
+        "public",
+        "satellites"
+      ],
+      "identitySource": {
+        "source": "https://satellogic.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "tryolabs",
+      "name": "Tryolabs",
+      "description": "Montevideo applied-ML studio that builds computer-vision and NLP products for global clients.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Document intelligence"
+      ],
+      "founded": 2009,
+      "founders": [
+        "Tryolabs founding team"
+      ],
+      "headquarters": "Montevideo, Uruguay",
+      "website": "https://tryolabs.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "LatAm",
+        "services"
+      ],
+      "identitySource": {
+        "source": "https://tryolabs.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "unico",
+      "name": "Unico",
+      "description": "São Paulo identity company using biometrics and liveness models for digital onboarding.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Finance & trading"
+      ],
+      "founded": 2007,
+      "founders": [
+        "Diego Barreto"
+      ],
+      "headquarters": "São Paulo, Brazil",
+      "website": "https://unico.io",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "LatAm",
+        "identity"
+      ],
+      "identitySource": {
+        "source": "https://unico.io",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "nubank",
+      "name": "Nubank",
+      "description": "São Paulo digital bank that runs credit, fraud, and support models at Latin-American scale.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Finance & trading"
+      ],
+      "founded": 2013,
+      "founders": [
+        "David Vélez",
+        "Cristina Junqueira",
+        "Edward Wible"
+      ],
+      "headquarters": "São Paulo, Brazil",
+      "website": "https://nubank.com.br",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "LatAm",
+        "finance",
+        "public"
+      ],
+      "identitySource": {
+        "source": "https://nubank.com.br",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "mercado-libre",
+      "name": "Mercado Libre",
+      "description": "Latin America's largest commerce and fintech platform, with applied ML across search and risk.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Customer support automation"
+      ],
+      "founded": 1999,
+      "founders": [
+        "Marcos Galperin"
+      ],
+      "headquarters": "Buenos Aires, Argentina",
+      "website": "https://www.mercadolibre.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "LatAm",
+        "public"
+      ],
+      "identitySource": {
+        "source": "https://www.mercadolibre.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "simpliroute",
+      "name": "SimpliRoute",
+      "description": "Santiago routing company that uses AI to plan last-mile delivery fleets.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Workflow automation"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Álvaro Echeverría"
+      ],
+      "headquarters": "Santiago, Chile",
+      "website": "https://simpliroute.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "LatAm",
+        "logistics"
+      ],
+      "identitySource": {
+        "source": "https://simpliroute.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "truora",
+      "name": "Truora",
+      "description": "Colombian identity-verification and background-check company using AI document models.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Finance & trading"
+      ],
+      "founded": 2018,
+      "founders": [
+        "Felipe Jánica",
+        "Santiago Botero"
+      ],
+      "headquarters": "Bogotá, Colombia",
+      "website": "https://www.truora.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "LatAm",
+        "identity"
+      ],
+      "identitySource": {
+        "source": "https://www.truora.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "neuralmind",
+      "name": "NeuralMind",
+      "description": "Campinas deep-learning lab commercializing NLP and computer-vision for Brazilian industry.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Document intelligence"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Roberto Lotufo",
+        "Rodrigo Nogueira"
+      ],
+      "headquarters": "Campinas, Brazil",
+      "website": "https://neuralmind.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "LatAm",
+        "NLP"
+      ],
+      "identitySource": {
+        "source": "https://neuralmind.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    }
+  ]
+}

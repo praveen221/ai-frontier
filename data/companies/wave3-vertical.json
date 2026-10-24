@@ -1,0 +1,2338 @@
+{
+  "companies": [
+    {
+      "id": "casetext",
+      "name": "Casetext",
+      "description": "Legal-research company whose CoCounsel assistant is now part of Thomson Reuters.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Legal AI"
+      ],
+      "founded": 2013,
+      "founders": [
+        "Jake Heller",
+        "Pablo Arredondo"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://casetext.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Acquired by Thomson Reuters",
+        "investors": []
+      },
+      "tags": [
+        "legal",
+        "acquired"
+      ],
+      "identitySource": {
+        "source": "https://casetext.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "spellbook",
+      "name": "Spellbook",
+      "description": "Word add-in that drafts, redlines, and reviews commercial contracts with LLMs.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Legal AI"
+      ],
+      "founded": 2020,
+      "founders": [
+        "Scott Stevenson"
+      ],
+      "headquarters": "Vancouver, Canada",
+      "website": "https://www.spellbook.legal",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "legal",
+        "contracts"
+      ],
+      "identitySource": {
+        "source": "https://www.spellbook.legal",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "luminance",
+      "name": "Luminance",
+      "description": "Cambridge legal-AI company for contract review, due diligence, and matter analysis.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Legal AI"
+      ],
+      "founded": 2015,
+      "founders": [
+        "Nicholas Beale",
+        "Eleanor Lightbody"
+      ],
+      "headquarters": "Cambridge, UK",
+      "website": "https://www.luminance.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "legal",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://www.luminance.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "robin-ai",
+      "name": "Robin AI",
+      "description": "London contract-intelligence platform that extracts and negotiates legal language.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Legal AI"
+      ],
+      "founded": 2019,
+      "founders": [
+        "Richard Robinson"
+      ],
+      "headquarters": "London, UK",
+      "website": "https://www.robinai.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "legal",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://www.robinai.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "legora",
+      "name": "Legora",
+      "description": "Stockholm legal workspace (formerly Leya) for research, drafting, and matter work.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Legal AI"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Maximilian Hoppe",
+        "Arvid Einarsson"
+      ],
+      "headquarters": "Stockholm, Sweden",
+      "website": "https://legora.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "legal",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://legora.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "ironclad",
+      "name": "Ironclad",
+      "description": "Contract-lifecycle platform with AI review, playbooks, and repository search.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Legal AI"
+      ],
+      "founded": 2014,
+      "founders": [
+        "Jason Boehmig",
+        "Cai GoGwilt"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://ironcladapp.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "legal",
+        "CLM"
+      ],
+      "identitySource": {
+        "source": "https://ironcladapp.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "evisort",
+      "name": "Evisort",
+      "description": "AI contract analytics and repository used by legal and procurement teams.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Legal AI"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Jerry Ting",
+        "Jacob Sussman"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.evisort.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "legal",
+        "contracts"
+      ],
+      "identitySource": {
+        "source": "https://www.evisort.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "everlaw",
+      "name": "Everlaw",
+      "description": "Cloud e-discovery platform with AI review for litigation and investigations.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Legal AI"
+      ],
+      "founded": 2010,
+      "founders": [
+        "AJ Shankar"
+      ],
+      "headquarters": "Oakland, CA, USA",
+      "website": "https://www.everlaw.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "legal",
+        "e-discovery"
+      ],
+      "identitySource": {
+        "source": "https://www.everlaw.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "relativity",
+      "name": "Relativity",
+      "description": "e-Discovery software company whose Relativity aiR features assist legal review.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Legal AI"
+      ],
+      "founded": 2001,
+      "founders": [
+        "Andrew Sieja"
+      ],
+      "headquarters": "Chicago, IL, USA",
+      "website": "https://www.relativity.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "legal",
+        "e-discovery"
+      ],
+      "identitySource": {
+        "source": "https://www.relativity.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "cs-disco",
+      "name": "DISCO",
+      "description": "Public legal-tech company offering cloud e-discovery and AI-assisted review.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Legal AI"
+      ],
+      "founded": 2013,
+      "founders": [
+        "Kiwi Camara"
+      ],
+      "headquarters": "Austin, TX, USA",
+      "website": "https://www.csdisco.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "legal",
+        "public"
+      ],
+      "fullName": "CS Disco, Inc.",
+      "identitySource": {
+        "source": "https://www.csdisco.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "linksquares",
+      "name": "LinkSquares",
+      "description": "AI contract-analysis and after-the-signature repository for in-house legal teams.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Legal AI"
+      ],
+      "founded": 2015,
+      "founders": [
+        "Vishakha Lall",
+        "Punit Shah"
+      ],
+      "headquarters": "Boston, MA, USA",
+      "website": "https://linksquares.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "legal"
+      ],
+      "identitySource": {
+        "source": "https://linksquares.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "lawgeex",
+      "name": "Lawgeex",
+      "description": "Tel Aviv contract-review automation used by corporate legal departments.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Legal AI"
+      ],
+      "founded": 2014,
+      "founders": [
+        "Noory Sheik"
+      ],
+      "headquarters": "Tel Aviv, Israel",
+      "website": "https://www.lawgeex.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "legal",
+        "Middle East"
+      ],
+      "identitySource": {
+        "source": "https://www.lawgeex.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "darrow",
+      "name": "Darrow",
+      "description": "Legal-intelligence company that uses AI to surface potential class actions and violations.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Legal AI"
+      ],
+      "founded": 2020,
+      "founders": [
+        "Evyatar Ben Artzi",
+        "Gila Hayat"
+      ],
+      "headquarters": "Tel Aviv, Israel",
+      "website": "https://www.darrow.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "legal",
+        "Middle East"
+      ],
+      "identitySource": {
+        "source": "https://www.darrow.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "pathai",
+      "name": "PathAI",
+      "description": "Pathology AI company building models that help diagnose disease from tissue slides.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Healthcare & diagnostics"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Andrew Beck",
+        "Aditya Khosla"
+      ],
+      "headquarters": "Boston, MA, USA",
+      "website": "https://www.pathai.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "health",
+        "pathology"
+      ],
+      "identitySource": {
+        "source": "https://www.pathai.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "paige",
+      "name": "Paige",
+      "description": "Clinical AI company for digital pathology, spun out of Memorial Sloan Kettering.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Healthcare & diagnostics"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Thomas Fuchs",
+        "David Klimstra"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://www.paige.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "health",
+        "pathology"
+      ],
+      "identitySource": {
+        "source": "https://www.paige.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "viz-ai",
+      "name": "Viz.ai",
+      "description": "Care-coordination platform that uses AI to detect strokes and other time-sensitive conditions.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Healthcare & diagnostics"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Chris Mansi",
+        "David Golan"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.viz.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "health",
+        "diagnostics"
+      ],
+      "identitySource": {
+        "source": "https://www.viz.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "insitro",
+      "name": "Insitro",
+      "description": "Daphne Koller's ML-driven drug-discovery company combining biology labs with machine learning.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Drug discovery & biotech"
+      ],
+      "founded": 2018,
+      "founders": [
+        "Daphne Koller"
+      ],
+      "headquarters": "South San Francisco, CA, USA",
+      "website": "https://www.insitro.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "biotech",
+        "drug discovery"
+      ],
+      "identitySource": {
+        "source": "https://www.insitro.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "benevolent-ai",
+      "name": "BenevolentAI",
+      "description": "London company using knowledge graphs and models to find drug targets.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Drug discovery & biotech"
+      ],
+      "founded": 2013,
+      "founders": [
+        "Ken Mulvany"
+      ],
+      "headquarters": "London, UK",
+      "website": "https://www.benevolent.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "biotech",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://www.benevolent.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "insilico",
+      "name": "Insilico Medicine",
+      "description": "Generative-biology company that designs novel molecules with end-to-end AI labs.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Drug discovery & biotech"
+      ],
+      "founded": 2014,
+      "founders": [
+        "Alex Zhavoronkov"
+      ],
+      "headquarters": "Hong Kong / New York, NY, USA",
+      "website": "https://insilico.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "biotech",
+        "Greater China"
+      ],
+      "identitySource": {
+        "source": "https://insilico.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "owkin",
+      "name": "Owkin",
+      "description": "Franco-American biotech that trains federated models on hospital data for drug discovery.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Drug discovery & biotech"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Thomas Clozel",
+        "Gilles Wainrib"
+      ],
+      "headquarters": "Paris, France",
+      "website": "https://www.owkin.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "biotech",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://www.owkin.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "evolutionaryscale",
+      "name": "EvolutionaryScale",
+      "description": "Foundation-model lab for proteins, best known for the ESM family.",
+      "layers": [
+        "apps-vertical",
+        "models-frontier"
+      ],
+      "subdomains": [
+        "Drug discovery & biotech",
+        "Multimodal foundation models"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Alexander Rives"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://www.evolutionaryscale.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "biology",
+        "foundation model"
+      ],
+      "identitySource": {
+        "source": "https://www.evolutionaryscale.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "generate-biomedicines",
+      "name": "Generate Biomedicines",
+      "description": "Flagship-backed company that generates proteins and antibodies with ML.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Drug discovery & biotech"
+      ],
+      "founded": 2018,
+      "founders": [
+        "Flagship Pioneering"
+      ],
+      "headquarters": "Somerville, MA, USA",
+      "website": "https://generatebiomedicines.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "biotech"
+      ],
+      "identitySource": {
+        "source": "https://generatebiomedicines.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "xaira",
+      "name": "Xaira Therapeutics",
+      "description": "Large-scale AI drug-discovery company launched out of ARCH and Foresite.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Drug discovery & biotech"
+      ],
+      "founded": 2024,
+      "founders": [
+        "Marc Tessier-Lavigne",
+        "Hetu Kamisetty"
+      ],
+      "headquarters": "South San Francisco, CA, USA",
+      "website": "https://www.xaira.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "biotech"
+      ],
+      "identitySource": {
+        "source": "https://www.xaira.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "ambience",
+      "name": "Ambience Healthcare",
+      "description": "Ambient clinical-documentation platform that drafts notes from clinician-patient visits.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Healthcare & diagnostics"
+      ],
+      "founded": 2020,
+      "founders": [
+        "Mike Ng",
+        "Nikhil Buduma"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.ambiencehealthcare.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "health",
+        "scribe"
+      ],
+      "identitySource": {
+        "source": "https://www.ambiencehealthcare.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "nabla",
+      "name": "Nabla",
+      "description": "Paris clinical-AI company whose copilot drafts medical notes and patient messages.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Healthcare & diagnostics"
+      ],
+      "founded": 2018,
+      "founders": [
+        "Alex Lebrun",
+        "Delphine Groll",
+        "Martin Raison"
+      ],
+      "headquarters": "Paris, France",
+      "website": "https://www.nabla.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "health",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://www.nabla.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "hippocratic",
+      "name": "Hippocratic AI",
+      "description": "Healthcare LLM company training safety-focused models for non-diagnostic patient tasks.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Healthcare & diagnostics"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Munjal Shah"
+      ],
+      "headquarters": "Palo Alto, CA, USA",
+      "website": "https://www.hippocraticai.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "health",
+        "LLM"
+      ],
+      "identitySource": {
+        "source": "https://www.hippocraticai.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "openevidence",
+      "name": "OpenEvidence",
+      "description": "Medical-search assistant for clinicians, trained on peer-reviewed literature.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Healthcare & diagnostics"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Daniel Nadler",
+        "Zachary Ziegler"
+      ],
+      "headquarters": "Cambridge, MA, USA",
+      "website": "https://www.openevidence.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "health",
+        "search"
+      ],
+      "identitySource": {
+        "source": "https://www.openevidence.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "suki",
+      "name": "Suki",
+      "description": "Voice-based clinical assistant that writes notes and codes encounters.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Healthcare & diagnostics"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Punit Soni"
+      ],
+      "headquarters": "Redwood City, CA, USA",
+      "website": "https://www.suki.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "health",
+        "voice"
+      ],
+      "identitySource": {
+        "source": "https://www.suki.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "ada-health",
+      "name": "Ada Health",
+      "description": "Berlin symptom-assessment app used by consumers and health systems.",
+      "layers": [
+        "apps-vertical",
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Healthcare & diagnostics",
+        "Health & fitness"
+      ],
+      "founded": 2011,
+      "founders": [
+        "Daniel Nathrath",
+        "Claire Novorol",
+        "Martin Hirsch"
+      ],
+      "headquarters": "Berlin, Germany",
+      "website": "https://ada.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "health",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://ada.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "k-health",
+      "name": "K Health",
+      "description": "Primary-care app that uses AI trained on anonymized clinical records.",
+      "layers": [
+        "apps-vertical",
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Healthcare & diagnostics",
+        "Health & fitness"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Allon Bloch",
+        "Adam Singolda",
+        "Israel Gavish"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://khealth.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "health"
+      ],
+      "identitySource": {
+        "source": "https://khealth.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "deep-genomics",
+      "name": "Deep Genomics",
+      "description": "Toronto company applying ML to RNA therapeutics and genetic medicine.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Drug discovery & biotech"
+      ],
+      "founded": 2015,
+      "founders": [
+        "Brendan Frey"
+      ],
+      "headquarters": "Toronto, Canada",
+      "website": "https://www.deepgenomics.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "biotech",
+        "Canada"
+      ],
+      "identitySource": {
+        "source": "https://www.deepgenomics.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "absci",
+      "name": "Absci",
+      "description": "Public generative-biology company designing antibodies with foundation models.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Drug discovery & biotech"
+      ],
+      "founded": 2011,
+      "founders": [
+        "Sean McClain"
+      ],
+      "headquarters": "Vancouver, WA, USA",
+      "website": "https://www.absci.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "biotech",
+        "public"
+      ],
+      "fullName": "Absci Corporation",
+      "identitySource": {
+        "source": "https://www.absci.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "schrodinger",
+      "name": "Schrödinger",
+      "description": "Public computational-chemistry company whose software is used across drug discovery.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Drug discovery & biotech"
+      ],
+      "founded": 1990,
+      "founders": [
+        "Richard Friesner",
+        "William Jorgensen"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://www.schrodinger.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "biotech",
+        "public"
+      ],
+      "identitySource": {
+        "source": "https://www.schrodinger.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "benchling",
+      "name": "Benchling",
+      "description": "R&D cloud for biotech teams, with AI features for experiment and sequence work.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Drug discovery & biotech"
+      ],
+      "founded": 2012,
+      "founders": [
+        "Sajith Wickramasekara",
+        "Ashutosh Mundhada"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.benchling.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "biotech",
+        "software"
+      ],
+      "identitySource": {
+        "source": "https://www.benchling.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "alpha-sense",
+      "name": "AlphaSense",
+      "description": "Market-intelligence search engine used by finance and strategy teams.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Finance & trading"
+      ],
+      "founded": 2011,
+      "founders": [
+        "Jack Kokko",
+        "Raj Neervannan"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://www.alpha-sense.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "finance",
+        "search"
+      ],
+      "identitySource": {
+        "source": "https://www.alpha-sense.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "kensho",
+      "name": "Kensho",
+      "description": "S&P Global's AI unit for financial document understanding and market analytics.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Finance & trading"
+      ],
+      "founded": 2013,
+      "founders": [
+        "Daniel Nadler",
+        "Alistair Moreole"
+      ],
+      "headquarters": "Cambridge, MA, USA",
+      "website": "https://kensho.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "S&P Global subsidiary",
+        "investors": []
+      },
+      "tags": [
+        "finance",
+        "acquired"
+      ],
+      "identitySource": {
+        "source": "https://kensho.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "bloomberg",
+      "name": "Bloomberg",
+      "description": "Financial-data company whose Terminal and BloombergGPT research sit inside market workflows.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Finance & trading"
+      ],
+      "founded": 1981,
+      "founders": [
+        "Michael Bloomberg"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://www.bloomberg.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "finance"
+      ],
+      "identitySource": {
+        "source": "https://www.bloomberg.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "featurespace",
+      "name": "Featurespace",
+      "description": "Cambridge company that uses adaptive behavioral analytics to stop payment fraud.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Finance & trading"
+      ],
+      "founded": 2008,
+      "founders": [
+        "David Excell"
+      ],
+      "headquarters": "Cambridge, UK",
+      "website": "https://www.featurespace.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "finance",
+        "fraud",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://www.featurespace.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "feedzai",
+      "name": "Feedzai",
+      "description": "Portuguese risk platform that scores payments and financial crime with machine learning.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Finance & trading"
+      ],
+      "founded": 2009,
+      "founders": [
+        "Nuno Sebastião",
+        "Pedro Bizarro",
+        "Paulo Marques"
+      ],
+      "headquarters": "Coimbra, Portugal",
+      "website": "https://feedzai.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "finance",
+        "fraud",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://feedzai.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "upstart",
+      "name": "Upstart",
+      "description": "Public lending platform that underwrites consumer credit with machine-learning models.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Finance & trading"
+      ],
+      "founded": 2012,
+      "founders": [
+        "Dave Girouard",
+        "Paul Gu",
+        "Anna Counselman"
+      ],
+      "headquarters": "San Mateo, CA, USA",
+      "website": "https://www.upstart.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "finance",
+        "public"
+      ],
+      "identitySource": {
+        "source": "https://www.upstart.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "numerai",
+      "name": "Numerai",
+      "description": "Crowdsourced hedge fund that pays data scientists to train models on obfuscated market data.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Finance & trading"
+      ],
+      "founded": 2015,
+      "founders": [
+        "Richard Craib"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://numer.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "finance",
+        "crowdsource"
+      ],
+      "identitySource": {
+        "source": "https://numer.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "datarobot",
+      "name": "DataRobot",
+      "description": "Enterprise AI platform for building, governing, and deploying predictive and generative models.",
+      "layers": [
+        "dev-tools",
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Fine-tuning platforms",
+        "Workflow automation"
+      ],
+      "founded": 2012,
+      "founders": [
+        "Jeremy Achin",
+        "Tom de Godoy"
+      ],
+      "headquarters": "Boston, MA, USA",
+      "website": "https://www.datarobot.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "MLOps",
+        "enterprise"
+      ],
+      "identitySource": {
+        "source": "https://www.datarobot.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "h2o-ai",
+      "name": "H2O.ai",
+      "description": "Open-source and enterprise ML platform, including Driverless AI and LLM tooling.",
+      "layers": [
+        "dev-tools"
+      ],
+      "subdomains": [
+        "Fine-tuning platforms",
+        "Experiment tracking"
+      ],
+      "founded": 2011,
+      "founders": [
+        "Sri Ambati"
+      ],
+      "headquarters": "Mountain View, CA, USA",
+      "website": "https://h2o.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "ML",
+        "open-source"
+      ],
+      "identitySource": {
+        "source": "https://h2o.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "dataiku",
+      "name": "Dataiku",
+      "description": "Paris-born enterprise AI platform for governing analytics, ML, and LLM applications.",
+      "layers": [
+        "dev-tools",
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Fine-tuning platforms",
+        "Document intelligence"
+      ],
+      "founded": 2013,
+      "founders": [
+        "Florian Douetteau",
+        "Clément Stenac"
+      ],
+      "headquarters": "Paris, France",
+      "website": "https://www.dataiku.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "enterprise",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://www.dataiku.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "c3-ai",
+      "name": "C3.ai",
+      "description": "Public enterprise-AI software company selling industry applications and an AI application platform.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Workflow automation",
+        "Document intelligence"
+      ],
+      "founded": 2009,
+      "founders": [
+        "Thomas Siebel"
+      ],
+      "headquarters": "Redwood City, CA, USA",
+      "website": "https://c3.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "enterprise",
+        "public"
+      ],
+      "fullName": "C3.ai, Inc.",
+      "identitySource": {
+        "source": "https://c3.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "complyadvantage",
+      "name": "ComplyAdvantage",
+      "description": "London AML and sanctions-screening company that uses ML on financial crime data.",
+      "layers": [
+        "apps-vertical"
+      ],
+      "subdomains": [
+        "Finance & trading"
+      ],
+      "founded": 2014,
+      "founders": [
+        "Charles Delingpole"
+      ],
+      "headquarters": "London, UK",
+      "website": "https://complyadvantage.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "finance",
+        "compliance",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://complyadvantage.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "khan-academy",
+      "name": "Khan Academy",
+      "description": "Nonprofit education platform whose Khanmigo tutor is an AI guide for students and teachers.",
+      "layers": [
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Education & tutoring"
+      ],
+      "founded": 2008,
+      "founders": [
+        "Sal Khan"
+      ],
+      "headquarters": "Mountain View, CA, USA",
+      "website": "https://www.khanacademy.org",
+      "entityType": "institution",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Nonprofit",
+        "investors": []
+      },
+      "tags": [
+        "education",
+        "nonprofit"
+      ],
+      "identitySource": {
+        "source": "https://www.khanacademy.org",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "duolingo",
+      "name": "Duolingo",
+      "description": "Public language-learning app that uses AI for tutoring, scoring, and content generation.",
+      "layers": [
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Education & tutoring"
+      ],
+      "founded": 2011,
+      "founders": [
+        "Luis von Ahn",
+        "Severin Hacker"
+      ],
+      "headquarters": "Pittsburgh, PA, USA",
+      "website": "https://www.duolingo.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "education",
+        "public"
+      ],
+      "identitySource": {
+        "source": "https://www.duolingo.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "quizlet",
+      "name": "Quizlet",
+      "description": "Study platform with AI-generated practice tests, flashcards, and tutoring modes.",
+      "layers": [
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Education & tutoring"
+      ],
+      "founded": 2005,
+      "founders": [
+        "Andrew Sutherland"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://quizlet.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "education"
+      ],
+      "identitySource": {
+        "source": "https://quizlet.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "photomath",
+      "name": "Photomath",
+      "description": "Camera-based math tutor, now part of Google, that solves and explains problems step by step.",
+      "layers": [
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Education & tutoring"
+      ],
+      "founded": 2014,
+      "founders": [
+        "Damir Sabol"
+      ],
+      "headquarters": "Zagreb, Croatia",
+      "website": "https://photomath.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Acquired by Google",
+        "investors": []
+      },
+      "tags": [
+        "education",
+        "Europe",
+        "acquired"
+      ],
+      "identitySource": {
+        "source": "https://photomath.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "squirrel-ai",
+      "name": "Squirrel AI",
+      "description": "Shanghai adaptive-learning company that builds AI tutors for K-12 subjects.",
+      "layers": [
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Education & tutoring"
+      ],
+      "founded": 2014,
+      "founders": [
+        "Derek Li"
+      ],
+      "headquarters": "Shanghai, China",
+      "website": "https://www.squirrelai.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "education",
+        "China"
+      ],
+      "identitySource": {
+        "source": "https://www.squirrelai.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "byjus",
+      "name": "Byju's",
+      "description": "Bengaluru education company that built AI-assisted tutoring apps for K-12 and test prep.",
+      "layers": [
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Education & tutoring"
+      ],
+      "founded": 2011,
+      "founders": [
+        "Byju Raveendran"
+      ],
+      "headquarters": "Bengaluru, India",
+      "website": "https://byjus.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "education",
+        "India"
+      ],
+      "identitySource": {
+        "source": "https://byjus.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "unacademy",
+      "name": "Unacademy",
+      "description": "Indian online-learning platform using AI for personalization and educator tools.",
+      "layers": [
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Education & tutoring"
+      ],
+      "founded": 2015,
+      "founders": [
+        "Gaurav Munjal",
+        "Roman Saini",
+        "Hemesh Singh"
+      ],
+      "headquarters": "Bengaluru, India",
+      "website": "https://unacademy.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "education",
+        "India"
+      ],
+      "identitySource": {
+        "source": "https://unacademy.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "physics-wallah",
+      "name": "Physics Wallah",
+      "description": "Noida education company that combines low-cost courses with AI practice tools.",
+      "layers": [
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Education & tutoring"
+      ],
+      "founded": 2020,
+      "founders": [
+        "Alakh Pandey"
+      ],
+      "headquarters": "Noida, India",
+      "website": "https://www.pw.live",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "education",
+        "India"
+      ],
+      "identitySource": {
+        "source": "https://www.pw.live",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "coursera",
+      "name": "Coursera",
+      "description": "Public online-learning company whose Coach assistant helps students through courses.",
+      "layers": [
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Education & tutoring"
+      ],
+      "founded": 2012,
+      "founders": [
+        "Andrew Ng",
+        "Daphne Koller"
+      ],
+      "headquarters": "Mountain View, CA, USA",
+      "website": "https://www.coursera.org",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "education",
+        "public"
+      ],
+      "identitySource": {
+        "source": "https://www.coursera.org",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "brilliant",
+      "name": "Brilliant",
+      "description": "Interactive STEM-learning product that uses AI to generate practice and explanations.",
+      "layers": [
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Education & tutoring"
+      ],
+      "founded": 2012,
+      "founders": [
+        "Sue Khim",
+        "Justin Jaffray"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://brilliant.org",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "education"
+      ],
+      "identitySource": {
+        "source": "https://brilliant.org",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "speak",
+      "name": "Speak",
+      "description": "AI language tutor that gives spoken conversation practice, popular in Korea and the US.",
+      "layers": [
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Education & tutoring"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Connor Zwick",
+        "Connie Yang"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.speak.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "education",
+        "language"
+      ],
+      "identitySource": {
+        "source": "https://www.speak.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "grammarly",
+      "name": "Grammarly",
+      "description": "Writing assistant that now includes a full generative AI partner across email and docs.",
+      "layers": [
+        "apps-enterprise",
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Document intelligence",
+        "Education & tutoring"
+      ],
+      "founded": 2009,
+      "founders": [
+        "Alex Shevchenko",
+        "Max Lytvyn",
+        "Dmytro Lider"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.grammarly.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$200M+",
+        "stage": "Private",
+        "investors": [
+          "Baillie Gifford",
+          "BlackRock"
+        ],
+        "source": "https://www.grammarly.com/blog/company/third-funding-round/",
+        "date": "2021-11-18"
+      },
+      "tags": [
+        "writing"
+      ],
+      "identitySource": {
+        "source": "https://www.grammarly.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "quillbot",
+      "name": "QuillBot",
+      "description": "Paraphrasing and writing toolkit used by students and professionals.",
+      "layers": [
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Education & tutoring"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Rohit Jivanlal",
+        "Anil Jason"
+      ],
+      "headquarters": "Chicago, IL, USA",
+      "website": "https://quillbot.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "writing",
+        "education"
+      ],
+      "identitySource": {
+        "source": "https://quillbot.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "magicschool",
+      "name": "MagicSchool",
+      "description": "Generative toolkit for teachers that drafts lessons, rubrics, and differentiated materials.",
+      "layers": [
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Education & tutoring"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Adeel Khan"
+      ],
+      "headquarters": "Denver, CO, USA",
+      "website": "https://www.magicschool.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "education",
+        "teachers"
+      ],
+      "identitySource": {
+        "source": "https://www.magicschool.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "century-tech",
+      "name": "CENTURY Tech",
+      "description": "London adaptive-learning platform used by schools and further-education colleges.",
+      "layers": [
+        "apps-consumer"
+      ],
+      "subdomains": [
+        "Education & tutoring"
+      ],
+      "founded": 2013,
+      "founders": [
+        "Priya Lakhani"
+      ],
+      "headquarters": "London, UK",
+      "website": "https://www.century.tech",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "education",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://www.century.tech",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    }
+  ]
+}

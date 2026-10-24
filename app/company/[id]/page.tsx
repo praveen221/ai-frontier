@@ -26,7 +26,7 @@ export async function generateMetadata({
       title: company.name,
       description: company.description,
       url: `/company/${company.id}/`,
-      images: [{ url: `/og/${company.id}.svg`, width: 1200, height: 630, alt: company.name }],
+      images: [{ url: `/og/${company.id}.png`, width: 1200, height: 630, alt: company.name }],
     },
   };
 }
@@ -46,7 +46,7 @@ export default async function CompanyPage({
     .filter(Boolean);
 
   return (
-    <main className="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+    <main id="main" className="mx-auto max-w-3xl px-4 py-12 sm:px-6">
       <Link href="/" className="text-[13px] text-primary">
         ← Directory
       </Link>
@@ -75,9 +75,21 @@ export default async function CompanyPage({
       </div>
 
       <dl className="mt-8 grid gap-4 sm:grid-cols-2">
-        <Fact label="Founded" value={String(company.founded)} />
-        <Fact label="Headquarters" value={company.headquarters} />
-        <Fact label="Founders" value={company.founders.join(', ')} />
+        <Fact
+          label="Founded"
+          value={String(company.founded)}
+          source={company.identitySource?.fields.includes('founded') ? company.identitySource : undefined}
+        />
+        <Fact
+          label="Headquarters"
+          value={company.headquarters}
+          source={company.identitySource?.fields.includes('headquarters') ? company.identitySource : undefined}
+        />
+        <Fact
+          label="Founders"
+          value={company.founders.join(', ')}
+          source={company.identitySource?.fields.includes('founders') ? company.identitySource : undefined}
+        />
         <Fact
           label="Website"
           value={
@@ -155,11 +167,30 @@ export default async function CompanyPage({
   );
 }
 
-function Fact({ label, value }: { label: string; value: ReactNode }) {
+function Fact({
+  label,
+  value,
+  source,
+}: {
+  label: string;
+  value: ReactNode;
+  source?: { source: string; date: string };
+}) {
   return (
     <div className="rounded-lg border border-border p-4">
       <dt className="text-[11px] uppercase tracking-[0.08em] text-muted-foreground">{label}</dt>
       <dd className="mt-1 text-sm">{value}</dd>
+      {source && (
+        <a
+          href={source.source}
+          target="_blank"
+          rel="noreferrer"
+          className="mt-2 inline-flex items-center gap-1 text-[12px] text-primary"
+        >
+          Source · {formatDate(source.date)}
+          <IconExternal />
+        </a>
+      )}
     </div>
   );
 }

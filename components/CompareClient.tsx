@@ -14,11 +14,13 @@ export function CompareClient({
   layers: TaxonomyLayer[];
 }) {
   const [ids, setIds] = useState<string[]>([]);
+  const [ready, setReady] = useState(false);
 
   useEffect(() => {
     const raw = new URLSearchParams(window.location.search).get('ids') ?? '';
     const fromUrl = raw.split(',').filter(Boolean).slice(0, 4);
     if (fromUrl.length) setIds(fromUrl);
+    setReady(true);
   }, []);
   const selected = ids
     .map((id) => companies.find((company) => company.id === id))
@@ -31,7 +33,7 @@ export function CompareClient({
   const layerName = (id: string) => layers.find((layer) => layer.id === id)?.name ?? id;
 
   return (
-    <main className="mx-auto max-w-[1400px] px-4 py-10 sm:px-6">
+    <main id="main" className="mx-auto max-w-[1400px] px-4 py-10 sm:px-6">
       <h1 className="text-3xl font-semibold tracking-tight">Compare</h1>
       <p className="mt-2 max-w-xl text-sm text-muted-foreground">
         Pick 2–4 entries. Only public, sourced figures are shown.
@@ -56,8 +58,20 @@ export function CompareClient({
         </select>
       </label>
 
-      {selected.length === 0 ? (
-        <p className="mt-10 text-sm text-muted-foreground">Nothing selected yet.</p>
+      {!ready ? (
+        <p className="mt-10 text-sm text-muted-foreground" aria-live="polite">
+          Loading comparison…
+        </p>
+      ) : selected.length === 0 ? (
+        <div className="mt-10 rounded-lg border border-dashed border-border px-6 py-12 text-center">
+          <p className="text-sm font-medium">Nothing to compare yet.</p>
+          <p className="mt-1 text-[13px] text-muted-foreground">
+            Choose 2–4 entries above, or tick Compare on the directory.
+          </p>
+          <Link href="/" className="mt-4 inline-block text-sm text-primary">
+            Back to the directory →
+          </Link>
+        </div>
       ) : (
         <div className="mt-8 overflow-x-auto">
           <table className="w-full min-w-[720px] border-collapse text-sm">

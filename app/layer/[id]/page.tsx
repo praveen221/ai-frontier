@@ -22,7 +22,7 @@ export async function generateMetadata({
     openGraph: {
       title: layer.name,
       description: layer.description,
-      images: [{ url: `/og/${layer.id}.svg`, width: 1200, height: 630, alt: layer.name }],
+      images: [{ url: `/og/${layer.id}.png`, width: 1200, height: 630, alt: layer.name }],
     },
   };
 }
@@ -37,7 +37,7 @@ export default async function LayerPage({
   if (!layer) notFound();
 
   return (
-    <>
+    <div id="main">
       <div className="border-b border-border">
         <div className="mx-auto max-w-[1500px] px-4 py-8 sm:px-6">
           <Link href="/taxonomy/" className="text-[13px] text-primary">
@@ -48,6 +48,6 @@ export default async function LayerPage({
         </div>
       </div>
       <Directory companies={getCompanies()} layers={getLayers()} initialLayer={layer.id} />
-    </>
+    </div>
   );
 }

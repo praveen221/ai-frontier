@@ -12,7 +12,7 @@ export default function TaxonomyPage() {
   const companies = getCompanies();
 
   return (
-    <main className="mx-auto max-w-5xl px-4 py-12 sm:px-6">
+    <main id="main" className="mx-auto max-w-5xl px-4 py-12 sm:px-6">
       <p className="text-[11px] uppercase tracking-[0.12em] text-primary">Taxonomy</p>
       <div className="mt-3 flex flex-col justify-between gap-6 border-b border-border pb-8 md:flex-row md:items-end">
         <h1 className="max-w-xl text-4xl font-semibold tracking-tight">

@@ -34,6 +34,7 @@ export function Directory({
   const [selectedId, setSelectedId] = useState<string | null>(companies[0]?.id ?? null);
   const [compare, setCompare] = useState<string[]>([]);
   const [mobileFilters, setMobileFilters] = useState(false);
+  const [visible, setVisible] = useState(40);
 
   useEffect(() => {
     const onKey = (event: KeyboardEvent) => {
@@ -83,10 +84,16 @@ export function Directory({
   }, [companies, layerId, query, sortBy]);
 
   useEffect(() => {
+    setVisible(40);
+  }, [query, layerId, sortBy]);
+
+  useEffect(() => {
     if (selectedId && !filtered.some((c) => c.id === selectedId)) {
       setSelectedId(filtered[0]?.id ?? null);
     }
   }, [filtered, selectedId]);
+
+  const visibleRows = filtered.slice(0, visible);
 
   const selected = filtered.find((c) => c.id === selectedId) ?? null;
   const layerName = (id: string) => layers.find((layer) => layer.id === id)?.name ?? id;
@@ -132,7 +139,7 @@ export function Directory({
         </div>
       </aside>
 
-      <main className="min-w-0">
+      <div className="min-w-0">
         <div className="border-b border-border px-4 py-8 sm:px-6">
           <p className="text-[11px] uppercase tracking-[0.12em] text-primary">Directory</p>
           <h1 className="mt-2 max-w-xl text-3xl font-semibold tracking-tight sm:text-4xl">
@@ -155,6 +162,7 @@ export function Directory({
               value={query}
               onChange={(event) => setQuery(event.target.value)}
               placeholder="Search name, founder, investor…"
+              aria-label="Search companies, founders, and investors"
               className="h-9 w-full rounded-md border border-border bg-background pl-9 pr-16 text-[13px] outline-none focus:ring-2 focus:ring-ring"
             />
             <kbd className="pointer-events-none absolute right-2 hidden rounded border border-border px-1.5 py-0.5 text-[10px] text-muted-foreground sm:block">
@@ -174,7 +182,7 @@ export function Directory({
               <option value="updated">Updated</option>
             </select>
           </label>
-          <p className="text-[11px] text-muted-foreground">
+          <p className="text-[11px] text-muted-foreground" aria-live="polite">
             {filtered.length} of {companies.length}
           </p>
         </div>
@@ -190,11 +198,14 @@ export function Directory({
 
         <ul className="divide-y divide-border">
           {filtered.length === 0 ? (
-            <li className="px-6 py-16 text-center text-sm text-muted-foreground">
-              No matches.{' '}
+            <li className="px-6 py-16 text-center">
+              <p className="text-sm font-medium">No matches in this slice of the stack.</p>
+              <p className="mt-1 text-[13px] text-muted-foreground">
+                Try another layer, or search a founder or investor.
+              </p>
               <button
                 type="button"
-                className="text-primary"
+                className="mt-4 text-sm text-primary"
                 onClick={() => {
                   setQuery('');
                   setLayerId('all');
@@ -204,7 +215,7 @@ export function Directory({
               </button>
             </li>
           ) : (
-            filtered.map((company) => (
+            visibleRows.map((company) => (
               <li key={company.id}>
                 <div
                   className={`flex cursor-pointer gap-3 px-4 py-4 sm:px-6 ${
@@ -243,8 +254,8 @@ export function Directory({
                     <p className="mt-1 line-clamp-2 text-[13px] text-muted-foreground">{company.description}</p>
                     <p className="mt-2 text-[11px] text-muted-foreground">
                       {company.founded}
-                      {company.funding.total ? ` · ${company.funding.total}` : ''}
-                      {company.valuation ? ` · ${company.valuation.amount}` : ''}
+                      {company.funding.total ? ` · raised ${company.funding.total}` : ''}
+                      {company.valuation ? ` · val ${company.valuation.amount}` : ''}
                     </p>
                   </div>
                 </div>
@@ -252,7 +263,18 @@ export function Directory({
             ))
           )}
         </ul>
-      </main>
+        {visible < filtered.length && (
+          <div className="border-t border-border px-4 py-4 sm:px-6">
+            <button
+              type="button"
+              className="text-sm text-primary"
+              onClick={() => setVisible((count) => count + 40)}
+            >
+              Show more ({filtered.length - visible} remaining)
+            </button>
+          </div>
+        )}
+      </div>
 
       <aside className="border-t border-border lg:sticky lg:top-14 lg:h-[calc(100vh-3.5rem)] lg:overflow-y-auto lg:border-l lg:border-t-0">
         {selected ? (

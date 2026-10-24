@@ -1,0 +1,2089 @@
+{
+  "companies": [
+    {
+      "id": "ssi",
+      "name": "Safe Superintelligence",
+      "description": "Ilya Sutskever's lab whose only product goal is a safe superintelligent system.",
+      "layers": [
+        "models-frontier",
+        "safety-security"
+      ],
+      "subdomains": [
+        "Frontier language models (GPT-4, Claude, Gemini)",
+        "Alignment research"
+      ],
+      "founded": 2024,
+      "founders": [
+        "Ilya Sutskever",
+        "Daniel Gross",
+        "Daniel Levy"
+      ],
+      "headquarters": "Palo Alto, CA, USA",
+      "website": "https://ssi.inc",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "frontier lab",
+        "safety"
+      ],
+      "identitySource": {
+        "source": "https://ssi.inc",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "thinking-machines",
+      "name": "Thinking Machines Lab",
+      "description": "Mira Murati's lab building multimodal research systems and developer products.",
+      "layers": [
+        "models-frontier"
+      ],
+      "subdomains": [
+        "Frontier language models (GPT-4, Claude, Gemini)",
+        "Multimodal foundation models"
+      ],
+      "founded": 2025,
+      "founders": [
+        "Mira Murati"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://thinkingmachines.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "frontier lab"
+      ],
+      "identitySource": {
+        "source": "https://thinkingmachines.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "essential-ai",
+      "name": "Essential AI",
+      "description": "Ashish Vaswani's lab training efficient frontier models for enterprise use.",
+      "layers": [
+        "models-frontier"
+      ],
+      "subdomains": [
+        "Frontier language models (GPT-4, Claude, Gemini)"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Ashish Vaswani",
+        "Niki Parmar"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://essential.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "frontier lab"
+      ],
+      "identitySource": {
+        "source": "https://essential.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "reka",
+      "name": "Reka",
+      "description": "Multimodal model lab founded by former Google Brain and DeepMind researchers.",
+      "layers": [
+        "models-frontier"
+      ],
+      "subdomains": [
+        "Multimodal foundation models"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Yi Tay",
+        "Mostafa Dehghani",
+        "Vinh Q. Tran"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.reka.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "multimodal"
+      ],
+      "identitySource": {
+        "source": "https://www.reka.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "jina-ai",
+      "name": "Jina AI",
+      "description": "Berlin company building open multimodal embeddings, rerankers, and search primitives.",
+      "layers": [
+        "models-open",
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Open language models (Llama, Mistral, Qwen)",
+        "Vector databases"
+      ],
+      "founded": 2020,
+      "founders": [
+        "Han Xiao"
+      ],
+      "headquarters": "Berlin, Germany",
+      "website": "https://jina.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "embeddings",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://jina.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "voyage-ai",
+      "name": "Voyage AI",
+      "description": "Embedding-model company (now part of MongoDB) focused on retrieval quality.",
+      "layers": [
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Vector databases"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Tengyu Ma"
+      ],
+      "headquarters": "Palo Alto, CA, USA",
+      "website": "https://www.voyageai.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Acquired by MongoDB",
+        "investors": []
+      },
+      "tags": [
+        "embeddings",
+        "acquired"
+      ],
+      "identitySource": {
+        "source": "https://www.voyageai.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "nomic",
+      "name": "Nomic",
+      "description": "Open embedding and visualization company behind Nomic Embed and Atlas.",
+      "layers": [
+        "models-open",
+        "data-platforms"
+      ],
+      "subdomains": [
+        "Open language models (Llama, Mistral, Qwen)",
+        "Vector databases"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Andriy Mulyar",
+        "Brandon Duderstadt"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://www.nomic.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "embeddings",
+        "open-source"
+      ],
+      "identitySource": {
+        "source": "https://www.nomic.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "recraft",
+      "name": "Recraft",
+      "description": "Design-focused image model and editor used for brand-consistent illustration.",
+      "layers": [
+        "models-image",
+        "apps-creative"
+      ],
+      "subdomains": [
+        "Text-to-image generation",
+        "Image editing & generation"
+      ],
+      "founded": 2022,
+      "founders": [
+        "Anna Veronika Dorogush"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.recraft.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "image"
+      ],
+      "identitySource": {
+        "source": "https://www.recraft.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "leonardo-ai",
+      "name": "Leonardo.ai",
+      "description": "Australian image-generation platform aimed at game and production artists.",
+      "layers": [
+        "apps-creative"
+      ],
+      "subdomains": [
+        "Image editing & generation"
+      ],
+      "founded": 2022,
+      "founders": [
+        "J. J. Fiasson"
+      ],
+      "headquarters": "Sydney, Australia",
+      "website": "https://leonardo.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "image",
+        "Australia"
+      ],
+      "identitySource": {
+        "source": "https://leonardo.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "heygen",
+      "name": "HeyGen",
+      "description": "AI avatar and video platform for translating and generating presenter videos.",
+      "layers": [
+        "apps-creative"
+      ],
+      "subdomains": [
+        "Video editing & effects",
+        "Voice & dubbing"
+      ],
+      "founded": 2020,
+      "founders": [
+        "Joshua Xu"
+      ],
+      "headquarters": "Los Angeles, CA, USA",
+      "website": "https://www.heygen.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "video"
+      ],
+      "identitySource": {
+        "source": "https://www.heygen.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "d-id",
+      "name": "D-ID",
+      "description": "Tel Aviv company that animates still faces and generates talking presenters.",
+      "layers": [
+        "apps-creative"
+      ],
+      "subdomains": [
+        "Video editing & effects"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Gil Perry",
+        "Sella Blondheim",
+        "Eliran Turgeman"
+      ],
+      "headquarters": "Tel Aviv, Israel",
+      "website": "https://www.d-id.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "video",
+        "Middle East"
+      ],
+      "identitySource": {
+        "source": "https://www.d-id.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "speechify",
+      "name": "Speechify",
+      "description": "Text-to-speech consumer app used for reading documents aloud.",
+      "layers": [
+        "apps-consumer",
+        "models-audio"
+      ],
+      "subdomains": [
+        "Education & tutoring",
+        "Text-to-speech & voice cloning"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Cliff Weitzman"
+      ],
+      "headquarters": "Los Angeles, CA, USA",
+      "website": "https://speechify.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "TTS",
+        "accessibility"
+      ],
+      "identitySource": {
+        "source": "https://speechify.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "descript",
+      "name": "Descript",
+      "description": "Audio and video editor that treats media as a transcript you can cut like a doc.",
+      "layers": [
+        "apps-creative"
+      ],
+      "subdomains": [
+        "Video editing & effects",
+        "Voice & dubbing"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Andrew Mason"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.descript.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "video",
+        "audio"
+      ],
+      "identitySource": {
+        "source": "https://www.descript.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "resemble-ai",
+      "name": "Resemble AI",
+      "description": "Voice-cloning and speech-generation API used in media and agents.",
+      "layers": [
+        "models-audio"
+      ],
+      "subdomains": [
+        "Text-to-speech & voice cloning"
+      ],
+      "founded": 2019,
+      "founders": [
+        "Zohaib Ahmed"
+      ],
+      "headquarters": "Toronto, Canada",
+      "website": "https://www.resemble.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "TTS",
+        "Canada"
+      ],
+      "identitySource": {
+        "source": "https://www.resemble.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "play-ht",
+      "name": "PlayHT",
+      "description": "Text-to-speech API and studio for cloned and streaming voices.",
+      "layers": [
+        "models-audio"
+      ],
+      "subdomains": [
+        "Text-to-speech & voice cloning"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Michael Musero",
+        "Ajmal Khan"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://play.ht",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "TTS"
+      ],
+      "identitySource": {
+        "source": "https://play.ht",
+        "date": "2026-10-24",
+        "fields": [
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "krea",
+      "name": "Krea",
+      "description": "Real-time visual generation canvas for images, video, and design exploration.",
+      "layers": [
+        "apps-creative"
+      ],
+      "subdomains": [
+        "Image editing & generation"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Diego Rodriguez",
+        "Victor Perez"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.krea.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "image"
+      ],
+      "identitySource": {
+        "source": "https://www.krea.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "sima-ai",
+      "name": "SiMa.ai",
+      "description": "San Jose company building MLSoC chips for edge and physical-AI inference.",
+      "layers": [
+        "chips-silicon"
+      ],
+      "subdomains": [
+        "Edge & mobile AI chips",
+        "Inference-optimized chips"
+      ],
+      "founded": 2018,
+      "founders": [
+        "Krishna Rangasayee"
+      ],
+      "headquarters": "San Jose, CA, USA",
+      "website": "https://sima.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "edge",
+        "chips"
+      ],
+      "identitySource": {
+        "source": "https://sima.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "mythic",
+      "name": "Mythic",
+      "description": "Analog-compute chip company targeting power-efficient edge inference.",
+      "layers": [
+        "chips-silicon"
+      ],
+      "subdomains": [
+        "Edge & mobile AI chips",
+        "Inference-optimized chips"
+      ],
+      "founded": 2012,
+      "founders": [
+        "Mike Henry"
+      ],
+      "headquarters": "Austin, TX, USA",
+      "website": "https://mythic.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "edge",
+        "analog"
+      ],
+      "identitySource": {
+        "source": "https://mythic.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "ayar-labs",
+      "name": "Ayar Labs",
+      "description": "Optical I/O company replacing electrical chip-to-chip links in AI clusters.",
+      "layers": [
+        "chips-silicon",
+        "infrastructure-cloud"
+      ],
+      "subdomains": [
+        "Custom AI accelerators (TPU, Trainium, etc.)",
+        "Cluster networking"
+      ],
+      "founded": 2015,
+      "founders": [
+        "Vladimir Stojanovic",
+        "Chen Sun",
+        "Mark Wade",
+        "Hugo Saleh"
+      ],
+      "headquarters": "San Jose, CA, USA",
+      "website": "https://ayarlabs.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "photonics",
+        "networking"
+      ],
+      "identitySource": {
+        "source": "https://ayarlabs.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "celestial-ai",
+      "name": "Celestial AI",
+      "description": "Photonic-fabric company connecting accelerators with optical memory fabrics.",
+      "layers": [
+        "chips-silicon"
+      ],
+      "subdomains": [
+        "Custom AI accelerators (TPU, Trainium, etc.)"
+      ],
+      "founded": 2020,
+      "founders": [
+        "Preet Virk"
+      ],
+      "headquarters": "Santa Clara, CA, USA",
+      "website": "https://www.celestial.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "photonics"
+      ],
+      "identitySource": {
+        "source": "https://www.celestial.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "nextsilicon",
+      "name": "NextSilicon",
+      "description": "Israeli compiler-and-chip company building a software-defined accelerator.",
+      "layers": [
+        "chips-silicon",
+        "systems-software"
+      ],
+      "subdomains": [
+        "Custom AI accelerators (TPU, Trainium, etc.)",
+        "ML compilers"
+      ],
+      "founded": 2018,
+      "founders": [
+        "Elad Raz"
+      ],
+      "headquarters": "Tel Aviv, Israel",
+      "website": "https://www.nextsilicon.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "chips",
+        "Middle East"
+      ],
+      "identitySource": {
+        "source": "https://www.nextsilicon.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "untether",
+      "name": "Untether AI",
+      "description": "Toronto inference-chip company using at-memory compute to cut data movement.",
+      "layers": [
+        "chips-silicon"
+      ],
+      "subdomains": [
+        "Inference-optimized chips"
+      ],
+      "founded": 2018,
+      "founders": [
+        "Arun Iyengar"
+      ],
+      "headquarters": "Toronto, Canada",
+      "website": "https://www.untether.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "chips",
+        "Canada"
+      ],
+      "identitySource": {
+        "source": "https://www.untether.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "esperanto",
+      "name": "Esperanto Technologies",
+      "description": "RISC-V many-core company targeting energy-efficient AI inference.",
+      "layers": [
+        "chips-silicon"
+      ],
+      "subdomains": [
+        "Inference-optimized chips",
+        "Edge & mobile AI chips"
+      ],
+      "founded": 2014,
+      "founders": [
+        "Dave Ditzel"
+      ],
+      "headquarters": "Mountain View, CA, USA",
+      "website": "https://www.esperanto.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "RISC-V"
+      ],
+      "identitySource": {
+        "source": "https://www.esperanto.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "lightning-ai",
+      "name": "Lightning AI",
+      "description": "Company behind PyTorch Lightning and a cloud studio for training and deploying models.",
+      "layers": [
+        "dev-tools",
+        "serving-inference"
+      ],
+      "subdomains": [
+        "Experiment tracking",
+        "Model serving platforms"
+      ],
+      "founded": 2019,
+      "founders": [
+        "William Falcon"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://lightning.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "PyTorch",
+        "MLOps"
+      ],
+      "identitySource": {
+        "source": "https://lightning.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "vast-data",
+      "name": "VAST Data",
+      "description": "AI-oriented data platform combining flash storage with a parallel file and object system.",
+      "layers": [
+        "infrastructure-cloud",
+        "data-platforms"
+      ],
+      "subdomains": [
+        "GPU cloud providers",
+        "Data pipelines & ETL"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Renen Hallak",
+        "Jeff Denworth",
+        "Shachar Fienblit"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://www.vastdata.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "storage"
+      ],
+      "identitySource": {
+        "source": "https://www.vastdata.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "weka",
+      "name": "WEKA",
+      "description": "High-performance parallel file system used for GPU training clusters.",
+      "layers": [
+        "infrastructure-cloud"
+      ],
+      "subdomains": [
+        "GPU cloud providers"
+      ],
+      "founded": 2013,
+      "founders": [
+        "Liran Zvibel",
+        "Maor Ben-Dayan",
+        "Omri Mann"
+      ],
+      "headquarters": "Campbell, CA, USA",
+      "website": "https://www.weka.io",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "storage"
+      ],
+      "identitySource": {
+        "source": "https://www.weka.io",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "paperspace",
+      "name": "Paperspace",
+      "description": "GPU-cloud and notebook platform, now part of DigitalOcean.",
+      "layers": [
+        "infrastructure-cloud"
+      ],
+      "subdomains": [
+        "GPU cloud providers"
+      ],
+      "founded": 2014,
+      "founders": [
+        "Dillon Erb",
+        "Daniel Kobran"
+      ],
+      "headquarters": "New York, NY, USA",
+      "website": "https://www.paperspace.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Acquired by DigitalOcean",
+        "investors": []
+      },
+      "tags": [
+        "GPU",
+        "acquired"
+      ],
+      "identitySource": {
+        "source": "https://www.paperspace.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "apptronik",
+      "name": "Apptronik",
+      "description": "Austin humanoid-robotics company building Apollo for logistics and manufacturing.",
+      "layers": [
+        "robotics-physical"
+      ],
+      "subdomains": [
+        "Humanoid robots"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Jeff Cardenas"
+      ],
+      "headquarters": "Austin, TX, USA",
+      "website": "https://apptronik.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "humanoid"
+      ],
+      "identitySource": {
+        "source": "https://apptronik.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "sanctuary-ai",
+      "name": "Sanctuary AI",
+      "description": "Vancouver company building general-purpose humanoid robots and Carbon minds.",
+      "layers": [
+        "robotics-physical",
+        "models-robotics"
+      ],
+      "subdomains": [
+        "Humanoid robots",
+        "Robotics foundation models"
+      ],
+      "founded": 2018,
+      "founders": [
+        "Geordie Rose",
+        "Suzanne Gildert"
+      ],
+      "headquarters": "Vancouver, Canada",
+      "website": "https://www.sanctuary.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "humanoid",
+        "Canada"
+      ],
+      "identitySource": {
+        "source": "https://www.sanctuary.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "agibot",
+      "name": "Agibot",
+      "description": "Shanghai humanoid-robotics company (Zhiyuan) shipping general-purpose robots.",
+      "layers": [
+        "robotics-physical"
+      ],
+      "subdomains": [
+        "Humanoid robots"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Peng Zhihui"
+      ],
+      "headquarters": "Shanghai, China",
+      "website": "https://www.agibot.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "humanoid",
+        "China"
+      ],
+      "identitySource": {
+        "source": "https://www.agibot.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "ubtech",
+      "name": "UBTECH",
+      "description": "Shenzhen robotics company that makes Walker humanoids and education robots.",
+      "layers": [
+        "robotics-physical"
+      ],
+      "subdomains": [
+        "Humanoid robots"
+      ],
+      "founded": 2012,
+      "founders": [
+        "Zhou Jian"
+      ],
+      "headquarters": "Shenzhen, China",
+      "website": "https://www.ubtrobot.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "humanoid",
+        "China",
+        "public"
+      ],
+      "identitySource": {
+        "source": "https://www.ubtrobot.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "waabi",
+      "name": "Waabi",
+      "description": "Raquel Urtasun's Toronto lab training end-to-end autonomous trucking models.",
+      "layers": [
+        "autonomous-systems"
+      ],
+      "subdomains": [
+        "Autonomous trucking"
+      ],
+      "founded": 2021,
+      "founders": [
+        "Raquel Urtasun"
+      ],
+      "headquarters": "Toronto, Canada",
+      "website": "https://waabi.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "trucking",
+        "Canada"
+      ],
+      "identitySource": {
+        "source": "https://waabi.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "aurora",
+      "name": "Aurora",
+      "description": "Public self-driving company working on trucking and ride-hail autonomy.",
+      "layers": [
+        "autonomous-systems"
+      ],
+      "subdomains": [
+        "Autonomous vehicles (L4/L5)",
+        "Autonomous trucking"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Chris Urmson",
+        "Sterling Anderson",
+        "Drew Bagnell"
+      ],
+      "headquarters": "Pittsburgh, PA, USA",
+      "website": "https://aurora.tech",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "AV",
+        "public"
+      ],
+      "fullName": "Aurora Innovation",
+      "identitySource": {
+        "source": "https://aurora.tech",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "applied-intuition",
+      "name": "Applied Intuition",
+      "description": "Simulation and software toolchain for autonomous vehicles and robotics.",
+      "layers": [
+        "autonomous-systems",
+        "dev-tools"
+      ],
+      "subdomains": [
+        "Autonomous vehicles (L4/L5)",
+        "Experiment tracking"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Qasar Younis",
+        "Peter Ludwig"
+      ],
+      "headquarters": "Mountain View, CA, USA",
+      "website": "https://www.appliedintuition.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "AV",
+        "simulation"
+      ],
+      "identitySource": {
+        "source": "https://www.appliedintuition.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "comma-ai",
+      "name": "comma.ai",
+      "description": "Open-source driver-assistance company founded by George Hotz.",
+      "layers": [
+        "autonomous-systems"
+      ],
+      "subdomains": [
+        "Autonomous vehicles (L4/L5)"
+      ],
+      "founded": 2015,
+      "founders": [
+        "George Hotz"
+      ],
+      "headquarters": "San Diego, CA, USA",
+      "website": "https://comma.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "AV",
+        "open-source"
+      ],
+      "identitySource": {
+        "source": "https://comma.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "zipline",
+      "name": "Zipline",
+      "description": "Autonomous delivery-drone company operating medical and retail logistics routes.",
+      "layers": [
+        "autonomous-systems"
+      ],
+      "subdomains": [
+        "Delivery drones"
+      ],
+      "founded": 2014,
+      "founders": [
+        "Keller Rinaudo Cliffton",
+        "Keenan Wyrobek"
+      ],
+      "headquarters": "South San Francisco, CA, USA",
+      "website": "https://www.zipline.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "drones"
+      ],
+      "identitySource": {
+        "source": "https://www.zipline.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "joby",
+      "name": "Joby Aviation",
+      "description": "Public eVTOL company building electric air taxis with autonomy software.",
+      "layers": [
+        "autonomous-systems"
+      ],
+      "subdomains": [
+        "eVTOL & air taxis"
+      ],
+      "founded": 2009,
+      "founders": [
+        "JoeBen Bevirt"
+      ],
+      "headquarters": "Santa Cruz, CA, USA",
+      "website": "https://www.jobyaviation.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "eVTOL",
+        "public"
+      ],
+      "identitySource": {
+        "source": "https://www.jobyaviation.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "wing",
+      "name": "Wing",
+      "description": "Alphabet's drone-delivery company operating autonomous last-mile flights.",
+      "layers": [
+        "autonomous-systems"
+      ],
+      "subdomains": [
+        "Delivery drones"
+      ],
+      "founded": 2012,
+      "founders": [
+        "Alphabet"
+      ],
+      "headquarters": "Palo Alto, CA, USA",
+      "website": "https://wing.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Alphabet subsidiary",
+        "investors": []
+      },
+      "tags": [
+        "drones",
+        "Alphabet"
+      ],
+      "identitySource": {
+        "source": "https://wing.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "plus-ai",
+      "name": "Plus",
+      "description": "Autonomous-trucking company deploying L4 systems with major carriers.",
+      "layers": [
+        "autonomous-systems"
+      ],
+      "subdomains": [
+        "Autonomous trucking"
+      ],
+      "founded": 2016,
+      "founders": [
+        "David Liu"
+      ],
+      "headquarters": "Santa Clara, CA, USA",
+      "website": "https://plus.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "trucking"
+      ],
+      "identitySource": {
+        "source": "https://plus.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "kodiak",
+      "name": "Kodiak Robotics",
+      "description": "Autonomous-trucking company running driver-out freight in Texas and the Southwest.",
+      "layers": [
+        "autonomous-systems"
+      ],
+      "subdomains": [
+        "Autonomous trucking"
+      ],
+      "founded": 2018,
+      "founders": [
+        "Don Burnette"
+      ],
+      "headquarters": "Mountain View, CA, USA",
+      "website": "https://kodiak.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "trucking"
+      ],
+      "identitySource": {
+        "source": "https://kodiak.ai",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "greylock",
+      "name": "Greylock",
+      "description": "Silicon Valley venture firm with a long AI portfolio from infrastructure to applications.",
+      "layers": [
+        "capital-investors"
+      ],
+      "subdomains": [
+        "Venture capital firms"
+      ],
+      "founded": 1965,
+      "founders": [
+        "Eugene Kleiner",
+        "Tom Perkins"
+      ],
+      "headquarters": "Menlo Park, CA, USA",
+      "website": "https://greylock.com",
+      "entityType": "investor",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Venture firm",
+        "investors": []
+      },
+      "tags": [
+        "VC"
+      ],
+      "identitySource": {
+        "source": "https://greylock.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "general-catalyst",
+      "name": "General Catalyst",
+      "description": "Venture firm that has led large rounds in AI labs, healthcare, and enterprise.",
+      "layers": [
+        "capital-investors"
+      ],
+      "subdomains": [
+        "Venture capital firms"
+      ],
+      "founded": 2000,
+      "founders": [
+        "Joel Cutler",
+        "David Fialkow"
+      ],
+      "headquarters": "Cambridge, MA, USA",
+      "website": "https://www.generalcatalyst.com",
+      "entityType": "investor",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Venture firm",
+        "investors": []
+      },
+      "tags": [
+        "VC"
+      ],
+      "identitySource": {
+        "source": "https://www.generalcatalyst.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "index-ventures",
+      "name": "Index Ventures",
+      "description": "European-American venture firm backing AI companies across the stack.",
+      "layers": [
+        "capital-investors"
+      ],
+      "subdomains": [
+        "Venture capital firms"
+      ],
+      "founded": 1996,
+      "founders": [
+        "Neil Rimer",
+        "David Rimer",
+        "Giuseppe Zocco"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.indexventures.com",
+      "entityType": "investor",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Venture firm",
+        "investors": []
+      },
+      "tags": [
+        "VC",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://www.indexventures.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "accel",
+      "name": "Accel",
+      "description": "Global venture firm with AI investments from early infrastructure to applications.",
+      "layers": [
+        "capital-investors"
+      ],
+      "subdomains": [
+        "Venture capital firms"
+      ],
+      "founded": 1983,
+      "founders": [
+        "Arthur Patterson",
+        "Jim Swartz"
+      ],
+      "headquarters": "Palo Alto, CA, USA",
+      "website": "https://www.accel.com",
+      "entityType": "investor",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Venture firm",
+        "investors": []
+      },
+      "tags": [
+        "VC"
+      ],
+      "identitySource": {
+        "source": "https://www.accel.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "peak-xv",
+      "name": "Peak XV Partners",
+      "description": "Formerly Sequoia India & SEA, a major backer of Indian AI and software companies.",
+      "layers": [
+        "capital-investors"
+      ],
+      "subdomains": [
+        "Venture capital firms"
+      ],
+      "founded": 2023,
+      "founders": [
+        "Shailendra Singh",
+        "Rajan Anandan"
+      ],
+      "headquarters": "Bengaluru, India",
+      "website": "https://www.peakxv.com",
+      "entityType": "investor",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Venture firm",
+        "investors": []
+      },
+      "tags": [
+        "VC",
+        "India"
+      ],
+      "identitySource": {
+        "source": "https://www.peakxv.com",
+        "date": "2026-10-24",
+        "fields": [
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "air-street",
+      "name": "Air Street Capital",
+      "description": "London specialist fund investing in AI-first science and software companies.",
+      "layers": [
+        "capital-investors"
+      ],
+      "subdomains": [
+        "AI-focused funds"
+      ],
+      "founded": 2019,
+      "founders": [
+        "Nathan Benaich"
+      ],
+      "headquarters": "London, UK",
+      "website": "https://airstreet.com",
+      "entityType": "investor",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Venture firm",
+        "investors": []
+      },
+      "tags": [
+        "VC",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://airstreet.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "radical-ventures",
+      "name": "Radical Ventures",
+      "description": "Toronto AI-specialist fund backing model, infrastructure, and application companies.",
+      "layers": [
+        "capital-investors"
+      ],
+      "subdomains": [
+        "AI-focused funds"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Jordan Jacobs",
+        "Mohamad Fawaz"
+      ],
+      "headquarters": "Toronto, Canada",
+      "website": "https://radical.vc",
+      "entityType": "investor",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Venture firm",
+        "investors": []
+      },
+      "tags": [
+        "VC",
+        "Canada"
+      ],
+      "identitySource": {
+        "source": "https://radical.vc",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "nvidia-ventures",
+      "name": "NVentures",
+      "description": "NVIDIA's venture arm investing in companies across the AI stack.",
+      "layers": [
+        "capital-investors"
+      ],
+      "subdomains": [
+        "Corporate venture arms"
+      ],
+      "founded": 2021,
+      "founders": [
+        "NVIDIA"
+      ],
+      "headquarters": "Santa Clara, CA, USA",
+      "website": "https://www.nvidia.com/en-us/startups/",
+      "entityType": "investor",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Corporate venture",
+        "investors": []
+      },
+      "tags": [
+        "CVC"
+      ],
+      "identitySource": {
+        "source": "https://www.nvidia.com/en-us/startups/",
+        "date": "2026-10-24",
+        "fields": [
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "intel-capital",
+      "name": "Intel Capital",
+      "description": "Intel's corporate venture arm, a long-time investor in chips, software, and AI.",
+      "layers": [
+        "capital-investors"
+      ],
+      "subdomains": [
+        "Corporate venture arms"
+      ],
+      "founded": 1991,
+      "founders": [
+        "Intel"
+      ],
+      "headquarters": "Santa Clara, CA, USA",
+      "website": "https://www.intelcapital.com",
+      "entityType": "investor",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Corporate venture",
+        "investors": []
+      },
+      "tags": [
+        "CVC"
+      ],
+      "identitySource": {
+        "source": "https://www.intelcapital.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "entrepreneur-first",
+      "name": "Entrepreneur First",
+      "description": "Europe-and-Asia talent investor that forms AI companies from technical founders.",
+      "layers": [
+        "capital-investors"
+      ],
+      "subdomains": [
+        "Accelerators & incubators"
+      ],
+      "founded": 2011,
+      "founders": [
+        "Matt Clifford",
+        "Alice Bentinck"
+      ],
+      "headquarters": "London, UK",
+      "website": "https://www.joinef.com",
+      "entityType": "investor",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Accelerator",
+        "investors": []
+      },
+      "tags": [
+        "accelerator",
+        "Europe"
+      ],
+      "identitySource": {
+        "source": "https://www.joinef.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "moore-threads",
+      "name": "Moore Threads",
+      "description": "Beijing GPU designer building domestic accelerators for training and graphics.",
+      "layers": [
+        "chips-silicon"
+      ],
+      "subdomains": [
+        "Data center GPUs"
+      ],
+      "founded": 2020,
+      "founders": [
+        "Zhang Jianzhong"
+      ],
+      "headquarters": "Beijing, China",
+      "website": "https://www.mthreads.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "GPU",
+        "China"
+      ],
+      "identitySource": {
+        "source": "https://www.mthreads.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "biren",
+      "name": "Biren Technology",
+      "description": "Shanghai AI-accelerator company designing GPUs for Chinese data centers.",
+      "layers": [
+        "chips-silicon"
+      ],
+      "subdomains": [
+        "Data center GPUs",
+        "Custom AI accelerators (TPU, Trainium, etc.)"
+      ],
+      "founded": 2019,
+      "founders": [
+        "Lingjie Xu"
+      ],
+      "headquarters": "Shanghai, China",
+      "website": "https://www.birentech.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      },
+      "tags": [
+        "GPU",
+        "China"
+      ],
+      "identitySource": {
+        "source": "https://www.birentech.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "sk-telecom",
+      "name": "SK Telecom",
+      "description": "Korean carrier whose A.X models and data-center plans are a national AI stack.",
+      "layers": [
+        "models-open",
+        "infrastructure-cloud"
+      ],
+      "subdomains": [
+        "Open language models (Llama, Mistral, Qwen)",
+        "GPU cloud providers"
+      ],
+      "founded": 1984,
+      "founders": [
+        "SK Group"
+      ],
+      "headquarters": "Seoul, South Korea",
+      "website": "https://www.sktelecom.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public company",
+        "investors": []
+      },
+      "tags": [
+        "Korea",
+        "public",
+        "telecom"
+      ],
+      "identitySource": {
+        "source": "https://www.sktelecom.com",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "kaust",
+      "name": "KAUST",
+      "description": "King Abdullah University of Science and Technology, a major Middle East AI research campus.",
+      "layers": [
+        "research-institutions"
+      ],
+      "subdomains": [
+        "University research labs"
+      ],
+      "founded": 2009,
+      "founders": [
+        "Government of Saudi Arabia"
+      ],
+      "headquarters": "Thuwal, Saudi Arabia",
+      "website": "https://www.kaust.edu.sa",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "University",
+        "investors": []
+      },
+      "tags": [
+        "Middle East",
+        "academia"
+      ],
+      "identitySource": {
+        "source": "https://www.kaust.edu.sa",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "iit-madras",
+      "name": "IIT Madras",
+      "description": "Indian Institute of Technology Madras, home of AI4Bharat and a national AI research hub.",
+      "layers": [
+        "research-institutions"
+      ],
+      "subdomains": [
+        "University research labs"
+      ],
+      "founded": 1959,
+      "founders": [
+        "Government of India"
+      ],
+      "headquarters": "Chennai, India",
+      "website": "https://www.iitm.ac.in",
+      "entityType": "research",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "University",
+        "investors": []
+      },
+      "tags": [
+        "India",
+        "academia"
+      ],
+      "identitySource": {
+        "source": "https://www.iitm.ac.in",
+        "date": "2026-10-24",
+        "fields": [
+          "founded",
+          "headquarters"
+        ]
+      }
+    }
+  ]
+}
