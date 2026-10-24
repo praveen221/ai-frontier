@@ -142,7 +142,7 @@
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private", "investors": [] },
+      "funding": { "total": "$250M", "stage": "Series B", "investors": ["Sequoia", "Spark Capital"], "source": "https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta/", "date": "2025-10-21" },
       "tags": ["voice", "full-duplex"]
     },
     {
@@ -283,7 +283,8 @@
       "entityType": "company",
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
-      "funding": { "total": null, "stage": "Private / acquihire", "investors": ["General Catalyst", "Spark Capital"] },
+      "funding": { "total": "$350M", "stage": "Series B", "investors": ["General Catalyst", "Spark Capital", "Addition", "Greylock", "Atlassian Ventures", "Microsoft", "NVIDIA", "Workday Ventures"], "source": "https://www.adept.ai/blog/series-b/", "date": "2023-03-14" },
+      "identitySource": { "source": "https://www.adept.ai/blog/series-b/", "date": "2023-03-14", "fields": ["founders"] },
       "tags": ["agents", "actions"]
     },
     {

@@ -1,0 +1,212 @@
+{
+  "companies": [
+    {
+      "id": "airtable",
+      "name": "Airtable",
+      "fullName": "Formagrid Inc.",
+      "description": "Connected apps platform that lets teams build AI-native workflow applications on a shared data layer, now part of Bending Spoons.",
+      "layers": [
+        "apps-enterprise"
+      ],
+      "subdomains": [
+        "Workflow automation",
+        "Document intelligence"
+      ],
+      "founded": 2013,
+      "founders": [
+        "Howie Liu",
+        "Andrew Ofstad"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.airtable.com",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$1.36B",
+        "stage": "Acquired by Bending Spoons",
+        "investors": [
+          "XN",
+          "Franklin Templeton",
+          "J.P. Morgan Growth Equity Partners",
+          "MSD Capital",
+          "Salesforce Ventures",
+          "Silver Lake",
+          "T. Rowe Price",
+          "Benchmark",
+          "Caffeinated Capital",
+          "Coatue",
+          "D1 Capital Partners",
+          "Greenoaks",
+          "ICONIQ Growth",
+          "Thrive Capital"
+        ],
+        "source": "https://www.airtable.com/newsroom/series-f",
+        "date": "2021-12-13"
+      },
+      "tags": [
+        "enterprise",
+        "workflows"
+      ],
+      "identitySource": {
+        "source": "https://www.airtable.com/newsroom/building-your-dream-company-takes-time-howie-liu-as-a-guest-on-the-secret-leaders-podcast",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "snyk",
+      "name": "Snyk",
+      "fullName": "Snyk Limited",
+      "description": "Developer-first AI security platform that finds and fixes issues in code, dependencies, containers, and cloud infrastructure.",
+      "layers": [
+        "safety-security",
+        "apps-coding"
+      ],
+      "subdomains": [
+        "Model security & red teaming",
+        "Code review"
+      ],
+      "founded": 2015,
+      "founders": [
+        "Guy Podjarny"
+      ],
+      "headquarters": "Boston, MA, USA",
+      "website": "https://snyk.io",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$196.5M",
+        "stage": "Series G",
+        "investors": [
+          "Qatar Investment Authority",
+          "Evolution Equity Partners",
+          "G Squared",
+          "Irving Investors",
+          "boldstart ventures",
+          "Sands Capital",
+          "Tiger Global"
+        ],
+        "source": "https://snyk.io/news/snyk-closes-196-5-million-series-g-funding-at-7-4-billion-valuation/",
+        "date": "2022-12-12"
+      },
+      "valuation": {
+        "amount": "$7.4B",
+        "date": "2022-12-12",
+        "source": "https://snyk.io/news/snyk-closes-196-5-million-series-g-funding-at-7-4-billion-valuation/",
+        "notes": "Company-stated Series G valuation"
+      },
+      "tags": [
+        "security",
+        "devsecops"
+      ],
+      "identitySource": {
+        "source": "https://snyk.io/about/",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "honeycomb",
+      "name": "Honeycomb",
+      "fullName": "Hound Technology, Inc.",
+      "description": "Observability platform used by engineering teams and agents to investigate production software behavior.",
+      "layers": [
+        "dev-tools"
+      ],
+      "subdomains": [
+        "LLM observability & tracing"
+      ],
+      "founded": 2016,
+      "founders": [
+        "Charity Majors",
+        "Christine Yen"
+      ],
+      "headquarters": "San Francisco, CA, USA",
+      "website": "https://www.honeycomb.io",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "nearly $150M",
+        "stage": "Series D",
+        "investors": [
+          "Headline",
+          "Insight Partners",
+          "Scale Venture Partners"
+        ],
+        "source": "https://www.honeycomb.io/blog/honeycomb-series-d-funding-press-release",
+        "date": "2023-04-06"
+      },
+      "tags": [
+        "observability"
+      ],
+      "identitySource": {
+        "source": "https://www.honeycomb.io/about",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "weride",
+      "name": "WeRide",
+      "fullName": "WeRide Inc.",
+      "description": "Public robotaxi company operating autonomous vehicles across robotaxi, robobus, and robosweeper products.",
+      "layers": [
+        "autonomous-systems"
+      ],
+      "subdomains": [
+        "Autonomous vehicles (L4/L5)"
+      ],
+      "founded": 2017,
+      "founders": [
+        "Tony Xu Han",
+        "Yan Li"
+      ],
+      "headquarters": "Guangzhou, China",
+      "website": "https://www.weride.ai",
+      "entityType": "company",
+      "addedAt": "2026-10-24",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Public (Nasdaq: WRD / HKEX: 0800)",
+        "investors": []
+      },
+      "revenue": {
+        "amount": "RMB684.6M",
+        "period": "FY2025",
+        "source": "https://ir.weride.ai/news-releases/news-release-details/weride-reports-record-full-year-2025-revenue-rmb6846-million-90",
+        "date": "2026-03-23",
+        "notes": "Company-stated FY2025 revenue RMB684.6 million (US$97.9 million)"
+      },
+      "tags": [
+        "robotaxi",
+        "China",
+        "public"
+      ],
+      "identitySource": {
+        "source": "https://ir.weride.ai/governance/management-team",
+        "date": "2026-10-24",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    }
+  ]
+}

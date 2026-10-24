@@ -279,15 +279,39 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "RMB6.10B",
+        "stage": "Public (STAR: 688836)",
+        "investors": [],
+        "source": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225472621.PDF",
+        "date": "2026-08-14"
       },
       "tags": [
         "China",
         "humanoid",
         "quadruped"
-      ]
+      ],
+      "valuation": {
+        "amount": "RMB12.7B",
+        "date": "2026-08-14",
+        "source": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225472621.PDF",
+        "notes": "Last private post-money valuation of RMB12.7B (June 2025) disclosed in STAR prospectus; IPO raised RMB6,099.32 million at RMB150.80 per share"
+      },
+      "revenue": {
+        "amount": "RMB1.70B",
+        "period": "FY2025",
+        "source": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225472621.PDF",
+        "date": "2026-08-14",
+        "notes": "STAR prospectus FY2025 revenue 169,926.93万元"
+      },
+      "identitySource": {
+        "source": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225472621.PDF",
+        "date": "2026-08-14",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
     },
     {
       "id": "apple",

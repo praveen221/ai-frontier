@@ -1,0 +1,574 @@
+{
+  "companies": [
+    {
+      "id": "unitree",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "RMB6.10B",
+        "stage": "Public (STAR: 688836)",
+        "investors": [],
+        "source": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225472621.PDF",
+        "date": "2026-08-14"
+      },
+      "valuation": {
+        "amount": "RMB12.7B",
+        "date": "2026-08-14",
+        "source": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225472621.PDF",
+        "notes": "Last private post-money valuation of RMB12.7B (June 2025) disclosed in STAR prospectus; IPO raised RMB6,099.32 million at RMB150.80 per share"
+      },
+      "revenue": {
+        "amount": "RMB1.70B",
+        "period": "FY2025",
+        "source": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225472621.PDF",
+        "date": "2026-08-14",
+        "notes": "STAR prospectus FY2025 revenue 169,926.93万元"
+      },
+      "identitySource": {
+        "source": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225472621.PDF",
+        "date": "2026-08-14",
+        "fields": [
+          "founders",
+          "founded",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "baichuan",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "RMB5.0B",
+        "stage": "Series A",
+        "investors": [
+          "Alibaba",
+          "Xiaomi",
+          "Tencent",
+          "Asia Investment Capital",
+          "CICC",
+          "Beijing AI Industry Fund",
+          "Shanghai AI Industry Fund",
+          "Shenzhen Capital Group"
+        ],
+        "source": "https://www.cls.cn/detail/1744649",
+        "date": "2024-07-25"
+      },
+      "identitySource": {
+        "source": "https://www.cls.cn/detail/1744649",
+        "date": "2024-07-25",
+        "fields": [
+          "founders",
+          "founded"
+        ]
+      }
+    },
+    {
+      "id": "sesame",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$250M",
+        "stage": "Series B",
+        "investors": [
+          "Sequoia",
+          "Spark Capital"
+        ],
+        "source": "https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta/",
+        "date": "2025-10-21"
+      }
+    },
+    {
+      "id": "adept",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$350M",
+        "stage": "Series B",
+        "investors": [
+          "General Catalyst",
+          "Spark Capital",
+          "Addition",
+          "Greylock",
+          "Atlassian Ventures",
+          "Microsoft",
+          "NVIDIA",
+          "Workday Ventures"
+        ],
+        "source": "https://www.adept.ai/blog/series-b/",
+        "date": "2023-03-14"
+      },
+      "identitySource": {
+        "source": "https://www.adept.ai/blog/series-b/",
+        "date": "2023-03-14",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "graphcore",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": ">$710M",
+        "stage": "Acquired by SoftBank",
+        "investors": [
+          "Ontario Teachers' Pension Plan",
+          "Fidelity International",
+          "Schroders",
+          "Baillie Gifford",
+          "Draper Esprit",
+          "Sequoia Capital",
+          "Microsoft"
+        ],
+        "source": "https://www.graphcore.ai/posts/graphcore-raises-222-million-in-series-e-funding-round",
+        "date": "2020-12-29"
+      },
+      "valuation": {
+        "amount": "$2.77B",
+        "date": "2020-12-29",
+        "source": "https://www.graphcore.ai/posts/graphcore-raises-222-million-in-series-e-funding-round",
+        "notes": "Series E post-money valuation; later acquired by SoftBank on 2024-07-11"
+      },
+      "identitySource": {
+        "source": "https://www.graphcore.ai/posts/graphcore-joins-softbank-group-to-build-next-generation-of-ai-compute",
+        "date": "2024-07-11",
+        "fields": [
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "gong",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$584M",
+        "stage": "Series E",
+        "investors": [
+          "Franklin Templeton",
+          "Coatue",
+          "Salesforce Ventures",
+          "Sequoia",
+          "Thrive Capital",
+          "Tiger Global"
+        ],
+        "source": "https://www.gong.io/press/gong-raises-250-million-in-series-e-funding-at-7-25-billion-valuation",
+        "date": "2021-06-03"
+      },
+      "valuation": {
+        "amount": "$7.25B",
+        "date": "2021-06-03",
+        "source": "https://www.gong.io/press/gong-raises-250-million-in-series-e-funding-at-7-25-billion-valuation",
+        "notes": "Company-stated Series E valuation"
+      }
+    },
+    {
+      "id": "fivetran",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$730M",
+        "stage": "Series D",
+        "investors": [
+          "Andreessen Horowitz",
+          "General Catalyst",
+          "CEAS Investments",
+          "Matrix Partners",
+          "ICONIQ Capital",
+          "D1 Capital Partners",
+          "YC Continuity"
+        ],
+        "source": "https://www.fivetran.com/press/fivetran-to-acquire-hvr-announces-565-million-in-series-d-funding",
+        "date": "2021-09-20"
+      },
+      "valuation": {
+        "amount": "$5.6B",
+        "date": "2021-09-20",
+        "source": "https://www.fivetran.com/press/fivetran-to-acquire-hvr-announces-565-million-in-series-d-funding",
+        "notes": "Company-stated valuation with $565M Series D; company-stated lifetime total $730M"
+      }
+    },
+    {
+      "id": "dbt-labs",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$222M",
+        "stage": "Series D",
+        "investors": [
+          "Altimeter",
+          "Amplify Partners",
+          "Andreessen Horowitz",
+          "Sequoia",
+          "Coatue",
+          "Tiger Global",
+          "ICONIQ Growth",
+          "GV",
+          "GIC",
+          "Databricks",
+          "Salesforce Ventures",
+          "Snowflake"
+        ],
+        "source": "https://www.getdbt.com/blog/dbt-labs-raises-222m-in-series-d-funding-at-4-2b-valuation-led-by-altimeter-with-participation-from-databricks-and-snowflake",
+        "date": "2022-02-24"
+      },
+      "valuation": {
+        "amount": "$4.2B",
+        "date": "2022-02-24",
+        "source": "https://www.getdbt.com/blog/dbt-labs-raises-222m-in-series-d-funding-at-4-2b-valuation-led-by-altimeter-with-participation-from-databricks-and-snowflake",
+        "notes": "Company-stated Series D valuation"
+      }
+    },
+    {
+      "id": "airbyte",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$150M",
+        "stage": "Series B",
+        "investors": [
+          "Altimeter Capital",
+          "Coatue Management",
+          "Thrive Capital",
+          "Salesforce Ventures",
+          "Benchmark",
+          "Accel",
+          "SV Angel"
+        ],
+        "source": "https://airbyte.com/blog/a-150m-series-b-to-power-the-movement-of-data",
+        "date": "2021-12-20"
+      },
+      "valuation": {
+        "amount": "$1.5B",
+        "date": "2021-12-20",
+        "source": "https://airbyte.com/blog/a-150m-series-b-to-power-the-movement-of-data",
+        "notes": "Company-stated Series B valuation"
+      }
+    },
+    {
+      "id": "datarobot",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$300M",
+        "stage": "Series G",
+        "investors": [
+          "Altimeter Capital",
+          "Tiger Global",
+          "Counterpoint Global",
+          "Franklin Templeton",
+          "ServiceNow Ventures",
+          "Sutter Hill Ventures"
+        ],
+        "source": "https://www.datarobot.com/newsroom/press/datarobot-unveils-major-milestones-including-300m-series-g-funding-investment/",
+        "date": "2021-07-27"
+      },
+      "valuation": {
+        "amount": "$6.3B",
+        "date": "2021-07-27",
+        "source": "https://www.datarobot.com/newsroom/press/datarobot-unveils-major-milestones-including-300m-series-g-funding-investment/",
+        "notes": "Company-stated Series G post-money valuation"
+      }
+    },
+    {
+      "id": "descript",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$100M",
+        "stage": "Series C",
+        "investors": [
+          "OpenAI Startup Fund",
+          "Andreessen Horowitz",
+          "Redpoint Ventures",
+          "Spark Capital",
+          "Daniel Gross"
+        ],
+        "source": "https://www.prweb.com/releases/descript-raises-50-million-series-c-led-by-openai-startup-fund-and-transforms-video-editing-with-new-product-release-887793852.html",
+        "date": "2022-11-15"
+      }
+    },
+    {
+      "id": "ironclad",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$333M",
+        "stage": "Series E",
+        "investors": [
+          "Franklin Templeton",
+          "BOND",
+          "YC Continuity",
+          "Emergence",
+          "Lux",
+          "Haystack",
+          "Accel",
+          "Sequoia Capital"
+        ],
+        "source": "https://www.prnewswire.com/news-releases/ironclad-raises-150-million-series-e-funding-led-by-franklin-templeton-301462915.html",
+        "date": "2022-01-18"
+      },
+      "revenue": {
+        "amount": "$200M ARR",
+        "period": "FY2026",
+        "source": "https://www.prnewswire.com/news-releases/ironclad-surpasses-200-million-in-annual-recurring-revenue-entering-a-new-phase-of-ai-growth-302686054.html",
+        "date": "2026-02-12",
+        "notes": "Company-stated annual recurring revenue milestone"
+      }
+    },
+    {
+      "id": "everlaw",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$202M",
+        "stage": "Series D",
+        "investors": [
+          "TPG",
+          "HIG Growth Partners",
+          "Capital G",
+          "Menlo Ventures",
+          "Andreessen Horowitz",
+          "K9 Ventures"
+        ],
+        "source": "https://www.everlaw.com/blog/everlaw/everlaw-secures-202-million-series-d-round-of-funding/",
+        "date": "2021-11-02"
+      },
+      "valuation": {
+        "amount": ">$2B",
+        "date": "2021-11-02",
+        "source": "https://www.everlaw.com/blog/everlaw/everlaw-secures-202-million-series-d-round-of-funding/",
+        "notes": "Company-stated Series D valuation"
+      }
+    },
+    {
+      "id": "warp",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$50M",
+        "stage": "Series B",
+        "investors": [
+          "Sequoia Capital",
+          "GV",
+          "Neo",
+          "BoxGroup"
+        ],
+        "source": "https://www.warp.dev/blog/warp-drive-series-b",
+        "date": "2023-06-21"
+      }
+    },
+    {
+      "id": "tabnine",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$55M",
+        "stage": "Series B",
+        "investors": [
+          "Telstra Ventures",
+          "Atlassian Ventures",
+          "Elaia",
+          "Headline",
+          "Hetz Ventures",
+          "Khosla Ventures",
+          "Qualcomm Ventures",
+          "TPY Capital"
+        ],
+        "source": "https://www.globenewswire.com/news-release/2023/11/08/2776490/0/en/update-tabnine-raises-25-million-from-atlassian-ventures-telstra-ventures-and-more-to-meet-demand-for-enterprise-ready-generative-ai-in-the-software-development-lifecycle.html",
+        "date": "2023-11-08"
+      }
+    },
+    {
+      "id": "crewai",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$18M",
+        "stage": "Series A",
+        "investors": [
+          "Insight Partners",
+          "boldstart ventures",
+          "Blitzscaling Ventures",
+          "Craft Ventures",
+          "Earl Grey Capital",
+          "Andrew Ng",
+          "Dharmesh Shah"
+        ],
+        "source": "https://www.globenewswire.com/news-release/2024/10/22/2966872/0/en/crewai-launches-multi-agentic-platform-to-deliver-on-the-promise-of-generative-ai-for-enterprise.html",
+        "date": "2024-10-22"
+      }
+    },
+    {
+      "id": "continue-dev",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Acquired by Cursor",
+        "investors": []
+      }
+    },
+    {
+      "id": "jina-ai",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Acquired by Elastic",
+        "investors": []
+      },
+      "identitySource": {
+        "source": "https://ir.elastic.co/News--Events/news/news-details/2025/Elastic-Completes-Acquisition-of-Jina-AI-a-Leader-in-Frontier-Models-for-Multimodal-and-Multilingual-Search/default.aspx",
+        "date": "2025-10-09",
+        "fields": [
+          "founders",
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "voyage-ai",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Acquired by MongoDB",
+        "investors": []
+      },
+      "identitySource": {
+        "source": "https://www.mongodb.com/company/newsroom/press-releases/mongodb-announces-acquisition-of-voyage-ai",
+        "date": "2025-02-24",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "leonardo-ai",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Acquired by Canva",
+        "investors": []
+      },
+      "identitySource": {
+        "source": "https://leonardo.ai/news/supercharging-leonardo-with-canva",
+        "date": "2024-07-30",
+        "fields": [
+          "headquarters"
+        ]
+      }
+    },
+    {
+      "id": "lightning-ai",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$103M",
+        "stage": "Private",
+        "investors": [
+          "Cisco Investments",
+          "J.P. Morgan",
+          "K5 Global",
+          "NVIDIA"
+        ],
+        "source": "https://www.prnewswire.com/news-releases/lightning-ai-raises-50m-to-simplify-and-scale-ai-development-for-enterprises-and-developers-302313164.html",
+        "date": "2024-11-21"
+      }
+    },
+    {
+      "id": "luminance",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$75M",
+        "stage": "Series C",
+        "investors": [
+          "Point72 Private Investments",
+          "Forestay Capital",
+          "RPS Ventures",
+          "Schroders Capital",
+          "March Capital",
+          "National Grid Partners",
+          "Slaughter and May"
+        ],
+        "source": "https://www.luminance.com/press-releases/luminance-raises-75-million-in-series-c-funding-round-led-by-point72-private-investments",
+        "date": "2025-02-18"
+      }
+    },
+    {
+      "id": "zipline",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": ">$600M",
+        "stage": "Private",
+        "investors": [
+          "Fidelity Management & Research Company",
+          "Baillie Gifford",
+          "Valor Equity Partners",
+          "Tiger Global"
+        ],
+        "source": "https://www.zipline.com/newsroom/zipline-surpasses-2-million-deliveries-raises-more-than-600m-to-power-next-phase-of-growth-and-expands-operations-to-houston-and-phoenix",
+        "date": "2026-01-21"
+      },
+      "valuation": {
+        "amount": "$7.6B",
+        "date": "2026-01-21",
+        "source": "https://www.zipline.com/newsroom/zipline-surpasses-2-million-deliveries-raises-more-than-600m-to-power-next-phase-of-growth-and-expands-operations-to-houston-and-phoenix",
+        "notes": "Company-stated valuation after the more-than-$600M raise"
+      }
+    },
+    {
+      "id": "xaira",
+      "updatedAt": "2026-10-24",
+      "founders": [
+        "Marc Tessier-Lavigne",
+        "Hetu Kamisetty",
+        "David Baker"
+      ],
+      "funding": {
+        "total": ">$1B",
+        "stage": "Private",
+        "investors": [
+          "ARCH Venture Partners",
+          "Foresite Capital",
+          "F-Prime",
+          "NEA",
+          "Sequoia Capital",
+          "Lux Capital",
+          "Lightspeed Venture Partners",
+          "Menlo Ventures",
+          "Two Sigma Ventures",
+          "SV Angel"
+        ],
+        "source": "https://www.businesswire.com/news/home/20240423707240/en/Xaira-Therapeutics-Launches-to-Deliver-Transformative-Medicines-by-Advancing-and-Harnessing-AI-for-Drug-Discovery-and-Development",
+        "date": "2024-04-23"
+      },
+      "identitySource": {
+        "source": "https://www.businesswire.com/news/home/20240423707240/en/Xaira-Therapeutics-Launches-to-Deliver-Transformative-Medicines-by-Advancing-and-Harnessing-AI-for-Drug-Discovery-and-Development",
+        "date": "2024-04-23",
+        "fields": [
+          "founders"
+        ]
+      }
+    },
+    {
+      "id": "coda",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": "$100M",
+        "stage": "Series D",
+        "investors": [
+          "Ontario Teachers' Pension Plan"
+        ],
+        "source": "https://coda.io/@coda/all-in-on-all-in-one-docs",
+        "date": "2021-07-08"
+      }
+    },
+    {
+      "id": "lambda-labs",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": ">$1.5B",
+        "stage": "Series E",
+        "investors": [
+          "TWG Global",
+          "US Innovative Technology Fund"
+        ],
+        "source": "https://lambda.ai/blog/lambda-raises-over-1.5b-from-twg-global-usit-to-build-superintelligence-cloud-infrastructure",
+        "date": "2025-11-18"
+      }
+    },
+    {
+      "id": "surge-ai",
+      "updatedAt": "2026-10-24",
+      "funding": {
+        "total": null,
+        "stage": "Private",
+        "investors": []
+      }
+    }
+  ]
+}

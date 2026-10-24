@@ -214,7 +214,7 @@
       "updatedAt": "2026-10-24",
       "funding": {
         "total": null,
-        "stage": "Private",
+        "stage": "Acquired by Elastic",
         "investors": []
       },
       "tags": [
@@ -222,11 +222,10 @@
         "Europe"
       ],
       "identitySource": {
-        "source": "https://jina.ai",
-        "date": "2026-10-24",
+        "source": "https://ir.elastic.co/News--Events/news/news-details/2025/Elastic-Completes-Acquisition-of-Jina-AI-a-Leader-in-Frontier-Models-for-Multimodal-and-Multilingual-Search/default.aspx",
+        "date": "2025-10-09",
         "fields": [
           "founders",
-          "founded",
           "headquarters"
         ]
       }
@@ -260,11 +259,10 @@
         "acquired"
       ],
       "identitySource": {
-        "source": "https://www.voyageai.com",
-        "date": "2026-10-24",
+        "source": "https://www.mongodb.com/company/newsroom/press-releases/mongodb-announces-acquisition-of-voyage-ai",
+        "date": "2025-02-24",
         "fields": [
-          "founders",
-          "founded"
+          "founders"
         ]
       }
     },
@@ -375,7 +373,7 @@
       "updatedAt": "2026-10-24",
       "funding": {
         "total": null,
-        "stage": "Private",
+        "stage": "Acquired by Canva",
         "investors": []
       },
       "tags": [
@@ -383,10 +381,9 @@
         "Australia"
       ],
       "identitySource": {
-        "source": "https://leonardo.ai",
-        "date": "2026-10-24",
+        "source": "https://leonardo.ai/news/supercharging-leonardo-with-canva",
+        "date": "2024-07-30",
         "fields": [
-          "founded",
           "headquarters"
         ]
       }
@@ -550,9 +547,17 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$100M",
+        "stage": "Series C",
+        "investors": [
+          "OpenAI Startup Fund",
+          "Andreessen Horowitz",
+          "Redpoint Ventures",
+          "Spark Capital",
+          "Daniel Gross"
+        ],
+        "source": "https://www.prweb.com/releases/descript-raises-50-million-series-c-led-by-openai-startup-fund-and-transforms-video-editing-with-new-product-release-887793852.html",
+        "date": "2022-11-15"
       },
       "tags": [
         "video",
@@ -967,9 +972,16 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
+        "total": "$103M",
         "stage": "Private",
-        "investors": []
+        "investors": [
+          "Cisco Investments",
+          "J.P. Morgan",
+          "K5 Global",
+          "NVIDIA"
+        ],
+        "source": "https://www.prnewswire.com/news-releases/lightning-ai-raises-50m-to-simplify-and-scale-ai-development-for-enterprises-and-developers-302313164.html",
+        "date": "2024-11-21"
       },
       "tags": [
         "PyTorch",
@@ -1491,9 +1503,16 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
+        "total": ">$600M",
         "stage": "Private",
-        "investors": []
+        "investors": [
+          "Fidelity Management & Research Company",
+          "Baillie Gifford",
+          "Valor Equity Partners",
+          "Tiger Global"
+        ],
+        "source": "https://www.zipline.com/newsroom/zipline-surpasses-2-million-deliveries-raises-more-than-600m-to-power-next-phase-of-growth-and-expands-operations-to-houston-and-phoenix",
+        "date": "2026-01-21"
       },
       "tags": [
         "drones"
@@ -1505,6 +1524,12 @@
           "founders",
           "founded"
         ]
+      },
+      "valuation": {
+        "amount": "$7.6B",
+        "date": "2026-01-21",
+        "source": "https://www.zipline.com/newsroom/zipline-surpasses-2-million-deliveries-raises-more-than-600m-to-power-next-phase-of-growth-and-expands-operations-to-houston-and-phoenix",
+        "notes": "Company-stated valuation after the more-than-$600M raise"
       }
     },
     {

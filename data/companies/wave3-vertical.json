@@ -96,9 +96,19 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$75M",
+        "stage": "Series C",
+        "investors": [
+          "Point72 Private Investments",
+          "Forestay Capital",
+          "RPS Ventures",
+          "Schroders Capital",
+          "March Capital",
+          "National Grid Partners",
+          "Slaughter and May"
+        ],
+        "source": "https://www.luminance.com/press-releases/luminance-raises-75-million-in-series-c-funding-round-led-by-point72-private-investments",
+        "date": "2025-02-18"
       },
       "tags": [
         "legal",
@@ -242,9 +252,20 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$333M",
+        "stage": "Series E",
+        "investors": [
+          "Franklin Templeton",
+          "BOND",
+          "YC Continuity",
+          "Emergence",
+          "Lux",
+          "Haystack",
+          "Accel",
+          "Sequoia Capital"
+        ],
+        "source": "https://www.prnewswire.com/news-releases/ironclad-raises-150-million-series-e-funding-led-by-franklin-templeton-301462915.html",
+        "date": "2022-01-18"
       },
       "tags": [
         "legal",
@@ -257,6 +278,13 @@
           "founders",
           "founded"
         ]
+      },
+      "revenue": {
+        "amount": "$200M ARR",
+        "period": "FY2026",
+        "source": "https://www.prnewswire.com/news-releases/ironclad-surpasses-200-million-in-annual-recurring-revenue-entering-a-new-phase-of-ai-growth-302686054.html",
+        "date": "2026-02-12",
+        "notes": "Company-stated annual recurring revenue milestone"
       }
     },
     {
@@ -317,9 +345,18 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$202M",
+        "stage": "Series D",
+        "investors": [
+          "TPG",
+          "HIG Growth Partners",
+          "Capital G",
+          "Menlo Ventures",
+          "Andreessen Horowitz",
+          "K9 Ventures"
+        ],
+        "source": "https://www.everlaw.com/blog/everlaw/everlaw-secures-202-million-series-d-round-of-funding/",
+        "date": "2021-11-02"
       },
       "tags": [
         "legal",
@@ -333,6 +370,12 @@
           "founded",
           "headquarters"
         ]
+      },
+      "valuation": {
+        "amount": ">$2B",
+        "date": "2021-11-02",
+        "source": "https://www.everlaw.com/blog/everlaw/everlaw-secures-202-million-series-d-round-of-funding/",
+        "notes": "Company-stated Series D valuation"
       }
     },
     {
@@ -894,7 +937,8 @@
       "founded": 2024,
       "founders": [
         "Marc Tessier-Lavigne",
-        "Hetu Kamisetty"
+        "Hetu Kamisetty",
+        "David Baker"
       ],
       "headquarters": "South San Francisco, CA, USA",
       "website": "https://www.xaira.com",
@@ -902,18 +946,31 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
+        "total": ">$1B",
         "stage": "Private",
-        "investors": []
+        "investors": [
+          "ARCH Venture Partners",
+          "Foresite Capital",
+          "F-Prime",
+          "NEA",
+          "Sequoia Capital",
+          "Lux Capital",
+          "Lightspeed Venture Partners",
+          "Menlo Ventures",
+          "Two Sigma Ventures",
+          "SV Angel"
+        ],
+        "source": "https://www.businesswire.com/news/home/20240423707240/en/Xaira-Therapeutics-Launches-to-Deliver-Transformative-Medicines-by-Advancing-and-Harnessing-AI-for-Drug-Discovery-and-Development",
+        "date": "2024-04-23"
       },
       "tags": [
         "biotech"
       ],
       "identitySource": {
-        "source": "https://www.xaira.com",
-        "date": "2026-10-24",
+        "source": "https://www.businesswire.com/news/home/20240423707240/en/Xaira-Therapeutics-Launches-to-Deliver-Transformative-Medicines-by-Advancing-and-Harnessing-AI-for-Drug-Discovery-and-Development",
+        "date": "2024-04-23",
         "fields": [
-          "founded"
+          "founders"
         ]
       }
     },
@@ -1679,9 +1736,18 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$300M",
+        "stage": "Series G",
+        "investors": [
+          "Altimeter Capital",
+          "Tiger Global",
+          "Counterpoint Global",
+          "Franklin Templeton",
+          "ServiceNow Ventures",
+          "Sutter Hill Ventures"
+        ],
+        "source": "https://www.datarobot.com/newsroom/press/datarobot-unveils-major-milestones-including-300m-series-g-funding-investment/",
+        "date": "2021-07-27"
       },
       "tags": [
         "MLOps",
@@ -1694,6 +1760,12 @@
           "founders",
           "founded"
         ]
+      },
+      "valuation": {
+        "amount": "$6.3B",
+        "date": "2021-07-27",
+        "source": "https://www.datarobot.com/newsroom/press/datarobot-unveils-major-milestones-including-300m-series-g-funding-investment/",
+        "notes": "Company-stated Series G post-money valuation"
       }
     },
     {

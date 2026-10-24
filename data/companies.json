@@ -667,14 +667,14 @@
       "headquarters": "San Francisco, CA, USA",
       "website": "https://lambdalabs.com",
       "funding": {
-        "total": "$320M",
-        "stage": "Series C",
+        "total": ">$1.5B",
+        "stage": "Series E",
         "investors": [
-          "US Innovative Technology Fund",
-          "Mercato Partners"
+          "TWG Global",
+          "US Innovative Technology Fund"
         ],
-        "source": "https://techcrunch.com/2024/04/09/lambda-labs-raises-320m/",
-        "date": "2024-04-09"
+        "source": "https://lambda.ai/blog/lambda-raises-over-1.5b-from-twg-global-usit-to-build-superintelligence-cloud-infrastructure",
+        "date": "2025-11-18"
       },
       "tags": [
         "GPU cloud",
@@ -764,14 +764,9 @@
       "headquarters": "San Francisco, CA, USA",
       "website": "https://www.surgehq.ai",
       "funding": {
-        "total": "$10M",
-        "stage": "Series A",
-        "investors": [
-          "Craft Ventures",
-          "Susa Ventures"
-        ],
-        "source": "https://www.crunchbase.com/organization/surge-ai",
-        "date": "2022-03-15"
+        "total": null,
+        "stage": "Private",
+        "investors": []
       },
       "tags": [
         "data labeling",

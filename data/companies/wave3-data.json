@@ -1085,9 +1085,24 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$222M",
+        "stage": "Series D",
+        "investors": [
+          "Altimeter",
+          "Amplify Partners",
+          "Andreessen Horowitz",
+          "Sequoia",
+          "Coatue",
+          "Tiger Global",
+          "ICONIQ Growth",
+          "GV",
+          "GIC",
+          "Databricks",
+          "Salesforce Ventures",
+          "Snowflake"
+        ],
+        "source": "https://www.getdbt.com/blog/dbt-labs-raises-222m-in-series-d-funding-at-4-2b-valuation-led-by-altimeter-with-participation-from-databricks-and-snowflake",
+        "date": "2022-02-24"
       },
       "tags": [
         "ETL",
@@ -1100,6 +1115,12 @@
           "founders",
           "founded"
         ]
+      },
+      "valuation": {
+        "amount": "$4.2B",
+        "date": "2022-02-24",
+        "source": "https://www.getdbt.com/blog/dbt-labs-raises-222m-in-series-d-funding-at-4-2b-valuation-led-by-altimeter-with-participation-from-databricks-and-snowflake",
+        "notes": "Company-stated Series D valuation"
       }
     },
     {
@@ -1123,9 +1144,19 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$150M",
+        "stage": "Series B",
+        "investors": [
+          "Altimeter Capital",
+          "Coatue Management",
+          "Thrive Capital",
+          "Salesforce Ventures",
+          "Benchmark",
+          "Accel",
+          "SV Angel"
+        ],
+        "source": "https://airbyte.com/blog/a-150m-series-b-to-power-the-movement-of-data",
+        "date": "2021-12-20"
       },
       "tags": [
         "ETL",
@@ -1138,6 +1169,12 @@
           "founders",
           "founded"
         ]
+      },
+      "valuation": {
+        "amount": "$1.5B",
+        "date": "2021-12-20",
+        "source": "https://airbyte.com/blog/a-150m-series-b-to-power-the-movement-of-data",
+        "notes": "Company-stated Series B valuation"
       }
     },
     {
@@ -1161,9 +1198,19 @@
       "addedAt": "2026-10-24",
       "updatedAt": "2026-10-24",
       "funding": {
-        "total": null,
-        "stage": "Private",
-        "investors": []
+        "total": "$730M",
+        "stage": "Series D",
+        "investors": [
+          "Andreessen Horowitz",
+          "General Catalyst",
+          "CEAS Investments",
+          "Matrix Partners",
+          "ICONIQ Capital",
+          "D1 Capital Partners",
+          "YC Continuity"
+        ],
+        "source": "https://www.fivetran.com/press/fivetran-to-acquire-hvr-announces-565-million-in-series-d-funding",
+        "date": "2021-09-20"
       },
       "tags": [
         "ETL"
@@ -1175,6 +1222,12 @@
           "founders",
           "founded"
         ]
+      },
+      "valuation": {
+        "amount": "$5.6B",
+        "date": "2021-09-20",
+        "source": "https://www.fivetran.com/press/fivetran-to-acquire-hvr-announces-565-million-in-series-d-funding",
+        "notes": "Company-stated valuation with $565M Series D; company-stated lifetime total $730M"
       }
     },
     {
